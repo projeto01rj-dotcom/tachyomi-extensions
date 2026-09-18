@@ -64,8 +64,15 @@ jobs:
           if-no-files-found: error
 
       - name: Preparar e publicar branch repo
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
-          python .github/scripts/publish_index.py repo-branch
+          set -e
+          publish_err() {
+            while IFS= read -r line; do echo "::error::$line"; done < <(tail -n 60 "$1")
+            exit 1
+          }
+          python .github/scripts/publish_index.py repo-branch > publish.log 2>&1 || publish_err publish.log
           cd repo-branch
           git init -b repo
           git config user.name "tachyomi-extensions"
@@ -74,4 +81,4 @@ jobs:
           git commit --allow-empty -m "Atualizar repositório de extensões"
           git remote add origin "https://github.com/$GITHUB_REPOSITORY.git"
           gh auth setup-git
-          git push --force origin repo
+          git push --force origin repo > publish-push.log 2>&1 || publish_err publish-push.log
