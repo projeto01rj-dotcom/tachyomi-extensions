@@ -5,14 +5,14 @@ plugins {
 }
 
 keiyoushi {
-    name = "Manga Online TV"
-    versionCode = 1
-    contentWarning = ContentWarning.MIXED
-    libVersion = "1.6"
+    name = "Manga Online"
+    versionCode = 4
+    contentWarning = ContentWarning.SAFE
+    libVersion = "1.4"
     theme = "madara"
 
     source {
         lang = "pt-BR"
-        baseUrl = "https://mangaonline.tv"
+        baseUrl = "https://mangaonline.blue"
     }
 }

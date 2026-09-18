@@ -40,7 +40,7 @@ rxjava = { module = "io.reactivex:rxjava", version = "1.3.8" }
 #noinspection SimilarGradleDependency
 tachiyomi-lib-v14 = { module = "com.github.keiyoushi:extensions-lib", version = "1f26da93ee" }
 #noinspection SimilarGradleDependency
-tachiyomi-lib-v16 = { module = "com.github.keiyoushi:extensions-lib", version = "42255ee5fa" }
+tachiyomi-lib-v16 = { module = "com.github.keiyoushi:extensions-lib", version = "6e0c96cea8" }
 
 # Required by Kotlin 2.x compiler to resolve type-use annotations (e.g. org.jspecify.annotations.Nullable) used in Jsoup's API signatures
 jspecify = { module = "org.jspecify:jspecify", version = "1.0.1" }
