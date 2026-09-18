@@ -8,7 +8,11 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
+
+concurrency:
+  group: publish
+  cancel-in-progress: false
 
 jobs:
   build:
@@ -47,3 +51,16 @@ jobs:
             **/build/outputs/apk/release/*.apk
             **/build/keiyoushi-source-info.json
           if-no-files-found: error
+
+      - name: Preparar e publicar branch repo
+        run: |
+          python .github/scripts/publish_index.py repo-branch
+          cd repo-branch
+          git init -b repo
+          git config user.name "tachyomi-extensions"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          git commit --allow-empty -m "Atualizar repositório de extensões"
+          git remote add origin "https://github.com/$GITHUB_REPOSITORY.git"
+          gh auth setup-git
+          git push --force origin repo

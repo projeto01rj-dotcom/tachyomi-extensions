@@ -4,6 +4,35 @@ Extensões Tachiyomi/Mihon (Kotlin) baseadas no padrão oficial
 [keiyoushi/extensions-source](https://github.com/keiyoushi/extensions-source), com
 catálogo mantido automaticamente por GitHub Actions.
 
+## Como instalar no app (Mihon / Tachiyomi)
+
+A cada build, o CI publica também um **repositório de extensões** na branch `repo` (APKs +
+`index.min.json` + `repo.json`). No app:
+
+1. **Mihon**: Settings → Extensions → botão ➕ (adicionar repositório) → cole a URL:
+
+   ```
+   https://raw.githubusercontent.com/projeto01rj-dotcom/tachyomi-extensions/repo/index.min.json
+   ```
+
+   **Tachiyomi** (versões antigas): Browse → Extensions → ⋮ → Extension repos → adicionar o
+   endereço `https://github.com/projeto01rj-dotcom/tachyomi-extensions/raw/repo/index.min.json`.
+
+2. Instale as extensões desejadas normalmente.
+
+Alternativa rápida (instalação manual, sem repo): baixe os APKs do artefato `apks` em
+**Actions → Build**, e instale-os como um APK comum.
+
+> **Nota sobre assinatura:** os APKs usam o keystore de **depuração** do Android
+> (certificado fixo), e o `repo.json` é gerado com o fingerprint correspondente — por isso o
+> app aceita o repositório sem nenhum segredo. Se o projeto for compartilhado, considere
+> substituir por um `signingkey.jks` próprio com os secrets `KEY_STORE_PASSWORD`, `ALIAS`,
+> `KEY_PASSWORD` (o CI detecta o arquivo automaticamente e recalcula o fingerprint).
+
+> **Conflito com o repo oficial:** a extensão `mangadex` usa o mesmo pacote
+> (`eu.kanade.tachiyomi.extension.all.mangadex`) do repositório oficial keiyoushi. Se você tiver
+> os dois repositórios adicionados, eles vão disputar a atualização dessa extensão — use um só.
+
 ## Fontes incluídas
 
 | Extensão | Site | Como funciona |
@@ -28,7 +57,9 @@ catalog/        dados das fontes atualizados a cada 30 min pelo CI
 ## GitHub Actions
 
 - **`build.yml`** — compila as 4 extensões em APKs (`assembleRelease`) em todo push e
-  disponibiliza os artefatos (`apks`). Pode ser executado manualmente em **Actions → Build → Run workflow**.
+  disponibiliza os artefatos (`apks`). Na sequência, publica/apodera a branch `repo`
+  (APKs + `index.min.json` + `repo.json`) via `.github/scripts/publish_index.py` — é essa
+  "loja" que o app consome. Pode ser executado manualmente em **Actions → Build → Run workflow**.
 - **`sync.yml`** — roda via cron **a cada 30 minutos** (`*/30 * * * *`):
   1. consulta as 4 fontes;
   2. detecta **mangás novos** e os adiciona ao catálogo;
