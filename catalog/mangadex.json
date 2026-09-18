@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-09-18T19:20:34Z",
+  "updated_at": "2026-09-18T21:45:48Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -208,9 +208,10 @@
       "title": "The Way I Look at My Childhood Friend has Changed",
       "url": "https://mangadex.org/title/10de26cf-f750-44b2-a504-7bb9a53e0419",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-18T21:45:48Z",
+      "removed_by_source": true
     },
     "10e86bce-9c74-460b-81ff-2a430acd5372": {
       "title": "Wagamama Oujo ni Tsukaeta Bannou Shitsuji, Tonari no Teikoku de Saikyou no Gunjin ni Nariagari Musou Suru",
@@ -1600,9 +1601,10 @@
       "title": "Video Girl Ai",
       "url": "https://mangadex.org/title/6d93d9dd-f303-4caa-b314-f4d817076891",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-18T21:45:48Z",
+      "removed_by_source": true
     },
     "6d957e71-2468-4043-8b6a-acffd0a23591": {
       "title": "My New Friend Wasn't What I Expected",
@@ -2789,9 +2791,10 @@
       "title": "Sasaki and Miyano",
       "url": "https://mangadex.org/title/b603c211-d1f9-4145-a2ac-04dcd5f06329",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-18T21:45:48Z",
+      "removed_by_source": true
     },
     "b6622d86-74c6-47eb-8c92-89bcce50a63b": {
       "title": "OUT",
@@ -4217,6 +4220,30 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-09-18T19:20:34Z",
+      "removed_at": null
+    },
+    "76d0be3f-ceee-4c98-9d16-a5240bb03434": {
+      "title": "Sem título",
+      "url": "https://mangadex.org/title/76d0be3f-ceee-4c98-9d16-a5240bb03434",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-18T21:45:48Z",
+      "removed_at": null
+    },
+    "b1a9ac33-4978-4fa9-a5ae-2cc728342dab": {
+      "title": "I Fell for My Friend's Older Sister",
+      "url": "https://mangadex.org/title/b1a9ac33-4978-4fa9-a5ae-2cc728342dab",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-18T21:45:48Z",
+      "removed_at": null
+    },
+    "def07dc0-a0d8-4b5d-8528-02983e989501": {
+      "title": "Your Majesty the Demon King, it's time you get married!",
+      "url": "https://mangadex.org/title/def07dc0-a0d8-4b5d-8528-02983e989501",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-18T21:45:48Z",
       "removed_at": null
     }
   }

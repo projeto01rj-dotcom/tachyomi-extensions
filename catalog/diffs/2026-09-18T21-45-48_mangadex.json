@@ -1,0 +1,47 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-09-18T21:45:48Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "76d0be3f-ceee-4c98-9d16-a5240bb03434",
+      "title": "Sem título",
+      "url": "https://mangadex.org/title/76d0be3f-ceee-4c98-9d16-a5240bb03434"
+    },
+    {
+      "source": "mangadex",
+      "key": "b1a9ac33-4978-4fa9-a5ae-2cc728342dab",
+      "title": "I Fell for My Friend's Older Sister",
+      "url": "https://mangadex.org/title/b1a9ac33-4978-4fa9-a5ae-2cc728342dab"
+    },
+    {
+      "source": "mangadex",
+      "key": "def07dc0-a0d8-4b5d-8528-02983e989501",
+      "title": "Your Majesty the Demon King, it's time you get married!",
+      "url": "https://mangadex.org/title/def07dc0-a0d8-4b5d-8528-02983e989501"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "10de26cf-f750-44b2-a504-7bb9a53e0419",
+      "title": "The Way I Look at My Childhood Friend has Changed",
+      "url": "https://mangadex.org/title/10de26cf-f750-44b2-a504-7bb9a53e0419",
+      "removed_at": "2026-09-18T21:45:48Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "6d93d9dd-f303-4caa-b314-f4d817076891",
+      "title": "Video Girl Ai",
+      "url": "https://mangadex.org/title/6d93d9dd-f303-4caa-b314-f4d817076891",
+      "removed_at": "2026-09-18T21:45:48Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "b603c211-d1f9-4145-a2ac-04dcd5f06329",
+      "title": "Sasaki and Miyano",
+      "url": "https://mangadex.org/title/b603c211-d1f9-4145-a2ac-04dcd5f06329",
+      "removed_at": "2026-09-18T21:45:48Z"
+    }
+  ]
+}
