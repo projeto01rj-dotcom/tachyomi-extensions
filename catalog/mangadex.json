@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-09-18T11:47:59Z",
+  "updated_at": "2026-09-18T16:50:52Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -463,9 +463,10 @@
       "title": "Saint Seiya: Next Dimension (Color Edition)",
       "url": "https://mangadex.org/title/1da7a9c0-9994-4c60-861a-12220159255c",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-18T16:50:52Z",
+      "removed_by_source": true
     },
     "1db93d0d-0af0-423e-89fd-ffa5c33ca534": {
       "title": "Maid Hachiya-kun Is In Love",
@@ -1231,9 +1232,10 @@
       "title": "The Story of My Stepsister Apparently Being a Yandere",
       "url": "https://mangadex.org/title/5a563484-bbd0-4071-9b19-4fb2dbb72ba1",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-18T16:50:52Z",
+      "removed_by_source": true
     },
     "5a82df5d-efa0-4d97-bf9a-33d1ddb48006": {
       "title": "A Swan for the Cat, Gold for the Firefly",
@@ -1583,9 +1585,10 @@
       "title": "The Fairytale-like You Goes on the Assault",
       "url": "https://mangadex.org/title/6cc85df7-e44b-4fa1-97f2-be04430cc570",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-18T16:50:52Z",
+      "removed_by_source": true
     },
     "6d93d9dd-f303-4caa-b314-f4d817076891": {
       "title": "Video Girl Ai",
@@ -1871,9 +1874,10 @@
       "title": "Cool Boyish Onee-san",
       "url": "https://mangadex.org/title/81eaaace-c7c4-491c-95cd-f931268dca7c",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-18T16:50:52Z",
+      "removed_by_source": true
     },
     "822b96aa-e578-4fd6-ac64-8289a2218b7a": {
       "title": "I was Assigned to Take Care of the Most Talented Young Lady (with No Life Skills) at a Prestigious School Full of High Achievers",
@@ -2431,9 +2435,10 @@
       "title": "The Legend of the Northern Blade",
       "url": "https://mangadex.org/title/9ed16bc9-f570-4e71-8dda-aebc098b683b",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-18T16:50:52Z",
+      "removed_by_source": true
     },
     "9edbc41a-5c25-4f1a-b323-9c0c9552dc34": {
       "title": "Kimi Janakya Dame na Dorei Shoujo",
@@ -2799,9 +2804,10 @@
       "title": "The Case Where I Followed the Freezing Lady and She Doted on Me Like Crazy",
       "url": "https://mangadex.org/title/b6b89f54-81c1-4e7e-ae80-b4dccdd63ada",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-18T16:50:52Z",
+      "removed_by_source": true
     },
     "b6f8c7b9-eeae-4698-a0e7-05474f56b644": {
       "title": "The Invincible Little Lady",
@@ -3319,9 +3325,10 @@
       "title": "Sem título",
       "url": "https://mangadex.org/title/d6b7314c-e1c0-44b8-b725-673317e75eec",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-18T16:50:52Z",
+      "removed_by_source": true
     },
     "d7037b2a-874a-4360-8a7b-07f2899152fd": {
       "title": "Welcome to Demon School! Iruma-kun",
@@ -3527,9 +3534,10 @@
       "title": "Renovations with a Gyaru",
       "url": "https://mangadex.org/title/e3e2c204-ccc4-4061-b9e0-526a8b47d652",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-18T16:50:52Z",
+      "removed_by_source": true
     },
     "e4121f7e-41c1-448f-98df-a019d764c17a": {
       "title": "Dara-san of Reiwa",
@@ -3623,9 +3631,10 @@
       "title": "Sem título",
       "url": "https://mangadex.org/title/ea830234-6eff-4272-bda0-de5e04b985cc",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-18T16:50:52Z",
+      "removed_by_source": true
     },
     "eac0159f-2768-49d7-8891-4202f3e9fb8c": {
       "title": "If that’s Love, break it.",
@@ -4001,6 +4010,78 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-09-18T11:47:59Z",
+      "removed_at": null
+    },
+    "34444088-d094-4bfb-8423-d87e24070ffe": {
+      "title": "For Saving a Collapsed Lady, I Got to Date Her Beautiful Twin Daughters",
+      "url": "https://mangadex.org/title/34444088-d094-4bfb-8423-d87e24070ffe",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-18T16:50:52Z",
+      "removed_at": null
+    },
+    "38179337-1640-4927-8851-9bedd8d19e82": {
+      "title": "Aren't You Too Sweet Salt-God Sato-San?",
+      "url": "https://mangadex.org/title/38179337-1640-4927-8851-9bedd8d19e82",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-18T16:50:52Z",
+      "removed_at": null
+    },
+    "56efe728-4254-46b3-8b7c-1f3a0dc7a7a9": {
+      "title": "I Have 5 Stepsisters",
+      "url": "https://mangadex.org/title/56efe728-4254-46b3-8b7c-1f3a0dc7a7a9",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-18T16:50:52Z",
+      "removed_at": null
+    },
+    "7b9d73ff-a19e-4817-9eb7-657471f4d8d5": {
+      "title": "Sem título",
+      "url": "https://mangadex.org/title/7b9d73ff-a19e-4817-9eb7-657471f4d8d5",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-18T16:50:52Z",
+      "removed_at": null
+    },
+    "87ebd557-8394-4f16-8afe-a8644e555ddc": {
+      "title": "Hirayasumi",
+      "url": "https://mangadex.org/title/87ebd557-8394-4f16-8afe-a8644e555ddc",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-18T16:50:52Z",
+      "removed_at": null
+    },
+    "9024883c-759a-48bc-b4b1-659f8e4bcd9c": {
+      "title": "Artemis Under the Same Roof",
+      "url": "https://mangadex.org/title/9024883c-759a-48bc-b4b1-659f8e4bcd9c",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-18T16:50:52Z",
+      "removed_at": null
+    },
+    "9c1cd558-fba3-40f1-bb84-b320f5d1eab1": {
+      "title": "Bug Ego",
+      "url": "https://mangadex.org/title/9c1cd558-fba3-40f1-bb84-b320f5d1eab1",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-18T16:50:52Z",
+      "removed_at": null
+    },
+    "b24d2c22-5b28-44d4-a77f-0e920cd960a6": {
+      "title": "Wolf-chan Wants to Look Cool",
+      "url": "https://mangadex.org/title/b24d2c22-5b28-44d4-a77f-0e920cd960a6",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-18T16:50:52Z",
+      "removed_at": null
+    },
+    "d0b73d72-9665-4f1f-9113-16eb163ba619": {
+      "title": "Soredemo Kimi o Shiawase ni Shitai",
+      "url": "https://mangadex.org/title/d0b73d72-9665-4f1f-9113-16eb163ba619",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-18T16:50:52Z",
       "removed_at": null
     }
   }
