@@ -1,0 +1,60 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-09-18T23:46:34Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "1a9dbacf-b3ee-4516-a1fc-ef5b877d3136",
+      "title": "Ushiyama-san",
+      "url": "https://mangadex.org/title/1a9dbacf-b3ee-4516-a1fc-ef5b877d3136"
+    },
+    {
+      "source": "mangadex",
+      "key": "263deeff-c010-4ac7-bc01-6341f3e698ac",
+      "title": "Dragon Quest: The Great Adventure of Dai - Avan the Brave and the Demon King of Hellfire",
+      "url": "https://mangadex.org/title/263deeff-c010-4ac7-bc01-6341f3e698ac"
+    },
+    {
+      "source": "mangadex",
+      "key": "3c26e1f5-6836-4a00-a9d0-1a692e64b39f",
+      "title": "My Girlfriend is a Cyclops",
+      "url": "https://mangadex.org/title/3c26e1f5-6836-4a00-a9d0-1a692e64b39f"
+    },
+    {
+      "source": "mangadex",
+      "key": "d0c60a11-0106-45cf-abfc-d131cb49868f",
+      "title": "Beast Tamer",
+      "url": "https://mangadex.org/title/d0c60a11-0106-45cf-abfc-d131cb49868f"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "290c8cbc-d3de-4fca-b7d6-8d72f3beb9b0",
+      "title": "Are Social Outcasts Even Allowed to Start Over?",
+      "url": "https://mangadex.org/title/290c8cbc-d3de-4fca-b7d6-8d72f3beb9b0",
+      "removed_at": "2026-09-18T23:46:34Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "4def06d7-023e-4486-b85b-14dd7e04a36a",
+      "title": "“Trembling” as I Escape from You",
+      "url": "https://mangadex.org/title/4def06d7-023e-4486-b85b-14dd7e04a36a",
+      "removed_at": "2026-09-18T23:46:34Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "51c1e7cc-23f4-4a08-a961-c1ab75e2bb33",
+      "title": "Inexpressive Kashiwada and Expressive Oota",
+      "url": "https://mangadex.org/title/51c1e7cc-23f4-4a08-a961-c1ab75e2bb33",
+      "removed_at": "2026-09-18T23:46:34Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "d34c335d-04d5-4781-9b8b-d94f3e1a5303",
+      "title": "I Couldn’t Draw It, so I Tried Doing It",
+      "url": "https://mangadex.org/title/d34c335d-04d5-4781-9b8b-d94f3e1a5303",
+      "removed_at": "2026-09-18T23:46:34Z"
+    }
+  ]
+}

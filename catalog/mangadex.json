@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-09-18T21:45:48Z",
+  "updated_at": "2026-09-18T23:46:34Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -604,9 +604,10 @@
       "title": "Are Social Outcasts Even Allowed to Start Over?",
       "url": "https://mangadex.org/title/290c8cbc-d3de-4fca-b7d6-8d72f3beb9b0",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-18T23:46:34Z",
+      "removed_by_source": true
     },
     "29ab6984-7c1d-4d45-b925-25aa082b492e": {
       "title": "Shangri-La Frontier: From Trash-Game Hunter to God-Tier Game Master!",
@@ -1061,9 +1062,10 @@
       "title": "“Trembling” as I Escape from You",
       "url": "https://mangadex.org/title/4def06d7-023e-4486-b85b-14dd7e04a36a",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-18T23:46:34Z",
+      "removed_by_source": true
     },
     "4df219da-4b5f-48ea-9fac-23641ae8a584": {
       "title": "Guardian Tales - Kanterbury Days!",
@@ -1101,9 +1103,10 @@
       "title": "Inexpressive Kashiwada and Expressive Oota",
       "url": "https://mangadex.org/title/51c1e7cc-23f4-4a08-a961-c1ab75e2bb33",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-18T23:46:34Z",
+      "removed_by_source": true
     },
     "51e8b63a-00ca-4d71-8031-41ccc647324c": {
       "title": "Eden of Witches",
@@ -3258,9 +3261,10 @@
       "title": "I Couldn’t Draw It, so I Tried Doing It",
       "url": "https://mangadex.org/title/d34c335d-04d5-4781-9b8b-d94f3e1a5303",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-18T23:46:34Z",
+      "removed_by_source": true
     },
     "d3faf8d4-cd5d-4f91-800d-ddd6d1db75e3": {
       "title": "Childhood Friends Became Popular Idols",
@@ -4244,6 +4248,38 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-09-18T21:45:48Z",
+      "removed_at": null
+    },
+    "1a9dbacf-b3ee-4516-a1fc-ef5b877d3136": {
+      "title": "Ushiyama-san",
+      "url": "https://mangadex.org/title/1a9dbacf-b3ee-4516-a1fc-ef5b877d3136",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-18T23:46:34Z",
+      "removed_at": null
+    },
+    "263deeff-c010-4ac7-bc01-6341f3e698ac": {
+      "title": "Dragon Quest: The Great Adventure of Dai - Avan the Brave and the Demon King of Hellfire",
+      "url": "https://mangadex.org/title/263deeff-c010-4ac7-bc01-6341f3e698ac",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-18T23:46:34Z",
+      "removed_at": null
+    },
+    "3c26e1f5-6836-4a00-a9d0-1a692e64b39f": {
+      "title": "My Girlfriend is a Cyclops",
+      "url": "https://mangadex.org/title/3c26e1f5-6836-4a00-a9d0-1a692e64b39f",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-18T23:46:34Z",
+      "removed_at": null
+    },
+    "d0c60a11-0106-45cf-abfc-d131cb49868f": {
+      "title": "Beast Tamer",
+      "url": "https://mangadex.org/title/d0c60a11-0106-45cf-abfc-d131cb49868f",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-18T23:46:34Z",
       "removed_at": null
     }
   }
