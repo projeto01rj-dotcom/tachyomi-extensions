@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-09-18T16:50:52Z",
+  "updated_at": "2026-09-18T19:20:34Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -15,9 +15,10 @@
       "title": "The Demon King of the Frontier Life, Reincarnated to Become the Strongest Mage",
       "url": "https://mangadex.org/title/032f800d-d632-4442-8830-d037d616ead4",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-18T19:20:34Z",
+      "removed_by_source": true
     },
     "04598a65-4f1f-4807-a419-d79ca7f67457": {
       "title": "Under Ninja",
@@ -351,9 +352,10 @@
       "title": "The Ancient Magus' Bride",
       "url": "https://mangadex.org/title/195023bf-cf9a-4772-94ef-09dd6eddea84",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-18T19:20:34Z",
+      "removed_by_source": true
     },
     "1955f9bf-f849-4f53-a1f4-c1b79c906212": {
       "title": "KaguRai: Kagura & Raito",
@@ -592,9 +594,10 @@
       "title": "Addicted to Her",
       "url": "https://mangadex.org/title/283b1acd-5a16-46d4-a217-d0648a5a8374",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-18T19:20:34Z",
+      "removed_by_source": true
     },
     "290c8cbc-d3de-4fca-b7d6-8d72f3beb9b0": {
       "title": "Are Social Outcasts Even Allowed to Start Over?",
@@ -800,9 +803,10 @@
       "title": "Giant Killing",
       "url": "https://mangadex.org/title/3b6c3a0b-8752-41fc-9d3e-1310f6f28252",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-18T19:20:34Z",
+      "removed_by_source": true
     },
     "3bcc56f0-1b71-4542-b7b1-74db4fab2d72": {
       "title": "I Think I Turned My Childhood Friend Into a Girl",
@@ -1257,9 +1261,10 @@
       "title": "My Ideal Girlfriend",
       "url": "https://mangadex.org/title/5ae6ba69-9680-456a-8b84-47c68a6bac00",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-18T19:20:34Z",
+      "removed_by_source": true
     },
     "5c9d1254-f074-4b5c-8795-6f0641b2597b": {
       "title": "Girl and Science",
@@ -1553,9 +1558,10 @@
       "title": "A Girl Who Has A Biased Opinion Of Me",
       "url": "https://mangadex.org/title/6b80abe9-1de6-4a73-ac22-5097c32ceacc",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-18T19:20:34Z",
+      "removed_by_source": true
     },
     "6b958848-c885-4735-9201-12ee77abcb3c": {
       "title": "SPY×FAMILY",
@@ -1658,9 +1664,10 @@
       "title": "Let's Take a Walk in Another World",
       "url": "https://mangadex.org/title/72331318-7f5e-44b3-8510-12133149fde3",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-18T19:20:34Z",
+      "removed_by_source": true
     },
     "73d7f912-59c3-4fa3-abc6-23a181d6520b": {
       "title": "Dinosaur King",
@@ -1947,9 +1954,10 @@
       "title": "My Favorite Carrera",
       "url": "https://mangadex.org/title/843ca1ad-371d-4112-a75c-6db0d86547bd",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-18T19:20:34Z",
+      "removed_by_source": true
     },
     "8461d3da-d14b-4a60-9a37-e4428fdda85e": {
       "title": "Since My Previous Life was a Wise Man, I can Afford to Live.",
@@ -2259,9 +2267,10 @@
       "title": "Ghost Fixers",
       "url": "https://mangadex.org/title/94c7e52e-a6b2-4b57-ba14-68f58fc77c8e",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-18T19:20:34Z",
+      "removed_by_source": true
     },
     "955c730a-9304-4f82-ae96-af48ff5eaa0c": {
       "title": "What I'd Like to Do with That Gloomy Girl",
@@ -2997,9 +3006,10 @@
       "title": "The Boy of Death",
       "url": "https://mangadex.org/title/c6c30be6-3ded-428b-8bcf-be81ab8f7d33",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-18T19:20:34Z",
+      "removed_by_source": true
     },
     "c727d921-4294-455b-9bcc-2f0c7d29cd9a": {
       "title": "Good-For-Nothing Blues",
@@ -3350,9 +3360,10 @@
       "title": "This Bug Won't Leave Me Alone!",
       "url": "https://mangadex.org/title/d7e6e960-35aa-4748-9d0a-249c552ed505",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-18T19:20:34Z",
+      "removed_by_source": true
     },
     "d82e4a7a-85f8-4f06-ac83-c92b522836ea": {
       "title": "The Perfect Plan for a Fairy-Tale Ending",
@@ -3470,9 +3481,10 @@
       "title": "I, the Demon Lord, Am Being Targeted by My Female Disciples!",
       "url": "https://mangadex.org/title/df3ffe06-af50-46cb-bdb3-79f760190234",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-18T19:20:34Z",
+      "removed_by_source": true
     },
     "dfc125ad-5f25-44d1-82bf-92edc59ac8cf": {
       "title": "Blue Ursus",
@@ -3607,9 +3619,10 @@
       "title": "Bluffing Master",
       "url": "https://mangadex.org/title/e8d707b4-298d-48ee-91de-d3371de5aa22",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-18T19:20:34Z",
+      "removed_by_source": true
     },
     "e9173a7b-d763-43ac-866f-aa5b8240a37c": {
       "title": "Someone Hertz",
@@ -3680,9 +3693,10 @@
       "title": "Breakers",
       "url": "https://mangadex.org/title/ed25bd9e-367d-4323-b5ae-97d4d6bdb1f0",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-18T19:20:34Z",
+      "removed_by_source": true
     },
     "ed858324-c972-4d85-be4e-3287767eb7da": {
       "title": "My Life Turned Around: After Being Cheated on and Falsely Accused, I Ended up Being Adored by the Most Beautiful Girl in School",
@@ -3840,9 +3854,10 @@
       "title": "The Ravages of Time",
       "url": "https://mangadex.org/title/f6ce20ca-73c3-4fdd-9367-e2901fca780e",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-18T19:20:34Z",
+      "removed_by_source": true
     },
     "f70e8da7-e6b2-4fb6-bd19-192906137c87": {
       "title": "After I Desperately Avoided The Annihilation Ending, My Party Became Unwell",
@@ -4082,6 +4097,126 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-09-18T16:50:52Z",
+      "removed_at": null
+    },
+    "1fcaaa65-6fa4-4772-9006-b905101905d7": {
+      "title": "Phoenix Rising Above Evil",
+      "url": "https://mangadex.org/title/1fcaaa65-6fa4-4772-9006-b905101905d7",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-18T19:20:34Z",
+      "removed_at": null
+    },
+    "227e3f72-863f-46f9-bafe-c43104ca29ee": {
+      "title": "FAIRY TAIL",
+      "url": "https://mangadex.org/title/227e3f72-863f-46f9-bafe-c43104ca29ee",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-18T19:20:34Z",
+      "removed_at": null
+    },
+    "2d68c7b8-6085-49cb-9c44-ec16805481da": {
+      "title": "Appleseed",
+      "url": "https://mangadex.org/title/2d68c7b8-6085-49cb-9c44-ec16805481da",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-18T19:20:34Z",
+      "removed_at": null
+    },
+    "3ea7e763-654b-46a6-9c36-6afbed1baa47": {
+      "title": "Ad Astra - Scipio and Hannibal",
+      "url": "https://mangadex.org/title/3ea7e763-654b-46a6-9c36-6afbed1baa47",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-18T19:20:34Z",
+      "removed_at": null
+    },
+    "59ef045c-0712-4f15-bb54-52bffd87481b": {
+      "title": "Hitoner",
+      "url": "https://mangadex.org/title/59ef045c-0712-4f15-bb54-52bffd87481b",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-18T19:20:34Z",
+      "removed_at": null
+    },
+    "65af3243-8a16-4545-b53a-ed1a79e367ac": {
+      "title": "A Cave King's Road to Paradise: Climbing to the Top with My Almighty Mining Skills!",
+      "url": "https://mangadex.org/title/65af3243-8a16-4545-b53a-ed1a79e367ac",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-18T19:20:34Z",
+      "removed_at": null
+    },
+    "8847f905-550d-4fe6-bcda-ac2b896789c7": {
+      "title": "Golden Kamuy",
+      "url": "https://mangadex.org/title/8847f905-550d-4fe6-bcda-ac2b896789c7",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-18T19:20:34Z",
+      "removed_at": null
+    },
+    "99daf7bc-3a3b-4fe8-b10d-951b32bfea64": {
+      "title": "Days with My Stepsister",
+      "url": "https://mangadex.org/title/99daf7bc-3a3b-4fe8-b10d-951b32bfea64",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-18T19:20:34Z",
+      "removed_at": null
+    },
+    "a1c7c817-4e59-43b7-9365-09675a149a6f": {
+      "title": "One Piece",
+      "url": "https://mangadex.org/title/a1c7c817-4e59-43b7-9365-09675a149a6f",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-18T19:20:34Z",
+      "removed_at": null
+    },
+    "a4b39b6e-a448-4644-a540-64ceff1d8305": {
+      "title": "Toilet-Bound Hanako-kun",
+      "url": "https://mangadex.org/title/a4b39b6e-a448-4644-a540-64ceff1d8305",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-18T19:20:34Z",
+      "removed_at": null
+    },
+    "acd72dd4-3ec3-4730-b55d-c6b719c782a3": {
+      "title": "World Teacher: Other World Style Education & Agent",
+      "url": "https://mangadex.org/title/acd72dd4-3ec3-4730-b55d-c6b719c782a3",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-18T19:20:34Z",
+      "removed_at": null
+    },
+    "ad7bbb7c-2ff2-4768-a74a-da5d7aed1eb6": {
+      "title": "Fatale Game",
+      "url": "https://mangadex.org/title/ad7bbb7c-2ff2-4768-a74a-da5d7aed1eb6",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-18T19:20:34Z",
+      "removed_at": null
+    },
+    "b8e88f44-8fe3-41b8-a391-335576f7ddcc": {
+      "title": "A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires",
+      "url": "https://mangadex.org/title/b8e88f44-8fe3-41b8-a391-335576f7ddcc",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-18T19:20:34Z",
+      "removed_at": null
+    },
+    "c3a410f3-6c1c-454c-93eb-8b995fd4cf56": {
+      "title": "Sakamoto Days (Official Colored)",
+      "url": "https://mangadex.org/title/c3a410f3-6c1c-454c-93eb-8b995fd4cf56",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-18T19:20:34Z",
+      "removed_at": null
+    },
+    "f4ad14b4-64d9-470f-9b4c-0fab84f0d507": {
+      "title": "Unexciting Date",
+      "url": "https://mangadex.org/title/f4ad14b4-64d9-470f-9b4c-0fab84f0d507",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-18T19:20:34Z",
       "removed_at": null
     }
   }
