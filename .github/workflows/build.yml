@@ -34,6 +34,14 @@ jobs:
       - name: Set up Gradle
         uses: gradle/actions/setup-gradle@v4
 
+      - name: Garantir plataforma android-37 no SDK
+        run: |
+          echo "ANDROID_HOME=$ANDROID_HOME"
+          ls "$ANDROID_HOME/platforms" || true
+          if [ ! -d "$ANDROID_HOME/platforms/android-37.0" ]; then
+            yes | sdkmanager --channel=0 "platforms;android-37.0" "build-tools;36.1.0"
+          fi
+
       - name: Build de todas as extensões
         run: |
           ./gradlew \
@@ -41,7 +49,10 @@ jobs:
             :src:pt:mangaonline:assembleRelease \
             :src:pt:noxmangas:assembleRelease \
             :src:pt:saikaiscan:assembleRelease \
-            --stacktrace
+            --stacktrace > gradle-build.log 2>&1 || {
+              while IFS= read -r line; do echo "::error::$line"; done < <(tail -n 90 gradle-build.log)
+              exit 1
+            }
 
       - name: Upload APKs
         uses: actions/upload-artifact@v4
