@@ -41,7 +41,7 @@ def certificate_fingerprint(apk: Path) -> str:
             text=True,
         )
         match = re.search(
-            r"Signer #1 certificate SHA-256 digest:\s*([0-9a-fA-F:]+)", out.stdout
+            r"certificate SHA-256 digest:\s*([0-9a-fA-F:]+)", out.stdout
         )
         if match:
             return match.group(1).replace(":", "").lower()
