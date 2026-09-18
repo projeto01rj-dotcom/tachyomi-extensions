@@ -1,0 +1,311 @@
+{
+  "source": "saikai",
+  "base_url": "https://housesaikai.net",
+  "updated_at": "2026-09-18T11:47:59Z",
+  "mangas": {
+    "5-elementos-5e": {
+      "title": "5 Elementos",
+      "url": "https://housesaikai.net/comics/5-elementos-5e",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-18T11:47:59Z",
+      "removed_at": null
+    },
+    "biblioteca-do-caminho-celestial": {
+      "title": "Biblioteca do Caminho Celestial",
+      "url": "https://housesaikai.net/comics/biblioteca-do-caminho-celestial",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-18T11:47:59Z",
+      "removed_at": null
+    },
+    "contos-de-demonios-e-deuses": {
+      "title": "Contos de Demônios e Deuses",
+      "url": "https://housesaikai.net/comics/contos-de-demonios-e-deuses",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-18T11:47:59Z",
+      "removed_at": null
+    },
+    "contra-os-deuses": {
+      "title": "Contra os Deuses",
+      "url": "https://housesaikai.net/comics/contra-os-deuses",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-18T11:47:59Z",
+      "removed_at": null
+    },
+    "demonios-e-estranhos": {
+      "title": "Demônios e Estranhos",
+      "url": "https://housesaikai.net/comics/demonios-e-estranhos",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-18T11:47:59Z",
+      "removed_at": null
+    },
+    "deus-das-artes-marciais": {
+      "title": "Deus das Artes Marciais",
+      "url": "https://housesaikai.net/comics/deus-das-artes-marciais",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-18T11:47:59Z",
+      "removed_at": null
+    },
+    "dominacao-do-imperador": {
+      "title": "Dominação do Imperador",
+      "url": "https://housesaikai.net/comics/dominacao-do-imperador",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-18T11:47:59Z",
+      "removed_at": null
+    },
+    "elefante-invisivel": {
+      "title": "Elefante Invisível",
+      "url": "https://housesaikai.net/comics/elefante-invisivel",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-18T11:47:59Z",
+      "removed_at": null
+    },
+    "encanto-dos-animais-espirituais": {
+      "title": "Encanto dos Animais Espirituais",
+      "url": "https://housesaikai.net/comics/encanto-dos-animais-espirituais",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-18T11:47:59Z",
+      "removed_at": null
+    },
+    "encanto-dos-animais-espirituais-2024": {
+      "title": "Encanto dos Animais Espirituais (2024)",
+      "url": "https://housesaikai.net/comics/encanto-dos-animais-espirituais-2024",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-18T11:47:59Z",
+      "removed_at": null
+    },
+    "eu-selarei-os-ceus": {
+      "title": "Eu Selarei os Céus",
+      "url": "https://housesaikai.net/comics/eu-selarei-os-ceus",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-18T11:47:59Z",
+      "removed_at": null
+    },
+    "eu-sou-um-deus-do-mal": {
+      "title": "Eu sou um Deus do Mal",
+      "url": "https://housesaikai.net/comics/eu-sou-um-deus-do-mal",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-18T11:47:59Z",
+      "removed_at": null
+    },
+    "fada-vermelha-inigualavel": {
+      "title": "Fada Vermelha Inigualável",
+      "url": "https://housesaikai.net/comics/fada-vermelha-inigualavel",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-18T11:47:59Z",
+      "removed_at": null
+    },
+    "imperador-divino-imponente": {
+      "title": "Imperador Divino Imponente",
+      "url": "https://housesaikai.net/comics/imperador-divino-imponente",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-18T11:47:59Z",
+      "removed_at": null
+    },
+    "jornada-ao-oeste-apocalipse": {
+      "title": "Jornada ao Oeste - Apocalipse",
+      "url": "https://housesaikai.net/comics/jornada-ao-oeste-apocalipse",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-18T11:47:59Z",
+      "removed_at": null
+    },
+    "lorde-xueying": {
+      "title": "Lorde Xueying",
+      "url": "https://housesaikai.net/comics/lorde-xueying",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-18T11:47:59Z",
+      "removed_at": null
+    },
+    "monarca-divino-ancestral": {
+      "title": "Monarca Divino Ancestral",
+      "url": "https://housesaikai.net/comics/monarca-divino-ancestral",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-18T11:47:59Z",
+      "removed_at": null
+    },
+    "montanha-lamina-espiritual": {
+      "title": "Montanha Lâmina Espiritual",
+      "url": "https://housesaikai.net/comics/montanha-lamina-espiritual",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-18T11:47:59Z",
+      "removed_at": null
+    },
+    "mundo-marcial-verdadeiro": {
+      "title": "Mundo Marcial Verdadeiro",
+      "url": "https://housesaikai.net/comics/mundo-marcial-verdadeiro",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-18T11:47:59Z",
+      "removed_at": null
+    },
+    "nota-maxima-em-um-casamento-escondido-pegue-um-filho-e-consiga-um-marido-de-graca": {
+      "title": "Nota Máxima Em Um Casamento Escondido: Pegue Um Filho e Consiga Um Marido De Graça",
+      "url": "https://housesaikai.net/comics/nota-maxima-em-um-casamento-escondido-pegue-um-filho-e-consiga-um-marido-de-graca",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-18T11:47:59Z",
+      "removed_at": null
+    },
+    "o-avatar-do-rei": {
+      "title": "O Avatar do Rei",
+      "url": "https://housesaikai.net/comics/o-avatar-do-rei",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-18T11:47:59Z",
+      "removed_at": null
+    },
+    "o-avatar-do-rei-manhua": {
+      "title": "O Avatar do Rei (Manhua)",
+      "url": "https://housesaikai.net/comics/o-avatar-do-rei-manhua",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-18T11:47:59Z",
+      "removed_at": null
+    },
+    "o-jogo-do-qual-eu-vim": {
+      "title": "O Jogo do Qual Eu Vim",
+      "url": "https://housesaikai.net/comics/o-jogo-do-qual-eu-vim",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-18T11:47:59Z",
+      "removed_at": null
+    },
+    "o-reino-mistico": {
+      "title": "O Reino Místico",
+      "url": "https://housesaikai.net/comics/o-reino-mistico",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-18T11:47:59Z",
+      "removed_at": null
+    },
+    "poupe-me-grande-lorde": {
+      "title": "Poupe-me, Grande Lorde",
+      "url": "https://housesaikai.net/comics/poupe-me-grande-lorde",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-18T11:47:59Z",
+      "removed_at": null
+    },
+    "reencarnacao-do-mais-forte-deus-da-espada": {
+      "title": "Reencarnação do Mais Forte Deus da Espada",
+      "url": "https://housesaikai.net/comics/reencarnacao-do-mais-forte-deus-da-espada",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-18T11:47:59Z",
+      "removed_at": null
+    },
+    "renegado-imortal": {
+      "title": "Renegado Imortal",
+      "url": "https://housesaikai.net/comics/renegado-imortal",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-18T11:47:59Z",
+      "removed_at": null
+    },
+    "sistema-metropolitano": {
+      "title": "Sistema Metropolitano",
+      "url": "https://housesaikai.net/comics/sistema-metropolitano",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-18T11:47:59Z",
+      "removed_at": null
+    },
+    "soberbo-deus-da-alquimia": {
+      "title": "Soberbo Deus da Alquimia",
+      "url": "https://housesaikai.net/comics/soberbo-deus-da-alquimia",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-18T11:47:59Z",
+      "removed_at": null
+    },
+    "teclado-imortal": {
+      "title": "Teclado Imortal",
+      "url": "https://housesaikai.net/comics/teclado-imortal",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-18T11:47:59Z",
+      "removed_at": null
+    },
+    "tecnica-do-deus-marcial-da-estrela": {
+      "title": "Técnica do Deus Marcial da Estrela",
+      "url": "https://housesaikai.net/comics/tecnica-do-deus-marcial-da-estrela",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-18T11:47:59Z",
+      "removed_at": null
+    },
+    "terra-espiritual-parte-01": {
+      "title": "Terra Espiritual (Parte 01)",
+      "url": "https://housesaikai.net/comics/terra-espiritual-parte-01",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-18T11:47:59Z",
+      "removed_at": null
+    },
+    "terra-espiritual-parte-02": {
+      "title": "Terra Espiritual (Parte 02)",
+      "url": "https://housesaikai.net/comics/terra-espiritual-parte-02",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-18T11:47:59Z",
+      "removed_at": null
+    },
+    "terra-espiritual-parte-04-a-ultima-luta": {
+      "title": "Terra Espiritual (Parte 04) - A Última Luta",
+      "url": "https://housesaikai.net/comics/terra-espiritual-parte-04-a-ultima-luta",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-18T11:47:59Z",
+      "removed_at": null
+    },
+    "terra-espiritual-parte-05-o-renascimento-de-tang-san": {
+      "title": "Terra Espiritual (Parte 05) - O Renascimento de Tang San",
+      "url": "https://housesaikai.net/comics/terra-espiritual-parte-05-o-renascimento-de-tang-san",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-18T11:47:59Z",
+      "removed_at": null
+    },
+    "terra-espiritual-parte-25-a-lenda-do-reino-dos-deuses": {
+      "title": "Terra Espiritual (Parte 2.5) - A Lenda do Reino dos Deuses",
+      "url": "https://housesaikai.net/comics/terra-espiritual-parte-25-a-lenda-do-reino-dos-deuses",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-18T11:47:59Z",
+      "removed_at": null
+    },
+    "uma-vontade-eterna": {
+      "title": "Uma Vontade Eterna",
+      "url": "https://housesaikai.net/comics/uma-vontade-eterna",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-18T11:47:59Z",
+      "removed_at": null
+    },
+    "universo-marcial": {
+      "title": "Universo Marcial",
+      "url": "https://housesaikai.net/comics/universo-marcial",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-18T11:47:59Z",
+      "removed_at": null
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "ran_at": "2026-09-18T11:47:59Z",
+  "changed": true,
+  "sources": {
+    "mangadex": {
+      "ok": true,
+      "present": 500,
+      "registered": 500,
+      "added": 500,
+      "removed": 0
+    },
+    "saikai": {
+      "ok": true,
+      "present": 38,
+      "registered": 38,
+      "added": 38,
+      "removed": 0
+    },
+    "mangaonline": {
+      "ok": true,
+      "present": 272,
+      "registered": 272,
+      "added": 272,
+      "removed": 0
+    },
+    "noxmangas": {
+      "ok": true,
+      "present": 6980,
+      "registered": 6980,
+      "added": 6980,
+      "removed": 0
+    }
+  },
+  "removed": 0
+}
