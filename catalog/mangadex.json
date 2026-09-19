@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-09-19T18:19:04Z",
+  "updated_at": "2026-09-19T20:52:57Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -58,9 +58,10 @@
       "title": "The Great Cleric",
       "url": "https://mangadex.org/title/062f098a-88bb-48f4-b022-3b7afa87bc47",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-19T20:52:57Z",
+      "removed_by_source": true
     },
     "063e7e12-d9e7-488e-8fb1-defd4857660e": {
       "title": "The Boy & the Wolf",
@@ -301,9 +302,10 @@
       "title": "They Are Still Being Shaken This Morning",
       "url": "https://mangadex.org/title/157ab2cc-1fc7-4b29-8955-72d94a140982",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-19T20:52:57Z",
+      "removed_by_source": true
     },
     "158e8c61-8146-45fc-b945-d8d08a405477": {
       "title": "Steins;Gate 0",
@@ -667,9 +669,10 @@
       "title": "Demon Mother: My Son Is so Cute, I Just Can't Help Myself!",
       "url": "https://mangadex.org/title/2e3ec8e6-cee0-4779-8f4e-c42ab683ef75",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-19T20:52:57Z",
+      "removed_by_source": true
     },
     "30f3ac69-21b6-45ad-a110-d011b7aaadaa": {
       "title": "Fly Me to The Moon",
@@ -1666,9 +1669,10 @@
       "title": "QUIXOTIC RE:SONANCE",
       "url": "https://mangadex.org/title/6f519d01-5a36-4972-9122-a884f3c6db02",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-19T20:52:57Z",
+      "removed_by_source": true
     },
     "719e258b-e2aa-4f6b-9676-50118ad27f28": {
       "title": "LaLa",
@@ -2081,9 +2085,10 @@
       "title": "I Am the Fated Villain",
       "url": "https://mangadex.org/title/8892dc05-867f-4fff-823b-47210a6746bb",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-19T20:52:57Z",
+      "removed_by_source": true
     },
     "8896ec06-cca8-4ee8-872a-cc8a359c3bb8": {
       "title": "Unwinding with the Aloof Girl at the Standing Bar",
@@ -2332,9 +2337,10 @@
       "title": "Shinsouban WORST",
       "url": "https://mangadex.org/title/96d02f4f-ff02-410f-878f-a12f529237b0",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-19T20:52:57Z",
+      "removed_by_source": true
     },
     "984df7d5-ae4c-43c6-aa65-737b9f37e5ef": {
       "title": "My Bias Gets on the Last Train",
@@ -2700,9 +2706,10 @@
       "title": "Hatori and Furuta's Extraordinarily Ordinary Life",
       "url": "https://mangadex.org/title/aefbf95e-5fad-4a92-94d2-ac6dc7c44351",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-19T20:52:57Z",
+      "removed_by_source": true
     },
     "af0f31a0-372d-4aa5-a632-f2e2b769ab83": {
       "title": "Inazuma 11",
@@ -2724,9 +2731,10 @@
       "title": "Mobile Suit Gundam: The Witch from Mercury - Youth Frontier",
       "url": "https://mangadex.org/title/af8eed7a-024d-445d-a89d-14493b94a83b",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-19T20:52:57Z",
+      "removed_by_source": true
     },
     "b04a286a-0770-4007-9d68-a8576deae471": {
       "title": "My Stepmother's Love isn't Going How I Thought!",
@@ -2816,9 +2824,10 @@
       "title": "NIRAIKANAI",
       "url": "https://mangadex.org/title/b4e88857-45f1-48e4-a0a0-36ead70970e7",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-19T20:52:57Z",
+      "removed_by_source": true
     },
     "b5351a0c-96af-49f7-898e-17914a082561": {
       "title": "My Girlfriend Is a Colossal Cutie",
@@ -3172,9 +3181,10 @@
       "title": "The Kouhai who Went from Introvert to Influencer",
       "url": "https://mangadex.org/title/cb829d82-7ed9-4ab4-b2e8-a7aa3eca24f5",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-19T20:52:57Z",
+      "removed_by_source": true
     },
     "ccb654fd-d4de-44d1-a9c1-f58ba34f3510": {
       "title": "Daily Chaldea",
@@ -3494,17 +3504,19 @@
       "title": "Twilight Blade",
       "url": "https://mangadex.org/title/dd5c4855-a8d4-4663-81c3-0df7b54ab8d9",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-19T20:52:57Z",
+      "removed_by_source": true
     },
     "ddb80900-12c2-4b9e-bfb7-cb8abc082f9a": {
       "title": "The Lady's Servant",
       "url": "https://mangadex.org/title/ddb80900-12c2-4b9e-bfb7-cb8abc082f9a",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-19T20:52:57Z",
+      "removed_by_source": true
     },
     "dea77c2d-dbaa-434a-b0af-0c116642434c": {
       "title": "Ichi the Witch",
@@ -3585,9 +3597,10 @@
       "title": "Touhou - Flan Wants to Die (Doujinshi)",
       "url": "https://mangadex.org/title/e2f36926-21f8-4dab-bc78-af8e932a15c8",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-19T20:52:57Z",
+      "removed_by_source": true
     },
     "e3d88382-a2c4-4958-8311-f8bd9a3f1e21": {
       "title": "The Golden Word Master: The Four Heroes and the Innocent Bystander with the Unique Cheat",
@@ -4752,6 +4765,86 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-09-19T18:19:04Z",
+      "removed_at": null
+    },
+    "08a69168-3adb-4f78-adaa-088b7663e0ff": {
+      "title": "Sea-Run End Credits",
+      "url": "https://mangadex.org/title/08a69168-3adb-4f78-adaa-088b7663e0ff",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-19T20:52:57Z",
+      "removed_at": null
+    },
+    "21fc423b-d07d-4f87-9d0c-a3adf033f33a": {
+      "title": "Craftsman",
+      "url": "https://mangadex.org/title/21fc423b-d07d-4f87-9d0c-a3adf033f33a",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-19T20:52:57Z",
+      "removed_at": null
+    },
+    "2a6d4292-0db9-4bcd-b459-57dcad73c502": {
+      "title": "Denpa Seinen",
+      "url": "https://mangadex.org/title/2a6d4292-0db9-4bcd-b459-57dcad73c502",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-19T20:52:57Z",
+      "removed_at": null
+    },
+    "4481002b-f65c-426a-8cb4-3a1bba1040c5": {
+      "title": "Blade of the Immortal",
+      "url": "https://mangadex.org/title/4481002b-f65c-426a-8cb4-3a1bba1040c5",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-19T20:52:57Z",
+      "removed_at": null
+    },
+    "6033535e-ea6a-4f52-9d81-17101a739c33": {
+      "title": "I Somehow Got Strong by Raising Skills Related to Farming",
+      "url": "https://mangadex.org/title/6033535e-ea6a-4f52-9d81-17101a739c33",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-19T20:52:57Z",
+      "removed_at": null
+    },
+    "a799cead-c82b-458c-8f1c-6bc19577bda6": {
+      "title": "Are Physical Relationships Possible Between Childhood Friends of High School Students?",
+      "url": "https://mangadex.org/title/a799cead-c82b-458c-8f1c-6bc19577bda6",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-19T20:52:57Z",
+      "removed_at": null
+    },
+    "ac743453-99ef-49e5-93e5-265cfff01fe0": {
+      "title": "Speedrunner Cannot Return from the Game World",
+      "url": "https://mangadex.org/title/ac743453-99ef-49e5-93e5-265cfff01fe0",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-19T20:52:57Z",
+      "removed_at": null
+    },
+    "b22561f9-81f1-45f6-b2c0-f5b53cfaee19": {
+      "title": "All Hail the Sect Leader",
+      "url": "https://mangadex.org/title/b22561f9-81f1-45f6-b2c0-f5b53cfaee19",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-19T20:52:57Z",
+      "removed_at": null
+    },
+    "c6afc15c-889e-4d8a-8282-1f99dd650c24": {
+      "title": "Girl's Baduk",
+      "url": "https://mangadex.org/title/c6afc15c-889e-4d8a-8282-1f99dd650c24",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-19T20:52:57Z",
+      "removed_at": null
+    },
+    "f110d48a-8461-428e-bbcb-5ae3c0d53d25": {
+      "title": "I See You, Aizawa-san!",
+      "url": "https://mangadex.org/title/f110d48a-8461-428e-bbcb-5ae3c0d53d25",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-19T20:52:57Z",
       "removed_at": null
     }
   }
