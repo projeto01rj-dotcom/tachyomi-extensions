@@ -1,0 +1,106 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-09-19T02:25:51Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "23fed86c-a2f0-4cdc-a1b3-13596aac6e7c",
+      "title": "The Heart-Pounding Operation",
+      "url": "https://mangadex.org/title/23fed86c-a2f0-4cdc-a1b3-13596aac6e7c"
+    },
+    {
+      "source": "mangadex",
+      "key": "3683f667-c23d-4688-b872-0ade276aaafa",
+      "title": "Battlefront of the Great Powers",
+      "url": "https://mangadex.org/title/3683f667-c23d-4688-b872-0ade276aaafa"
+    },
+    {
+      "source": "mangadex",
+      "key": "41dae5dc-603b-4842-895e-f7b176d108b2",
+      "title": "Yurayura Q",
+      "url": "https://mangadex.org/title/41dae5dc-603b-4842-895e-f7b176d108b2"
+    },
+    {
+      "source": "mangadex",
+      "key": "8f37b66a-1a30-4e75-bab5-8da922e86f2f",
+      "title": "Momoiro Meloik",
+      "url": "https://mangadex.org/title/8f37b66a-1a30-4e75-bab5-8da922e86f2f"
+    },
+    {
+      "source": "mangadex",
+      "key": "e660da42-375c-4fca-80f1-1afbe5342b8f",
+      "title": "Fool Night",
+      "url": "https://mangadex.org/title/e660da42-375c-4fca-80f1-1afbe5342b8f"
+    },
+    {
+      "source": "mangadex",
+      "key": "ead3f958-0d01-4c1f-b605-620eacb8ead0",
+      "title": "My Teasing Fiancée",
+      "url": "https://mangadex.org/title/ead3f958-0d01-4c1f-b605-620eacb8ead0"
+    },
+    {
+      "source": "mangadex",
+      "key": "f6aebf39-07b8-4959-ba73-fa852b96913b",
+      "title": "Fall in Love, You False Angels",
+      "url": "https://mangadex.org/title/f6aebf39-07b8-4959-ba73-fa852b96913b"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "08a25bd7-ce34-4630-8552-b93fe16852d9",
+      "title": "Time Stop Hero",
+      "url": "https://mangadex.org/title/08a25bd7-ce34-4630-8552-b93fe16852d9",
+      "removed_at": "2026-09-19T02:25:51Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "2442e655-dcfe-4ed2-99de-d5b212836b64",
+      "title": "K-ON! Shuffle",
+      "url": "https://mangadex.org/title/2442e655-dcfe-4ed2-99de-d5b212836b64",
+      "removed_at": "2026-09-19T02:25:51Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "410d499a-f438-4a56-9ad4-eb90a4de5b39",
+      "title": "Reincarnated in Another World as a Dungeon Master: Making the Hot Spring Dungeon",
+      "url": "https://mangadex.org/title/410d499a-f438-4a56-9ad4-eb90a4de5b39",
+      "removed_at": "2026-09-19T02:25:51Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "5e746f0a-9eec-470d-ac52-32fa5814ea03",
+      "title": "Sem título",
+      "url": "https://mangadex.org/title/5e746f0a-9eec-470d-ac52-32fa5814ea03",
+      "removed_at": "2026-09-19T02:25:51Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "873516c0-3f82-4d9c-adae-86af777f91c7",
+      "title": "The Chrysalis Heart",
+      "url": "https://mangadex.org/title/873516c0-3f82-4d9c-adae-86af777f91c7",
+      "removed_at": "2026-09-19T02:25:51Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "cdf75cd8-4e87-4bde-a430-44ea174cc035",
+      "title": "How I Lose Bets With My Sadistic Gifted Childhood Friend and She Steals All of My Firsts",
+      "url": "https://mangadex.org/title/cdf75cd8-4e87-4bde-a430-44ea174cc035",
+      "removed_at": "2026-09-19T02:25:51Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "f1680061-212b-4265-a201-61bd371f7328",
+      "title": "5-ji kara 9-ji made",
+      "url": "https://mangadex.org/title/f1680061-212b-4265-a201-61bd371f7328",
+      "removed_at": "2026-09-19T02:25:51Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "f7888782-0727-49b0-95ec-a3530c70f83b",
+      "title": "Hajime no Ippo: Fighting Spirit!",
+      "url": "https://mangadex.org/title/f7888782-0727-49b0-95ec-a3530c70f83b",
+      "removed_at": "2026-09-19T02:25:51Z"
+    }
+  ]
+}

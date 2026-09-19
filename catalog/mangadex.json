@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-09-18T23:46:34Z",
+  "updated_at": "2026-09-19T02:25:51Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -88,9 +88,10 @@
       "title": "Time Stop Hero",
       "url": "https://mangadex.org/title/08a25bd7-ce34-4630-8552-b93fe16852d9",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-19T02:25:51Z",
+      "removed_by_source": true
     },
     "091c1429-d7b6-48e2-85ec-79fabb1a44fb": {
       "title": "A Girl from Another School Who's Not Very Good at Living",
@@ -563,9 +564,10 @@
       "title": "K-ON! Shuffle",
       "url": "https://mangadex.org/title/2442e655-dcfe-4ed2-99de-d5b212836b64",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-19T02:25:51Z",
+      "removed_by_source": true
     },
     "26102334-1f7b-4a5b-a64f-107c5c24a70f": {
       "title": "Mao",
@@ -862,9 +864,10 @@
       "title": "Reincarnated in Another World as a Dungeon Master: Making the Hot Spring Dungeon",
       "url": "https://mangadex.org/title/410d499a-f438-4a56-9ad4-eb90a4de5b39",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-19T02:25:51Z",
+      "removed_by_source": true
     },
     "412f5c09-a5c4-4935-b6a5-7f13378efaac": {
       "title": "Childhood Friends with a Pet and Master Relationship",
@@ -1298,9 +1301,10 @@
       "title": "Sem título",
       "url": "https://mangadex.org/title/5e746f0a-9eec-470d-ac52-32fa5814ea03",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-19T02:25:51Z",
+      "removed_by_source": true
     },
     "5ecf58d2-fcac-44f1-8341-97b7ef4fe82e": {
       "title": "Even a Replica Can Fall in Love",
@@ -2024,9 +2028,10 @@
       "title": "The Chrysalis Heart",
       "url": "https://mangadex.org/title/873516c0-3f82-4d9c-adae-86af777f91c7",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-19T02:25:51Z",
+      "removed_by_source": true
     },
     "8791c515-0245-4fcc-81cc-22863a0aba6b": {
       "title": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!",
@@ -3149,9 +3154,10 @@
       "title": "How I Lose Bets With My Sadistic Gifted Childhood Friend and She Steals All of My Firsts",
       "url": "https://mangadex.org/title/cdf75cd8-4e87-4bde-a430-44ea174cc035",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-19T02:25:51Z",
+      "removed_by_source": true
     },
     "cef6253d-6a55-4438-921c-46968b426f2f": {
       "title": "My Tiny Senpai",
@@ -3789,9 +3795,10 @@
       "title": "5-ji kara 9-ji made",
       "url": "https://mangadex.org/title/f1680061-212b-4265-a201-61bd371f7328",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-19T02:25:51Z",
+      "removed_by_source": true
     },
     "f21cda14-5352-4ae9-82c5-53d68b4d8869": {
       "title": "Nighthawk Returns",
@@ -3886,9 +3893,10 @@
       "title": "Hajime no Ippo: Fighting Spirit!",
       "url": "https://mangadex.org/title/f7888782-0727-49b0-95ec-a3530c70f83b",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-19T02:25:51Z",
+      "removed_by_source": true
     },
     "f7901d23-e934-468e-88de-f407f478cd24": {
       "title": "Reborn as a Barrier Master",
@@ -4280,6 +4288,62 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-09-18T23:46:34Z",
+      "removed_at": null
+    },
+    "23fed86c-a2f0-4cdc-a1b3-13596aac6e7c": {
+      "title": "The Heart-Pounding Operation",
+      "url": "https://mangadex.org/title/23fed86c-a2f0-4cdc-a1b3-13596aac6e7c",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-19T02:25:51Z",
+      "removed_at": null
+    },
+    "3683f667-c23d-4688-b872-0ade276aaafa": {
+      "title": "Battlefront of the Great Powers",
+      "url": "https://mangadex.org/title/3683f667-c23d-4688-b872-0ade276aaafa",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-19T02:25:51Z",
+      "removed_at": null
+    },
+    "41dae5dc-603b-4842-895e-f7b176d108b2": {
+      "title": "Yurayura Q",
+      "url": "https://mangadex.org/title/41dae5dc-603b-4842-895e-f7b176d108b2",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-19T02:25:51Z",
+      "removed_at": null
+    },
+    "8f37b66a-1a30-4e75-bab5-8da922e86f2f": {
+      "title": "Momoiro Meloik",
+      "url": "https://mangadex.org/title/8f37b66a-1a30-4e75-bab5-8da922e86f2f",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-19T02:25:51Z",
+      "removed_at": null
+    },
+    "e660da42-375c-4fca-80f1-1afbe5342b8f": {
+      "title": "Fool Night",
+      "url": "https://mangadex.org/title/e660da42-375c-4fca-80f1-1afbe5342b8f",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-19T02:25:51Z",
+      "removed_at": null
+    },
+    "ead3f958-0d01-4c1f-b605-620eacb8ead0": {
+      "title": "My Teasing Fiancée",
+      "url": "https://mangadex.org/title/ead3f958-0d01-4c1f-b605-620eacb8ead0",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-19T02:25:51Z",
+      "removed_at": null
+    },
+    "f6aebf39-07b8-4959-ba73-fa852b96913b": {
+      "title": "Fall in Love, You False Angels",
+      "url": "https://mangadex.org/title/f6aebf39-07b8-4959-ba73-fa852b96913b",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-19T02:25:51Z",
       "removed_at": null
     }
   }
