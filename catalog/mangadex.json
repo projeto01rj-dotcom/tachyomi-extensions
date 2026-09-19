@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-09-19T15:40:30Z",
+  "updated_at": "2026-09-19T18:19:04Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -24,9 +24,10 @@
       "title": "Under Ninja",
       "url": "https://mangadex.org/title/04598a65-4f1f-4807-a419-d79ca7f67457",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-19T18:19:04Z",
+      "removed_by_source": true
     },
     "0550851a-961b-4b34-9684-4b2901e62079": {
       "title": "I'm Worried About My Girlfriend, Who Used to be Covered in Bruises",
@@ -267,9 +268,10 @@
       "title": "Stuck in My Sister's Dating Sim",
       "url": "https://mangadex.org/title/1380753e-3652-4ab6-a72b-96fbe47fbcc3",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-19T18:19:04Z",
+      "removed_by_source": true
     },
     "13ccde4b-f0ae-4ead-8781-b444e51f81a1": {
       "title": "An Elf, a Motorcycle, and an Imperial Geographic Surveyor and…",
@@ -935,17 +937,19 @@
       "title": "My Girlfriend is Devilishly Sweet",
       "url": "https://mangadex.org/title/4684953a-6bbc-4c05-82d1-808ce77960ea",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-19T18:19:04Z",
+      "removed_by_source": true
     },
     "479ada4b-2fa6-4465-97ef-734bc3c7d254": {
       "title": "The Demon Lord Who's Seriously in Love",
       "url": "https://mangadex.org/title/479ada4b-2fa6-4465-97ef-734bc3c7d254",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-19T18:19:04Z",
+      "removed_by_source": true
     },
     "4809bb6c-1af2-41c5-9291-983027602d7f": {
       "title": "Shy",
@@ -2125,9 +2129,10 @@
       "title": "Sem título",
       "url": "https://mangadex.org/title/8aad1ed6-e9dd-4f4b-98d6-854880c12632",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-19T18:19:04Z",
+      "removed_by_source": true
     },
     "8ae45b36-b246-4c0d-a735-1da87833e6ac": {
       "title": "Miss Kojima, the Widowed Young Lady, Is the Strongest and Cutest",
@@ -2423,9 +2428,10 @@
       "title": "The Guy She Was Interested in Wasn't a Guy at All",
       "url": "https://mangadex.org/title/9d3d3403-1a87-4737-9803-bc3d99db1424",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-19T18:19:04Z",
+      "removed_by_source": true
     },
     "9d985413-87c5-4990-9007-d5f4139535f5": {
       "title": "The School's Madonna, Watanabe-san, for Some Reason Asks My Schedule Every Week",
@@ -2570,9 +2576,10 @@
       "title": "The Gyaru with Cravings Next to Me",
       "url": "https://mangadex.org/title/a53f4d4e-91fb-4242-b328-637fb32d0729",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-19T18:19:04Z",
+      "removed_by_source": true
     },
     "a540f26f-d440-4702-8aa6-38ee1c1bb74d": {
       "title": "The Everyday Maintenance of Shinozaki-kun",
@@ -3190,9 +3197,10 @@
       "title": "My Tiny Senpai",
       "url": "https://mangadex.org/title/cef6253d-6a55-4438-921c-46968b426f2f",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-19T18:19:04Z",
+      "removed_by_source": true
     },
     "cf1c93cc-4bb5-4311-b926-0f02ad123ad2": {
       "title": "It's a Little Late, but I've Fallen in Love with My Childhood Friend.",
@@ -3395,9 +3403,10 @@
       "title": "Class 2-B Hero Destroyerz",
       "url": "https://mangadex.org/title/d78db808-93f7-498d-9368-e5767fd85057",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-19T18:19:04Z",
+      "removed_by_source": true
     },
     "d7e6e960-35aa-4748-9d0a-249c552ed505": {
       "title": "This Bug Won't Leave Me Alone!",
@@ -3468,9 +3477,10 @@
       "title": "Jobless Reincarnation: I'll Try Seriously If I Go to Another World - Despondent Magician Arc",
       "url": "https://mangadex.org/title/dc481ed5-4925-4f3c-bac1-e73f1e7ed338",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-19T18:19:04Z",
+      "removed_by_source": true
     },
     "dd13dad6-7cda-46cf-8d4f-13adfc6c37d6": {
       "title": "Shihai Shoujo Kubaru-chan",
@@ -3656,9 +3666,10 @@
       "title": "Random Chat",
       "url": "https://mangadex.org/title/e7d7219c-a12b-484f-b29d-6013beac61b2",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-19T18:19:04Z",
+      "removed_by_source": true
     },
     "e8d707b4-298d-48ee-91de-d3371de5aa22": {
       "title": "Bluffing Master",
@@ -3961,9 +3972,10 @@
       "title": "35-Year-Old Single Yamada, Wants to Build an Ideal Second House in an Isekai Village: A Best-of-Both-Worlds Life Between Isekai and Reality",
       "url": "https://mangadex.org/title/f97aea58-bc22-4c45-bd63-487c0683f882",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-19T18:19:04Z",
+      "removed_by_source": true
     },
     "f9c33607-9180-4ba6-b85c-e4b5faee7192": {
       "title": "Official \"Test\" Manga",
@@ -4652,6 +4664,94 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-09-19T15:40:30Z",
+      "removed_at": null
+    },
+    "136a8c13-cf72-427a-8d76-23f1bf070c0e": {
+      "title": "I’m a “Behemoth,” an S-Ranked Monster, but Mistaken for a Cat, I Live as an Elf Girl’s Pet",
+      "url": "https://mangadex.org/title/136a8c13-cf72-427a-8d76-23f1bf070c0e",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-19T18:19:04Z",
+      "removed_at": null
+    },
+    "2fdf9c63-9ccd-4098-840c-853307075f5f": {
+      "title": "Sem título",
+      "url": "https://mangadex.org/title/2fdf9c63-9ccd-4098-840c-853307075f5f",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-19T18:19:04Z",
+      "removed_at": null
+    },
+    "5f056699-2250-44e9-bcea-0c8beefb42bf": {
+      "title": "The Strongest Old Knight Commander is Celebrated as a Hero in the Countryside After Being Cheated on and Exiled",
+      "url": "https://mangadex.org/title/5f056699-2250-44e9-bcea-0c8beefb42bf",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-19T18:19:04Z",
+      "removed_at": null
+    },
+    "6724bbf4-5855-4972-b6c9-ea92469aba89": {
+      "title": "Prey",
+      "url": "https://mangadex.org/title/6724bbf4-5855-4972-b6c9-ea92469aba89",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-19T18:19:04Z",
+      "removed_at": null
+    },
+    "7786c392-f7e9-497f-8235-a8f26f247e8b": {
+      "title": "2R4M",
+      "url": "https://mangadex.org/title/7786c392-f7e9-497f-8235-a8f26f247e8b",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-19T18:19:04Z",
+      "removed_at": null
+    },
+    "9308cb58-bff6-49fd-bd4f-84f51053c2ae": {
+      "title": "Masochist Gal Himekawa-san",
+      "url": "https://mangadex.org/title/9308cb58-bff6-49fd-bd4f-84f51053c2ae",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-19T18:19:04Z",
+      "removed_at": null
+    },
+    "a2f26a6c-2ebc-4aec-a5ef-e9968c9f85fb": {
+      "title": "Apparently, My Childhood Friend's Older Sister, Who is Called a Gal Nowadays, is a Yandere Who Pathologically Loves Me, a Degraded Version of My Twin Brother Who Can Do Everything Perfectly",
+      "url": "https://mangadex.org/title/a2f26a6c-2ebc-4aec-a5ef-e9968c9f85fb",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-19T18:19:04Z",
+      "removed_at": null
+    },
+    "a920060c-7e39-4ac1-980c-f0e605a40ae4": {
+      "title": "My Gyaru Wife's Secrets",
+      "url": "https://mangadex.org/title/a920060c-7e39-4ac1-980c-f0e605a40ae4",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-19T18:19:04Z",
+      "removed_at": null
+    },
+    "d36bea9f-853f-4908-9957-5514b1903e36": {
+      "title": "Marika's Love Meter Malfunction",
+      "url": "https://mangadex.org/title/d36bea9f-853f-4908-9957-5514b1903e36",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-19T18:19:04Z",
+      "removed_at": null
+    },
+    "d8d8ca2d-19c1-4c4c-9401-fbe32ec0cdd5": {
+      "title": "Fuuto Detective",
+      "url": "https://mangadex.org/title/d8d8ca2d-19c1-4c4c-9401-fbe32ec0cdd5",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-19T18:19:04Z",
+      "removed_at": null
+    },
+    "e8c316a1-fc1a-4870-b418-29d5013db516": {
+      "title": "The Heroines of a Gal Game Who Avoided the End of Death Read My [Diary] And Found Out My Secret",
+      "url": "https://mangadex.org/title/e8c316a1-fc1a-4870-b418-29d5013db516",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-19T18:19:04Z",
       "removed_at": null
     }
   }
