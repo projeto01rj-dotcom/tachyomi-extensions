@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-09-19T20:52:57Z",
+  "updated_at": "2026-09-19T22:35:27Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -108,9 +108,10 @@
       "title": "Feverish Atmosphere",
       "url": "https://mangadex.org/title/0946fd9c-f570-460d-936e-194173d9b866",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-19T22:35:27Z",
+      "removed_by_source": true
     },
     "0972a94c-77cd-4d46-9592-056d5df82ea5": {
       "title": "Is She Making Fun of Me?",
@@ -594,9 +595,10 @@
       "title": "The Young Robot and the Dangerous Professor",
       "url": "https://mangadex.org/title/26fed225-c307-4af8-b47a-5bc603178552",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-19T22:35:27Z",
+      "removed_by_source": true
     },
     "283b1acd-5a16-46d4-a217-d0648a5a8374": {
       "title": "Addicted to Her",
@@ -1235,9 +1237,10 @@
       "title": "I Opened an Orphanage in Another World, but for Some Reason No One Wants to Leave.",
       "url": "https://mangadex.org/title/57a981a8-fa23-48c5-971b-1329e3d9bb0b",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-19T22:35:27Z",
+      "removed_by_source": true
     },
     "57fe3f00-8626-462b-8f75-fce0e6faa6be": {
       "title": "A Hidden Side to my Crush",
@@ -2948,9 +2951,10 @@
       "title": "Something Naughty Would Happen If They Knew Each Other's Thoughts",
       "url": "https://mangadex.org/title/bca97160-0c38-4d01-bb5e-7608321b323b",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-19T22:35:27Z",
+      "removed_by_source": true
     },
     "bcfe1b36-daee-40fd-9984-d9597caf9da7": {
       "title": "A Witch's Life in Mongol",
@@ -3165,9 +3169,10 @@
       "title": "Sem título",
       "url": "https://mangadex.org/title/ca5fb826-a0be-4c9b-8b38-13c0a444c86b",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-19T22:35:27Z",
+      "removed_by_source": true
     },
     "cb1b1da5-9436-49f5-8a6b-a1689fb86d91": {
       "title": "LOVE-BULLET",
@@ -3814,9 +3819,10 @@
       "title": "Sem título",
       "url": "https://mangadex.org/title/ef1e89d8-2ea8-426d-80c8-0c87c9377334",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-19T22:35:27Z",
+      "removed_by_source": true
     },
     "ef292a72-5c4c-4d82-87af-c8637886922e": {
       "title": "Roku’s House of Oddities",
@@ -4845,6 +4851,30 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-09-19T20:52:57Z",
+      "removed_at": null
+    },
+    "9b896cac-d827-4d1e-b32f-a914a2d9d323": {
+      "title": "Sem título",
+      "url": "https://mangadex.org/title/9b896cac-d827-4d1e-b32f-a914a2d9d323",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-19T22:35:27Z",
+      "removed_at": null
+    },
+    "b93212ef-5d8f-4814-9e10-9237720a4057": {
+      "title": "Hidamari Sketch",
+      "url": "https://mangadex.org/title/b93212ef-5d8f-4814-9e10-9237720a4057",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-19T22:35:27Z",
+      "removed_at": null
+    },
+    "cedc7401-8c70-4057-b14a-4ecbbcd73945": {
+      "title": "A Bride's Story",
+      "url": "https://mangadex.org/title/cedc7401-8c70-4057-b14a-4ecbbcd73945",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-19T22:35:27Z",
       "removed_at": null
     }
   }

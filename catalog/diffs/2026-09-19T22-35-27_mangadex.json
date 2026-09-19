@@ -1,0 +1,68 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-09-19T22:35:27Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "9b896cac-d827-4d1e-b32f-a914a2d9d323",
+      "title": "Sem título",
+      "url": "https://mangadex.org/title/9b896cac-d827-4d1e-b32f-a914a2d9d323"
+    },
+    {
+      "source": "mangadex",
+      "key": "b93212ef-5d8f-4814-9e10-9237720a4057",
+      "title": "Hidamari Sketch",
+      "url": "https://mangadex.org/title/b93212ef-5d8f-4814-9e10-9237720a4057"
+    },
+    {
+      "source": "mangadex",
+      "key": "cedc7401-8c70-4057-b14a-4ecbbcd73945",
+      "title": "A Bride's Story",
+      "url": "https://mangadex.org/title/cedc7401-8c70-4057-b14a-4ecbbcd73945"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "0946fd9c-f570-460d-936e-194173d9b866",
+      "title": "Feverish Atmosphere",
+      "url": "https://mangadex.org/title/0946fd9c-f570-460d-936e-194173d9b866",
+      "removed_at": "2026-09-19T22:35:27Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "26fed225-c307-4af8-b47a-5bc603178552",
+      "title": "The Young Robot and the Dangerous Professor",
+      "url": "https://mangadex.org/title/26fed225-c307-4af8-b47a-5bc603178552",
+      "removed_at": "2026-09-19T22:35:27Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "57a981a8-fa23-48c5-971b-1329e3d9bb0b",
+      "title": "I Opened an Orphanage in Another World, but for Some Reason No One Wants to Leave.",
+      "url": "https://mangadex.org/title/57a981a8-fa23-48c5-971b-1329e3d9bb0b",
+      "removed_at": "2026-09-19T22:35:27Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "bca97160-0c38-4d01-bb5e-7608321b323b",
+      "title": "Something Naughty Would Happen If They Knew Each Other's Thoughts",
+      "url": "https://mangadex.org/title/bca97160-0c38-4d01-bb5e-7608321b323b",
+      "removed_at": "2026-09-19T22:35:27Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "ca5fb826-a0be-4c9b-8b38-13c0a444c86b",
+      "title": "Sem título",
+      "url": "https://mangadex.org/title/ca5fb826-a0be-4c9b-8b38-13c0a444c86b",
+      "removed_at": "2026-09-19T22:35:27Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "ef1e89d8-2ea8-426d-80c8-0c87c9377334",
+      "title": "Sem título",
+      "url": "https://mangadex.org/title/ef1e89d8-2ea8-426d-80c8-0c87c9377334",
+      "removed_at": "2026-09-19T22:35:27Z"
+    }
+  ]
+}
