@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-09-19T07:27:30Z",
+  "updated_at": "2026-09-19T11:59:53Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -923,9 +923,10 @@
       "title": "Versatile Mage",
       "url": "https://mangadex.org/title/44f84cc1-819c-47a6-a59f-43d016f72b43",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-19T11:59:53Z",
+      "removed_by_source": true
     },
     "4684953a-6bbc-4c05-82d1-808ce77960ea": {
       "title": "My Girlfriend is Devilishly Sweet",
@@ -1118,9 +1119,10 @@
       "title": "Eden of Witches",
       "url": "https://mangadex.org/title/51e8b63a-00ca-4d71-8031-41ccc647324c",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-19T11:59:53Z",
+      "removed_by_source": true
     },
     "51f96647-89e6-430a-a96a-f45e72543f8c": {
       "title": "We're Newlyweds but I Still Can’t Sleep With Her, because she's the Team Captain",
@@ -1420,9 +1422,10 @@
       "title": "Father, Unrivaled",
       "url": "https://mangadex.org/title/62c802ff-25ce-4b1c-aa94-55251c84ed0c",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-19T11:59:53Z",
+      "removed_by_source": true
     },
     "62d99da1-33e7-45cf-98a2-ca4544fc0344": {
       "title": "My Yuri Started with Slavery",
@@ -1873,9 +1876,10 @@
       "title": "The Duke of Death and His Maid",
       "url": "https://mangadex.org/title/7f952b22-812d-4252-88e1-a99818f13acd",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-19T11:59:53Z",
+      "removed_by_source": true
     },
     "813e1105-49c2-4853-9f59-34df06fcb80c": {
       "title": "Miss Kitty and Her Bodyguards",
@@ -2770,9 +2774,10 @@
       "title": "I'm in Charge of Monsters",
       "url": "https://mangadex.org/title/b393d984-007a-4671-92c2-e7906d1c8cba",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-19T11:59:53Z",
+      "removed_by_source": true
     },
     "b3949b7e-a3c1-4532-b571-279b0f44a01d": {
       "title": "Hero Classroom",
@@ -2786,9 +2791,10 @@
       "title": "The New Gate",
       "url": "https://mangadex.org/title/b41bef1e-7df9-4255-bd82-ecf570fec566",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-19T11:59:53Z",
+      "removed_by_source": true
     },
     "b4e88857-45f1-48e4-a0a0-36ead70970e7": {
       "title": "NIRAIKANAI",
@@ -3231,9 +3237,10 @@
       "title": "Vagabond",
       "url": "https://mangadex.org/title/d1a9fdeb-f713-407f-960c-8326b586e6fd",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-19T11:59:53Z",
+      "removed_by_source": true
     },
     "d1f8fd50-3e24-4397-9b03-a4aa81f3475a": {
       "title": "Dear Self-styled F-Rank Bro' Says, He's gonna Rule a Game-Oriented School.",
@@ -3532,17 +3539,19 @@
       "title": "The Former Hero Wants to Live Peacefully",
       "url": "https://mangadex.org/title/e0de090b-1bc2-4e2c-afe1-a69a0a2a29d7",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-19T11:59:53Z",
+      "removed_by_source": true
     },
     "e18fe8c6-f6dc-4f05-8462-7b2083ff9a6c": {
       "title": "The Apothecary Diaries",
       "url": "https://mangadex.org/title/e18fe8c6-f6dc-4f05-8462-7b2083ff9a6c",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-19T11:59:53Z",
+      "removed_by_source": true
     },
     "e1d0056a-fdd3-4f32-af19-50eeb37280ac": {
       "title": "New Normal",
@@ -3744,9 +3753,10 @@
       "title": "Slacking Master Komukai-san won't Let Me Off!",
       "url": "https://mangadex.org/title/ee03b8cd-29f9-4340-8e9b-8e8db57c3393",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-19T11:59:53Z",
+      "removed_by_source": true
     },
     "ee4bf782-9fe9-42a6-be7f-3809293818c2": {
       "title": "Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing",
@@ -3980,9 +3990,10 @@
       "title": "Revenge of the Baskerville Bloodhound",
       "url": "https://mangadex.org/title/fbf326f7-ccbd-4d54-bbad-852d76e46523",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-19T11:59:53Z",
+      "removed_by_source": true
     },
     "fc259ec6-bfc0-46db-876a-269035dc53b3": {
       "title": "Secret Family",
@@ -4462,6 +4473,86 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-09-19T07:27:30Z",
+      "removed_at": null
+    },
+    "29a0218e-8aac-4f92-887f-5940cb86f136": {
+      "title": "Assassin's Pride",
+      "url": "https://mangadex.org/title/29a0218e-8aac-4f92-887f-5940cb86f136",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-19T11:59:53Z",
+      "removed_at": null
+    },
+    "3dda9dc7-be06-4f27-af07-670786ceee4e": {
+      "title": "Shibuya Near Family",
+      "url": "https://mangadex.org/title/3dda9dc7-be06-4f27-af07-670786ceee4e",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-19T11:59:53Z",
+      "removed_at": null
+    },
+    "4ffd1f8f-ab82-4de4-9dea-e0608c043d7b": {
+      "title": "MookHyang: Dark Lady",
+      "url": "https://mangadex.org/title/4ffd1f8f-ab82-4de4-9dea-e0608c043d7b",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-19T11:59:53Z",
+      "removed_at": null
+    },
+    "7889434b-d9a5-454c-8ea1-8c7a4509fc51": {
+      "title": "Servamp",
+      "url": "https://mangadex.org/title/7889434b-d9a5-454c-8ea1-8c7a4509fc51",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-19T11:59:53Z",
+      "removed_at": null
+    },
+    "7a9d76c3-42b9-4bcf-81d7-ad307d2ea971": {
+      "title": "JoJo's Bizarre Adventure, Part 8: JoJolion - Digital Colored Comics",
+      "url": "https://mangadex.org/title/7a9d76c3-42b9-4bcf-81d7-ad307d2ea971",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-19T11:59:53Z",
+      "removed_at": null
+    },
+    "8589d1a7-01a3-469e-a1ae-8a682f8c987a": {
+      "title": "Kaibutsu Oujo",
+      "url": "https://mangadex.org/title/8589d1a7-01a3-469e-a1ae-8a682f8c987a",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-19T11:59:53Z",
+      "removed_at": null
+    },
+    "b7ebc129-8729-4121-9f11-c3260d3d97ed": {
+      "title": "Prince Sun Wants to Be a Wife",
+      "url": "https://mangadex.org/title/b7ebc129-8729-4121-9f11-c3260d3d97ed",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-19T11:59:53Z",
+      "removed_at": null
+    },
+    "b90aae00-1fc5-4b24-92ae-08dcbac1fc6d": {
+      "title": "Living Together with the Queen from My High School Days Who was Arrogant, Surprisingly isn't That Uncomfortable",
+      "url": "https://mangadex.org/title/b90aae00-1fc5-4b24-92ae-08dcbac1fc6d",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-19T11:59:53Z",
+      "removed_at": null
+    },
+    "bcfa196d-d162-45f5-a224-61d26b04a077": {
+      "title": "Konosuba: God's Blessing on This Wonderful World!",
+      "url": "https://mangadex.org/title/bcfa196d-d162-45f5-a224-61d26b04a077",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-19T11:59:53Z",
+      "removed_at": null
+    },
+    "c1d990dd-9ff2-4e47-b93d-5e56e34c5069": {
+      "title": "Digimon Xros Wars",
+      "url": "https://mangadex.org/title/c1d990dd-9ff2-4e47-b93d-5e56e34c5069",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-19T11:59:53Z",
       "removed_at": null
     }
   }
