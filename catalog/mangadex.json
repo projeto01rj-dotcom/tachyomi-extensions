@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-09-19T11:59:53Z",
+  "updated_at": "2026-09-19T15:40:30Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -648,9 +648,10 @@
       "title": "The War of Greedy Witches",
       "url": "https://mangadex.org/title/2b37189e-0bb2-4586-9757-b3fe6acd77b3",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-19T15:40:30Z",
+      "removed_by_source": true
     },
     "2cf5ac51-8ad6-46a5-a921-2e2f26b5fcf1": {
       "title": "The Result of Confessing to the Class Angel",
@@ -769,9 +770,10 @@
       "title": "Touch",
       "url": "https://mangadex.org/title/36b4c3d4-629d-45cb-b911-ae0906f6b544",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-19T15:40:30Z",
+      "removed_by_source": true
     },
     "37816dc3-20a5-44b7-a889-b245b85e036d": {
       "title": "Bullying and Being Bullied",
@@ -842,9 +844,10 @@
       "title": "Their Story",
       "url": "https://mangadex.org/title/3f1453fb-9dac-4aca-a2ea-69613856c952",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-19T15:40:30Z",
+      "removed_by_source": true
     },
     "4002af95-b501-4cce-b1bd-ccf0b21d5bdc": {
       "title": "Please Take My Brother Away!",
@@ -1584,9 +1587,10 @@
       "title": "SPY×FAMILY",
       "url": "https://mangadex.org/title/6b958848-c885-4735-9201-12ee77abcb3c",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-19T15:40:30Z",
+      "removed_by_source": true
     },
     "6bae5c8c-d5ff-43df-acf7-b7670532c8b1": {
       "title": "This Is Screwed up, but I was Reincarnated as a GIRL in Another World!",
@@ -1780,9 +1784,10 @@
       "title": "Cheeky Brat",
       "url": "https://mangadex.org/title/787a9f0c-6f48-401c-8edc-d6ee07516c4f",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-19T15:40:30Z",
+      "removed_by_source": true
     },
     "7991e715-40ae-4c3e-b0e0-aa8bee90ece7": {
       "title": "Me and the Prez, Drinking Under the Stars",
@@ -2264,9 +2269,10 @@
       "title": "It’s Not like I Like Haruno-san at All!",
       "url": "https://mangadex.org/title/943cad8a-3975-4dee-a0f9-d752277f6573",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-19T15:40:30Z",
+      "removed_by_source": true
     },
     "947cdce5-182e-4ff3-9484-218c638e88ac": {
       "title": "The Blue Wolves of Mibu",
@@ -2523,9 +2529,10 @@
       "title": "One Piece (Official Colored)",
       "url": "https://mangadex.org/title/a2c1d849-af05-4bbc-b2a7-866ebb10331f",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-19T15:40:30Z",
+      "removed_by_source": true
     },
     "a3e48f50-d3d1-4d08-b54a-a3b7ad4b0801": {
       "title": "How to Grill Our Love",
@@ -2579,9 +2586,10 @@
       "title": "Kabuto Mushi",
       "url": "https://mangadex.org/title/a6a46436-9ed4-4c20-8b11-6f4a0f74b23a",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-19T15:40:30Z",
+      "removed_by_source": true
     },
     "a6c86be9-0d1f-4829-9221-379c2341ed4d": {
       "title": "Hanzo and 13 Kunoichis",
@@ -2619,9 +2627,10 @@
       "title": "Yachiru-san Grows When Praised",
       "url": "https://mangadex.org/title/a808df79-d798-4ed7-9d25-298520d5b250",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-19T15:40:30Z",
+      "removed_by_source": true
     },
     "a80c6284-5a1f-4a53-99ea-e4e7fd3b87e5": {
       "title": "Creepy Cat  ~ My Strange Daily Life with a Cat ~",
@@ -3270,9 +3279,10 @@
       "title": "Unmei no Hito ni Deau Hanashi",
       "url": "https://mangadex.org/title/d2ff93e0-2c15-4f92-9ea4-ca029f7b9acc",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-19T15:40:30Z",
+      "removed_by_source": true
     },
     "d34ba929-11ee-4511-a3ae-40ab7b608c7b": {
       "title": "Please Don't Die!",
@@ -3762,9 +3772,10 @@
       "title": "Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing",
       "url": "https://mangadex.org/title/ee4bf782-9fe9-42a6-be7f-3809293818c2",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-19T15:40:30Z",
+      "removed_by_source": true
     },
     "ee96e2b7-9af2-4864-9656-649f4d3b6fec": {
       "title": "Gals Can't Be Kind to Otaku!?",
@@ -4553,6 +4564,94 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-09-19T11:59:53Z",
+      "removed_at": null
+    },
+    "0d4b349e-b7a2-4d63-9ce0-f864e790c4a2": {
+      "title": "Veil",
+      "url": "https://mangadex.org/title/0d4b349e-b7a2-4d63-9ce0-f864e790c4a2",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-19T15:40:30Z",
+      "removed_at": null
+    },
+    "18ef1e92-f574-4c8c-99af-555e44ba418e": {
+      "title": "Eastern Thorned Poet Hermit ~ Wild and Horned Hermit.",
+      "url": "https://mangadex.org/title/18ef1e92-f574-4c8c-99af-555e44ba418e",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-19T15:40:30Z",
+      "removed_at": null
+    },
+    "20d74873-a9d2-4f9e-a2ae-221be54ed620": {
+      "title": "Yandere Story",
+      "url": "https://mangadex.org/title/20d74873-a9d2-4f9e-a2ae-221be54ed620",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-19T15:40:30Z",
+      "removed_at": null
+    },
+    "469b4919-e422-415c-bd44-18fcb0d4687b": {
+      "title": "The Moon Does Not Count Sheep",
+      "url": "https://mangadex.org/title/469b4919-e422-415c-bd44-18fcb0d4687b",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-19T15:40:30Z",
+      "removed_at": null
+    },
+    "636933aa-976e-4455-8082-36751a554be0": {
+      "title": "Unnamed Memory",
+      "url": "https://mangadex.org/title/636933aa-976e-4455-8082-36751a554be0",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-19T15:40:30Z",
+      "removed_at": null
+    },
+    "6e156d65-cf65-4d5b-9d04-52f2f8100fbf": {
+      "title": "Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin",
+      "url": "https://mangadex.org/title/6e156d65-cf65-4d5b-9d04-52f2f8100fbf",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-19T15:40:30Z",
+      "removed_at": null
+    },
+    "7714747b-047b-438d-bdeb-87b9d7cb792a": {
+      "title": "Dream Team Retsuden",
+      "url": "https://mangadex.org/title/7714747b-047b-438d-bdeb-87b9d7cb792a",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-19T15:40:30Z",
+      "removed_at": null
+    },
+    "a4054c29-3fee-407c-992e-f3d1b8bcdbfb": {
+      "title": "Oyasumi Stray Sheep",
+      "url": "https://mangadex.org/title/a4054c29-3fee-407c-992e-f3d1b8bcdbfb",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-19T15:40:30Z",
+      "removed_at": null
+    },
+    "c02343b3-74e4-4057-b34a-90e08d93f95a": {
+      "title": "Is the Order a Rabbit?",
+      "url": "https://mangadex.org/title/c02343b3-74e4-4057-b34a-90e08d93f95a",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-19T15:40:30Z",
+      "removed_at": null
+    },
+    "e896c48c-3150-437d-ba57-d8567eb399ae": {
+      "title": "Chainsaw Man (Official Colored)",
+      "url": "https://mangadex.org/title/e896c48c-3150-437d-ba57-d8567eb399ae",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-19T15:40:30Z",
+      "removed_at": null
+    },
+    "f8a6e3ef-d7a8-4aa3-89b2-03ef234deae6": {
+      "title": "The Villainess' Bride",
+      "url": "https://mangadex.org/title/f8a6e3ef-d7a8-4aa3-89b2-03ef234deae6",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-19T15:40:30Z",
       "removed_at": null
     }
   }
