@@ -1,0 +1,184 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-09-19T07:27:30Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "1f9fb803-733a-4104-bea3-f4b449da5e3c",
+      "title": "My Neighbor Ms. Kurokawa",
+      "url": "https://mangadex.org/title/1f9fb803-733a-4104-bea3-f4b449da5e3c"
+    },
+    {
+      "source": "mangadex",
+      "key": "2e0fdb3b-632c-4f8f-a311-5b56952db647",
+      "title": "Bocchi the Rock!",
+      "url": "https://mangadex.org/title/2e0fdb3b-632c-4f8f-a311-5b56952db647"
+    },
+    {
+      "source": "mangadex",
+      "key": "2f0af125-71c3-462f-b518-bf431f52a51e",
+      "title": "Managing a Wild Idol",
+      "url": "https://mangadex.org/title/2f0af125-71c3-462f-b518-bf431f52a51e"
+    },
+    {
+      "source": "mangadex",
+      "key": "315d9d7d-6875-4e48-ab96-fbb7b9c8f3f2",
+      "title": "I’m a Kept Man for the Three Most Beautiful Girls in School",
+      "url": "https://mangadex.org/title/315d9d7d-6875-4e48-ab96-fbb7b9c8f3f2"
+    },
+    {
+      "source": "mangadex",
+      "key": "372d2266-3034-41e6-83f7-5d2d0fadfe19",
+      "title": "I Want It!!",
+      "url": "https://mangadex.org/title/372d2266-3034-41e6-83f7-5d2d0fadfe19"
+    },
+    {
+      "source": "mangadex",
+      "key": "4e338970-63e8-489c-b937-5e7e3005e1e3",
+      "title": "Mikoto-chan Doesn't Want to Be Hated!",
+      "url": "https://mangadex.org/title/4e338970-63e8-489c-b937-5e7e3005e1e3"
+    },
+    {
+      "source": "mangadex",
+      "key": "547b5366-e71a-400d-b48e-7d4447ac1cf3",
+      "title": "A Parallel World with a 1:39 Male to Female Ratio is Unexpectedly Normal",
+      "url": "https://mangadex.org/title/547b5366-e71a-400d-b48e-7d4447ac1cf3"
+    },
+    {
+      "source": "mangadex",
+      "key": "5c151924-f2b6-4d3e-8dba-3a64adc8e205",
+      "title": "The World's Strongest Butler: I was Banished from a Black Workplace, and I was Picked Up by the Ice Lady",
+      "url": "https://mangadex.org/title/5c151924-f2b6-4d3e-8dba-3a64adc8e205"
+    },
+    {
+      "source": "mangadex",
+      "key": "77ae6d99-0d2d-4f63-8903-6246cac20897",
+      "title": "Tearmoon Empire",
+      "url": "https://mangadex.org/title/77ae6d99-0d2d-4f63-8903-6246cac20897"
+    },
+    {
+      "source": "mangadex",
+      "key": "7b727ae2-2842-4c46-af8b-9162b7806659",
+      "title": "Girl Meets Rock!",
+      "url": "https://mangadex.org/title/7b727ae2-2842-4c46-af8b-9162b7806659"
+    },
+    {
+      "source": "mangadex",
+      "key": "949b20c3-de22-4e7b-989f-b26a8cdf7ecb",
+      "title": "DOGSRED",
+      "url": "https://mangadex.org/title/949b20c3-de22-4e7b-989f-b26a8cdf7ecb"
+    },
+    {
+      "source": "mangadex",
+      "key": "b65fbf0e-6768-407d-ba79-fa9fcb319155",
+      "title": "Hope You're Happy, Lemon",
+      "url": "https://mangadex.org/title/b65fbf0e-6768-407d-ba79-fa9fcb319155"
+    },
+    {
+      "source": "mangadex",
+      "key": "d964361f-042a-4c1b-907d-3c907dd50060",
+      "title": "A Ninja and an Assassin Under One Roof",
+      "url": "https://mangadex.org/title/d964361f-042a-4c1b-907d-3c907dd50060"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "061ef842-fc90-49c1-bf1c-9106b8660dfb",
+      "title": "Tayutau Kemuri wa Tsukamenai",
+      "url": "https://mangadex.org/title/061ef842-fc90-49c1-bf1c-9106b8660dfb",
+      "removed_at": "2026-09-19T07:27:30Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "34e45b02-b5c8-4a4b-a21a-7b5059391dc8",
+      "title": "To You, The Immortal",
+      "url": "https://mangadex.org/title/34e45b02-b5c8-4a4b-a21a-7b5059391dc8",
+      "removed_at": "2026-09-19T07:27:30Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "48db4722-3e23-46f2-9132-680dddb67266",
+      "title": "King of the Labyrinth",
+      "url": "https://mangadex.org/title/48db4722-3e23-46f2-9132-680dddb67266",
+      "removed_at": "2026-09-19T07:27:30Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "54e9d914-3c14-4a75-9650-e305291830c7",
+      "title": "Waves, Listen to me!",
+      "url": "https://mangadex.org/title/54e9d914-3c14-4a75-9650-e305291830c7",
+      "removed_at": "2026-09-19T07:27:30Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "600f467c-9613-4056-aa21-bb2ecc295b84",
+      "title": "I'm Sick and Tired of My Childhood Friend's, Now Girlfriend's, Constant Abuse, so I Broke up With Her",
+      "url": "https://mangadex.org/title/600f467c-9613-4056-aa21-bb2ecc295b84",
+      "removed_at": "2026-09-19T07:27:30Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "61791741-2f56-4409-baa3-7d989d6ad0d8",
+      "title": "Leave It to a Teacher to Get Back at a Bully",
+      "url": "https://mangadex.org/title/61791741-2f56-4409-baa3-7d989d6ad0d8",
+      "removed_at": "2026-09-19T07:27:30Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "748d2aab-cea8-4ffb-89b3-e716872cb027",
+      "title": "A Slow Life After Being Expelled, Which I Never Wanted?: I was Supposed to Have Retired, but Somehow I Ended Up Becoming a Beautiful Girl's Mentor, and for Some Reason, She Has Taken a Liking to Me.",
+      "url": "https://mangadex.org/title/748d2aab-cea8-4ffb-89b3-e716872cb027",
+      "removed_at": "2026-09-19T07:27:30Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "9dc08c5f-be0e-4fd3-800e-75a45321dcdf",
+      "title": "A Day With Rinko-chan",
+      "url": "https://mangadex.org/title/9dc08c5f-be0e-4fd3-800e-75a45321dcdf",
+      "removed_at": "2026-09-19T07:27:30Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "adc21bdd-68aa-4551-8bd8-3ae82cd25f96",
+      "title": "I Died Protecting My Comrades and Was Reborn Twenty Years Later in the Same World… But This Is My Second Reincarnation?",
+      "url": "https://mangadex.org/title/adc21bdd-68aa-4551-8bd8-3ae82cd25f96",
+      "removed_at": "2026-09-19T07:27:30Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "b2ba7d52-9cbb-4673-a74c-68642a13f743",
+      "title": "Big Sister's Here!",
+      "url": "https://mangadex.org/title/b2ba7d52-9cbb-4673-a74c-68642a13f743",
+      "removed_at": "2026-09-19T07:27:30Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "b32ce72b-cf37-4cf7-8600-ba021598ddff",
+      "title": "Love is Still Too Early for Himeno-chan",
+      "url": "https://mangadex.org/title/b32ce72b-cf37-4cf7-8600-ba021598ddff",
+      "removed_at": "2026-09-19T07:27:30Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "bc8f71a4-49d8-498b-a231-10faa0d53ab6",
+      "title": "Stardust Telepath",
+      "url": "https://mangadex.org/title/bc8f71a4-49d8-498b-a231-10faa0d53ab6",
+      "removed_at": "2026-09-19T07:27:30Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "d5ffa67c-723a-404d-b059-0ed5a3288877",
+      "title": "Sem título",
+      "url": "https://mangadex.org/title/d5ffa67c-723a-404d-b059-0ed5a3288877",
+      "removed_at": "2026-09-19T07:27:30Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "ee96e2b7-9af2-4864-9656-649f4d3b6fec",
+      "title": "Gals Can't Be Kind to Otaku!?",
+      "url": "https://mangadex.org/title/ee96e2b7-9af2-4864-9656-649f4d3b6fec",
+      "removed_at": "2026-09-19T07:27:30Z"
+    }
+  ]
+}

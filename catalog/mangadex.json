@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-09-19T02:25:51Z",
+  "updated_at": "2026-09-19T07:27:30Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -48,9 +48,10 @@
       "title": "Tayutau Kemuri wa Tsukamenai",
       "url": "https://mangadex.org/title/061ef842-fc90-49c1-bf1c-9106b8660dfb",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-19T07:27:30Z",
+      "removed_by_source": true
     },
     "062f098a-88bb-48f4-b022-3b7afa87bc47": {
       "title": "The Great Cleric",
@@ -751,9 +752,10 @@
       "title": "To You, The Immortal",
       "url": "https://mangadex.org/title/34e45b02-b5c8-4a4b-a21a-7b5059391dc8",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-19T07:27:30Z",
+      "removed_by_source": true
     },
     "356de811-ae92-48f1-b93b-cfdf0f8d02e4": {
       "title": "Now That We Draw",
@@ -977,9 +979,10 @@
       "title": "King of the Labyrinth",
       "url": "https://mangadex.org/title/48db4722-3e23-46f2-9132-680dddb67266",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-19T07:27:30Z",
+      "removed_by_source": true
     },
     "4911120a-723f-4c36-af98-00dc2b7b2f76": {
       "title": "The Hole in My Heart Cannot Be Filled with Reincarnation",
@@ -1155,9 +1158,10 @@
       "title": "Waves, Listen to me!",
       "url": "https://mangadex.org/title/54e9d914-3c14-4a75-9650-e305291830c7",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-19T07:27:30Z",
+      "removed_by_source": true
     },
     "55028f3b-448a-43ac-8f35-894256aeb062": {
       "title": "23:4",
@@ -1358,9 +1362,10 @@
       "title": "I'm Sick and Tired of My Childhood Friend's, Now Girlfriend's, Constant Abuse, so I Broke up With Her",
       "url": "https://mangadex.org/title/600f467c-9613-4056-aa21-bb2ecc295b84",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-19T07:27:30Z",
+      "removed_by_source": true
     },
     "607759cc-aa6a-4470-8f7c-9bbf8253b915": {
       "title": "Taika's Reason",
@@ -1374,9 +1379,10 @@
       "title": "Leave It to a Teacher to Get Back at a Bully",
       "url": "https://mangadex.org/title/61791741-2f56-4409-baa3-7d989d6ad0d8",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-19T07:27:30Z",
+      "removed_by_source": true
     },
     "61889f95-60b7-4406-a5db-b256d2a742ae": {
       "title": "Bungou Stray Dogs: The Day I Picked Up Dazai",
@@ -1698,9 +1704,10 @@
       "title": "A Slow Life After Being Expelled, Which I Never Wanted?: I was Supposed to Have Retired, but Somehow I Ended Up Becoming a Beautiful Girl's Mentor, and for Some Reason, She Has Taken a Liking to Me.",
       "url": "https://mangadex.org/title/748d2aab-cea8-4ffb-89b3-e716872cb027",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-19T07:27:30Z",
+      "removed_by_source": true
     },
     "74ad3ad0-41e2-4919-a3dd-e5061c3444da": {
       "title": "Why Don't You Make the Twins Your \"Girlfriend\" Together?",
@@ -2422,9 +2429,10 @@
       "title": "A Day With Rinko-chan",
       "url": "https://mangadex.org/title/9dc08c5f-be0e-4fd3-800e-75a45321dcdf",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-19T07:27:30Z",
+      "removed_by_source": true
     },
     "9ded1dbf-495b-43a2-a65c-6d220a67fc0e": {
       "title": "Just Listen to the Song",
@@ -2655,9 +2663,10 @@
       "title": "I Died Protecting My Comrades and Was Reborn Twenty Years Later in the Same World… But This Is My Second Reincarnation?",
       "url": "https://mangadex.org/title/adc21bdd-68aa-4551-8bd8-3ae82cd25f96",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-19T07:27:30Z",
+      "removed_by_source": true
     },
     "ae55f0e6-d979-4a55-865e-352ac49d5527": {
       "title": "I'm Being Spoiled By My Cousin Big Sister?",
@@ -2735,17 +2744,19 @@
       "title": "Big Sister's Here!",
       "url": "https://mangadex.org/title/b2ba7d52-9cbb-4673-a74c-68642a13f743",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-19T07:27:30Z",
+      "removed_by_source": true
     },
     "b32ce72b-cf37-4cf7-8600-ba021598ddff": {
       "title": "Love is Still Too Early for Himeno-chan",
       "url": "https://mangadex.org/title/b32ce72b-cf37-4cf7-8600-ba021598ddff",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-19T07:27:30Z",
+      "removed_by_source": true
     },
     "b3583a62-1184-4a61-b18e-9497a81b1673": {
       "title": "Hoshi of Girls' Garden",
@@ -2897,9 +2908,10 @@
       "title": "Stardust Telepath",
       "url": "https://mangadex.org/title/bc8f71a4-49d8-498b-a231-10faa0d53ab6",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-19T07:27:30Z",
+      "removed_by_source": true
     },
     "bca97160-0c38-4d01-bb5e-7608321b323b": {
       "title": "Something Naughty Would Happen If They Knew Each Other's Thoughts",
@@ -3332,9 +3344,10 @@
       "title": "Sem título",
       "url": "https://mangadex.org/title/d5ffa67c-723a-404d-b059-0ed5a3288877",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-19T07:27:30Z",
+      "removed_by_source": true
     },
     "d64b0768-bebe-433c-b923-99870503c0a3": {
       "title": "Dark Gathering",
@@ -3747,9 +3760,10 @@
       "title": "Gals Can't Be Kind to Otaku!?",
       "url": "https://mangadex.org/title/ee96e2b7-9af2-4864-9656-649f4d3b6fec",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-19T07:27:30Z",
+      "removed_by_source": true
     },
     "ef1e89d8-2ea8-426d-80c8-0c87c9377334": {
       "title": "Sem título",
@@ -4344,6 +4358,110 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-09-19T02:25:51Z",
+      "removed_at": null
+    },
+    "1f9fb803-733a-4104-bea3-f4b449da5e3c": {
+      "title": "My Neighbor Ms. Kurokawa",
+      "url": "https://mangadex.org/title/1f9fb803-733a-4104-bea3-f4b449da5e3c",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-19T07:27:30Z",
+      "removed_at": null
+    },
+    "2e0fdb3b-632c-4f8f-a311-5b56952db647": {
+      "title": "Bocchi the Rock!",
+      "url": "https://mangadex.org/title/2e0fdb3b-632c-4f8f-a311-5b56952db647",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-19T07:27:30Z",
+      "removed_at": null
+    },
+    "2f0af125-71c3-462f-b518-bf431f52a51e": {
+      "title": "Managing a Wild Idol",
+      "url": "https://mangadex.org/title/2f0af125-71c3-462f-b518-bf431f52a51e",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-19T07:27:30Z",
+      "removed_at": null
+    },
+    "315d9d7d-6875-4e48-ab96-fbb7b9c8f3f2": {
+      "title": "I’m a Kept Man for the Three Most Beautiful Girls in School",
+      "url": "https://mangadex.org/title/315d9d7d-6875-4e48-ab96-fbb7b9c8f3f2",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-19T07:27:30Z",
+      "removed_at": null
+    },
+    "372d2266-3034-41e6-83f7-5d2d0fadfe19": {
+      "title": "I Want It!!",
+      "url": "https://mangadex.org/title/372d2266-3034-41e6-83f7-5d2d0fadfe19",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-19T07:27:30Z",
+      "removed_at": null
+    },
+    "4e338970-63e8-489c-b937-5e7e3005e1e3": {
+      "title": "Mikoto-chan Doesn't Want to Be Hated!",
+      "url": "https://mangadex.org/title/4e338970-63e8-489c-b937-5e7e3005e1e3",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-19T07:27:30Z",
+      "removed_at": null
+    },
+    "547b5366-e71a-400d-b48e-7d4447ac1cf3": {
+      "title": "A Parallel World with a 1:39 Male to Female Ratio is Unexpectedly Normal",
+      "url": "https://mangadex.org/title/547b5366-e71a-400d-b48e-7d4447ac1cf3",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-19T07:27:30Z",
+      "removed_at": null
+    },
+    "5c151924-f2b6-4d3e-8dba-3a64adc8e205": {
+      "title": "The World's Strongest Butler: I was Banished from a Black Workplace, and I was Picked Up by the Ice Lady",
+      "url": "https://mangadex.org/title/5c151924-f2b6-4d3e-8dba-3a64adc8e205",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-19T07:27:30Z",
+      "removed_at": null
+    },
+    "77ae6d99-0d2d-4f63-8903-6246cac20897": {
+      "title": "Tearmoon Empire",
+      "url": "https://mangadex.org/title/77ae6d99-0d2d-4f63-8903-6246cac20897",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-19T07:27:30Z",
+      "removed_at": null
+    },
+    "7b727ae2-2842-4c46-af8b-9162b7806659": {
+      "title": "Girl Meets Rock!",
+      "url": "https://mangadex.org/title/7b727ae2-2842-4c46-af8b-9162b7806659",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-19T07:27:30Z",
+      "removed_at": null
+    },
+    "949b20c3-de22-4e7b-989f-b26a8cdf7ecb": {
+      "title": "DOGSRED",
+      "url": "https://mangadex.org/title/949b20c3-de22-4e7b-989f-b26a8cdf7ecb",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-19T07:27:30Z",
+      "removed_at": null
+    },
+    "b65fbf0e-6768-407d-ba79-fa9fcb319155": {
+      "title": "Hope You're Happy, Lemon",
+      "url": "https://mangadex.org/title/b65fbf0e-6768-407d-ba79-fa9fcb319155",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-19T07:27:30Z",
+      "removed_at": null
+    },
+    "d964361f-042a-4c1b-907d-3c907dd50060": {
+      "title": "A Ninja and an Assassin Under One Roof",
+      "url": "https://mangadex.org/title/d964361f-042a-4c1b-907d-3c907dd50060",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-19T07:27:30Z",
       "removed_at": null
     }
   }
