@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-09-20T00:31:21Z",
+  "updated_at": "2026-09-20T05:34:06Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -589,9 +589,10 @@
       "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2-nensei-hen 2nd Stage",
       "url": "https://mangadex.org/title/26e4421f-cef8-4775-8bf6-423061d9b43e",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-20T05:34:06Z",
+      "removed_by_source": true
     },
     "26fed225-c307-4af8-b47a-5bc603178552": {
       "title": "The Young Robot and the Dangerous Professor",
@@ -1207,9 +1208,10 @@
       "title": "Over Rev!",
       "url": "https://mangadex.org/title/5603f107-81fa-455a-973f-5bedf4ea1d7e",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-20T05:34:06Z",
+      "removed_by_source": true
     },
     "5666ae25-a015-4d06-a44e-2dca0446f8fc": {
       "title": "EXP is Golden",
@@ -1332,9 +1334,10 @@
       "title": "Even a Replica Can Fall in Love",
       "url": "https://mangadex.org/title/5ecf58d2-fcac-44f1-8341-97b7ef4fe82e",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-20T05:34:06Z",
+      "removed_by_source": true
     },
     "5ed2558b-66e8-4413-aff8-0ff317f9f1d0": {
       "title": "I Am the Sorcerer King",
@@ -1456,9 +1459,10 @@
       "title": "Yuru Yuri",
       "url": "https://mangadex.org/title/6306c976-d776-48c3-b29f-d345e65f272b",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-20T05:34:06Z",
+      "removed_by_source": true
     },
     "63dbbf80-0189-4ae4-a549-68a0caa2f834": {
       "title": "WITCHRIV",
@@ -2068,9 +2072,10 @@
       "title": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!",
       "url": "https://mangadex.org/title/8791c515-0245-4fcc-81cc-22863a0aba6b",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-20T05:34:06Z",
+      "removed_by_source": true
     },
     "879af0bb-ce30-47e4-a74e-cd1ce874c6e3": {
       "title": "Farming Life in Another World",
@@ -2166,9 +2171,10 @@
       "title": "On the Way to Meet Mom",
       "url": "https://mangadex.org/title/8b8102da-c875-4dae-a79c-c62e817ff3f5",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-20T05:34:06Z",
+      "removed_by_source": true
     },
     "8db5faa9-811e-4b1f-8d00-1814ec68b96c": {
       "title": "Tsuzura-senpai Is My Ex-Girlfriend",
@@ -2254,9 +2260,10 @@
       "title": "Salvos (A Monster Evolution LitRPG)",
       "url": "https://mangadex.org/title/91cfbf64-242c-4e22-a211-db9b4445da46",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-20T05:34:06Z",
+      "removed_by_source": true
     },
     "9258cef1-3b0a-4a02-bccc-7e34580c5c2b": {
       "title": "The Villainess Becomes a Mom",
@@ -2688,9 +2695,10 @@
       "title": "I Started Working a Housekeeping Job and Ended up Being Liked by the Family of the Most Beautiful Girl in School.",
       "url": "https://mangadex.org/title/ad75039d-686c-457f-b478-e56fc3b3c069",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-20T05:34:06Z",
+      "removed_by_source": true
     },
     "adc21bdd-68aa-4551-8bd8-3ae82cd25f96": {
       "title": "I Died Protecting My Comrades and Was Reborn Twenty Years Later in the Same World… But This Is My Second Reincarnation?",
@@ -2891,9 +2899,10 @@
       "title": "One Piece Academy",
       "url": "https://mangadex.org/title/b70113a5-32a3-44e8-a28f-0e88392808ba",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-20T05:34:06Z",
+      "removed_by_source": true
     },
     "b76a0506-5168-431b-8acc-fa340a042f93": {
       "title": "Tenkaichi: The Greatest Warrior Under the Rising Sun",
@@ -3226,9 +3235,10 @@
       "title": "It's a Little Late, but I've Fallen in Love with My Childhood Friend.",
       "url": "https://mangadex.org/title/cf1c93cc-4bb5-4311-b926-0f02ad123ad2",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-20T05:34:06Z",
+      "removed_by_source": true
     },
     "cf4671b6-1ce0-478d-a9f3-366883bbf373": {
       "title": "The Vermilion Mask",
@@ -3909,9 +3919,10 @@
       "title": "Kamiina Botan Fully Blossoms When Drunk",
       "url": "https://mangadex.org/title/f40eeb3a-c3a8-404d-a067-ca1831e60088",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-20T05:34:06Z",
+      "removed_by_source": true
     },
     "f4b2c57f-e35a-4798-8d73-42e898dcd00f": {
       "title": "Home at the Horizon",
@@ -4066,9 +4077,10 @@
       "title": "How Pitiful, Genki-kun",
       "url": "https://mangadex.org/title/fccf8436-e642-4a5e-8c62-60eb99aea92e",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-20T05:34:06Z",
+      "removed_by_source": true
     },
     "fd9577a0-43a3-4610-835f-1cbf903b7e3f": {
       "title": "The Rose of Versailles",
@@ -4932,6 +4944,86 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-09-20T00:31:21Z",
+      "removed_at": null
+    },
+    "0301208d-258a-444a-8ef7-66e433d801b1": {
+      "title": "I'm Gonna Live with You Not Because My Parents Left Me Their Debt but Because I Like You",
+      "url": "https://mangadex.org/title/0301208d-258a-444a-8ef7-66e433d801b1",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-20T05:34:06Z",
+      "removed_at": null
+    },
+    "0422e565-8953-4bda-86a2-9055430ff8cb": {
+      "title": "The Heroines in my Graduation Albums",
+      "url": "https://mangadex.org/title/0422e565-8953-4bda-86a2-9055430ff8cb",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-20T05:34:06Z",
+      "removed_at": null
+    },
+    "05875db7-5d63-4157-86e3-7e148a851b63": {
+      "title": "Embalming: The Another Tale of Frankenstein",
+      "url": "https://mangadex.org/title/05875db7-5d63-4157-86e3-7e148a851b63",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-20T05:34:06Z",
+      "removed_at": null
+    },
+    "1b3d94a9-7d30-482d-9f11-4bd0a69608bb": {
+      "title": "During the Live Streaming, I Proposed to a Female Ghost - And She Actually Agreed?!",
+      "url": "https://mangadex.org/title/1b3d94a9-7d30-482d-9f11-4bd0a69608bb",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-20T05:34:06Z",
+      "removed_at": null
+    },
+    "39a038c6-9699-44fb-9e8a-5cb12fb4a748": {
+      "title": "The Girl I Fell in Love With in Okinawa Speaks in a Heavy Dialect and It's Too Much of a Pain",
+      "url": "https://mangadex.org/title/39a038c6-9699-44fb-9e8a-5cb12fb4a748",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-20T05:34:06Z",
+      "removed_at": null
+    },
+    "3c6f718e-12ef-462e-b774-0e37b7242503": {
+      "title": "Friend Girlfriend",
+      "url": "https://mangadex.org/title/3c6f718e-12ef-462e-b774-0e37b7242503",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-20T05:34:06Z",
+      "removed_at": null
+    },
+    "7d57ab90-c312-4eae-9f2d-a744592476be": {
+      "title": "Liar Liar",
+      "url": "https://mangadex.org/title/7d57ab90-c312-4eae-9f2d-a744592476be",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-20T05:34:06Z",
+      "removed_at": null
+    },
+    "7e3d081f-30f2-475d-83bb-e247cffea3d6": {
+      "title": "Isshiki-san Wants to Know About Love.",
+      "url": "https://mangadex.org/title/7e3d081f-30f2-475d-83bb-e247cffea3d6",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-20T05:34:06Z",
+      "removed_at": null
+    },
+    "bb5f1b24-58a6-49e4-847b-a322c2addbd5": {
+      "title": "You're the Only One I Can See",
+      "url": "https://mangadex.org/title/bb5f1b24-58a6-49e4-847b-a322c2addbd5",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-20T05:34:06Z",
+      "removed_at": null
+    },
+    "d2213279-1b4e-4699-8d6b-334d718b7474": {
+      "title": "My Web Game Wife is a Popular Idol IRL",
+      "url": "https://mangadex.org/title/d2213279-1b4e-4699-8d6b-334d718b7474",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-20T05:34:06Z",
       "removed_at": null
     }
   }
