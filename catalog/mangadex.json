@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-09-20T17:32:57Z",
+  "updated_at": "2026-09-20T20:02:30Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -805,9 +805,10 @@
       "title": "Kaguya-sama: Love Is War",
       "url": "https://mangadex.org/title/37f5cce0-8070-4ada-96e5-fa24b1bd4ff9",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-20T20:02:30Z",
+      "removed_by_source": true
     },
     "38554690-65d0-476f-909a-9b14b3c04e60": {
       "title": "Every Day is a Holiday",
@@ -1038,9 +1039,10 @@
       "title": "The Beginning After the End",
       "url": "https://mangadex.org/title/4ada20eb-085a-491a-8c49-477ab42014d7",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-20T20:02:30Z",
+      "removed_by_source": true
     },
     "4aecf422-7afe-405f-b2d4-e5b80a1872ac": {
       "title": "Glasses with a Chance of Delinquent",
@@ -1055,9 +1057,10 @@
       "title": "The Villainess Who Came to Marry into the Frontier Noble's Household Is an Exceptionally Capable Wife, Isn't She?",
       "url": "https://mangadex.org/title/4bf066dc-3a6d-4c33-997b-6033208c4176",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-20T20:02:30Z",
+      "removed_by_source": true
     },
     "4c08c48b-4b4a-4ed7-a5be-19d2b4a8e2b2": {
       "title": "I Became a Yakuza in Another World: My Peaceful Slow Life Will Have to Wait",
@@ -1783,9 +1786,10 @@
       "title": "Disney Twisted Wonderland: The Comic—Episode of Octavinelle",
       "url": "https://mangadex.org/title/767b0346-b8be-42d8-99a0-62c3590138fa",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-20T20:02:30Z",
+      "removed_by_source": true
     },
     "773e5993-821a-4cea-8b44-f4450112a8f5": {
       "title": "I'm not a villainess!! Just Because I Can Control Darkness, Doesn't Mean I'm a villain",
@@ -2251,9 +2255,10 @@
       "title": "Period",
       "url": "https://mangadex.org/title/904adb96-19df-4f3e-91db-a3dc10d98663",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-20T20:02:30Z",
+      "removed_by_source": true
     },
     "90af37cc-76f4-4c90-bfe0-1e3b85a42da2": {
       "title": "Kamatte Shinsotsu-chan ga Maikai Sasottekuru",
@@ -2517,9 +2522,10 @@
       "title": "WIND BREAKER",
       "url": "https://mangadex.org/title/9eb78304-0436-484d-9a79-a925b45e2731",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-20T20:02:30Z",
+      "removed_by_source": true
     },
     "9ed16bc9-f570-4e71-8dda-aebc098b683b": {
       "title": "The Legend of the Northern Blade",
@@ -2693,9 +2699,10 @@
       "title": "Creepy Cat  ~ My Strange Daily Life with a Cat ~",
       "url": "https://mangadex.org/title/a80c6284-5a1f-4a53-99ea-e4e7fd3b87e5",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-20T20:02:30Z",
+      "removed_by_source": true
     },
     "a990dd6e-7049-4fe0-a281-3909b2498086": {
       "title": "Oosaki-san & Komori-san",
@@ -2837,9 +2844,10 @@
       "title": "Hoshi of Girls' Garden",
       "url": "https://mangadex.org/title/b3583a62-1184-4a61-b18e-9497a81b1673",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-20T20:02:30Z",
+      "removed_by_source": true
     },
     "b393d984-007a-4671-92c2-e7906d1c8cba": {
       "title": "I'm in Charge of Monsters",
@@ -2897,9 +2905,10 @@
       "title": "OUT",
       "url": "https://mangadex.org/title/b6622d86-74c6-47eb-8c92-89bcce50a63b",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-20T20:02:30Z",
+      "removed_by_source": true
     },
     "b6ad3b4c-6906-4e04-9b86-22c6ef24e320": {
       "title": "Umine the Island Inn",
@@ -3210,9 +3219,10 @@
       "title": "Mobile Suit Gundam Thunderbolt",
       "url": "https://mangadex.org/title/c978f893-c764-42f4-9b04-fbf162e4d67a",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-20T20:02:30Z",
+      "removed_by_source": true
     },
     "ca5fb826-a0be-4c9b-8b38-13c0a444c86b": {
       "title": "Sem título",
@@ -4005,9 +4015,10 @@
       "title": "After I Desperately Avoided The Annihilation Ending, My Party Became Unwell",
       "url": "https://mangadex.org/title/f70e8da7-e6b2-4fb6-bd19-192906137c87",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-20T20:02:30Z",
+      "removed_by_source": true
     },
     "f731150b-c2e9-42ce-a5af-5604bcd83c3d": {
       "title": "I Don't Want to Play Matchmaker!",
@@ -5335,6 +5346,54 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-09-20T17:32:57Z",
+      "removed_at": null
+    },
+    "024af7a5-f8ad-4b67-b950-b1708f52b018": {
+      "title": "There Was a Cute Girl in the Hero's Party, so I Tried Confessing to Her",
+      "url": "https://mangadex.org/title/024af7a5-f8ad-4b67-b950-b1708f52b018",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-20T20:02:30Z",
+      "removed_at": null
+    },
+    "1655b797-a968-42b3-a529-c3a98d2fd4d2": {
+      "title": "Date or Kill: Secret Matching",
+      "url": "https://mangadex.org/title/1655b797-a968-42b3-a529-c3a98d2fd4d2",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-20T20:02:30Z",
+      "removed_at": null
+    },
+    "3df1a9a3-a1be-47a3-9e90-9b3e55b1d0ac": {
+      "title": "The Dangers in My Heart",
+      "url": "https://mangadex.org/title/3df1a9a3-a1be-47a3-9e90-9b3e55b1d0ac",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-20T20:02:30Z",
+      "removed_at": null
+    },
+    "67e56a7a-c7ea-4db8-84f0-db19c2034729": {
+      "title": "Seasons of Blossom",
+      "url": "https://mangadex.org/title/67e56a7a-c7ea-4db8-84f0-db19c2034729",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-20T20:02:30Z",
+      "removed_at": null
+    },
+    "6f7b4a77-31ca-4ba6-a4a1-ecaa6a66ee1e": {
+      "title": "The Strongest Tamer: Rejected by Every Guild in the Kingdom, so I Moved Abroad for a Slow Life",
+      "url": "https://mangadex.org/title/6f7b4a77-31ca-4ba6-a4a1-ecaa6a66ee1e",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-20T20:02:30Z",
+      "removed_at": null
+    },
+    "b3175db1-7f49-4321-ad68-5a59e0e53b61": {
+      "title": "Sem título",
+      "url": "https://mangadex.org/title/b3175db1-7f49-4321-ad68-5a59e0e53b61",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-20T20:02:30Z",
       "removed_at": null
     }
   }
