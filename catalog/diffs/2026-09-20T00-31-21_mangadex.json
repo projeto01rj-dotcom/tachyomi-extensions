@@ -1,0 +1,107 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-09-20T00:31:21Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "01eca861-048f-465b-94cd-46fb862b4dc6",
+      "title": "Bookmark of Demise",
+      "url": "https://mangadex.org/title/01eca861-048f-465b-94cd-46fb862b4dc6"
+    },
+    {
+      "source": "mangadex",
+      "key": "0d4f9dba-f55f-4ff7-9f49-52311939504e",
+      "title": "From Old Country Bumpkin to Master Swordsman: My Hotshot Disciples are All Grown Up Now, and They Won't Leave Me Alone",
+      "url": "https://mangadex.org/title/0d4f9dba-f55f-4ff7-9f49-52311939504e"
+    },
+    {
+      "source": "mangadex",
+      "key": "ab541412-f0d0-4fcf-a7a3-084a835d9d4a",
+      "title": "Garuru Girl",
+      "url": "https://mangadex.org/title/ab541412-f0d0-4fcf-a7a3-084a835d9d4a"
+    },
+    {
+      "source": "mangadex",
+      "key": "c1d891a3-7bd2-423a-b56d-3674430c0e88",
+      "title": "Tactless Kubo Wants to Understand Real Love",
+      "url": "https://mangadex.org/title/c1d891a3-7bd2-423a-b56d-3674430c0e88"
+    },
+    {
+      "source": "mangadex",
+      "key": "ebf6b4b1-f514-4e93-8305-0c16c21c7163",
+      "title": "Space Juggernaut",
+      "url": "https://mangadex.org/title/ebf6b4b1-f514-4e93-8305-0c16c21c7163"
+    },
+    {
+      "source": "mangadex",
+      "key": "ee80e31f-0d55-4cd5-9a67-c0bcee3ecc95",
+      "title": "Black Channel",
+      "url": "https://mangadex.org/title/ee80e31f-0d55-4cd5-9a67-c0bcee3ecc95"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "0550851a-961b-4b34-9684-4b2901e62079",
+      "title": "I'm Worried About My Girlfriend, Who Used to be Covered in Bruises",
+      "url": "https://mangadex.org/title/0550851a-961b-4b34-9684-4b2901e62079",
+      "removed_at": "2026-09-20T00:31:21Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "1ae96a86-b943-4c1f-8e06-e46981f6d4d3",
+      "title": "Aoi-kun's Dirty Stories Are Irresistible!!",
+      "url": "https://mangadex.org/title/1ae96a86-b943-4c1f-8e06-e46981f6d4d3",
+      "removed_at": "2026-09-20T00:31:21Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "5a82df5d-efa0-4d97-bf9a-33d1ddb48006",
+      "title": "A Swan for the Cat, Gold for the Firefly",
+      "url": "https://mangadex.org/title/5a82df5d-efa0-4d97-bf9a-33d1ddb48006",
+      "removed_at": "2026-09-20T00:31:21Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "61889f95-60b7-4406-a5db-b256d2a742ae",
+      "title": "Bungou Stray Dogs: The Day I Picked Up Dazai",
+      "url": "https://mangadex.org/title/61889f95-60b7-4406-a5db-b256d2a742ae",
+      "removed_at": "2026-09-20T00:31:21Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "af1f3853-6b99-44a2-b01d-28e9ce9a1e05",
+      "title": "This Alluring Dark Elf Has the Heart of a Middle-Aged Man!",
+      "url": "https://mangadex.org/title/af1f3853-6b99-44a2-b01d-28e9ce9a1e05",
+      "removed_at": "2026-09-20T00:31:21Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "d34ba929-11ee-4511-a3ae-40ab7b608c7b",
+      "title": "Please Don't Die!",
+      "url": "https://mangadex.org/title/d34ba929-11ee-4511-a3ae-40ab7b608c7b",
+      "removed_at": "2026-09-20T00:31:21Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "dbdffb51-7817-40af-a090-e6c68f42d7e3",
+      "title": "A Flirty and Devoted Kouhai (Pre-Serialization)",
+      "url": "https://mangadex.org/title/dbdffb51-7817-40af-a090-e6c68f42d7e3",
+      "removed_at": "2026-09-20T00:31:21Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "e1d0056a-fdd3-4f32-af19-50eeb37280ac",
+      "title": "New Normal",
+      "url": "https://mangadex.org/title/e1d0056a-fdd3-4f32-af19-50eeb37280ac",
+      "removed_at": "2026-09-20T00:31:21Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "fc259ec6-bfc0-46db-876a-269035dc53b3",
+      "title": "Secret Family",
+      "url": "https://mangadex.org/title/fc259ec6-bfc0-46db-876a-269035dc53b3",
+      "removed_at": "2026-09-20T00:31:21Z"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-09-19T22:35:27Z",
+  "updated_at": "2026-09-20T00:31:21Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -33,9 +33,10 @@
       "title": "I'm Worried About My Girlfriend, Who Used to be Covered in Bruises",
       "url": "https://mangadex.org/title/0550851a-961b-4b34-9684-4b2901e62079",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-20T00:31:21Z",
+      "removed_by_source": true
     },
     "05c29e85-71c1-4f78-95cd-a03e68d9523c": {
       "title": "Worst Gaiden Mr. Zetton",
@@ -409,9 +410,10 @@
       "title": "Aoi-kun's Dirty Stories Are Irresistible!!",
       "url": "https://mangadex.org/title/1ae96a86-b943-4c1f-8e06-e46981f6d4d3",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-20T00:31:21Z",
+      "removed_by_source": true
     },
     "1bad66ee-4857-433e-a075-704d93672341": {
       "title": "Only I Know",
@@ -1271,9 +1273,10 @@
       "title": "A Swan for the Cat, Gold for the Firefly",
       "url": "https://mangadex.org/title/5a82df5d-efa0-4d97-bf9a-33d1ddb48006",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-20T00:31:21Z",
+      "removed_by_source": true
     },
     "5ac4af05-c275-40d1-ba6e-64e9ad0528fa": {
       "title": "Sem título",
@@ -1403,9 +1406,10 @@
       "title": "Bungou Stray Dogs: The Day I Picked Up Dazai",
       "url": "https://mangadex.org/title/61889f95-60b7-4406-a5db-b256d2a742ae",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-20T00:31:21Z",
+      "removed_by_source": true
     },
     "61fbcf4d-a8aa-463d-bb82-b5437892b554": {
       "title": "Depressed Hero",
@@ -2726,9 +2730,10 @@
       "title": "This Alluring Dark Elf Has the Heart of a Middle-Aged Man!",
       "url": "https://mangadex.org/title/af1f3853-6b99-44a2-b01d-28e9ce9a1e05",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-20T00:31:21Z",
+      "removed_by_source": true
     },
     "af8eed7a-024d-445d-a89d-14493b94a83b": {
       "title": "Mobile Suit Gundam: The Witch from Mercury - Youth Frontier",
@@ -3311,9 +3316,10 @@
       "title": "Please Don't Die!",
       "url": "https://mangadex.org/title/d34ba929-11ee-4511-a3ae-40ab7b608c7b",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-20T00:31:21Z",
+      "removed_by_source": true
     },
     "d34c335d-04d5-4781-9b8b-d94f3e1a5303": {
       "title": "I Couldn’t Draw It, so I Tried Doing It",
@@ -3476,9 +3482,10 @@
       "title": "A Flirty and Devoted Kouhai (Pre-Serialization)",
       "url": "https://mangadex.org/title/dbdffb51-7817-40af-a090-e6c68f42d7e3",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-20T00:31:21Z",
+      "removed_by_source": true
     },
     "dc30bdcc-422c-4dd0-934e-7166d0c489b1": {
       "title": "Seiken-chan is Complicated",
@@ -3594,9 +3601,10 @@
       "title": "New Normal",
       "url": "https://mangadex.org/title/e1d0056a-fdd3-4f32-af19-50eeb37280ac",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-20T00:31:21Z",
+      "removed_by_source": true
     },
     "e2f36926-21f8-4dab-bc78-af8e932a15c8": {
       "title": "Touhou - Flan Wants to Die (Doujinshi)",
@@ -4041,9 +4049,10 @@
       "title": "Secret Family",
       "url": "https://mangadex.org/title/fc259ec6-bfc0-46db-876a-269035dc53b3",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-20T00:31:21Z",
+      "removed_by_source": true
     },
     "fc2a2247-1a29-48e9-a1c5-b45ed7166c9a": {
       "title": "Magicraft Meister",
@@ -4875,6 +4884,54 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-09-19T22:35:27Z",
+      "removed_at": null
+    },
+    "01eca861-048f-465b-94cd-46fb862b4dc6": {
+      "title": "Bookmark of Demise",
+      "url": "https://mangadex.org/title/01eca861-048f-465b-94cd-46fb862b4dc6",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-20T00:31:21Z",
+      "removed_at": null
+    },
+    "0d4f9dba-f55f-4ff7-9f49-52311939504e": {
+      "title": "From Old Country Bumpkin to Master Swordsman: My Hotshot Disciples are All Grown Up Now, and They Won't Leave Me Alone",
+      "url": "https://mangadex.org/title/0d4f9dba-f55f-4ff7-9f49-52311939504e",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-20T00:31:21Z",
+      "removed_at": null
+    },
+    "ab541412-f0d0-4fcf-a7a3-084a835d9d4a": {
+      "title": "Garuru Girl",
+      "url": "https://mangadex.org/title/ab541412-f0d0-4fcf-a7a3-084a835d9d4a",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-20T00:31:21Z",
+      "removed_at": null
+    },
+    "c1d891a3-7bd2-423a-b56d-3674430c0e88": {
+      "title": "Tactless Kubo Wants to Understand Real Love",
+      "url": "https://mangadex.org/title/c1d891a3-7bd2-423a-b56d-3674430c0e88",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-20T00:31:21Z",
+      "removed_at": null
+    },
+    "ebf6b4b1-f514-4e93-8305-0c16c21c7163": {
+      "title": "Space Juggernaut",
+      "url": "https://mangadex.org/title/ebf6b4b1-f514-4e93-8305-0c16c21c7163",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-20T00:31:21Z",
+      "removed_at": null
+    },
+    "ee80e31f-0d55-4cd5-9a67-c0bcee3ecc95": {
+      "title": "Black Channel",
+      "url": "https://mangadex.org/title/ee80e31f-0d55-4cd5-9a67-c0bcee3ecc95",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-20T00:31:21Z",
       "removed_at": null
     }
   }
