@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-09-20T10:21:16Z",
+  "updated_at": "2026-09-20T14:17:46Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -865,9 +865,10 @@
       "title": "Please Take My Brother Away!",
       "url": "https://mangadex.org/title/4002af95-b501-4cce-b1bd-ccf0b21d5bdc",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-20T14:17:46Z",
+      "removed_by_source": true
     },
     "40bc649f-7b49-4645-859e-6cd94136e722": {
       "title": "Dragon Ball",
@@ -1039,9 +1040,10 @@
       "title": "Glasses with a Chance of Delinquent",
       "url": "https://mangadex.org/title/4aecf422-7afe-405f-b2d4-e5b80a1872ac",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-20T14:17:46Z",
+      "removed_by_source": true
     },
     "4bf066dc-3a6d-4c33-997b-6033208c4176": {
       "title": "The Villainess Who Came to Marry into the Frontier Noble's Household Is an Exceptionally Capable Wife, Isn't She?",
@@ -1154,9 +1156,10 @@
       "title": "The Jobless Siblings",
       "url": "https://mangadex.org/title/52d4ad1e-d02c-4fef-81d6-1e758e699d31",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-20T14:17:46Z",
+      "removed_by_source": true
     },
     "52ede55c-1584-4019-b85b-3902a423c3ab": {
       "title": "FAIRY TAIL: 100 Years Quest",
@@ -1236,9 +1239,10 @@
       "title": "The Wolf That Picked Something Up",
       "url": "https://mangadex.org/title/575c6f8b-02bc-4300-b808-16e35c2bc2e2",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-20T14:17:46Z",
+      "removed_by_source": true
     },
     "57a981a8-fa23-48c5-971b-1329e3d9bb0b": {
       "title": "I Opened an Orphanage in Another World, but for Some Reason No One Wants to Leave.",
@@ -1559,9 +1563,10 @@
       "title": "Wanting To Live Safely Even In Another World Syndrome",
       "url": "https://mangadex.org/title/6a769300-091e-49ab-8cd3-cc32c360ecc0",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-20T14:17:46Z",
+      "removed_by_source": true
     },
     "6a8a10f6-b56e-47b4-8a36-951bec3900f0": {
       "title": "My New Girlfriend Is Not Human?",
@@ -1938,9 +1943,10 @@
       "title": "I was Assigned to Take Care of the Most Talented Young Lady (with No Life Skills) at a Prestigious School Full of High Achievers",
       "url": "https://mangadex.org/title/822b96aa-e578-4fd6-ac64-8289a2218b7a",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-20T14:17:46Z",
+      "removed_by_source": true
     },
     "8265ac42-6962-416c-bcb9-cc30915d5856": {
       "title": "Zettai Karen Children",
@@ -1994,9 +2000,10 @@
       "title": "The Name of that Flame is Sexual Preference",
       "url": "https://mangadex.org/title/841836ec-8e05-40d1-b841-516b728f8f5f",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-20T14:17:46Z",
+      "removed_by_source": true
     },
     "843ca1ad-371d-4112-a75c-6db0d86547bd": {
       "title": "My Favorite Carrera",
@@ -2019,9 +2026,10 @@
       "title": "The Angel Next Door Spoils Me Rotten: After the Rain",
       "url": "https://mangadex.org/title/8516915a-51a2-44e0-a915-aff325216a26",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-20T14:17:46Z",
+      "removed_by_source": true
     },
     "85456d9d-9c70-49e4-bbda-462b5a4af3c4": {
       "title": "A Very Popular Idol Classmate has Taken a Liking to Me, a Person Who doesn't Want to Work for my Whole Life",
@@ -2611,9 +2619,10 @@
       "title": "The Everyday Maintenance of Shinozaki-kun",
       "url": "https://mangadex.org/title/a540f26f-d440-4702-8aa6-38ee1c1bb74d",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-20T14:17:46Z",
+      "removed_by_source": true
     },
     "a6a46436-9ed4-4c20-8b11-6f4a0f74b23a": {
       "title": "Kabuto Mushi",
@@ -3302,9 +3311,10 @@
       "title": "Dear Self-styled F-Rank Bro' Says, He's gonna Rule a Game-Oriented School.",
       "url": "https://mangadex.org/title/d1f8fd50-3e24-4397-9b03-a4aa81f3475a",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-20T14:17:46Z",
+      "removed_by_source": true
     },
     "d2b02bb0-a8ec-405f-9c2d-d63df7cff785": {
       "title": "Art Club Girl",
@@ -3663,9 +3673,10 @@
       "title": "One Day, the Male Lead Fell Into Our House",
       "url": "https://mangadex.org/title/e424ab14-c0c8-44a0-8152-ce230476be56",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-20T14:17:46Z",
+      "removed_by_source": true
     },
     "e4e2da95-1cd7-49e8-9197-b7419be2077b": {
       "title": "The Girls Who Traumatized Me Keep Glancing at Me, but Alas, It’s Too Late",
@@ -5124,6 +5135,78 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-09-20T10:21:16Z",
+      "removed_at": null
+    },
+    "13cf8ddd-93da-4cbb-93dc-91c4ac1a6d25": {
+      "title": "Abe-kun's Got Me Now!",
+      "url": "https://mangadex.org/title/13cf8ddd-93da-4cbb-93dc-91c4ac1a6d25",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-20T14:17:46Z",
+      "removed_at": null
+    },
+    "1e3feba8-0c4d-4465-b3a3-e9a2a4451bd1": {
+      "title": "Starting From Today I'll Work as a City Lord",
+      "url": "https://mangadex.org/title/1e3feba8-0c4d-4465-b3a3-e9a2a4451bd1",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-20T14:17:46Z",
+      "removed_at": null
+    },
+    "4075be1c-fac3-464f-9b44-3f1ad8882c57": {
+      "title": "Echoes of Footsteps",
+      "url": "https://mangadex.org/title/4075be1c-fac3-464f-9b44-3f1ad8882c57",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-20T14:17:46Z",
+      "removed_at": null
+    },
+    "5b44caa8-b122-4c52-bcd7-1c8b63ba3263": {
+      "title": "Hero's Party Want to Experience LOVE",
+      "url": "https://mangadex.org/title/5b44caa8-b122-4c52-bcd7-1c8b63ba3263",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-20T14:17:46Z",
+      "removed_at": null
+    },
+    "7350be91-b5e1-467d-89df-a089d014d20b": {
+      "title": "The Saint's Magic Power is Omnipotent",
+      "url": "https://mangadex.org/title/7350be91-b5e1-467d-89df-a089d014d20b",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-20T14:17:46Z",
+      "removed_at": null
+    },
+    "9d3d594f-c68d-43ff-b392-398cbe62541d": {
+      "title": "A Wild Last Boss Appeared!",
+      "url": "https://mangadex.org/title/9d3d594f-c68d-43ff-b392-398cbe62541d",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-20T14:17:46Z",
+      "removed_at": null
+    },
+    "c9a8ffb7-682f-40e2-87fe-9537e8f425ea": {
+      "title": "Sem título",
+      "url": "https://mangadex.org/title/c9a8ffb7-682f-40e2-87fe-9537e8f425ea",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-20T14:17:46Z",
+      "removed_at": null
+    },
+    "ca33a142-58fb-4fee-88b9-36ef87f02c77": {
+      "title": "Nezumi's First Love",
+      "url": "https://mangadex.org/title/ca33a142-58fb-4fee-88b9-36ef87f02c77",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-20T14:17:46Z",
+      "removed_at": null
+    },
+    "f6fbb32f-b6d6-453a-9a22-8ccea45451dd": {
+      "title": "Oda-chan & Akechi-kun",
+      "url": "https://mangadex.org/title/f6fbb32f-b6d6-453a-9a22-8ccea45451dd",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-20T14:17:46Z",
       "removed_at": null
     }
   }
