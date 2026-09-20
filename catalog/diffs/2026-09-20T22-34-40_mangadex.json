@@ -1,0 +1,139 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-09-20T22:34:40Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "15a1a7e1-8b39-4b76-b4d2-3006f3413dfd",
+      "title": "Dead Account",
+      "url": "https://mangadex.org/title/15a1a7e1-8b39-4b76-b4d2-3006f3413dfd"
+    },
+    {
+      "source": "mangadex",
+      "key": "28b5d037-175d-4119-96f8-e860e408ebe9",
+      "title": "Sem título",
+      "url": "https://mangadex.org/title/28b5d037-175d-4119-96f8-e860e408ebe9"
+    },
+    {
+      "source": "mangadex",
+      "key": "3b9bade6-28a0-4f2f-8211-4b5106a2cbbd",
+      "title": "I May Be a Guild Receptionist, but I'll Solo Any Boss to Clock Out on Time",
+      "url": "https://mangadex.org/title/3b9bade6-28a0-4f2f-8211-4b5106a2cbbd"
+    },
+    {
+      "source": "mangadex",
+      "key": "67b35ba4-9c53-4957-91e7-4f7884e4b412",
+      "title": "Miss Kobayashi's Dragon Maid",
+      "url": "https://mangadex.org/title/67b35ba4-9c53-4957-91e7-4f7884e4b412"
+    },
+    {
+      "source": "mangadex",
+      "key": "843c31ff-d390-4199-bc3b-94b0dfc63632",
+      "title": "Baki Side Story: Retsu Kaioh Doesn't Mind Even If It's in Another World",
+      "url": "https://mangadex.org/title/843c31ff-d390-4199-bc3b-94b0dfc63632"
+    },
+    {
+      "source": "mangadex",
+      "key": "b264d819-6ac4-4444-b4d6-9129b9111dd3",
+      "title": "Chronos Ruler",
+      "url": "https://mangadex.org/title/b264d819-6ac4-4444-b4d6-9129b9111dd3"
+    },
+    {
+      "source": "mangadex",
+      "key": "cc70617a-de43-46e2-b582-0e4df9fd04f9",
+      "title": "Tiger Brother - Barkhan",
+      "url": "https://mangadex.org/title/cc70617a-de43-46e2-b582-0e4df9fd04f9"
+    },
+    {
+      "source": "mangadex",
+      "key": "e19faf72-2235-4126-9a77-46f9275de222",
+      "title": "Primal Hunter",
+      "url": "https://mangadex.org/title/e19faf72-2235-4126-9a77-46f9275de222"
+    },
+    {
+      "source": "mangadex",
+      "key": "edaae213-67c7-4a6c-ad5f-141001891741",
+      "title": "Yu☆Gi☆Oh!",
+      "url": "https://mangadex.org/title/edaae213-67c7-4a6c-ad5f-141001891741"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "0e2cb981-70c8-4229-aff7-6be966852b03",
+      "title": "Kanan-sama is Easy as Hell!",
+      "url": "https://mangadex.org/title/0e2cb981-70c8-4229-aff7-6be966852b03",
+      "removed_at": "2026-09-20T22:34:40Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "1955f9bf-f849-4f53-a1f4-c1b79c906212",
+      "title": "KaguRai: Kagura & Raito",
+      "url": "https://mangadex.org/title/1955f9bf-f849-4f53-a1f4-c1b79c906212",
+      "removed_at": "2026-09-20T22:34:40Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "68112dc1-2b80-4f20-beb8-2f2a8716a430",
+      "title": "Dandadan",
+      "url": "https://mangadex.org/title/68112dc1-2b80-4f20-beb8-2f2a8716a430",
+      "removed_at": "2026-09-20T22:34:40Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "6bae5c8c-d5ff-43df-acf7-b7670532c8b1",
+      "title": "This Is Screwed up, but I was Reincarnated as a GIRL in Another World!",
+      "url": "https://mangadex.org/title/6bae5c8c-d5ff-43df-acf7-b7670532c8b1",
+      "removed_at": "2026-09-20T22:34:40Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "71f3e1de-4a47-48f5-89b6-75c54e3047da",
+      "title": "Quit Laughing, Shijima",
+      "url": "https://mangadex.org/title/71f3e1de-4a47-48f5-89b6-75c54e3047da",
+      "removed_at": "2026-09-20T22:34:40Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "832692d3-11c7-49a1-aca4-deabdcf9e996",
+      "title": "Cyberpunk: Edgerunners Madness",
+      "url": "https://mangadex.org/title/832692d3-11c7-49a1-aca4-deabdcf9e996",
+      "removed_at": "2026-09-20T22:34:40Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "8aa15734-2d69-452e-ba23-195881d9fc96",
+      "title": "Vampire's Alchemy",
+      "url": "https://mangadex.org/title/8aa15734-2d69-452e-ba23-195881d9fc96",
+      "removed_at": "2026-09-20T22:34:40Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "9d2bccba-33b3-4c95-a4bf-8cdea584a32a",
+      "title": "Tsuyoshi: The One Who No One can Win Against",
+      "url": "https://mangadex.org/title/9d2bccba-33b3-4c95-a4bf-8cdea584a32a",
+      "removed_at": "2026-09-20T22:34:40Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "bd6d0982-0091-4945-ad70-c028ed3c0917",
+      "title": "Mushoku Tensei: Jobless Reincarnation",
+      "url": "https://mangadex.org/title/bd6d0982-0091-4945-ad70-c028ed3c0917",
+      "removed_at": "2026-09-20T22:34:40Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "c8ae1a87-fdd9-477f-977f-6d4b2aedcd58",
+      "title": "Expecting to Fall into Ruin, I Aim to Become a Blacksmith",
+      "url": "https://mangadex.org/title/c8ae1a87-fdd9-477f-977f-6d4b2aedcd58",
+      "removed_at": "2026-09-20T22:34:40Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "cb1b1da5-9436-49f5-8a6b-a1689fb86d91",
+      "title": "LOVE-BULLET",
+      "url": "https://mangadex.org/title/cb1b1da5-9436-49f5-8a6b-a1689fb86d91",
+      "removed_at": "2026-09-20T22:34:40Z"
+    }
+  ]
+}
