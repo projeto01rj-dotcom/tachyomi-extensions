@@ -1,0 +1,254 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-09-20T17:32:57Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "15b376d2-e7a3-4bae-b837-041ba375d5b0",
+      "title": "Two Ways",
+      "url": "https://mangadex.org/title/15b376d2-e7a3-4bae-b837-041ba375d5b0"
+    },
+    {
+      "source": "mangadex",
+      "key": "229e5177-2e71-4642-bd56-a9b0b0ba0e60",
+      "title": "A Certain Magical Index",
+      "url": "https://mangadex.org/title/229e5177-2e71-4642-bd56-a9b0b0ba0e60"
+    },
+    {
+      "source": "mangadex",
+      "key": "36bad9cb-6310-4048-a48e-a1ab7b7dcb3e",
+      "title": "Demon X Angel Can't Get Along!",
+      "url": "https://mangadex.org/title/36bad9cb-6310-4048-a48e-a1ab7b7dcb3e"
+    },
+    {
+      "source": "mangadex",
+      "key": "3e65d915-332b-4399-ba64-ebf0583f9887",
+      "title": "The Story of a Tsundere Nordic Female Classmate Going into Dere Mode as Soon as She's Announced as My Fiancée",
+      "url": "https://mangadex.org/title/3e65d915-332b-4399-ba64-ebf0583f9887"
+    },
+    {
+      "source": "mangadex",
+      "key": "6d922c2c-f118-424c-8d21-78d9b24f25b5",
+      "title": "You Are My Unkind Spring",
+      "url": "https://mangadex.org/title/6d922c2c-f118-424c-8d21-78d9b24f25b5"
+    },
+    {
+      "source": "mangadex",
+      "key": "732dc0ec-bdba-431b-9be1-40ca1d235dd4",
+      "title": "My Daughters, S-Rank Adventurers, Have a Severe Obsession with Their Father",
+      "url": "https://mangadex.org/title/732dc0ec-bdba-431b-9be1-40ca1d235dd4"
+    },
+    {
+      "source": "mangadex",
+      "key": "73320da2-eac6-4ff5-a12d-30788624d85b",
+      "title": "Overlord: New World",
+      "url": "https://mangadex.org/title/73320da2-eac6-4ff5-a12d-30788624d85b"
+    },
+    {
+      "source": "mangadex",
+      "key": "b5c415a8-2af4-44cd-8b2e-edb23800e2c8",
+      "title": "I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability",
+      "url": "https://mangadex.org/title/b5c415a8-2af4-44cd-8b2e-edb23800e2c8"
+    },
+    {
+      "source": "mangadex",
+      "key": "da7bb886-7e6b-4174-83a9-2c478475b846",
+      "title": "Parallel World Pharmacy",
+      "url": "https://mangadex.org/title/da7bb886-7e6b-4174-83a9-2c478475b846"
+    },
+    {
+      "source": "mangadex",
+      "key": "db1f4c31-f92f-4f4f-a8c6-fc898e432888",
+      "title": "Absolute Regression",
+      "url": "https://mangadex.org/title/db1f4c31-f92f-4f4f-a8c6-fc898e432888"
+    },
+    {
+      "source": "mangadex",
+      "key": "eb2e7517-5b07-4a7f-84ea-92e27d82edd9",
+      "title": "Sem título",
+      "url": "https://mangadex.org/title/eb2e7517-5b07-4a7f-84ea-92e27d82edd9"
+    },
+    {
+      "source": "mangadex",
+      "key": "eca991a0-1aa0-412e-9abc-845a92213534",
+      "title": "A Romantic Comedy Where the Heroine Dies in the End",
+      "url": "https://mangadex.org/title/eca991a0-1aa0-412e-9abc-845a92213534"
+    },
+    {
+      "source": "mangadex",
+      "key": "ff5ef336-72d7-45a2-bc69-c2ae8fbfeec8",
+      "title": "I Am a Hero",
+      "url": "https://mangadex.org/title/ff5ef336-72d7-45a2-bc69-c2ae8fbfeec8"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "091c1429-d7b6-48e2-85ec-79fabb1a44fb",
+      "title": "A Girl from Another School Who's Not Very Good at Living",
+      "url": "https://mangadex.org/title/091c1429-d7b6-48e2-85ec-79fabb1a44fb",
+      "removed_at": "2026-09-20T17:32:57Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "11c2560b-7777-4741-86cb-efcc34fd5778",
+      "title": "The Knight in the Area",
+      "url": "https://mangadex.org/title/11c2560b-7777-4741-86cb-efcc34fd5778",
+      "removed_at": "2026-09-20T17:32:57Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "158e8c61-8146-45fc-b945-d8d08a405477",
+      "title": "Steins;Gate 0",
+      "url": "https://mangadex.org/title/158e8c61-8146-45fc-b945-d8d08a405477",
+      "removed_at": "2026-09-20T17:32:57Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "1a64acaf-7dee-4a8a-a766-16bc241ed934",
+      "title": "Meals in the Ruins",
+      "url": "https://mangadex.org/title/1a64acaf-7dee-4a8a-a766-16bc241ed934",
+      "removed_at": "2026-09-20T17:32:57Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "224b28bf-4763-4430-a4c1-ec124d283836",
+      "title": "#Gal x Gal Yuri",
+      "url": "https://mangadex.org/title/224b28bf-4763-4430-a4c1-ec124d283836",
+      "removed_at": "2026-09-20T17:32:57Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "2a6d6ea2-18a5-4a31-9777-f4bb5bd32726",
+      "title": "Little Mushroom",
+      "url": "https://mangadex.org/title/2a6d6ea2-18a5-4a31-9777-f4bb5bd32726",
+      "removed_at": "2026-09-20T17:32:57Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "4c08c48b-4b4a-4ed7-a5be-19d2b4a8e2b2",
+      "title": "I Became a Yakuza in Another World: My Peaceful Slow Life Will Have to Wait",
+      "url": "https://mangadex.org/title/4c08c48b-4b4a-4ed7-a5be-19d2b4a8e2b2",
+      "removed_at": "2026-09-20T17:32:57Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "4cf9b503-439a-48f7-9fc5-21831087a421",
+      "title": "BECK",
+      "url": "https://mangadex.org/title/4cf9b503-439a-48f7-9fc5-21831087a421",
+      "removed_at": "2026-09-20T17:32:57Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "5666ae25-a015-4d06-a44e-2dca0446f8fc",
+      "title": "EXP is Golden",
+      "url": "https://mangadex.org/title/5666ae25-a015-4d06-a44e-2dca0446f8fc",
+      "removed_at": "2026-09-20T17:32:57Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "6251f857-38ca-46c5-8a6c-5dd495810552",
+      "title": "Fake Holy Sword Story: I Was Taken Along When I Sold Out My Childhood Friend, The Saint",
+      "url": "https://mangadex.org/title/6251f857-38ca-46c5-8a6c-5dd495810552",
+      "removed_at": "2026-09-20T17:32:57Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "745e53bd-367a-40cf-ae62-caf8e86e0301",
+      "title": "A Girl Who Can't Speak Thinks \"She Is Too Kind.\"",
+      "url": "https://mangadex.org/title/745e53bd-367a-40cf-ae62-caf8e86e0301",
+      "removed_at": "2026-09-20T17:32:57Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "955c730a-9304-4f82-ae96-af48ff5eaa0c",
+      "title": "What I'd Like to Do with That Gloomy Girl",
+      "url": "https://mangadex.org/title/955c730a-9304-4f82-ae96-af48ff5eaa0c",
+      "removed_at": "2026-09-20T17:32:57Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "9a5b657d-b6db-45a7-a2b7-b165884d9603",
+      "title": "Warrior Princess Survival Saga: The Unsanctioned Intergender Relations on a Deserted Island, Battling for the Fate of Another World",
+      "url": "https://mangadex.org/title/9a5b657d-b6db-45a7-a2b7-b165884d9603",
+      "removed_at": "2026-09-20T17:32:57Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "a1f8f17a-6c51-4a35-9205-bc70bb5fa826",
+      "title": "As Cold As Blue, About As Cunning As Red",
+      "url": "https://mangadex.org/title/a1f8f17a-6c51-4a35-9205-bc70bb5fa826",
+      "removed_at": "2026-09-20T17:32:57Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "a3e48f50-d3d1-4d08-b54a-a3b7ad4b0801",
+      "title": "How to Grill Our Love",
+      "url": "https://mangadex.org/title/a3e48f50-d3d1-4d08-b54a-a3b7ad4b0801",
+      "removed_at": "2026-09-20T17:32:57Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "af0f31a0-372d-4aa5-a632-f2e2b769ab83",
+      "title": "Inazuma 11",
+      "url": "https://mangadex.org/title/af0f31a0-372d-4aa5-a632-f2e2b769ab83",
+      "removed_at": "2026-09-20T17:32:57Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "c1f8455f-3c02-4c04-9f54-46d56098ed02",
+      "title": "Sakura's World",
+      "url": "https://mangadex.org/title/c1f8455f-3c02-4c04-9f54-46d56098ed02",
+      "removed_at": "2026-09-20T17:32:57Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "cf4d634f-7199-4f4b-9ce2-2488e95c91b6",
+      "title": "We've Been Reincarnated, There's No Way I'm Giving You My Mana Again!",
+      "url": "https://mangadex.org/title/cf4d634f-7199-4f4b-9ce2-2488e95c91b6",
+      "removed_at": "2026-09-20T17:32:57Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "d2d22b38-4b3f-4ffb-9387-d18f870d5a91",
+      "title": "My Older Sister's Friend Is Annoying",
+      "url": "https://mangadex.org/title/d2d22b38-4b3f-4ffb-9387-d18f870d5a91",
+      "removed_at": "2026-09-20T17:32:57Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "d3faf8d4-cd5d-4f91-800d-ddd6d1db75e3",
+      "title": "Childhood Friends Became Popular Idols",
+      "url": "https://mangadex.org/title/d3faf8d4-cd5d-4f91-800d-ddd6d1db75e3",
+      "removed_at": "2026-09-20T17:32:57Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "d5427334-32a0-4a67-b93a-31d15a977c62",
+      "title": "My Black Cat is a Girl",
+      "url": "https://mangadex.org/title/d5427334-32a0-4a67-b93a-31d15a977c62",
+      "removed_at": "2026-09-20T17:32:57Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "f239fcd4-9f7f-4296-9e52-ee5a66a7e938",
+      "title": "Namida Ame to Serenade",
+      "url": "https://mangadex.org/title/f239fcd4-9f7f-4296-9e52-ee5a66a7e938",
+      "removed_at": "2026-09-20T17:32:57Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "f731150b-c2e9-42ce-a5af-5604bcd83c3d",
+      "title": "I Don't Want to Play Matchmaker!",
+      "url": "https://mangadex.org/title/f731150b-c2e9-42ce-a5af-5604bcd83c3d",
+      "removed_at": "2026-09-20T17:32:57Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "f933f2ff-db4c-4a84-b82a-9a72321bc1bf",
+      "title": "I'm an Idiot",
+      "url": "https://mangadex.org/title/f933f2ff-db4c-4a84-b82a-9a72321bc1bf",
+      "removed_at": "2026-09-20T17:32:57Z"
+    }
+  ]
+}
