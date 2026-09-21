@@ -10,6 +10,8 @@ import eu.kanade.tachiyomi.source.online.HttpSource
 import keiyoushi.annotation.Source
 import keiyoushi.utils.firstInstanceOrNull
 import keiyoushi.utils.parseAs
+import kotlinx.serialization.json.JsonElement
+import kotlinx.serialization.json.jsonObject
 import okhttp3.Headers
 import okhttp3.HttpUrl.Companion.toHttpUrl
 import okhttp3.Request
@@ -172,7 +174,12 @@ abstract class NoxMangas : HttpSource() {
         return apiRequest(endpoint, url)
     }
 
-    override fun mangaDetailsParse(response: Response): SManga = response.parseAs<ComicDetailDto>().toSManga()
+    override fun mangaDetailsParse(response: Response): SManga {
+        val root = response.parseAs<JsonElement>()
+        val objectRoot = root.jsonObject
+        val payload = objectRoot["comic"] ?: objectRoot["data"] ?: root
+        return payload.parseAs<ComicDto>().toSManga()
+    }
 
     // ============================= Chapters ==============================
 
