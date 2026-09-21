@@ -32,14 +32,16 @@ class ComicDetailDto(
     private val status: String? = null,
     private val genres: List<GenreDto> = emptyList(),
 ) {
-    fun toSManga(): SManga = (comic ?: data ?: ComicDto(
-        slug = slug.orEmpty(),
-        title = title.orEmpty(),
-        synopsis = synopsis,
-        cover = cover,
-        status = status,
-        genres = genres,
-    )).toSManga()
+    fun toSManga(): SManga = (
+        comic ?: data ?: ComicDto(
+            slug = slug.orEmpty(),
+            title = title.orEmpty(),
+            synopsis = synopsis,
+            cover = cover,
+            status = status,
+            genres = genres,
+        )
+        ).toSManga()
 }
 
 @Serializable
