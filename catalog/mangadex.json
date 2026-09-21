@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-09-21T17:31:13Z",
+  "updated_at": "2026-09-21T21:28:23Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -69,9 +69,10 @@
       "title": "The Boy & the Wolf",
       "url": "https://mangadex.org/title/063e7e12-d9e7-488e-8fb1-defd4857660e",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-21T21:28:23Z",
+      "removed_by_source": true
     },
     "076b3757-2050-4362-b0ad-52513ecefa3f": {
       "title": "Killing Bites",
@@ -456,9 +457,10 @@
       "title": "Otr of the Flame",
       "url": "https://mangadex.org/title/1cf64f4a-c565-44ea-8a8e-c210dec6e441",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-21T21:28:23Z",
+      "removed_by_source": true
     },
     "1d25919b-e677-45c1-a64d-e40c2ea14fd5": {
       "title": "The Mortifying Ordeal of Being Seen",
@@ -856,9 +858,10 @@
       "title": "Fate/Grand Order -Epic of Remnant- Pseudo-Singularity III: The Stage of Carnage, Shimousa - Seven Duels of Swordmasters",
       "url": "https://mangadex.org/title/3ce2d473-dc22-4b93-8ad7-8b65bb466771",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-21T21:28:23Z",
+      "removed_by_source": true
     },
     "3e11f43e-3d91-47c8-a2ad-e2f23d36ad4c": {
       "title": "Mimi",
@@ -1195,9 +1198,10 @@
       "title": "The Regressed Mercenary Has a Plan",
       "url": "https://mangadex.org/title/53f1ec5e-058b-4d18-a23b-2a7dbca5669f",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-21T21:28:23Z",
+      "removed_by_source": true
     },
     "54e9d914-3c14-4a75-9650-e305291830c7": {
       "title": "Waves, Listen to me!",
@@ -1559,9 +1563,10 @@
       "title": "Wangan Midnight",
       "url": "https://mangadex.org/title/68669554-88ef-43ac-966b-e41d56682290",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-21T21:28:23Z",
+      "removed_by_source": true
     },
     "68a946fc-7ff0-434e-a500-34b3207efd6f": {
       "title": "A Story of Taking Home a Lonely Gal from My Class and Turning Her into an Elegant Beauty",
@@ -1705,9 +1710,10 @@
       "title": "The Summer You Were There",
       "url": "https://mangadex.org/title/6ecc62e4-25ad-4102-b0d8-580a8023d2fb",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-21T21:28:23Z",
+      "removed_by_source": true
     },
     "6f003727-741d-44aa-8c0f-9e4ec0055b9c": {
       "title": "A Big Rabbit has Taken a Liking to Me!?",
@@ -2405,9 +2411,10 @@
       "title": "Red Blue",
       "url": "https://mangadex.org/title/96ae166c-d8e1-4e9e-88cb-805b65154d7e",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-21T21:28:23Z",
+      "removed_by_source": true
     },
     "96d02f4f-ff02-410f-878f-a12f529237b0": {
       "title": "Shinsouban WORST",
@@ -3881,9 +3888,10 @@
       "title": "A Prince of a Friend",
       "url": "https://mangadex.org/title/ec387b13-b35c-4abe-a089-5b69ff429118",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-21T21:28:23Z",
+      "removed_by_source": true
     },
     "ed25bd9e-367d-4323-b5ae-97d4d6bdb1f0": {
       "title": "Breakers",
@@ -4050,9 +4058,10 @@
       "title": "The Secret to a Happy Marriage is Drinking Together at Night",
       "url": "https://mangadex.org/title/f5f11b29-8c80-4b9d-8e56-a9d54e8e4d6e",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-21T21:28:23Z",
+      "removed_by_source": true
     },
     "f6ce20ca-73c3-4fdd-9367-e2901fca780e": {
       "title": "The Ravages of Time",
@@ -5735,6 +5744,70 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-09-21T17:31:13Z",
+      "removed_at": null
+    },
+    "07be30a5-45fe-4820-8298-6cf525debf6c": {
+      "title": "Nengara Nenbyaku Ansatsu Renka",
+      "url": "https://mangadex.org/title/07be30a5-45fe-4820-8298-6cf525debf6c",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-21T21:28:23Z",
+      "removed_at": null
+    },
+    "0ecf7c0d-e33e-47a3-b87b-1c5665d2ec10": {
+      "title": "Okuremashite Seishun",
+      "url": "https://mangadex.org/title/0ecf7c0d-e33e-47a3-b87b-1c5665d2ec10",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-21T21:28:23Z",
+      "removed_at": null
+    },
+    "5897b512-7097-435f-bcf1-2eb8337f14e1": {
+      "title": "The Reincarnated Prince Wants to be Lazy",
+      "url": "https://mangadex.org/title/5897b512-7097-435f-bcf1-2eb8337f14e1",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-21T21:28:23Z",
+      "removed_at": null
+    },
+    "82476383-e6a9-41a7-b98c-87cc8be9efbb": {
+      "title": "All Because of You",
+      "url": "https://mangadex.org/title/82476383-e6a9-41a7-b98c-87cc8be9efbb",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-21T21:28:23Z",
+      "removed_at": null
+    },
+    "92f68774-cc7e-4779-bae5-903e0ce30015": {
+      "title": "Ushijima the Loan Shark",
+      "url": "https://mangadex.org/title/92f68774-cc7e-4779-bae5-903e0ce30015",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-21T21:28:23Z",
+      "removed_at": null
+    },
+    "9b96ec17-deb7-402b-b822-ae40e03533db": {
+      "title": "Gakuen Babysitters",
+      "url": "https://mangadex.org/title/9b96ec17-deb7-402b-b822-ae40e03533db",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-21T21:28:23Z",
+      "removed_at": null
+    },
+    "9f652434-2d30-49b0-9375-ba07de981c70": {
+      "title": "Even Though I Was a Virgin, I Reincarnated as a Villainous Noble, so I Was Supposed to Build a Harem... but Somehow I Ended up Becoming a Saint Who Saved the World (Sob)",
+      "url": "https://mangadex.org/title/9f652434-2d30-49b0-9375-ba07de981c70",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-21T21:28:23Z",
+      "removed_at": null
+    },
+    "d0f135d0-da19-42dd-8ffe-4851d661bab6": {
+      "title": "In Another World I'm Called the \"Black Healer\"",
+      "url": "https://mangadex.org/title/d0f135d0-da19-42dd-8ffe-4851d661bab6",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-21T21:28:23Z",
       "removed_at": null
     }
   }

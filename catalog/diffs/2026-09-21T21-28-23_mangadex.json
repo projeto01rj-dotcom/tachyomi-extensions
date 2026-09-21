@@ -1,0 +1,119 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-09-21T21:28:23Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "07be30a5-45fe-4820-8298-6cf525debf6c",
+      "title": "Nengara Nenbyaku Ansatsu Renka",
+      "url": "https://mangadex.org/title/07be30a5-45fe-4820-8298-6cf525debf6c"
+    },
+    {
+      "source": "mangadex",
+      "key": "0ecf7c0d-e33e-47a3-b87b-1c5665d2ec10",
+      "title": "Okuremashite Seishun",
+      "url": "https://mangadex.org/title/0ecf7c0d-e33e-47a3-b87b-1c5665d2ec10"
+    },
+    {
+      "source": "mangadex",
+      "key": "5897b512-7097-435f-bcf1-2eb8337f14e1",
+      "title": "The Reincarnated Prince Wants to be Lazy",
+      "url": "https://mangadex.org/title/5897b512-7097-435f-bcf1-2eb8337f14e1"
+    },
+    {
+      "source": "mangadex",
+      "key": "82476383-e6a9-41a7-b98c-87cc8be9efbb",
+      "title": "All Because of You",
+      "url": "https://mangadex.org/title/82476383-e6a9-41a7-b98c-87cc8be9efbb"
+    },
+    {
+      "source": "mangadex",
+      "key": "92f68774-cc7e-4779-bae5-903e0ce30015",
+      "title": "Ushijima the Loan Shark",
+      "url": "https://mangadex.org/title/92f68774-cc7e-4779-bae5-903e0ce30015"
+    },
+    {
+      "source": "mangadex",
+      "key": "9b96ec17-deb7-402b-b822-ae40e03533db",
+      "title": "Gakuen Babysitters",
+      "url": "https://mangadex.org/title/9b96ec17-deb7-402b-b822-ae40e03533db"
+    },
+    {
+      "source": "mangadex",
+      "key": "9f652434-2d30-49b0-9375-ba07de981c70",
+      "title": "Even Though I Was a Virgin, I Reincarnated as a Villainous Noble, so I Was Supposed to Build a Harem... but Somehow I Ended up Becoming a Saint Who Saved the World (Sob)",
+      "url": "https://mangadex.org/title/9f652434-2d30-49b0-9375-ba07de981c70"
+    },
+    {
+      "source": "mangadex",
+      "key": "d0f135d0-da19-42dd-8ffe-4851d661bab6",
+      "title": "In Another World I'm Called the \"Black Healer\"",
+      "url": "https://mangadex.org/title/d0f135d0-da19-42dd-8ffe-4851d661bab6"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "063e7e12-d9e7-488e-8fb1-defd4857660e",
+      "title": "The Boy & the Wolf",
+      "url": "https://mangadex.org/title/063e7e12-d9e7-488e-8fb1-defd4857660e",
+      "removed_at": "2026-09-21T21:28:23Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "1cf64f4a-c565-44ea-8a8e-c210dec6e441",
+      "title": "Otr of the Flame",
+      "url": "https://mangadex.org/title/1cf64f4a-c565-44ea-8a8e-c210dec6e441",
+      "removed_at": "2026-09-21T21:28:23Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "3ce2d473-dc22-4b93-8ad7-8b65bb466771",
+      "title": "Fate/Grand Order -Epic of Remnant- Pseudo-Singularity III: The Stage of Carnage, Shimousa - Seven Duels of Swordmasters",
+      "url": "https://mangadex.org/title/3ce2d473-dc22-4b93-8ad7-8b65bb466771",
+      "removed_at": "2026-09-21T21:28:23Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "53f1ec5e-058b-4d18-a23b-2a7dbca5669f",
+      "title": "The Regressed Mercenary Has a Plan",
+      "url": "https://mangadex.org/title/53f1ec5e-058b-4d18-a23b-2a7dbca5669f",
+      "removed_at": "2026-09-21T21:28:23Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "68669554-88ef-43ac-966b-e41d56682290",
+      "title": "Wangan Midnight",
+      "url": "https://mangadex.org/title/68669554-88ef-43ac-966b-e41d56682290",
+      "removed_at": "2026-09-21T21:28:23Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "6ecc62e4-25ad-4102-b0d8-580a8023d2fb",
+      "title": "The Summer You Were There",
+      "url": "https://mangadex.org/title/6ecc62e4-25ad-4102-b0d8-580a8023d2fb",
+      "removed_at": "2026-09-21T21:28:23Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "96ae166c-d8e1-4e9e-88cb-805b65154d7e",
+      "title": "Red Blue",
+      "url": "https://mangadex.org/title/96ae166c-d8e1-4e9e-88cb-805b65154d7e",
+      "removed_at": "2026-09-21T21:28:23Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "ec387b13-b35c-4abe-a089-5b69ff429118",
+      "title": "A Prince of a Friend",
+      "url": "https://mangadex.org/title/ec387b13-b35c-4abe-a089-5b69ff429118",
+      "removed_at": "2026-09-21T21:28:23Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "f5f11b29-8c80-4b9d-8e56-a9d54e8e4d6e",
+      "title": "The Secret to a Happy Marriage is Drinking Together at Night",
+      "url": "https://mangadex.org/title/f5f11b29-8c80-4b9d-8e56-a9d54e8e4d6e",
+      "removed_at": "2026-09-21T21:28:23Z"
+    }
+  ]
+}
