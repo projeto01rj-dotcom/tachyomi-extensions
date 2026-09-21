@@ -1,0 +1,226 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-09-21T17:31:13Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "0a1caa35-205d-49f5-a611-018abe0b9433",
+      "title": "Brinny and the Empty Seat",
+      "url": "https://mangadex.org/title/0a1caa35-205d-49f5-a611-018abe0b9433"
+    },
+    {
+      "source": "mangadex",
+      "key": "0efc323f-aede-427c-a224-c8db155303ae",
+      "title": "Strange Clairvoyance",
+      "url": "https://mangadex.org/title/0efc323f-aede-427c-a224-c8db155303ae"
+    },
+    {
+      "source": "mangadex",
+      "key": "1aa17501-0328-4d5a-bbbe-3cb7cae8c9ae",
+      "title": "My Co-worker Is an Eldritch X!",
+      "url": "https://mangadex.org/title/1aa17501-0328-4d5a-bbbe-3cb7cae8c9ae"
+    },
+    {
+      "source": "mangadex",
+      "key": "1bea4ca6-a5b5-4eb4-ba76-2518009a6b86",
+      "title": "My Life With Amelia",
+      "url": "https://mangadex.org/title/1bea4ca6-a5b5-4eb4-ba76-2518009a6b86"
+    },
+    {
+      "source": "mangadex",
+      "key": "45ed7ed8-23b3-45bf-9b9c-da6e9e88f747",
+      "title": "Let’s Buy the Land and Cultivate It in a Different World",
+      "url": "https://mangadex.org/title/45ed7ed8-23b3-45bf-9b9c-da6e9e88f747"
+    },
+    {
+      "source": "mangadex",
+      "key": "532e3f94-7a07-4dee-8e3e-665fc7ee72b8",
+      "title": "Hunting in Another World with My Elf Wife",
+      "url": "https://mangadex.org/title/532e3f94-7a07-4dee-8e3e-665fc7ee72b8"
+    },
+    {
+      "source": "mangadex",
+      "key": "61830b36-1712-4b7b-9421-f671e9ced6d3",
+      "title": "Learning to Love My Cat-like Classmate",
+      "url": "https://mangadex.org/title/61830b36-1712-4b7b-9421-f671e9ced6d3"
+    },
+    {
+      "source": "mangadex",
+      "key": "6378f4b1-f9a0-4233-b89a-95021535d100",
+      "title": "Mitsuishi-san Is Being Weird This Year",
+      "url": "https://mangadex.org/title/6378f4b1-f9a0-4233-b89a-95021535d100"
+    },
+    {
+      "source": "mangadex",
+      "key": "6b06fe1e-ff99-4c8d-be0b-5ad2a4df7603",
+      "title": "My Quiet Blacksmith Life in Another World",
+      "url": "https://mangadex.org/title/6b06fe1e-ff99-4c8d-be0b-5ad2a4df7603"
+    },
+    {
+      "source": "mangadex",
+      "key": "8572da1b-3b5d-44aa-a40c-8a92b512c336",
+      "title": "Dungeon Friends Forever",
+      "url": "https://mangadex.org/title/8572da1b-3b5d-44aa-a40c-8a92b512c336"
+    },
+    {
+      "source": "mangadex",
+      "key": "91d928a1-7237-4d03-abc3-4b1440cc7d55",
+      "title": "Kage no Jitsuryokusha ni Naritakute! Master of Garden ~Shichikage Retsuden~",
+      "url": "https://mangadex.org/title/91d928a1-7237-4d03-abc3-4b1440cc7d55"
+    },
+    {
+      "source": "mangadex",
+      "key": "a5ee781b-e01f-4da8-90ca-962056cb5435",
+      "title": "MAD",
+      "url": "https://mangadex.org/title/a5ee781b-e01f-4da8-90ca-962056cb5435"
+    },
+    {
+      "source": "mangadex",
+      "key": "a961a8f0-297a-4a66-81b6-e16d74250ce4",
+      "title": "My Lord Shall Fall",
+      "url": "https://mangadex.org/title/a961a8f0-297a-4a66-81b6-e16d74250ce4"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "0b03a6de-56a5-4f3f-bf1f-d893b8da05d3",
+      "title": "Starting Today, We’re Childhood Friends",
+      "url": "https://mangadex.org/title/0b03a6de-56a5-4f3f-bf1f-d893b8da05d3",
+      "removed_at": "2026-09-21T17:31:13Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "0c3d2ca2-0857-4a6c-be97-59ffa3e29873",
+      "title": "Hand Jumper",
+      "url": "https://mangadex.org/title/0c3d2ca2-0857-4a6c-be97-59ffa3e29873",
+      "removed_at": "2026-09-21T17:31:13Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "1d25919b-e677-45c1-a64d-e40c2ea14fd5",
+      "title": "The Mortifying Ordeal of Being Seen",
+      "url": "https://mangadex.org/title/1d25919b-e677-45c1-a64d-e40c2ea14fd5",
+      "removed_at": "2026-09-21T17:31:13Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "4809bb6c-1af2-41c5-9291-983027602d7f",
+      "title": "Shy",
+      "url": "https://mangadex.org/title/4809bb6c-1af2-41c5-9291-983027602d7f",
+      "removed_at": "2026-09-21T17:31:13Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "65efd7e6-cdd1-4fba-a79e-32134b2cef53",
+      "title": "Go Nagai Short Stories",
+      "url": "https://mangadex.org/title/65efd7e6-cdd1-4fba-a79e-32134b2cef53",
+      "removed_at": "2026-09-21T17:31:13Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "69aa984a-f5c0-4505-a11f-fe50e5fd16c9",
+      "title": "A Certain Dark Side's ITEM",
+      "url": "https://mangadex.org/title/69aa984a-f5c0-4505-a11f-fe50e5fd16c9",
+      "removed_at": "2026-09-21T17:31:13Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "6ab78f0b-f771-48b0-9739-9e0696ff1869",
+      "title": "Valentine Yuri",
+      "url": "https://mangadex.org/title/6ab78f0b-f771-48b0-9739-9e0696ff1869",
+      "removed_at": "2026-09-21T17:31:13Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "73d7f912-59c3-4fa3-abc6-23a181d6520b",
+      "title": "Dinosaur King",
+      "url": "https://mangadex.org/title/73d7f912-59c3-4fa3-abc6-23a181d6520b",
+      "removed_at": "2026-09-21T17:31:13Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "7a208b59-d7ea-4b33-aaa1-d798f25479c1",
+      "title": "The Abandoned Reincarnated Young Lady Aims to Become the Strongest Adventurer!",
+      "url": "https://mangadex.org/title/7a208b59-d7ea-4b33-aaa1-d798f25479c1",
+      "removed_at": "2026-09-21T17:31:13Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "89ed3ec2-ebe6-4d6b-92eb-d753a8bb365e",
+      "title": "Saving 80,000 Gold in Another World for My Retirement",
+      "url": "https://mangadex.org/title/89ed3ec2-ebe6-4d6b-92eb-d753a8bb365e",
+      "removed_at": "2026-09-21T17:31:13Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "8db5faa9-811e-4b1f-8d00-1814ec68b96c",
+      "title": "Tsuzura-senpai Is My Ex-Girlfriend",
+      "url": "https://mangadex.org/title/8db5faa9-811e-4b1f-8d00-1814ec68b96c",
+      "removed_at": "2026-09-21T17:31:13Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "8f811ac6-182c-4c5c-8cf7-448a22aa3584",
+      "title": "Machino-san, Waiting for a Comeback",
+      "url": "https://mangadex.org/title/8f811ac6-182c-4c5c-8cf7-448a22aa3584",
+      "removed_at": "2026-09-21T17:31:13Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "9258cef1-3b0a-4a02-bccc-7e34580c5c2b",
+      "title": "The Villainess Becomes a Mom",
+      "url": "https://mangadex.org/title/9258cef1-3b0a-4a02-bccc-7e34580c5c2b",
+      "removed_at": "2026-09-21T17:31:13Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "9aebe60e-777f-4a58-a3bf-143c3096b94f",
+      "title": "I'm the Older Brother of a Famous VTuber, But for Some Reason I Became Famous",
+      "url": "https://mangadex.org/title/9aebe60e-777f-4a58-a3bf-143c3096b94f",
+      "removed_at": "2026-09-21T17:31:13Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "c37d93a8-9c50-49b3-bd71-143937f4288e",
+      "title": "Gantz: E",
+      "url": "https://mangadex.org/title/c37d93a8-9c50-49b3-bd71-143937f4288e",
+      "removed_at": "2026-09-21T17:31:13Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "c82afca5-b16d-41d1-93d9-fcea21f7f264",
+      "title": "Mechanical Girl, Total Annihilation",
+      "url": "https://mangadex.org/title/c82afca5-b16d-41d1-93d9-fcea21f7f264",
+      "removed_at": "2026-09-21T17:31:13Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "c93e558f-d189-4097-bb0d-71e931feed4d",
+      "title": "Hakanagi Kasumi, Who ×× Right Away When I'm Not Around",
+      "url": "https://mangadex.org/title/c93e558f-d189-4097-bb0d-71e931feed4d",
+      "removed_at": "2026-09-21T17:31:13Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "d1999bfa-ca58-4d90-b80f-8380b47057e7",
+      "title": "The Innocent Gyaru Isn’t Even My Girlfriend",
+      "url": "https://mangadex.org/title/d1999bfa-ca58-4d90-b80f-8380b47057e7",
+      "removed_at": "2026-09-21T17:31:13Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "dd13dad6-7cda-46cf-8d4f-13adfc6c37d6",
+      "title": "Shihai Shoujo Kubaru-chan",
+      "url": "https://mangadex.org/title/dd13dad6-7cda-46cf-8d4f-13adfc6c37d6",
+      "removed_at": "2026-09-21T17:31:13Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "e9173a7b-d763-43ac-866f-aa5b8240a37c",
+      "title": "Someone Hertz",
+      "url": "https://mangadex.org/title/e9173a7b-d763-43ac-866f-aa5b8240a37c",
+      "removed_at": "2026-09-21T17:31:13Z"
+    }
+  ]
+}

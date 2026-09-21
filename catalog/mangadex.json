@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-09-21T11:33:44Z",
+  "updated_at": "2026-09-21T17:31:13Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -136,9 +136,10 @@
       "title": "Starting Today, We’re Childhood Friends",
       "url": "https://mangadex.org/title/0b03a6de-56a5-4f3f-bf1f-d893b8da05d3",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-21T17:31:13Z",
+      "removed_by_source": true
     },
     "0b094aab-0cfb-4837-a49b-7267bdb86bec": {
       "title": "Boruto: Two Blue Vortex",
@@ -160,9 +161,10 @@
       "title": "Hand Jumper",
       "url": "https://mangadex.org/title/0c3d2ca2-0857-4a6c-be97-59ffa3e29873",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-21T17:31:13Z",
+      "removed_by_source": true
     },
     "0cf91ce5-5033-4fce-8687-b14c6a4d10b6": {
       "title": "The Skull Dragon's Precious Daughter",
@@ -462,9 +464,10 @@
       "title": "The Mortifying Ordeal of Being Seen",
       "url": "https://mangadex.org/title/1d25919b-e677-45c1-a64d-e40c2ea14fd5",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-21T17:31:13Z",
+      "removed_by_source": true
     },
     "1d2967dd-d157-4cbb-84ed-ea7cf7140d14": {
       "title": "A Yuri Love Story That Begins with Getting Dumped in a Dream",
@@ -981,9 +984,10 @@
       "title": "Shy",
       "url": "https://mangadex.org/title/4809bb6c-1af2-41c5-9291-983027602d7f",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-21T17:31:13Z",
+      "removed_by_source": true
     },
     "48221bce-0fd2-4519-b5f3-4fdc1921007b": {
       "title": "Captain Corinth: The Galactic Navy Officer Becomes an Adventurer",
@@ -1529,9 +1533,10 @@
       "title": "Go Nagai Short Stories",
       "url": "https://mangadex.org/title/65efd7e6-cdd1-4fba-a79e-32134b2cef53",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-21T17:31:13Z",
+      "removed_by_source": true
     },
     "67e7453b-9ee5-4ae5-9316-215b03e4a71d": {
       "title": "Witch Hat Atelier",
@@ -1578,9 +1583,10 @@
       "title": "A Certain Dark Side's ITEM",
       "url": "https://mangadex.org/title/69aa984a-f5c0-4505-a11f-fe50e5fd16c9",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-21T17:31:13Z",
+      "removed_by_source": true
     },
     "6a769300-091e-49ab-8cd3-cc32c360ecc0": {
       "title": "Wanting To Live Safely Even In Another World Syndrome",
@@ -1604,9 +1610,10 @@
       "title": "Valentine Yuri",
       "url": "https://mangadex.org/title/6ab78f0b-f771-48b0-9739-9e0696ff1869",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-21T17:31:13Z",
+      "removed_by_source": true
     },
     "6aca5618-378d-42a1-af2e-6f308890ab30": {
       "title": "Three Sisters in Love with You",
@@ -1749,9 +1756,10 @@
       "title": "Dinosaur King",
       "url": "https://mangadex.org/title/73d7f912-59c3-4fa3-abc6-23a181d6520b",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-21T17:31:13Z",
+      "removed_by_source": true
     },
     "745e53bd-367a-40cf-ae62-caf8e86e0301": {
       "title": "A Girl Who Can't Speak Thinks \"She Is Too Kind.\"",
@@ -1865,9 +1873,10 @@
       "title": "The Abandoned Reincarnated Young Lady Aims to Become the Strongest Adventurer!",
       "url": "https://mangadex.org/title/7a208b59-d7ea-4b33-aaa1-d798f25479c1",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-21T17:31:13Z",
+      "removed_by_source": true
     },
     "7d074d5f-b7b5-402d-b883-29ce6b029052": {
       "title": "Echoes ACT50",
@@ -2165,9 +2174,10 @@
       "title": "Saving 80,000 Gold in Another World for My Retirement",
       "url": "https://mangadex.org/title/89ed3ec2-ebe6-4d6b-92eb-d753a8bb365e",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-21T17:31:13Z",
+      "removed_by_source": true
     },
     "8a38bcc4-0a52-4a46-9d02-7fc802048b1d": {
       "title": "Shinobi Undercover",
@@ -2225,9 +2235,10 @@
       "title": "Tsuzura-senpai Is My Ex-Girlfriend",
       "url": "https://mangadex.org/title/8db5faa9-811e-4b1f-8d00-1814ec68b96c",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-21T17:31:13Z",
+      "removed_by_source": true
     },
     "8e74e420-b05e-4975-9844-676c7156bd63": {
       "title": "Destiny Unchain Online: How I became the Crimson Devil",
@@ -2266,9 +2277,10 @@
       "title": "Machino-san, Waiting for a Comeback",
       "url": "https://mangadex.org/title/8f811ac6-182c-4c5c-8cf7-448a22aa3584",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-21T17:31:13Z",
+      "removed_by_source": true
     },
     "904adb96-19df-4f3e-91db-a3dc10d98663": {
       "title": "Period",
@@ -2316,9 +2328,10 @@
       "title": "The Villainess Becomes a Mom",
       "url": "https://mangadex.org/title/9258cef1-3b0a-4a02-bccc-7e34580c5c2b",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-21T17:31:13Z",
+      "removed_by_source": true
     },
     "9356fa3f-9ecd-4ff7-a7fe-241884680079": {
       "title": "Skip Beat",
@@ -2452,9 +2465,10 @@
       "title": "I'm the Older Brother of a Famous VTuber, But for Some Reason I Became Famous",
       "url": "https://mangadex.org/title/9aebe60e-777f-4a58-a3bf-143c3096b94f",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-21T17:31:13Z",
+      "removed_by_source": true
     },
     "9afe47ee-5c8b-4572-b7c0-efa4f83da432": {
       "title": "Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City",
@@ -3098,9 +3112,10 @@
       "title": "Gantz: E",
       "url": "https://mangadex.org/title/c37d93a8-9c50-49b3-bd71-143937f4288e",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-21T17:31:13Z",
+      "removed_by_source": true
     },
     "c4ca02fb-8378-433b-8049-fbbea5d25cba": {
       "title": "Haimiya Is Scary Cute",
@@ -3174,9 +3189,10 @@
       "title": "Mechanical Girl, Total Annihilation",
       "url": "https://mangadex.org/title/c82afca5-b16d-41d1-93d9-fcea21f7f264",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-21T17:31:13Z",
+      "removed_by_source": true
     },
     "c83006f3-e650-46fd-b6de-a88df6b59fab": {
       "title": "Umamusume - Pretty Derby PisuPisu☆SupiSupi - Golshi-chan",
@@ -3231,9 +3247,10 @@
       "title": "Hakanagi Kasumi, Who ×× Right Away When I'm Not Around",
       "url": "https://mangadex.org/title/c93e558f-d189-4097-bb0d-71e931feed4d",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-21T17:31:13Z",
+      "removed_by_source": true
     },
     "c96f1bf8-a100-40bb-98ef-c240b9b7cf96": {
       "title": "MF Ghost",
@@ -3352,9 +3369,10 @@
       "title": "The Innocent Gyaru Isn’t Even My Girlfriend",
       "url": "https://mangadex.org/title/d1999bfa-ca58-4d90-b80f-8380b47057e7",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-21T17:31:13Z",
+      "removed_by_source": true
     },
     "d1a9fdeb-f713-407f-960c-8326b586e6fd": {
       "title": "Vagabond",
@@ -3599,9 +3617,10 @@
       "title": "Shihai Shoujo Kubaru-chan",
       "url": "https://mangadex.org/title/dd13dad6-7cda-46cf-8d4f-13adfc6c37d6",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-21T17:31:13Z",
+      "removed_by_source": true
     },
     "dd5c4855-a8d4-4663-81c3-0df7b54ab8d9": {
       "title": "Twilight Blade",
@@ -3804,9 +3823,10 @@
       "title": "Someone Hertz",
       "url": "https://mangadex.org/title/e9173a7b-d763-43ac-866f-aa5b8240a37c",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-21T17:31:13Z",
+      "removed_by_source": true
     },
     "ea47525d-99df-45b5-9103-dd853f49f8c3": {
       "title": "Welcome to Demon School! Iruma-kun: IruMafia Edition",
@@ -5611,6 +5631,110 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-09-21T11:33:44Z",
+      "removed_at": null
+    },
+    "0a1caa35-205d-49f5-a611-018abe0b9433": {
+      "title": "Brinny and the Empty Seat",
+      "url": "https://mangadex.org/title/0a1caa35-205d-49f5-a611-018abe0b9433",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-21T17:31:13Z",
+      "removed_at": null
+    },
+    "0efc323f-aede-427c-a224-c8db155303ae": {
+      "title": "Strange Clairvoyance",
+      "url": "https://mangadex.org/title/0efc323f-aede-427c-a224-c8db155303ae",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-21T17:31:13Z",
+      "removed_at": null
+    },
+    "1aa17501-0328-4d5a-bbbe-3cb7cae8c9ae": {
+      "title": "My Co-worker Is an Eldritch X!",
+      "url": "https://mangadex.org/title/1aa17501-0328-4d5a-bbbe-3cb7cae8c9ae",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-21T17:31:13Z",
+      "removed_at": null
+    },
+    "1bea4ca6-a5b5-4eb4-ba76-2518009a6b86": {
+      "title": "My Life With Amelia",
+      "url": "https://mangadex.org/title/1bea4ca6-a5b5-4eb4-ba76-2518009a6b86",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-21T17:31:13Z",
+      "removed_at": null
+    },
+    "45ed7ed8-23b3-45bf-9b9c-da6e9e88f747": {
+      "title": "Let’s Buy the Land and Cultivate It in a Different World",
+      "url": "https://mangadex.org/title/45ed7ed8-23b3-45bf-9b9c-da6e9e88f747",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-21T17:31:13Z",
+      "removed_at": null
+    },
+    "532e3f94-7a07-4dee-8e3e-665fc7ee72b8": {
+      "title": "Hunting in Another World with My Elf Wife",
+      "url": "https://mangadex.org/title/532e3f94-7a07-4dee-8e3e-665fc7ee72b8",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-21T17:31:13Z",
+      "removed_at": null
+    },
+    "61830b36-1712-4b7b-9421-f671e9ced6d3": {
+      "title": "Learning to Love My Cat-like Classmate",
+      "url": "https://mangadex.org/title/61830b36-1712-4b7b-9421-f671e9ced6d3",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-21T17:31:13Z",
+      "removed_at": null
+    },
+    "6378f4b1-f9a0-4233-b89a-95021535d100": {
+      "title": "Mitsuishi-san Is Being Weird This Year",
+      "url": "https://mangadex.org/title/6378f4b1-f9a0-4233-b89a-95021535d100",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-21T17:31:13Z",
+      "removed_at": null
+    },
+    "6b06fe1e-ff99-4c8d-be0b-5ad2a4df7603": {
+      "title": "My Quiet Blacksmith Life in Another World",
+      "url": "https://mangadex.org/title/6b06fe1e-ff99-4c8d-be0b-5ad2a4df7603",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-21T17:31:13Z",
+      "removed_at": null
+    },
+    "8572da1b-3b5d-44aa-a40c-8a92b512c336": {
+      "title": "Dungeon Friends Forever",
+      "url": "https://mangadex.org/title/8572da1b-3b5d-44aa-a40c-8a92b512c336",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-21T17:31:13Z",
+      "removed_at": null
+    },
+    "91d928a1-7237-4d03-abc3-4b1440cc7d55": {
+      "title": "Kage no Jitsuryokusha ni Naritakute! Master of Garden ~Shichikage Retsuden~",
+      "url": "https://mangadex.org/title/91d928a1-7237-4d03-abc3-4b1440cc7d55",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-21T17:31:13Z",
+      "removed_at": null
+    },
+    "a5ee781b-e01f-4da8-90ca-962056cb5435": {
+      "title": "MAD",
+      "url": "https://mangadex.org/title/a5ee781b-e01f-4da8-90ca-962056cb5435",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-21T17:31:13Z",
+      "removed_at": null
+    },
+    "a961a8f0-297a-4a66-81b6-e16d74250ce4": {
+      "title": "My Lord Shall Fall",
+      "url": "https://mangadex.org/title/a961a8f0-297a-4a66-81b6-e16d74250ce4",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-21T17:31:13Z",
       "removed_at": null
     }
   }
