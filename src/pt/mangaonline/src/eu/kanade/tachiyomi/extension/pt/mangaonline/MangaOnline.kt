@@ -16,4 +16,11 @@ abstract class MangaOnline : Madara() {
     override val chapterUrlSuffix = ""
     override val useLoadMoreRequest = LoadMoreStrategy.Never
     override val useNewChapterEndpoint = true
+
+    // Manga Online replaced the standard Madara <li.wp-manga-chapter>
+    // markup with article cards in its current theme.
+    override fun chapterListSelector() = "article[data-mo-chapter]"
+    override fun chapterDateSelector() = "time"
+
+    override val pageListParseSelector = "#mo-reading-content img.wp-manga-chapter-img, #mo-reading-content img"
 }
