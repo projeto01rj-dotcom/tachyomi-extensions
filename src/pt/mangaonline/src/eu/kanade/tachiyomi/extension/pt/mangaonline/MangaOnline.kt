@@ -2,9 +2,11 @@ package eu.kanade.tachiyomi.extension.pt.mangaonline
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import eu.kanade.tachiyomi.network.GET
+import eu.kanade.tachiyomi.source.model.FilterList
 import eu.kanade.tachiyomi.source.model.SManga
 import keiyoushi.annotation.Source
 import keiyoushi.network.rateLimit
+import okhttp3.HttpUrl.Companion.toHttpUrl
 import okhttp3.Request
 import org.jsoup.nodes.Element
 import java.text.SimpleDateFormat
@@ -35,7 +37,37 @@ abstract class MangaOnline : Madara() {
         }
     }
 
-    override fun popularMangaNextPageSelector() = "div.manga-archive-pagination a"
+    override fun popularMangaNextPageSelector() = "div.manga-archive-pagination a.next"
+
+    override fun searchMangaRequest(page: Int, query: String, filters: FilterList): Request {
+        val url = if (page == 1) {
+            "$baseUrl/".toHttpUrl()
+        } else {
+            "$baseUrl/page/$page/".toHttpUrl()
+        }.newBuilder()
+            .addQueryParameter("s", query)
+            .build()
+
+        return GET(url, headers)
+    }
+
+    override fun searchMangaSelector() = ".search-results-grid .manga-card"
+
+    override val searchMangaUrlSelector = "a.manga-card-link"
+
+    override fun searchMangaFromElement(element: Element): SManga = SManga.create().apply {
+        element.selectFirst(searchMangaUrlSelector)?.let {
+            setUrlWithoutDomain(it.attr("abs:href"))
+        }
+        element.selectFirst("h3.manga-card-title")?.let {
+            title = it.text()
+        }
+        element.selectFirst("img")?.let {
+            thumbnail_url = processThumbnail(imageFromElement(it), true)
+        }
+    }
+
+    override fun searchMangaNextPageSelector(): String? = null
 
     override fun latestUpdatesRequest(page: Int): Request {
         val path = if (page == 1) "/manga/" else "/manga/page/$page/"
