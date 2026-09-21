@@ -172,7 +172,7 @@ abstract class NoxMangas : HttpSource() {
         return apiRequest(endpoint, url)
     }
 
-    override fun mangaDetailsParse(response: Response): SManga = response.parseAs<ComicDetailDto>().comic.toSManga()
+    override fun mangaDetailsParse(response: Response): SManga = response.parseAs<ComicDetailDto>().toSManga()
 
     // ============================= Chapters ==============================
 

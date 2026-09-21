@@ -23,8 +23,24 @@ class PaginatedComicsDto(
 
 @Serializable
 class ComicDetailDto(
-    @SerialName("comic") val comic: ComicDto,
-)
+    @SerialName("comic") private val comic: ComicDto? = null,
+    @SerialName("data") private val data: ComicDto? = null,
+    private val slug: String? = null,
+    private val title: String? = null,
+    private val synopsis: String? = null,
+    private val cover: String? = null,
+    private val status: String? = null,
+    private val genres: List<GenreDto> = emptyList(),
+) {
+    fun toSManga(): SManga = (comic ?: data ?: ComicDto(
+        slug = slug.orEmpty(),
+        title = title.orEmpty(),
+        synopsis = synopsis,
+        cover = cover,
+        status = status,
+        genres = genres,
+    )).toSManga()
+}
 
 @Serializable
 class ComicDto(
