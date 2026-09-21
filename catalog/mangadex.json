@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-09-21T05:42:57Z",
+  "updated_at": "2026-09-21T11:33:44Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -2013,9 +2013,10 @@
       "title": "Wise Man's Grandchild",
       "url": "https://mangadex.org/title/835feda4-2db0-4753-8249-4575a3ceffe2",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-21T11:33:44Z",
+      "removed_by_source": true
     },
     "8361f424-465e-4235-9ce7-e3310703a924": {
       "title": "Can You Resist The Temptations Of An Immoral Oneesan?",
@@ -2172,9 +2173,10 @@
       "title": "Shinobi Undercover",
       "url": "https://mangadex.org/title/8a38bcc4-0a52-4a46-9d02-7fc802048b1d",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-21T11:33:44Z",
+      "removed_by_source": true
     },
     "8aa15734-2d69-452e-ba23-195881d9fc96": {
       "title": "Vampire's Alchemy",
@@ -2703,9 +2705,10 @@
       "title": "The Journey of a Dark Elf with Fading Powers",
       "url": "https://mangadex.org/title/a76b6b97-e434-40d6-b7c5-6026d22986d6",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-21T11:33:44Z",
+      "removed_by_source": true
     },
     "a808df79-d798-4ed7-9d25-298520d5b250": {
       "title": "Yachiru-san Grows When Praised",
@@ -3469,9 +3472,10 @@
       "title": "You are a Slugger",
       "url": "https://mangadex.org/title/d57884f5-17f6-4295-ad66-c5dfa817180e",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-21T11:33:44Z",
+      "removed_by_source": true
     },
     "d5ffa67c-723a-404d-b059-0ed5a3288877": {
       "title": "Sem título",
@@ -4172,9 +4176,10 @@
       "title": "The Rose of Versailles",
       "url": "https://mangadex.org/title/fd9577a0-43a3-4610-835f-1cbf903b7e3f",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-21T11:33:44Z",
+      "removed_by_source": true
     },
     "fe1394fe-3d67-48fb-b452-06580d2dd9d7": {
       "title": "The Wakaba Home's Blue Loves",
@@ -5590,6 +5595,22 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-09-21T05:42:57Z",
+      "removed_at": null
+    },
+    "6f2b317e-17ff-491a-8f61-e6e591ae2df2": {
+      "title": "Akanabe-sensei Doesn't Know About Embarrassment",
+      "url": "https://mangadex.org/title/6f2b317e-17ff-491a-8f61-e6e591ae2df2",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-21T11:33:44Z",
+      "removed_at": null
+    },
+    "829bb5b6-b9d2-4fc3-ba63-485934b098c6": {
+      "title": "To Aru Myouto no Nichijou",
+      "url": "https://mangadex.org/title/829bb5b6-b9d2-4fc3-ba63-485934b098c6",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-21T11:33:44Z",
       "removed_at": null
     }
   }

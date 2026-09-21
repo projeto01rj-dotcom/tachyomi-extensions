@@ -1,0 +1,55 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-09-21T11:33:44Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "6f2b317e-17ff-491a-8f61-e6e591ae2df2",
+      "title": "Akanabe-sensei Doesn't Know About Embarrassment",
+      "url": "https://mangadex.org/title/6f2b317e-17ff-491a-8f61-e6e591ae2df2"
+    },
+    {
+      "source": "mangadex",
+      "key": "829bb5b6-b9d2-4fc3-ba63-485934b098c6",
+      "title": "To Aru Myouto no Nichijou",
+      "url": "https://mangadex.org/title/829bb5b6-b9d2-4fc3-ba63-485934b098c6"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "835feda4-2db0-4753-8249-4575a3ceffe2",
+      "title": "Wise Man's Grandchild",
+      "url": "https://mangadex.org/title/835feda4-2db0-4753-8249-4575a3ceffe2",
+      "removed_at": "2026-09-21T11:33:44Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "8a38bcc4-0a52-4a46-9d02-7fc802048b1d",
+      "title": "Shinobi Undercover",
+      "url": "https://mangadex.org/title/8a38bcc4-0a52-4a46-9d02-7fc802048b1d",
+      "removed_at": "2026-09-21T11:33:44Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "a76b6b97-e434-40d6-b7c5-6026d22986d6",
+      "title": "The Journey of a Dark Elf with Fading Powers",
+      "url": "https://mangadex.org/title/a76b6b97-e434-40d6-b7c5-6026d22986d6",
+      "removed_at": "2026-09-21T11:33:44Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "d57884f5-17f6-4295-ad66-c5dfa817180e",
+      "title": "You are a Slugger",
+      "url": "https://mangadex.org/title/d57884f5-17f6-4295-ad66-c5dfa817180e",
+      "removed_at": "2026-09-21T11:33:44Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "fd9577a0-43a3-4610-835f-1cbf903b7e3f",
+      "title": "The Rose of Versailles",
+      "url": "https://mangadex.org/title/fd9577a0-43a3-4610-835f-1cbf903b7e3f",
+      "removed_at": "2026-09-21T11:33:44Z"
+    }
+  ]
+}
