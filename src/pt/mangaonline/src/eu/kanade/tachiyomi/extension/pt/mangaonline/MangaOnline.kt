@@ -67,7 +67,7 @@ abstract class MangaOnline : Madara() {
         }
     }
 
-    override fun searchMangaNextPageSelector(): String? = null
+    override fun searchMangaNextPageSelector() = "div.pagination a.next"
 
     override fun latestUpdatesRequest(page: Int): Request {
         val path = if (page == 1) "/manga/" else "/manga/page/$page/"
