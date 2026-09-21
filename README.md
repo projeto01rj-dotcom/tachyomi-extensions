@@ -1,37 +1,26 @@
-# Tachyomi Extensions
+# Extensões para Mihon
 
-Extensões Tachiyomi/Mihon (Kotlin) baseadas no padrão oficial
-[keiyoushi/extensions-source](https://github.com/keiyoushi/extensions-source), com
-catálogo mantido automaticamente por GitHub Actions.
+Extensões em Kotlin para o **Mihon**, baseadas no padrão oficial do projeto [keiyoushi/extensions-source](https://github.com/keiyoushi/extensions-source), com catálogo mantido automaticamente por GitHub Actions.
 
-## Como instalar no app (Mihon / Tachiyomi)
+## Como instalar no Mihon
 
-A cada build, o CI publica também um **repositório de extensões** na branch `repo` (APKs +
-`index.min.json` + `repo.json`). No app:
+A cada build, o CI publica um **repositório de extensões** na branch `repo` (APKs, `index.min.json` e `repo.json`). No Mihon:
 
-1. **Mihon**: Settings → Extensions → botão ➕ (adicionar repositório) → cole a URL:
+1. Abra **Configurações → Extensões**.
+2. Toque no botão **➕** para adicionar um repositório.
+3. Cole a URL abaixo:
 
-   ```
+   ```text
    https://raw.githubusercontent.com/projeto01rj-dotcom/tachyomi-extensions/repo/index.min.json
    ```
 
-   **Tachiyomi** (versões antigas): Browse → Extensions → ⋮ → Extension repos → adicionar o
-   endereço `https://github.com/projeto01rj-dotcom/tachyomi-extensions/raw/repo/index.min.json`.
+4. Atualize a lista de repositórios e instale as extensões desejadas.
 
-2. Instale as extensões desejadas normalmente.
+Como alternativa, baixe os APKs no artefato `apks` em **Actions → Build** e instale-os manualmente no Android.
 
-Alternativa rápida (instalação manual, sem repo): baixe os APKs do artefato `apks` em
-**Actions → Build**, e instale-os como um APK comum.
+> **Nota sobre assinatura:** os APKs usam o keystore de **depuração** do Android (certificado fixo), e o `repo.json` é gerado com o fingerprint correspondente. Por isso, o Mihon consegue validar o repositório sem que nenhum segredo seja incluído no código. Se o projeto for compartilhado, considere substituir por um `signingkey.jks` próprio com os secrets `KEY_STORE_PASSWORD`, `ALIAS` e `KEY_PASSWORD`; o CI detecta o arquivo automaticamente e recalcula o fingerprint.
 
-> **Nota sobre assinatura:** os APKs usam o keystore de **depuração** do Android
-> (certificado fixo), e o `repo.json` é gerado com o fingerprint correspondente — por isso o
-> app aceita o repositório sem nenhum segredo. Se o projeto for compartilhado, considere
-> substituir por um `signingkey.jks` próprio com os secrets `KEY_STORE_PASSWORD`, `ALIAS`,
-> `KEY_PASSWORD` (o CI detecta o arquivo automaticamente e recalcula o fingerprint).
-
-> **Conflito com o repo oficial:** a extensão `mangadex` usa o mesmo pacote
-> (`eu.kanade.tachiyomi.extension.all.mangadex`) do repositório oficial keiyoushi. Se você tiver
-> os dois repositórios adicionados, eles vão disputar a atualização dessa extensão — use um só.
+> **Conflito com o repositório oficial:** a extensão `mangadex` usa o mesmo pacote (`eu.kanade.tachiyomi.extension.all.mangadex`) do repositório oficial keiyoushi. Se os dois repositórios estiverem adicionados ao Mihon, eles poderão disputar a atualização dessa extensão. Use apenas um dos repositórios para MangaDex.
 
 ## Fontes incluídas
 
@@ -39,34 +28,25 @@ Alternativa rápida (instalação manual, sem repo): baixe os APKs do artefato `
 | --- | --- | --- |
 | `src/all/mangadex` | [mangadex.org](https://mangadex.org) | API oficial `api.mangadex.org` (60 idiomas) |
 | `src/pt/saikaiscan` | [housesaikai.net](https://housesaikai.net) | API `api.housesaikai.net/api` |
-| `src/pt/mangaonline` | [mangaonline.tv](https://mangaonline.tv) | Tema **Madara** (`lib-multisrc/madara`) |
+| `src/pt/mangaonline` | [mangaonline.love](https://mangaonline.love) | Tema **Madara** (`lib-multisrc/madara`) |
 | `src/pt/noxmangas` | [noxmangas.org](https://noxmangas.org) | API Nix assinada (`/_nix/signer.js` → SHA-256) |
 
 ## Estrutura
 
-```
+```text
 src/            extensões em Kotlin (1 módulo = 1 fonte)
 lib/            bibliotecas compartilhadas (i18n)
 lib-multisrc/   temas multissite (madara)
 core/, compiler/, gradle/   infraestrutura de build do keiyoushi (intocada)
 scripts/        sincronização do catálogo em Python
-catalog/        dados das fontes atualizados a cada 30 min pelo CI
+catalog/        dados das fontes atualizados a cada 30 minutos pelo CI
 .github/workflows/  build.yml e sync.yml
 ```
 
 ## GitHub Actions
 
-- **`build.yml`** — compila as 4 extensões em APKs (`assembleRelease`) em todo push e
-  disponibiliza os artefatos (`apks`). Na sequência, publica/apodera a branch `repo`
-  (APKs + `index.min.json` + `repo.json`) via `.github/scripts/publish_index.py` — é essa
-  "loja" que o app consome. Pode ser executado manualmente em **Actions → Build → Run workflow**.
-- **`sync.yml`** — roda via cron **a cada 30 minutos** (`*/30 * * * *`):
-  1. consulta as 4 fontes;
-  2. detecta **mangás novos** e os adiciona ao catálogo;
-  3. detecta mangás **removidos pela fonte fornecedora dos dados** e os **marca** no catálogo
-     (`status: removed`, `removed_by_source: true`) em vez de apagá-los;
-  4. abre uma issue `removed-by-source` para cada remoção (só a primeira vez);
-  5. faz commit e push do `catalog/`.
+- **`build.yml`** — compila as quatro extensões em APKs (`assembleRelease`) a cada push e disponibiliza o artefato `apks`. Em seguida, publica a branch `repo` (APKs, `index.min.json` e `repo.json`) via `.github/scripts/publish_index.py`; essa é a fonte que o Mihon consome. O workflow também pode ser executado manualmente em **Actions → Build → Run workflow**.
+- **`sync.yml`** — executa a cada 30 minutos (`*/30 * * * *`), consulta as quatro fontes, atualiza o catálogo, marca obras removidas e publica as alterações na pasta `catalog/`.
 
 ## Compilando localmente (opcional)
 
@@ -79,8 +59,7 @@ Requisitos: JDK 17+, Android SDK (compileSdk 37) e Git.
           :src:pt:saikaiscan:assembleRelease
 ```
 
-Os APKs ficam em `src/<lang>/<extensão>/build/outputs/apk/release/`. A assinatura usada é de
-depuração (automaticamente reverte-se para `debug` quando não há `signingkey.jks`).
+Os APKs ficam em `src/<lang>/<extensão>/build/outputs/apk/release/`. A assinatura usada é de depuração e é ativada automaticamente quando não existe `signingkey.jks`.
 
 ## Sincronização local (sem CI)
 
@@ -89,10 +68,8 @@ pip install -r scripts/requirements.txt
 python scripts/sync_catalog.py --repo-dir . --out catalog
 ```
 
-Exemplos de catálogo em `catalog/` (seed inicial já versionado).
+Exemplos de catálogo ficam em `catalog/`.
 
 ## Licença
 
-O núcleo de build (`gradle/build-logic`, `core`, `compiler`) vem do
-[keiyoushi/extensions-source](https://github.com/keiyoushi/extensions-source), licenciado sob
-Apache-2.0 conforme `LICENSE`.
+O núcleo de build (`gradle/build-logic`, `core` e `compiler`) vem do [keiyoushi/extensions-source](https://github.com/keiyoushi/extensions-source) e é licenciado sob Apache-2.0 conforme o arquivo `LICENSE`.
