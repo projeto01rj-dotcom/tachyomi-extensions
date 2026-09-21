@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-09-20T22:34:40Z",
+  "updated_at": "2026-09-21T00:41:46Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -183,9 +183,10 @@
       "title": "Sem título",
       "url": "https://mangadex.org/title/0e017a08-835a-4cbe-ba63-576d5010a5a0",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-21T00:41:46Z",
+      "removed_by_source": true
     },
     "0e2cb981-70c8-4229-aff7-6be966852b03": {
       "title": "Kanan-sama is Easy as Hell!",
@@ -2122,9 +2123,10 @@
       "title": "Medaka Kuroiwa is Impervious to My Charms",
       "url": "https://mangadex.org/title/87ffa375-bd2c-49ba-ba0c-6d78ea07c342",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-21T00:41:46Z",
+      "removed_by_source": true
     },
     "8892dc05-867f-4fff-823b-47210a6746bb": {
       "title": "I Am the Fated Villain",
@@ -2414,9 +2416,10 @@
       "title": "Tatsuki Fujimoto Short Story Collection",
       "url": "https://mangadex.org/title/991e9f15-8368-4843-a78a-5605918f9c3e",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-21T00:41:46Z",
+      "removed_by_source": true
     },
     "9a0f1e7e-d84b-46e6-8596-ae5a60529e81": {
       "title": "How Do We Relationship?",
@@ -5477,6 +5480,14 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-09-20T22:34:40Z",
+      "removed_at": null
+    },
+    "f137cc52-8535-4e2e-b79b-649a891f8551": {
+      "title": "Dungeon Crawler Carl",
+      "url": "https://mangadex.org/title/f137cc52-8535-4e2e-b79b-649a891f8551",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-21T00:41:46Z",
       "removed_at": null
     }
   }

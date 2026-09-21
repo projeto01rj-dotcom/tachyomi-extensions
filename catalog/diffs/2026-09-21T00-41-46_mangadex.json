@@ -1,0 +1,35 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-09-21T00:41:46Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "f137cc52-8535-4e2e-b79b-649a891f8551",
+      "title": "Dungeon Crawler Carl",
+      "url": "https://mangadex.org/title/f137cc52-8535-4e2e-b79b-649a891f8551"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "0e017a08-835a-4cbe-ba63-576d5010a5a0",
+      "title": "Sem título",
+      "url": "https://mangadex.org/title/0e017a08-835a-4cbe-ba63-576d5010a5a0",
+      "removed_at": "2026-09-21T00:41:46Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "87ffa375-bd2c-49ba-ba0c-6d78ea07c342",
+      "title": "Medaka Kuroiwa is Impervious to My Charms",
+      "url": "https://mangadex.org/title/87ffa375-bd2c-49ba-ba0c-6d78ea07c342",
+      "removed_at": "2026-09-21T00:41:46Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "991e9f15-8368-4843-a78a-5605918f9c3e",
+      "title": "Tatsuki Fujimoto Short Story Collection",
+      "url": "https://mangadex.org/title/991e9f15-8368-4843-a78a-5605918f9c3e",
+      "removed_at": "2026-09-21T00:41:46Z"
+    }
+  ]
+}
