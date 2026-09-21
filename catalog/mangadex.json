@@ -1,15 +1,16 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-09-21T00:41:46Z",
+  "updated_at": "2026-09-21T05:42:57Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
       "url": "https://mangadex.org/title/003e7fbf-f047-4783-a7df-1533a2a653d4",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-21T05:42:57Z",
+      "removed_by_source": true
     },
     "032f800d-d632-4442-8830-d037d616ead4": {
       "title": "The Demon King of the Frontier Life, Reincarnated to Become the Strongest Mage",
@@ -250,9 +251,10 @@
       "title": "Choujin X",
       "url": "https://mangadex.org/title/11b74211-f4c0-4f08-b5a4-c491da0d0c0b",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-21T05:42:57Z",
+      "removed_by_source": true
     },
     "11c2560b-7777-4741-86cb-efcc34fd5778": {
       "title": "The Knight in the Area",
@@ -326,9 +328,10 @@
       "title": "Girls und Panzer: Princess Samurai",
       "url": "https://mangadex.org/title/16118d57-aabb-45e8-973c-63b0a0b57726",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-21T05:42:57Z",
+      "removed_by_source": true
     },
     "1693697a-783c-4d3c-a2d3-dc069e137a23": {
       "title": "I Have No Home",
@@ -902,9 +905,10 @@
       "title": "Childhood Friends with a Pet and Master Relationship",
       "url": "https://mangadex.org/title/412f5c09-a5c4-4935-b6a5-7f13378efaac",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-21T05:42:57Z",
+      "removed_by_source": true
     },
     "4141c5dc-c525-4df5-afd7-cc7d192a832f": {
       "title": "Blue Lock",
@@ -1331,9 +1335,10 @@
       "title": "STRAVAGANZA The Queen in the Iron Mask",
       "url": "https://mangadex.org/title/5dd2b3f4-b3aa-40c5-8920-64643b144f1e",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-21T05:42:57Z",
+      "removed_by_source": true
     },
     "5e3a710f-0b0d-482b-9e84-d9c91960c625": {
       "title": "Anjo the Mischievous Gal",
@@ -1440,9 +1445,10 @@
       "title": "Depressed Hero",
       "url": "https://mangadex.org/title/61fbcf4d-a8aa-463d-bb82-b5437892b554",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-21T05:42:57Z",
+      "removed_by_source": true
     },
     "624d6ceb-768d-40a7-8412-84e083afbdb1": {
       "title": "I Found Amari-chan Next to the Number One Girl I Wanted to Make My Girlfriend",
@@ -1589,9 +1595,10 @@
       "title": "My New Girlfriend Is Not Human?",
       "url": "https://mangadex.org/title/6a8a10f6-b56e-47b4-8a36-951bec3900f0",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-21T05:42:57Z",
+      "removed_by_source": true
     },
     "6ab78f0b-f771-48b0-9739-9e0696ff1869": {
       "title": "Valentine Yuri",
@@ -2248,9 +2255,10 @@
       "title": "I Made Friends with the Second Prettiest Girl in My Class",
       "url": "https://mangadex.org/title/8ef11280-30bc-434b-bf61-c61e092905ac",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-21T05:42:57Z",
+      "removed_by_source": true
     },
     "8f811ac6-182c-4c5c-8cf7-448a22aa3584": {
       "title": "Machino-san, Waiting for a Comeback",
@@ -2517,9 +2525,10 @@
       "title": "Just Listen to the Song",
       "url": "https://mangadex.org/title/9ded1dbf-495b-43a2-a65c-6d220a67fc0e",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-21T05:42:57Z",
+      "removed_by_source": true
     },
     "9dee3a07-f3d0-45e3-a297-922d3c45a076": {
       "title": "Legend of the High School Iron Fist: Tough",
@@ -2592,9 +2601,10 @@
       "title": "Legend of the Galactic Heroes",
       "url": "https://mangadex.org/title/a29bd145-116e-49c8-bc2f-b15857299304",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-21T05:42:57Z",
+      "removed_by_source": true
     },
     "a2c1d849-af05-4bbc-b2a7-866ebb10331f": {
       "title": "One Piece (Official Colored)",
@@ -3093,9 +3103,10 @@
       "title": "Haimiya Is Scary Cute",
       "url": "https://mangadex.org/title/c4ca02fb-8378-433b-8049-fbbea5d25cba",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-21T05:42:57Z",
+      "removed_by_source": true
     },
     "c5d8b947-5c11-496b-a521-d7e78e6771c0": {
       "title": ".A -dot Alice-",
@@ -3143,9 +3154,10 @@
       "title": "Good-For-Nothing Blues",
       "url": "https://mangadex.org/title/c727d921-4294-455b-9bcc-2f0c7d29cd9a",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-21T05:42:57Z",
+      "removed_by_source": true
     },
     "c73341b2-14d1-4f9a-a7a8-a4fa9f342486": {
       "title": "My Son Seems To Have Reincarnated Into Another World: Full Ver.",
@@ -3303,9 +3315,10 @@
       "title": "The Vermilion Mask",
       "url": "https://mangadex.org/title/cf4671b6-1ce0-478d-a9f3-366883bbf373",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-21T05:42:57Z",
+      "removed_by_source": true
     },
     "cf4d634f-7199-4f4b-9ce2-2488e95c91b6": {
       "title": "We've Been Reincarnated, There's No Way I'm Giving You My Mana Again!",
@@ -3752,9 +3765,10 @@
       "title": "The Nerd Next Door Turned Out To Be The Magic Tower Master",
       "url": "https://mangadex.org/title/e7a92445-d4ee-411a-8680-17dfd699ee5f",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-21T05:42:57Z",
+      "removed_by_source": true
     },
     "e7ab9f39-7ffc-4fda-bd87-dc3e5b8480ce": {
       "title": "Can Even a Mob High Schooler Like Me Be a Normie If I Become an Adventurer?",
@@ -5488,6 +5502,94 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-09-21T00:41:46Z",
+      "removed_at": null
+    },
+    "30193c1f-1569-4c2d-8c29-8a365fec322b": {
+      "title": "Akuyuu no Ore ga Ponkotsu Kishi o Miterarenain da ga, Dou Sewa o Yakya Ii?: Madome Gaiden",
+      "url": "https://mangadex.org/title/30193c1f-1569-4c2d-8c29-8a365fec322b",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-21T05:42:57Z",
+      "removed_at": null
+    },
+    "4c28fa92-d88a-4686-b068-348c4e72f3e1": {
+      "title": "The Simple-Looking Sword Saint Is Nevertheless The Strongest",
+      "url": "https://mangadex.org/title/4c28fa92-d88a-4686-b068-348c4e72f3e1",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-21T05:42:57Z",
+      "removed_at": null
+    },
+    "55ace2fb-e157-4d76-9e72-67c6bd762a39": {
+      "title": "An Archdemon's Dilemma: How to Love Your Elf Bride",
+      "url": "https://mangadex.org/title/55ace2fb-e157-4d76-9e72-67c6bd762a39",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-21T05:42:57Z",
+      "removed_at": null
+    },
+    "58e2a0a4-1296-4cdd-9552-84bd0349bd0e": {
+      "title": "Saint Seiya: Another Story of Hades - Dark Wing",
+      "url": "https://mangadex.org/title/58e2a0a4-1296-4cdd-9552-84bd0349bd0e",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-21T05:42:57Z",
+      "removed_at": null
+    },
+    "840d6798-0087-4d94-96da-f36c163720fd": {
+      "title": "Cookie Run: Operation Survival",
+      "url": "https://mangadex.org/title/840d6798-0087-4d94-96da-f36c163720fd",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-21T05:42:57Z",
+      "removed_at": null
+    },
+    "8573d280-7f60-411d-b146-c97dca3c62f2": {
+      "title": "We're J-Just Childhood Friends",
+      "url": "https://mangadex.org/title/8573d280-7f60-411d-b146-c97dca3c62f2",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-21T05:42:57Z",
+      "removed_at": null
+    },
+    "9ef6e461-033b-4976-b222-943856c94a97": {
+      "title": "Smile!",
+      "url": "https://mangadex.org/title/9ef6e461-033b-4976-b222-943856c94a97",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-21T05:42:57Z",
+      "removed_at": null
+    },
+    "e0589f47-72f9-4e9a-ac31-5b88bcad6220": {
+      "title": "The Wrong Way to Use Healing Magic",
+      "url": "https://mangadex.org/title/e0589f47-72f9-4e9a-ac31-5b88bcad6220",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-21T05:42:57Z",
+      "removed_at": null
+    },
+    "e0c9100e-287d-4417-8c17-b4e696254dc7": {
+      "title": "The Yakuza's Guide to Babysitting",
+      "url": "https://mangadex.org/title/e0c9100e-287d-4417-8c17-b4e696254dc7",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-21T05:42:57Z",
+      "removed_at": null
+    },
+    "f417eb23-621c-4ff4-b110-640d3d6d97b7": {
+      "title": "Graykeith: Translator Daemonica",
+      "url": "https://mangadex.org/title/f417eb23-621c-4ff4-b110-640d3d6d97b7",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-21T05:42:57Z",
+      "removed_at": null
+    },
+    "f74dc24b-3f38-44d5-b7d0-8c40f4b04e29": {
+      "title": "My Dear Lass",
+      "url": "https://mangadex.org/title/f74dc24b-3f38-44d5-b7d0-8c40f4b04e29",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-21T05:42:57Z",
       "removed_at": null
     }
   }
