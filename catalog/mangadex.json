@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-09-22T19:00:57Z",
+  "updated_at": "2026-09-22T22:21:12Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -249,9 +249,10 @@
       "title": "The Slime Diaries: That Time I Got Reincarnated as a Slime",
       "url": "https://mangadex.org/title/1180743d-8e38-4c00-b767-c53169fadc6a",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-22T22:21:12Z",
+      "removed_by_source": true
     },
     "11b74211-f4c0-4f08-b5a4-c491da0d0c0b": {
       "title": "Choujin X",
@@ -606,9 +607,10 @@
       "title": "Mao",
       "url": "https://mangadex.org/title/26102334-1f7b-4a5b-a64f-107c5c24a70f",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-22T22:21:12Z",
+      "removed_by_source": true
     },
     "26e4421f-cef8-4775-8bf6-423061d9b43e": {
       "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2-nensei-hen 2nd Stage",
@@ -743,9 +745,10 @@
       "title": "Slam Dunk!",
       "url": "https://mangadex.org/title/319df2e2-e6a6-4e3a-a31c-68539c140a84",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-22T22:21:12Z",
+      "removed_by_source": true
     },
     "32505911-558f-4ce0-9eed-0b4538f29efc": {
       "title": "Days Off in the Dragon's Stomach",
@@ -1150,9 +1153,10 @@
       "title": "Fate/type Redline",
       "url": "https://mangadex.org/title/510f29a8-99b4-46af-ba5e-916e96bc6f37",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-22T22:21:12Z",
+      "removed_by_source": true
     },
     "51884f2e-8df3-45ec-8bab-4a9b10ae38ce": {
       "title": "A Parallel World with a 1:39 Male to Female Ratio is Unexpectedly Normal (Fan Colored)",
@@ -1407,9 +1411,10 @@
       "title": "My Little Pony Comics & Quiz",
       "url": "https://mangadex.org/title/5f578c1a-f777-4c8b-ba77-713b4d8a9d04",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-22T22:21:12Z",
+      "removed_by_source": true
     },
     "5f64d517-c4ea-40c0-a463-fcc069d39d3b": {
       "title": "I Got a New Skill Every Time I Was Exiled, and After 100 Different Worlds, I Was Unmatched",
@@ -1735,9 +1740,10 @@
       "title": "A Big Rabbit has Taken a Liking to Me!?",
       "url": "https://mangadex.org/title/6f003727-741d-44aa-8c0f-9e4ec0055b9c",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-22T22:21:12Z",
+      "removed_by_source": true
     },
     "6f519d01-5a36-4972-9122-a884f3c6db02": {
       "title": "QUIXOTIC RE:SONANCE",
@@ -3509,9 +3515,10 @@
       "title": "JM",
       "url": "https://mangadex.org/title/d5208b9d-5233-4672-bf5c-6e7d23767e37",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-22T22:21:12Z",
+      "removed_by_source": true
     },
     "d5427334-32a0-4a67-b93a-31d15a977c62": {
       "title": "My Black Cat is a Girl",
@@ -3526,9 +3533,10 @@
       "title": "Are You a Landmine, Chihara-san?",
       "url": "https://mangadex.org/title/d553645b-03a3-4fc8-9a9c-57f91cbbab89",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-22T22:21:12Z",
+      "removed_by_source": true
     },
     "d57884f5-17f6-4295-ad66-c5dfa817180e": {
       "title": "You are a Slugger",
@@ -3732,9 +3740,10 @@
       "title": "Sword of the Demon Hunter: Kijin Gentosho",
       "url": "https://mangadex.org/title/dfd7e5e0-d638-4f1d-9f38-ffc626c4167e",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-22T22:21:12Z",
+      "removed_by_source": true
     },
     "e0de090b-1bc2-4e2c-afe1-a69a0a2a29d7": {
       "title": "The Former Hero Wants to Live Peacefully",
@@ -3949,9 +3958,10 @@
       "title": "My Life Turned Around: After Being Cheated on and Falsely Accused, I Ended up Being Adored by the Most Beautiful Girl in School",
       "url": "https://mangadex.org/title/ed858324-c972-4d85-be4e-3287767eb7da",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-22T22:21:12Z",
+      "removed_by_source": true
     },
     "ed996855-70de-449f-bba2-e8e24224c14d": {
       "title": "ONIMAI: I'm Now Your Sister!",
@@ -4097,9 +4107,10 @@
       "title": "Cannon Master",
       "url": "https://mangadex.org/title/f5b4df91-7f9d-4951-9ed6-beaaa28e206c",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-22T22:21:12Z",
+      "removed_by_source": true
     },
     "f5f11b29-8c80-4b9d-8e56-a9d54e8e4d6e": {
       "title": "The Secret to a Happy Marriage is Drinking Together at Night",
@@ -4193,9 +4204,10 @@
       "title": "Innocent",
       "url": "https://mangadex.org/title/fa85b2aa-370c-41c5-96ae-29b05c848f3d",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-22T22:21:12Z",
+      "removed_by_source": true
     },
     "fa88b96d-492c-4535-8843-1ee277aea717": {
       "title": "The Hero's Bereaved Family",
@@ -6096,6 +6108,62 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-09-22T19:00:57Z",
+      "removed_at": null
+    },
+    "183b5c1e-5bfd-4f7f-9b21-3ac88c584987": {
+      "title": "Orb: On the Movements of the Earth",
+      "url": "https://mangadex.org/title/183b5c1e-5bfd-4f7f-9b21-3ac88c584987",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-22T22:21:12Z",
+      "removed_at": null
+    },
+    "19c8ff73-5282-435f-b0ff-3ba492230150": {
+      "title": "Kurosaki-kun no Iinari ni Nante Naranai",
+      "url": "https://mangadex.org/title/19c8ff73-5282-435f-b0ff-3ba492230150",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-22T22:21:12Z",
+      "removed_at": null
+    },
+    "54510496-b1d9-4b71-ac97-b50dec06d685": {
+      "title": "Fire Emblem: Engage",
+      "url": "https://mangadex.org/title/54510496-b1d9-4b71-ac97-b50dec06d685",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-22T22:21:12Z",
+      "removed_at": null
+    },
+    "6bf844c8-2ce4-401a-a761-3151042efe30": {
+      "title": "Alya Sometimes Hides Her Feelings in Russian",
+      "url": "https://mangadex.org/title/6bf844c8-2ce4-401a-a761-3151042efe30",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-22T22:21:12Z",
+      "removed_at": null
+    },
+    "77096449-d627-4699-a197-eab81d2f0bd2": {
+      "title": "Juudai Happyou (Fan Colored)",
+      "url": "https://mangadex.org/title/77096449-d627-4699-a197-eab81d2f0bd2",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-22T22:21:12Z",
+      "removed_at": null
+    },
+    "8300b59b-0d57-4681-b2b7-c4bbfc811dae": {
+      "title": "FUGA: Melodies of Steel",
+      "url": "https://mangadex.org/title/8300b59b-0d57-4681-b2b7-c4bbfc811dae",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-22T22:21:12Z",
+      "removed_at": null
+    },
+    "d68ceffd-ac56-45db-9129-3413dd0d7063": {
+      "title": "It Seems the Production Skill Acquired in Another World is the Strongest.",
+      "url": "https://mangadex.org/title/d68ceffd-ac56-45db-9129-3413dd0d7063",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-22T22:21:12Z",
       "removed_at": null
     }
   }

@@ -1,0 +1,134 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-09-22T22:21:12Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "183b5c1e-5bfd-4f7f-9b21-3ac88c584987",
+      "title": "Orb: On the Movements of the Earth",
+      "url": "https://mangadex.org/title/183b5c1e-5bfd-4f7f-9b21-3ac88c584987"
+    },
+    {
+      "source": "mangadex",
+      "key": "19c8ff73-5282-435f-b0ff-3ba492230150",
+      "title": "Kurosaki-kun no Iinari ni Nante Naranai",
+      "url": "https://mangadex.org/title/19c8ff73-5282-435f-b0ff-3ba492230150"
+    },
+    {
+      "source": "mangadex",
+      "key": "54510496-b1d9-4b71-ac97-b50dec06d685",
+      "title": "Fire Emblem: Engage",
+      "url": "https://mangadex.org/title/54510496-b1d9-4b71-ac97-b50dec06d685"
+    },
+    {
+      "source": "mangadex",
+      "key": "6bf844c8-2ce4-401a-a761-3151042efe30",
+      "title": "Alya Sometimes Hides Her Feelings in Russian",
+      "url": "https://mangadex.org/title/6bf844c8-2ce4-401a-a761-3151042efe30"
+    },
+    {
+      "source": "mangadex",
+      "key": "77096449-d627-4699-a197-eab81d2f0bd2",
+      "title": "Juudai Happyou (Fan Colored)",
+      "url": "https://mangadex.org/title/77096449-d627-4699-a197-eab81d2f0bd2"
+    },
+    {
+      "source": "mangadex",
+      "key": "8300b59b-0d57-4681-b2b7-c4bbfc811dae",
+      "title": "FUGA: Melodies of Steel",
+      "url": "https://mangadex.org/title/8300b59b-0d57-4681-b2b7-c4bbfc811dae"
+    },
+    {
+      "source": "mangadex",
+      "key": "d68ceffd-ac56-45db-9129-3413dd0d7063",
+      "title": "It Seems the Production Skill Acquired in Another World is the Strongest.",
+      "url": "https://mangadex.org/title/d68ceffd-ac56-45db-9129-3413dd0d7063"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "1180743d-8e38-4c00-b767-c53169fadc6a",
+      "title": "The Slime Diaries: That Time I Got Reincarnated as a Slime",
+      "url": "https://mangadex.org/title/1180743d-8e38-4c00-b767-c53169fadc6a",
+      "removed_at": "2026-09-22T22:21:12Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "26102334-1f7b-4a5b-a64f-107c5c24a70f",
+      "title": "Mao",
+      "url": "https://mangadex.org/title/26102334-1f7b-4a5b-a64f-107c5c24a70f",
+      "removed_at": "2026-09-22T22:21:12Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "319df2e2-e6a6-4e3a-a31c-68539c140a84",
+      "title": "Slam Dunk!",
+      "url": "https://mangadex.org/title/319df2e2-e6a6-4e3a-a31c-68539c140a84",
+      "removed_at": "2026-09-22T22:21:12Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "510f29a8-99b4-46af-ba5e-916e96bc6f37",
+      "title": "Fate/type Redline",
+      "url": "https://mangadex.org/title/510f29a8-99b4-46af-ba5e-916e96bc6f37",
+      "removed_at": "2026-09-22T22:21:12Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "5f578c1a-f777-4c8b-ba77-713b4d8a9d04",
+      "title": "My Little Pony Comics & Quiz",
+      "url": "https://mangadex.org/title/5f578c1a-f777-4c8b-ba77-713b4d8a9d04",
+      "removed_at": "2026-09-22T22:21:12Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "6f003727-741d-44aa-8c0f-9e4ec0055b9c",
+      "title": "A Big Rabbit has Taken a Liking to Me!?",
+      "url": "https://mangadex.org/title/6f003727-741d-44aa-8c0f-9e4ec0055b9c",
+      "removed_at": "2026-09-22T22:21:12Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "d5208b9d-5233-4672-bf5c-6e7d23767e37",
+      "title": "JM",
+      "url": "https://mangadex.org/title/d5208b9d-5233-4672-bf5c-6e7d23767e37",
+      "removed_at": "2026-09-22T22:21:12Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "d553645b-03a3-4fc8-9a9c-57f91cbbab89",
+      "title": "Are You a Landmine, Chihara-san?",
+      "url": "https://mangadex.org/title/d553645b-03a3-4fc8-9a9c-57f91cbbab89",
+      "removed_at": "2026-09-22T22:21:12Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "dfd7e5e0-d638-4f1d-9f38-ffc626c4167e",
+      "title": "Sword of the Demon Hunter: Kijin Gentosho",
+      "url": "https://mangadex.org/title/dfd7e5e0-d638-4f1d-9f38-ffc626c4167e",
+      "removed_at": "2026-09-22T22:21:12Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "ed858324-c972-4d85-be4e-3287767eb7da",
+      "title": "My Life Turned Around: After Being Cheated on and Falsely Accused, I Ended up Being Adored by the Most Beautiful Girl in School",
+      "url": "https://mangadex.org/title/ed858324-c972-4d85-be4e-3287767eb7da",
+      "removed_at": "2026-09-22T22:21:12Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "f5b4df91-7f9d-4951-9ed6-beaaa28e206c",
+      "title": "Cannon Master",
+      "url": "https://mangadex.org/title/f5b4df91-7f9d-4951-9ed6-beaaa28e206c",
+      "removed_at": "2026-09-22T22:21:12Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "fa85b2aa-370c-41c5-96ae-29b05c848f3d",
+      "title": "Innocent",
+      "url": "https://mangadex.org/title/fa85b2aa-370c-41c5-96ae-29b05c848f3d",
+      "removed_at": "2026-09-22T22:21:12Z"
+    }
+  ]
+}
