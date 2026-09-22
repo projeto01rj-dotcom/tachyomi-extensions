@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-09-22T15:05:00Z",
+  "updated_at": "2026-09-22T19:00:57Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -172,9 +172,10 @@
       "title": "The Skull Dragon's Precious Daughter",
       "url": "https://mangadex.org/title/0cf91ce5-5033-4fce-8687-b14c6a4d10b6",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-22T19:00:57Z",
+      "removed_by_source": true
     },
     "0cfcda3b-0dcb-459b-9931-aa823e7bf403": {
       "title": "Nine Peaks",
@@ -504,9 +505,10 @@
       "title": "Maid Hachiya-kun Is In Love",
       "url": "https://mangadex.org/title/1db93d0d-0af0-423e-89fd-ffa5c33ca534",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-22T19:00:57Z",
+      "removed_by_source": true
     },
     "1e471a9f-e26c-41db-8bfb-34cdcbf542e6": {
       "title": "Demon Girls and My Decadent Isekai Life",
@@ -1301,9 +1303,10 @@
       "title": "JoJo's Bizarre Adventure Part 1: Jonathan Joestar: His Youth",
       "url": "https://mangadex.org/title/5a547d1d-576b-477f-8cb3-70a3b4187f8a",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-22T19:00:57Z",
+      "removed_by_source": true
     },
     "5a563484-bbd0-4071-9b19-4fb2dbb72ba1": {
       "title": "The Story of My Stepsister Apparently Being a Yandere",
@@ -2020,9 +2023,10 @@
       "title": "Rurouni Kenshin: The Hokkaido Arc",
       "url": "https://mangadex.org/title/8311ab2d-f034-4e7a-8635-4dce27bf6027",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-22T19:00:57Z",
+      "removed_by_source": true
     },
     "832692d3-11c7-49a1-aca4-deabdcf9e996": {
       "title": "Cyberpunk: Edgerunners Madness",
@@ -2037,9 +2041,10 @@
       "title": "Area 88",
       "url": "https://mangadex.org/title/8329fabe-41d2-4c63-8d06-41400185dcbc",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-22T19:00:57Z",
+      "removed_by_source": true
     },
     "835feda4-2db0-4753-8249-4575a3ceffe2": {
       "title": "Wise Man's Grandchild",
@@ -2121,9 +2126,10 @@
       "title": "Walking Home with You",
       "url": "https://mangadex.org/title/85b3504c-62e8-49e7-9a81-fb64a3f51def",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-22T19:00:57Z",
+      "removed_by_source": true
     },
     "85f599c8-4f2a-4ccc-a2c8-348335bd0a90": {
       "title": "With Regard to My Dear Kudan",
@@ -2509,9 +2515,10 @@
       "title": "Himegasaki Sakurako Is a Hot Mess",
       "url": "https://mangadex.org/title/9c67e88c-ebbc-4dcc-bb92-b326283434ea",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-22T19:00:57Z",
+      "removed_by_source": true
     },
     "9c756e83-1032-4338-82ca-47ae9d7f999a": {
       "title": "Hello, I Am a Witch, and My Crush Wants Me to Make a Love Potion!",
@@ -2877,9 +2884,10 @@
       "title": "Please Give Me Your Blood, I Will Serve You in Gratitude",
       "url": "https://mangadex.org/title/b1a5751e-fd75-4df1-b8c8-77d8b7b92e9a",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-22T19:00:57Z",
+      "removed_by_source": true
     },
     "b2b78622-2247-4edb-b696-ae96b4617f71": {
       "title": "Play Play As You Please.",
@@ -2983,9 +2991,10 @@
       "title": "Umine the Island Inn",
       "url": "https://mangadex.org/title/b6ad3b4c-6906-4e04-9b86-22c6ef24e320",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-22T19:00:57Z",
+      "removed_by_source": true
     },
     "b6b89f54-81c1-4e7e-ae80-b4dccdd63ada": {
       "title": "The Case Where I Followed the Freezing Lady and She Doted on Me Like Crazy",
@@ -3247,9 +3256,10 @@
       "title": "She was Actually My Stepsister.: Recently, the Sense of Distance Between Me and My New Stepbrother is Incredibly Close",
       "url": "https://mangadex.org/title/c88ca39b-c68a-4551-ac6f-65d23cfcca72",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-22T19:00:57Z",
+      "removed_by_source": true
     },
     "c8a0426d-539b-4f6a-9537-fbccf4962529": {
       "title": "The Moon on a Rainy Night",
@@ -3272,9 +3282,10 @@
       "title": "My Favorite Idol Officially Became a Stalker!",
       "url": "https://mangadex.org/title/c8b8de87-56b9-4e4c-a885-5ec946f02604",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-22T19:00:57Z",
+      "removed_by_source": true
     },
     "c93e558f-d189-4097-bb0d-71e931feed4d": {
       "title": "Hakanagi Kasumi, Who ×× Right Away When I'm Not Around",
@@ -3886,9 +3897,10 @@
       "title": "If that’s Love, break it.",
       "url": "https://mangadex.org/title/eac0159f-2768-49d7-8891-4202f3e9fb8c",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-22T19:00:57Z",
+      "removed_by_source": true
     },
     "eb1babe4-e69a-43f2-b0df-e46eef3ec206": {
       "title": "Put It All in the Ring",
@@ -4049,9 +4061,10 @@
       "title": "LIMITE DUPLO",
       "url": "https://mangadex.org/title/f24d960c-f4db-42a7-83c4-7d1a3cb0ae58",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-22T19:00:57Z",
+      "removed_by_source": true
     },
     "f26c0ae5-c8f6-4630-979e-9a5d310bd795": {
       "title": "I Only Want to Beat You",
@@ -6011,6 +6024,78 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-09-22T15:05:00Z",
+      "removed_at": null
+    },
+    "1bfbb8cf-96ea-416e-b211-656a9eb04a57": {
+      "title": "A Love Manual You Can Use from Today",
+      "url": "https://mangadex.org/title/1bfbb8cf-96ea-416e-b211-656a9eb04a57",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-22T19:00:57Z",
+      "removed_at": null
+    },
+    "30196491-8fc2-4961-8886-a58f898b1b3e": {
+      "title": "Berserk of Gluttony: The One that Exceeds the Concept of Levels",
+      "url": "https://mangadex.org/title/30196491-8fc2-4961-8886-a58f898b1b3e",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-22T19:00:57Z",
+      "removed_at": null
+    },
+    "418861d1-815e-4b01-8347-eba0d687df25": {
+      "title": "When the Villainess Meets the Yandere",
+      "url": "https://mangadex.org/title/418861d1-815e-4b01-8347-eba0d687df25",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-22T19:00:57Z",
+      "removed_at": null
+    },
+    "4d6decd4-835d-4905-9534-2571dae07bcd": {
+      "title": "Lord El-Melloi II-sei no Jikenbo",
+      "url": "https://mangadex.org/title/4d6decd4-835d-4905-9534-2571dae07bcd",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-22T19:00:57Z",
+      "removed_at": null
+    },
+    "82148d28-92b9-4f02-9996-07b4017d2be7": {
+      "title": "The Wind Spell",
+      "url": "https://mangadex.org/title/82148d28-92b9-4f02-9996-07b4017d2be7",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-22T19:00:57Z",
+      "removed_at": null
+    },
+    "be314f77-95d8-4722-8369-7ae6cb1a536b": {
+      "title": "The Helpless Saint and the Powerless Princess: The Tale of How a Saint with No Magic Was Summoned to Save Another World",
+      "url": "https://mangadex.org/title/be314f77-95d8-4722-8369-7ae6cb1a536b",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-22T19:00:57Z",
+      "removed_at": null
+    },
+    "cb9de964-2995-4d80-91a4-a0b89a13107d": {
+      "title": "Wandering Around Another World with Just One Fishing Rod",
+      "url": "https://mangadex.org/title/cb9de964-2995-4d80-91a4-a0b89a13107d",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-22T19:00:57Z",
+      "removed_at": null
+    },
+    "cbb22826-963e-4602-a5cd-a50c75723d59": {
+      "title": "Magic Stone Gourmet: Eating Magical Power Made Me the Strongest",
+      "url": "https://mangadex.org/title/cbb22826-963e-4602-a5cd-a50c75723d59",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-22T19:00:57Z",
+      "removed_at": null
+    },
+    "f4397b12-137c-426f-92ff-618ddfbad51a": {
+      "title": "Marriage Toxin",
+      "url": "https://mangadex.org/title/f4397b12-137c-426f-92ff-618ddfbad51a",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-22T19:00:57Z",
       "removed_at": null
     }
   }
