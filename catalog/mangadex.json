@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-09-22T10:09:00Z",
+  "updated_at": "2026-09-22T15:05:00Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -291,9 +291,10 @@
       "title": "An Elf, a Motorcycle, and an Imperial Geographic Surveyor and…",
       "url": "https://mangadex.org/title/13ccde4b-f0ae-4ead-8781-b444e51f81a1",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-22T15:05:00Z",
+      "removed_by_source": true
     },
     "13d2856e-9163-43a1-86f9-cd66d41db09b": {
       "title": "Isekai Samurai",
@@ -707,9 +708,10 @@
       "title": "Fly Me to The Moon",
       "url": "https://mangadex.org/title/30f3ac69-21b6-45ad-a110-d011b7aaadaa",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-22T15:05:00Z",
+      "removed_by_source": true
     },
     "3143b64a-769c-4044-89b1-1a00480099b7": {
       "title": "Infinite Magician",
@@ -933,9 +935,10 @@
       "title": "The Fragrant Flower Blooms with Dignity",
       "url": "https://mangadex.org/title/418791c0-35cf-4f87-936b-acd9cddf0989",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-22T15:05:00Z",
+      "removed_by_source": true
     },
     "423aefd6-f63d-4d3b-9a70-ba8ec9ad2c37": {
       "title": "Sem título",
@@ -1392,9 +1395,10 @@
       "title": "Kono Healer, Mendokusai",
       "url": "https://mangadex.org/title/5f20aded-1216-41e3-b48d-87b0c4d9957c",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-22T15:05:00Z",
+      "removed_by_source": true
     },
     "5f578c1a-f777-4c8b-ba77-713b4d8a9d04": {
       "title": "My Little Pony Comics & Quiz",
@@ -1512,9 +1516,10 @@
       "title": "WITCHRIV",
       "url": "https://mangadex.org/title/63dbbf80-0189-4ae4-a549-68a0caa2f834",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-22T15:05:00Z",
+      "removed_by_source": true
     },
     "647c6480-a877-4899-9382-5757fcfba1d3": {
       "title": "The Sweet Sixty Princess",
@@ -1898,9 +1903,10 @@
       "title": "Echoes ACT50",
       "url": "https://mangadex.org/title/7d074d5f-b7b5-402d-b883-29ce6b029052",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-22T15:05:00Z",
+      "removed_by_source": true
     },
     "7d885530-3222-4fc3-b32b-1bc7961e3b66": {
       "title": "Wing-Man",
@@ -2328,9 +2334,10 @@
       "title": "Fog Land",
       "url": "https://mangadex.org/title/915412e0-ffc6-4b36-a75c-11a6d9f09244",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-22T15:05:00Z",
+      "removed_by_source": true
     },
     "91cfbf64-242c-4e22-a211-db9b4445da46": {
       "title": "Salvos (A Monster Evolution LitRPG)",
@@ -2878,9 +2885,10 @@
       "title": "Play Play As You Please.",
       "url": "https://mangadex.org/title/b2b78622-2247-4edb-b696-ae96b4617f71",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-22T15:05:00Z",
+      "removed_by_source": true
     },
     "b2ba7d52-9cbb-4673-a74c-68642a13f743": {
       "title": "Big Sister's Here!",
@@ -3162,9 +3170,10 @@
       "title": "The Snow Country Hunting Life of the Northern Nobleman and the Eagle-like Wife",
       "url": "https://mangadex.org/title/c6284a2f-3378-4948-b368-02053fb3c942",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-22T15:05:00Z",
+      "removed_by_source": true
     },
     "c679bf28-e054-4bb7-93e6-18c089ee79f1": {
       "title": "Two People Who Are Too Close",
@@ -3703,9 +3712,10 @@
       "title": "Blue Ursus",
       "url": "https://mangadex.org/title/dfc125ad-5f25-44d1-82bf-92edc59ac8cf",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-22T15:05:00Z",
+      "removed_by_source": true
     },
     "dfd7e5e0-d638-4f1d-9f38-ffc626c4167e": {
       "title": "Sword of the Demon Hunter: Kijin Gentosho",
@@ -4065,9 +4075,10 @@
       "title": "Home at the Horizon",
       "url": "https://mangadex.org/title/f4b2c57f-e35a-4798-8d73-42e898dcd00f",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-22T15:05:00Z",
+      "removed_by_source": true
     },
     "f5b4df91-7f9d-4951-9ed6-beaaa28e206c": {
       "title": "Cannon Master",
@@ -5944,6 +5955,62 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-09-22T10:09:00Z",
+      "removed_at": null
+    },
+    "2c9c3fdd-a4b6-4736-9fa7-441035790873": {
+      "title": "My Friend's Sister Is Scary but Nice",
+      "url": "https://mangadex.org/title/2c9c3fdd-a4b6-4736-9fa7-441035790873",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-22T15:05:00Z",
+      "removed_at": null
+    },
+    "301c828c-9756-4354-b16e-d50e0d06e627": {
+      "title": "Kirihara-san Does Not Have a Sense of Distance!",
+      "url": "https://mangadex.org/title/301c828c-9756-4354-b16e-d50e0d06e627",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-22T15:05:00Z",
+      "removed_at": null
+    },
+    "4393fd4e-d646-4bab-9c95-786168ccb618": {
+      "title": "Devilman",
+      "url": "https://mangadex.org/title/4393fd4e-d646-4bab-9c95-786168ccb618",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-22T15:05:00Z",
+      "removed_at": null
+    },
+    "8fb6d1db-c0c5-4122-81fe-dd480bfdb6eb": {
+      "title": "Magical Girl 201",
+      "url": "https://mangadex.org/title/8fb6d1db-c0c5-4122-81fe-dd480bfdb6eb",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-22T15:05:00Z",
+      "removed_at": null
+    },
+    "b05918e4-fb1a-4b10-a919-eaecf00fd7dd": {
+      "title": "Tower Dungeon",
+      "url": "https://mangadex.org/title/b05918e4-fb1a-4b10-a919-eaecf00fd7dd",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-22T15:05:00Z",
+      "removed_at": null
+    },
+    "c0727be3-cccf-4cfd-99de-13c52c0f23be": {
+      "title": "Kyomu-neechan Wants Attention",
+      "url": "https://mangadex.org/title/c0727be3-cccf-4cfd-99de-13c52c0f23be",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-22T15:05:00Z",
+      "removed_at": null
+    },
+    "cbb4cbf1-567d-48ac-a48d-ba96124e1171": {
+      "title": "Even a Parakeet Wants to Experience Youth",
+      "url": "https://mangadex.org/title/cbb4cbf1-567d-48ac-a48d-ba96124e1171",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-22T15:05:00Z",
       "removed_at": null
     }
   }
