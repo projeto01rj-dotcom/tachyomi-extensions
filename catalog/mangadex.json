@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-09-21T21:28:23Z",
+  "updated_at": "2026-09-22T00:13:49Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -78,9 +78,10 @@
       "title": "Killing Bites",
       "url": "https://mangadex.org/title/076b3757-2050-4362-b0ad-52513ecefa3f",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-22T00:13:49Z",
+      "removed_by_source": true
     },
     "081d25db-d663-4eed-9899-fba7cb246ba3": {
       "title": "Kuzu!! - Another Crows: Kuzugami Tatsuo",
@@ -238,9 +239,10 @@
       "title": "The Truth Mask",
       "url": "https://mangadex.org/title/1116821f-0141-45ef-b91d-a8131343dd87",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-22T00:13:49Z",
+      "removed_by_source": true
     },
     "1180743d-8e38-4c00-b767-c53169fadc6a": {
       "title": "The Slime Diaries: That Time I Got Reincarnated as a Slime",
@@ -1736,9 +1738,10 @@
       "title": "LaLa",
       "url": "https://mangadex.org/title/719e258b-e2aa-4f6b-9676-50118ad27f28",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-22T00:13:49Z",
+      "removed_by_source": true
     },
     "71f3e1de-4a47-48f5-89b6-75c54e3047da": {
       "title": "Quit Laughing, Shijima",
@@ -2377,9 +2380,10 @@
       "title": "Am I Actually the Strongest?",
       "url": "https://mangadex.org/title/9484b1fd-0271-4c9b-b096-7e313823058e",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-22T00:13:49Z",
+      "removed_by_source": true
     },
     "94c7e52e-a6b2-4b57-ba14-68f58fc77c8e": {
       "title": "Ghost Fixers",
@@ -2531,9 +2535,10 @@
       "title": "The School's Madonna, Watanabe-san, for Some Reason Asks My Schedule Every Week",
       "url": "https://mangadex.org/title/9d985413-87c5-4990-9007-d5f4139535f5",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-22T00:13:49Z",
+      "removed_by_source": true
     },
     "9dc08c5f-be0e-4fd3-800e-75a45321dcdf": {
       "title": "A Day With Rinko-chan",
@@ -3137,9 +3142,10 @@
       "title": ".A -dot Alice-",
       "url": "https://mangadex.org/title/c5d8b947-5c11-496b-a521-d7e78e6771c0",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-22T00:13:49Z",
+      "removed_by_source": true
     },
     "c6284a2f-3378-4948-b368-02053fb3c942": {
       "title": "The Snow Country Hunting Life of the Northern Nobleman and the Eagle-like Wife",
@@ -3558,9 +3564,10 @@
       "title": "The Perfect Plan for a Fairy-Tale Ending",
       "url": "https://mangadex.org/title/d82e4a7a-85f8-4f06-ac83-c92b522836ea",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-22T00:13:49Z",
+      "removed_by_source": true
     },
     "d8323b7b-9a7a-462b-90f0-2759fed52511": {
       "title": "Hokkaido Gals Are Super Adorable!",
@@ -3872,9 +3879,10 @@
       "title": "Sem título",
       "url": "https://mangadex.org/title/eb1e9858-5d3c-4c3e-a394-12c5b4d0b55f",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-22T00:13:49Z",
+      "removed_by_source": true
     },
     "ec0c3cbf-dc3d-4df2-b2c6-2af7ad41541e": {
       "title": "Mane Mane Nichi Nichi: Baseball Manager Everyday",
@@ -4638,9 +4646,10 @@
       "title": "DOGSRED",
       "url": "https://mangadex.org/title/949b20c3-de22-4e7b-989f-b26a8cdf7ecb",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-19T07:27:30Z",
-      "removed_at": null
+      "removed_at": "2026-09-22T00:13:49Z",
+      "removed_by_source": true
     },
     "b65fbf0e-6768-407d-ba79-fa9fcb319155": {
       "title": "Hope You're Happy, Lemon",
@@ -5808,6 +5817,46 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-09-21T21:28:23Z",
+      "removed_at": null
+    },
+    "23d8002c-8334-4eb4-b5a7-649574c44500": {
+      "title": "Reincarnated Fighting Gamer: An Old Man's Guide to Conquering Another World",
+      "url": "https://mangadex.org/title/23d8002c-8334-4eb4-b5a7-649574c44500",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-22T00:13:49Z",
+      "removed_at": null
+    },
+    "3f907123-abea-4a4a-9011-c6734cbf3b29": {
+      "title": "Lemon",
+      "url": "https://mangadex.org/title/3f907123-abea-4a4a-9011-c6734cbf3b29",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-22T00:13:49Z",
+      "removed_at": null
+    },
+    "4c532b6f-0f3d-47db-8dd3-94474dc0e325": {
+      "title": "Maybe Undefeatable",
+      "url": "https://mangadex.org/title/4c532b6f-0f3d-47db-8dd3-94474dc0e325",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-22T00:13:49Z",
+      "removed_at": null
+    },
+    "912fd3b2-dda9-4ffb-ab85-955f67dafd7f": {
+      "title": "The Oppressed Princess Was a Reincarnated Legendary Magician",
+      "url": "https://mangadex.org/title/912fd3b2-dda9-4ffb-ab85-955f67dafd7f",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-22T00:13:49Z",
+      "removed_at": null
+    },
+    "b78f8c5c-d53d-4de2-a4f6-9c1abceb4513": {
+      "title": "The Strongest Sage with 0 Magic Power: After Mastering Magic Theory, I Became the Strongest in the World",
+      "url": "https://mangadex.org/title/b78f8c5c-d53d-4de2-a4f6-9c1abceb4513",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-22T00:13:49Z",
       "removed_at": null
     }
   }

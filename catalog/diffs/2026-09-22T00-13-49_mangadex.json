@@ -1,0 +1,101 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-09-22T00:13:49Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "23d8002c-8334-4eb4-b5a7-649574c44500",
+      "title": "Reincarnated Fighting Gamer: An Old Man's Guide to Conquering Another World",
+      "url": "https://mangadex.org/title/23d8002c-8334-4eb4-b5a7-649574c44500"
+    },
+    {
+      "source": "mangadex",
+      "key": "3f907123-abea-4a4a-9011-c6734cbf3b29",
+      "title": "Lemon",
+      "url": "https://mangadex.org/title/3f907123-abea-4a4a-9011-c6734cbf3b29"
+    },
+    {
+      "source": "mangadex",
+      "key": "4c532b6f-0f3d-47db-8dd3-94474dc0e325",
+      "title": "Maybe Undefeatable",
+      "url": "https://mangadex.org/title/4c532b6f-0f3d-47db-8dd3-94474dc0e325"
+    },
+    {
+      "source": "mangadex",
+      "key": "912fd3b2-dda9-4ffb-ab85-955f67dafd7f",
+      "title": "The Oppressed Princess Was a Reincarnated Legendary Magician",
+      "url": "https://mangadex.org/title/912fd3b2-dda9-4ffb-ab85-955f67dafd7f"
+    },
+    {
+      "source": "mangadex",
+      "key": "b78f8c5c-d53d-4de2-a4f6-9c1abceb4513",
+      "title": "The Strongest Sage with 0 Magic Power: After Mastering Magic Theory, I Became the Strongest in the World",
+      "url": "https://mangadex.org/title/b78f8c5c-d53d-4de2-a4f6-9c1abceb4513"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "076b3757-2050-4362-b0ad-52513ecefa3f",
+      "title": "Killing Bites",
+      "url": "https://mangadex.org/title/076b3757-2050-4362-b0ad-52513ecefa3f",
+      "removed_at": "2026-09-22T00:13:49Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "1116821f-0141-45ef-b91d-a8131343dd87",
+      "title": "The Truth Mask",
+      "url": "https://mangadex.org/title/1116821f-0141-45ef-b91d-a8131343dd87",
+      "removed_at": "2026-09-22T00:13:49Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "719e258b-e2aa-4f6b-9676-50118ad27f28",
+      "title": "LaLa",
+      "url": "https://mangadex.org/title/719e258b-e2aa-4f6b-9676-50118ad27f28",
+      "removed_at": "2026-09-22T00:13:49Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "9484b1fd-0271-4c9b-b096-7e313823058e",
+      "title": "Am I Actually the Strongest?",
+      "url": "https://mangadex.org/title/9484b1fd-0271-4c9b-b096-7e313823058e",
+      "removed_at": "2026-09-22T00:13:49Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "9d985413-87c5-4990-9007-d5f4139535f5",
+      "title": "The School's Madonna, Watanabe-san, for Some Reason Asks My Schedule Every Week",
+      "url": "https://mangadex.org/title/9d985413-87c5-4990-9007-d5f4139535f5",
+      "removed_at": "2026-09-22T00:13:49Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "c5d8b947-5c11-496b-a521-d7e78e6771c0",
+      "title": ".A -dot Alice-",
+      "url": "https://mangadex.org/title/c5d8b947-5c11-496b-a521-d7e78e6771c0",
+      "removed_at": "2026-09-22T00:13:49Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "d82e4a7a-85f8-4f06-ac83-c92b522836ea",
+      "title": "The Perfect Plan for a Fairy-Tale Ending",
+      "url": "https://mangadex.org/title/d82e4a7a-85f8-4f06-ac83-c92b522836ea",
+      "removed_at": "2026-09-22T00:13:49Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "eb1e9858-5d3c-4c3e-a394-12c5b4d0b55f",
+      "title": "Sem título",
+      "url": "https://mangadex.org/title/eb1e9858-5d3c-4c3e-a394-12c5b4d0b55f",
+      "removed_at": "2026-09-22T00:13:49Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "949b20c3-de22-4e7b-989f-b26a8cdf7ecb",
+      "title": "DOGSRED",
+      "url": "https://mangadex.org/title/949b20c3-de22-4e7b-989f-b26a8cdf7ecb",
+      "removed_at": "2026-09-22T00:13:49Z"
+    }
+  ]
+}
