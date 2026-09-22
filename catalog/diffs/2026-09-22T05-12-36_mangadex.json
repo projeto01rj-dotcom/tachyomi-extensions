@@ -1,0 +1,94 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-09-22T05:12:36Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "0a4bdf95-dc11-4011-937e-7bdc4dd6e786",
+      "title": "Tune In to the Midnight Heart",
+      "url": "https://mangadex.org/title/0a4bdf95-dc11-4011-937e-7bdc4dd6e786"
+    },
+    {
+      "source": "mangadex",
+      "key": "16970351-67d8-4c8b-9b5d-4c9380f108cc",
+      "title": "The Chronicles of a Thousand Immortals",
+      "url": "https://mangadex.org/title/16970351-67d8-4c8b-9b5d-4c9380f108cc"
+    },
+    {
+      "source": "mangadex",
+      "key": "3c67b306-6859-43aa-bdaf-0f782c9ea0d7",
+      "title": "Kamisama Gakkou no Ochikobore",
+      "url": "https://mangadex.org/title/3c67b306-6859-43aa-bdaf-0f782c9ea0d7"
+    },
+    {
+      "source": "mangadex",
+      "key": "65489777-d127-402e-97f8-798abedeeabf",
+      "title": "To Me, Games Are Murder",
+      "url": "https://mangadex.org/title/65489777-d127-402e-97f8-798abedeeabf"
+    },
+    {
+      "source": "mangadex",
+      "key": "b8249e7e-cd20-43f3-b961-f47ad1070ab0",
+      "title": "How to Love a Loser",
+      "url": "https://mangadex.org/title/b8249e7e-cd20-43f3-b961-f47ad1070ab0"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "1693697a-783c-4d3c-a2d3-dc069e137a23",
+      "title": "I Have No Home",
+      "url": "https://mangadex.org/title/1693697a-783c-4d3c-a2d3-dc069e137a23",
+      "removed_at": "2026-09-22T05:12:36Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "1e471a9f-e26c-41db-8bfb-34cdcbf542e6",
+      "title": "Demon Girls and My Decadent Isekai Life",
+      "url": "https://mangadex.org/title/1e471a9f-e26c-41db-8bfb-34cdcbf542e6",
+      "removed_at": "2026-09-22T05:12:36Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "4911120a-723f-4c36-af98-00dc2b7b2f76",
+      "title": "The Hole in My Heart Cannot Be Filled with Reincarnation",
+      "url": "https://mangadex.org/title/4911120a-723f-4c36-af98-00dc2b7b2f76",
+      "removed_at": "2026-09-22T05:12:36Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "5f64d517-c4ea-40c0-a463-fcc069d39d3b",
+      "title": "I Got a New Skill Every Time I Was Exiled, and After 100 Different Worlds, I Was Unmatched",
+      "url": "https://mangadex.org/title/5f64d517-c4ea-40c0-a463-fcc069d39d3b",
+      "removed_at": "2026-09-22T05:12:36Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "67e7453b-9ee5-4ae5-9316-215b03e4a71d",
+      "title": "Witch Hat Atelier",
+      "url": "https://mangadex.org/title/67e7453b-9ee5-4ae5-9316-215b03e4a71d",
+      "removed_at": "2026-09-22T05:12:36Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "dea77c2d-dbaa-434a-b0af-0c116642434c",
+      "title": "Ichi the Witch",
+      "url": "https://mangadex.org/title/dea77c2d-dbaa-434a-b0af-0c116642434c",
+      "removed_at": "2026-09-22T05:12:36Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "ea47525d-99df-45b5-9103-dd853f49f8c3",
+      "title": "Welcome to Demon School! Iruma-kun: IruMafia Edition",
+      "url": "https://mangadex.org/title/ea47525d-99df-45b5-9103-dd853f49f8c3",
+      "removed_at": "2026-09-22T05:12:36Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "f26c0ae5-c8f6-4630-979e-9a5d310bd795",
+      "title": "I Only Want to Beat You",
+      "url": "https://mangadex.org/title/f26c0ae5-c8f6-4630-979e-9a5d310bd795",
+      "removed_at": "2026-09-22T05:12:36Z"
+    }
+  ]
+}
