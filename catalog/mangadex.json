@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-09-23T00:47:21Z",
+  "updated_at": "2026-09-23T05:24:06Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -147,9 +147,10 @@
       "title": "Boruto: Two Blue Vortex",
       "url": "https://mangadex.org/title/0b094aab-0cfb-4837-a49b-7267bdb86bec",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-23T05:24:06Z",
+      "removed_by_source": true
     },
     "0c1a6369-10d5-43cb-a392-dafdd13ea0c9": {
       "title": "Underworld Monarch, I Am the Abyss",
@@ -232,9 +233,10 @@
       "title": "Wagamama Oujo ni Tsukaeta Bannou Shitsuji, Tonari no Teikoku de Saikyou no Gunjin ni Nariagari Musou Suru",
       "url": "https://mangadex.org/title/10e86bce-9c74-460b-81ff-2a430acd5372",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-23T05:24:06Z",
+      "removed_by_source": true
     },
     "1116821f-0141-45ef-b91d-a8131343dd87": {
       "title": "The Truth Mask",
@@ -362,9 +364,10 @@
       "title": "Did You Think You Could Live Normally Even in a World With a 1:5 Male-to-Female Ratio?: When Deeply Intense Feelings of the Girls are Toyed With by an Oblivious Boy",
       "url": "https://mangadex.org/title/18d92807-8627-4a23-9ef6-12a0a7fbd054",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-23T05:24:06Z",
+      "removed_by_source": true
     },
     "1925ac0f-6e24-4c67-a2dd-c73dfdee3c0b": {
       "title": "Unnie, I like you!",
@@ -574,9 +577,10 @@
       "title": "Starting Life from Moss in Another World",
       "url": "https://mangadex.org/title/23104da0-90da-428f-94d3-27526889afb2",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-23T05:24:06Z",
+      "removed_by_source": true
     },
     "231d5196-1f41-4eba-af8d-841d40bc548d": {
       "title": "Homunculus",
@@ -1205,9 +1209,10 @@
       "title": "FAIRY TAIL: 100 Years Quest",
       "url": "https://mangadex.org/title/52ede55c-1584-4019-b85b-3902a423c3ab",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-23T05:24:06Z",
+      "removed_by_source": true
     },
     "53f1ec5e-058b-4d18-a23b-2a7dbca5669f": {
       "title": "The Regressed Mercenary Has a Plan",
@@ -1549,9 +1554,10 @@
       "title": "A Cool Girl and a 12cm Promise",
       "url": "https://mangadex.org/title/657ccfcc-5847-40f7-8859-5631eeeb3784",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-23T05:24:06Z",
+      "removed_by_source": true
     },
     "65efd7e6-cdd1-4fba-a79e-32134b2cef53": {
       "title": "Go Nagai Short Stories",
@@ -1846,9 +1852,10 @@
       "title": "I'm not a villainess!! Just Because I Can Control Darkness, Doesn't Mean I'm a villain",
       "url": "https://mangadex.org/title/773e5993-821a-4cea-8b44-f4450112a8f5",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-23T05:24:06Z",
+      "removed_by_source": true
     },
     "774f0f04-5023-4e2e-9c0b-f0ed382f078b": {
       "title": "Enigmatica",
@@ -1962,9 +1969,10 @@
       "title": "The Extra's Academy Survival Guide",
       "url": "https://mangadex.org/title/7f15e45c-b7fd-4164-8d8e-ede14a817f0d",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-23T05:24:06Z",
+      "removed_by_source": true
     },
     "7f30dfc3-0b80-4dcc-a3b9-0cd746fac005": {
       "title": "Detective Conan",
@@ -2091,9 +2099,10 @@
       "title": "Since My Previous Life was a Wise Man, I can Afford to Live.",
       "url": "https://mangadex.org/title/8461d3da-d14b-4a60-9a37-e4428fdda85e",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-23T05:24:06Z",
+      "removed_by_source": true
     },
     "8516915a-51a2-44e0-a915-aff325216a26": {
       "title": "The Angel Next Door Spoils Me Rotten: After the Rain",
@@ -2245,9 +2254,10 @@
       "title": "Miss Kojima, the Widowed Young Lady, Is the Strongest and Cutest",
       "url": "https://mangadex.org/title/8ae45b36-b246-4c0d-a735-1da87833e6ac",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-23T05:24:06Z",
+      "removed_by_source": true
     },
     "8af6f938-8de8-475a-8b9b-01bcfe65f641": {
       "title": "I Want You To Say You Love Me",
@@ -2756,9 +2766,10 @@
       "title": "A Story About Buying a Classmate Once a Week: 5,000 Yen for an Excuse to Spend Time Together",
       "url": "https://mangadex.org/title/a72d5653-7238-40ba-8135-c93910a02bc4",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-23T05:24:06Z",
+      "removed_by_source": true
     },
     "a76b6b97-e434-40d6-b7c5-6026d22986d6": {
       "title": "The Journey of a Dark Elf with Fading Powers",
@@ -3035,9 +3046,10 @@
       "title": "Tenkaichi: The Greatest Warrior Under the Rising Sun",
       "url": "https://mangadex.org/title/b76a0506-5168-431b-8acc-fa340a042f93",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-23T05:24:06Z",
+      "removed_by_source": true
     },
     "b847999d-1de3-4df5-83e5-a2cf970d060a": {
       "title": "Klutzy, Gullible Nishiga Hachi",
@@ -3120,9 +3132,10 @@
       "title": "The 100-Year Repeat Student Elf",
       "url": "https://mangadex.org/title/bdf12cc6-6946-4c09-889e-ae3f30446566",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-23T05:24:06Z",
+      "removed_by_source": true
     },
     "c1308a5b-2e2a-47e6-ac4b-0a72b3ceb97b": {
       "title": "Fermat's Cooking",
@@ -3719,9 +3732,10 @@
       "title": "The Glasses Boy and His Glasses-Fetish Girlfriend",
       "url": "https://mangadex.org/title/df38b169-e62e-43b0-9ebb-854400ba8889",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-23T05:24:06Z",
+      "removed_by_source": true
     },
     "df3ffe06-af50-46cb-bdb3-79f760190234": {
       "title": "I, the Demon Lord, Am Being Targeted by My Female Disciples!",
@@ -3790,9 +3804,10 @@
       "title": "The Golden Word Master: The Four Heroes and the Innocent Bystander with the Unique Cheat",
       "url": "https://mangadex.org/title/e3d88382-a2c4-4958-8311-f8bd9a3f1e21",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-23T05:24:06Z",
+      "removed_by_source": true
     },
     "e3e2c204-ccc4-4061-b9e0-526a8b47d652": {
       "title": "Renovations with a Gyaru",
@@ -3858,9 +3873,10 @@
       "title": "Can Even a Mob High Schooler Like Me Be a Normie If I Become an Adventurer?",
       "url": "https://mangadex.org/title/e7ab9f39-7ffc-4fda-bd87-dc3e5b8480ce",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-23T05:24:06Z",
+      "removed_by_source": true
     },
     "e7d7219c-a12b-484f-b29d-6013beac61b2": {
       "title": "Random Chat",
@@ -4201,9 +4217,10 @@
       "title": "Official \"Test\" Manga",
       "url": "https://mangadex.org/title/f9c33607-9180-4ba6-b85c-e4b5faee7192",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-23T05:24:06Z",
+      "removed_by_source": true
     },
     "fa85b2aa-370c-41c5-96ae-29b05c848f3d": {
       "title": "Innocent",
@@ -4252,9 +4269,10 @@
       "title": "Magicraft Meister",
       "url": "https://mangadex.org/title/fc2a2247-1a29-48e9-a1c5-b45ed7166c9a",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-23T05:24:06Z",
+      "removed_by_source": true
     },
     "fccf8436-e642-4a5e-8c62-60eb99aea92e": {
       "title": "How Pitiful, Genki-kun",
@@ -6193,6 +6211,102 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-09-23T00:47:21Z",
+      "removed_at": null
+    },
+    "2750ed89-ea66-4c0c-ab05-7417a9e0de3e": {
+      "title": "The Kingdoms of Ruin",
+      "url": "https://mangadex.org/title/2750ed89-ea66-4c0c-ab05-7417a9e0de3e",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-23T05:24:06Z",
+      "removed_at": null
+    },
+    "3c1bbe08-abec-49fd-bd19-455b31e320c6": {
+      "title": "Sem título",
+      "url": "https://mangadex.org/title/3c1bbe08-abec-49fd-bd19-455b31e320c6",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-23T05:24:06Z",
+      "removed_at": null
+    },
+    "3cbc4293-3623-470a-9405-f46b328c83d4": {
+      "title": "The Lecture You Would Never Want Your Parents to Give You",
+      "url": "https://mangadex.org/title/3cbc4293-3623-470a-9405-f46b328c83d4",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-23T05:24:06Z",
+      "removed_at": null
+    },
+    "469171aa-78cd-475c-98c5-68475d059dc1": {
+      "title": "Multi-Mind Mayhem: Isekai Tensei Soudouki",
+      "url": "https://mangadex.org/title/469171aa-78cd-475c-98c5-68475d059dc1",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-23T05:24:06Z",
+      "removed_at": null
+    },
+    "6c657548-3560-4236-ad18-402c6d2c3115": {
+      "title": "How to Raise a Boring Girlfriend",
+      "url": "https://mangadex.org/title/6c657548-3560-4236-ad18-402c6d2c3115",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-23T05:24:06Z",
+      "removed_at": null
+    },
+    "805ff299-b5ed-4887-90ef-bece73d182e5": {
+      "title": "Otherworld Battle Royale",
+      "url": "https://mangadex.org/title/805ff299-b5ed-4887-90ef-bece73d182e5",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-23T05:24:06Z",
+      "removed_at": null
+    },
+    "b85141eb-8051-451a-bf95-608351e2b613": {
+      "title": "War of the Adults",
+      "url": "https://mangadex.org/title/b85141eb-8051-451a-bf95-608351e2b613",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-23T05:24:06Z",
+      "removed_at": null
+    },
+    "c1e284bc-0436-42fe-b571-fa35a94279ce": {
+      "title": "Drama Queen",
+      "url": "https://mangadex.org/title/c1e284bc-0436-42fe-b571-fa35a94279ce",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-23T05:24:06Z",
+      "removed_at": null
+    },
+    "c8909273-7dea-4739-ac2e-c24da08b0b93": {
+      "title": "Villain Classroom",
+      "url": "https://mangadex.org/title/c8909273-7dea-4739-ac2e-c24da08b0b93",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-23T05:24:06Z",
+      "removed_at": null
+    },
+    "cf404ea0-03c4-4382-9f02-afd9a8f40cd1": {
+      "title": "I, an Ordinary Guy with No Redeeming Qualities, Risked My Life to Save Beautiful Twin Sisters, Only to Make the Secretly Yandere Duo Fall Madly in Love with Me",
+      "url": "https://mangadex.org/title/cf404ea0-03c4-4382-9f02-afd9a8f40cd1",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-23T05:24:06Z",
+      "removed_at": null
+    },
+    "d0f286ac-9ecf-4472-a3d7-1009eb0199e2": {
+      "title": "Hirano And Kagiura",
+      "url": "https://mangadex.org/title/d0f286ac-9ecf-4472-a3d7-1009eb0199e2",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-23T05:24:06Z",
+      "removed_at": null
+    },
+    "ea0e7020-2b2f-4f17-9251-fee3632dc135": {
+      "title": "My Yandere Girlfriend Lurks in the Dungeon and Kills Me Over and Over Again",
+      "url": "https://mangadex.org/title/ea0e7020-2b2f-4f17-9251-fee3632dc135",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-23T05:24:06Z",
       "removed_at": null
     }
   }
