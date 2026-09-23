@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-09-22T22:21:12Z",
+  "updated_at": "2026-09-23T00:47:21Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -2460,9 +2460,10 @@
       "title": "My Bias Gets on the Last Train",
       "url": "https://mangadex.org/title/984df7d5-ae4c-43c6-aa65-737b9f37e5ef",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-23T00:47:21Z",
+      "removed_by_source": true
     },
     "985480b8-cda1-4411-8d4f-5174a0045837": {
       "title": "HANA",
@@ -2513,9 +2514,10 @@
       "title": "Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City",
       "url": "https://mangadex.org/title/9afe47ee-5c8b-4572-b7c0-efa4f83da432",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-23T00:47:21Z",
+      "removed_by_source": true
     },
     "9c67e88c-ebbc-4dcc-bb92-b326283434ea": {
       "title": "Himegasaki Sakurako Is a Hot Mess",
@@ -2538,9 +2540,10 @@
       "title": "After I Rescued a Cold-Hearted, Black-Haired, Beautiful Girl, She Started Acting Sweet Only When We Were Alone",
       "url": "https://mangadex.org/title/9cd31469-d050-4523-b1eb-e019cd7f65d0",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-23T00:47:21Z",
+      "removed_by_source": true
     },
     "9d2bccba-33b3-4c95-a4bf-8cdea584a32a": {
       "title": "Tsuyoshi: The One Who No One can Win Against",
@@ -3056,9 +3059,10 @@
       "title": "EDENS ZERO",
       "url": "https://mangadex.org/title/bbaa17c4-0f36-4bbb-9861-34fc8fdf20fc",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-23T00:47:21Z",
+      "removed_by_source": true
     },
     "bbc14d56-b0c4-457d-ae6c-a795b818f833": {
       "title": "A Busybody Girl, Falling in Love",
@@ -3133,9 +3137,10 @@
       "title": "BiORG TRiNiTY",
       "url": "https://mangadex.org/title/c178430f-2f26-4c22-bb02-a6b0196a17c3",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-23T00:47:21Z",
+      "removed_by_source": true
     },
     "c1f8455f-3c02-4c04-9f54-46d56098ed02": {
       "title": "Sakura's World",
@@ -6164,6 +6169,30 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-09-22T22:21:12Z",
+      "removed_at": null
+    },
+    "3c30229a-e6a3-44fa-a1ac-61a208c2ebad": {
+      "title": "Yaotome x 2",
+      "url": "https://mangadex.org/title/3c30229a-e6a3-44fa-a1ac-61a208c2ebad",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-23T00:47:21Z",
+      "removed_at": null
+    },
+    "c8a49176-cf28-42e5-960e-8efd2d903323": {
+      "title": "We are the Main Characters of the Demon World!",
+      "url": "https://mangadex.org/title/c8a49176-cf28-42e5-960e-8efd2d903323",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-23T00:47:21Z",
+      "removed_at": null
+    },
+    "dddd5a26-839b-4762-ad81-060aeee32b60": {
+      "title": "Starting With x10: You Really Exploited the Bug!",
+      "url": "https://mangadex.org/title/dddd5a26-839b-4762-ad81-060aeee32b60",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-23T00:47:21Z",
       "removed_at": null
     }
   }

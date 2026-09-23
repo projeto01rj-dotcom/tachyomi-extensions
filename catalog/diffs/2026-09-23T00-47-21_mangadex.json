@@ -1,0 +1,61 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-09-23T00:47:21Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "3c30229a-e6a3-44fa-a1ac-61a208c2ebad",
+      "title": "Yaotome x 2",
+      "url": "https://mangadex.org/title/3c30229a-e6a3-44fa-a1ac-61a208c2ebad"
+    },
+    {
+      "source": "mangadex",
+      "key": "c8a49176-cf28-42e5-960e-8efd2d903323",
+      "title": "We are the Main Characters of the Demon World!",
+      "url": "https://mangadex.org/title/c8a49176-cf28-42e5-960e-8efd2d903323"
+    },
+    {
+      "source": "mangadex",
+      "key": "dddd5a26-839b-4762-ad81-060aeee32b60",
+      "title": "Starting With x10: You Really Exploited the Bug!",
+      "url": "https://mangadex.org/title/dddd5a26-839b-4762-ad81-060aeee32b60"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "984df7d5-ae4c-43c6-aa65-737b9f37e5ef",
+      "title": "My Bias Gets on the Last Train",
+      "url": "https://mangadex.org/title/984df7d5-ae4c-43c6-aa65-737b9f37e5ef",
+      "removed_at": "2026-09-23T00:47:21Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "9afe47ee-5c8b-4572-b7c0-efa4f83da432",
+      "title": "Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City",
+      "url": "https://mangadex.org/title/9afe47ee-5c8b-4572-b7c0-efa4f83da432",
+      "removed_at": "2026-09-23T00:47:21Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "9cd31469-d050-4523-b1eb-e019cd7f65d0",
+      "title": "After I Rescued a Cold-Hearted, Black-Haired, Beautiful Girl, She Started Acting Sweet Only When We Were Alone",
+      "url": "https://mangadex.org/title/9cd31469-d050-4523-b1eb-e019cd7f65d0",
+      "removed_at": "2026-09-23T00:47:21Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "bbaa17c4-0f36-4bbb-9861-34fc8fdf20fc",
+      "title": "EDENS ZERO",
+      "url": "https://mangadex.org/title/bbaa17c4-0f36-4bbb-9861-34fc8fdf20fc",
+      "removed_at": "2026-09-23T00:47:21Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "c178430f-2f26-4c22-bb02-a6b0196a17c3",
+      "title": "BiORG TRiNiTY",
+      "url": "https://mangadex.org/title/c178430f-2f26-4c22-bb02-a6b0196a17c3",
+      "removed_at": "2026-09-23T00:47:21Z"
+    }
+  ]
+}
