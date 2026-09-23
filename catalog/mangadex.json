@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-09-23T19:08:35Z",
+  "updated_at": "2026-09-23T22:24:22Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -662,9 +662,10 @@
       "title": "Shangri-La Frontier: From Trash-Game Hunter to God-Tier Game Master!",
       "url": "https://mangadex.org/title/29ab6984-7c1d-4d45-b925-25aa082b492e",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-23T22:24:22Z",
+      "removed_by_source": true
     },
     "29c42e49-d6f5-4084-9cec-771f5660c90f": {
       "title": "One-Punch Man (Fan Colored)",
@@ -4381,17 +4382,19 @@
       "title": "I Have 5 Stepsisters",
       "url": "https://mangadex.org/title/56efe728-4254-46b3-8b7c-1f3a0dc7a7a9",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T16:50:52Z",
-      "removed_at": null
+      "removed_at": "2026-09-23T22:24:22Z",
+      "removed_by_source": true
     },
     "7b9d73ff-a19e-4817-9eb7-657471f4d8d5": {
       "title": "Sem título",
       "url": "https://mangadex.org/title/7b9d73ff-a19e-4817-9eb7-657471f4d8d5",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T16:50:52Z",
-      "removed_at": null
+      "removed_at": "2026-09-23T22:24:22Z",
+      "removed_by_source": true
     },
     "87ebd557-8394-4f16-8afe-a8644e555ddc": {
       "title": "Hirayasumi",
@@ -4414,9 +4417,10 @@
       "title": "Bug Ego",
       "url": "https://mangadex.org/title/9c1cd558-fba3-40f1-bb84-b320f5d1eab1",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T16:50:52Z",
-      "removed_at": null
+      "removed_at": "2026-09-23T22:24:22Z",
+      "removed_by_source": true
     },
     "b24d2c22-5b28-44d4-a77f-0e920cd960a6": {
       "title": "Wolf-chan Wants to Look Cool",
@@ -6505,6 +6509,30 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-09-23T19:08:35Z",
+      "removed_at": null
+    },
+    "0081e3dd-bf93-4bd4-aa95-3e8c0f1dfa31": {
+      "title": "Yukidoke to Agapanthus",
+      "url": "https://mangadex.org/title/0081e3dd-bf93-4bd4-aa95-3e8c0f1dfa31",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-23T22:24:22Z",
+      "removed_at": null
+    },
+    "0fc730bf-45d6-42c1-8823-1c379aa1309e": {
+      "title": "JK to Kateikyoushi",
+      "url": "https://mangadex.org/title/0fc730bf-45d6-42c1-8823-1c379aa1309e",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-23T22:24:22Z",
+      "removed_at": null
+    },
+    "e42f6486-e018-4f29-b54c-7baed2ee855d": {
+      "title": "Sem título",
+      "url": "https://mangadex.org/title/e42f6486-e018-4f29-b54c-7baed2ee855d",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-23T22:24:22Z",
       "removed_at": null
     }
   }

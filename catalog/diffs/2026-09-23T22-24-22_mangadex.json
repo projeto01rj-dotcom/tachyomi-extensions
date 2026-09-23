@@ -1,0 +1,54 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-09-23T22:24:22Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "0081e3dd-bf93-4bd4-aa95-3e8c0f1dfa31",
+      "title": "Yukidoke to Agapanthus",
+      "url": "https://mangadex.org/title/0081e3dd-bf93-4bd4-aa95-3e8c0f1dfa31"
+    },
+    {
+      "source": "mangadex",
+      "key": "0fc730bf-45d6-42c1-8823-1c379aa1309e",
+      "title": "JK to Kateikyoushi",
+      "url": "https://mangadex.org/title/0fc730bf-45d6-42c1-8823-1c379aa1309e"
+    },
+    {
+      "source": "mangadex",
+      "key": "e42f6486-e018-4f29-b54c-7baed2ee855d",
+      "title": "Sem título",
+      "url": "https://mangadex.org/title/e42f6486-e018-4f29-b54c-7baed2ee855d"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "29ab6984-7c1d-4d45-b925-25aa082b492e",
+      "title": "Shangri-La Frontier: From Trash-Game Hunter to God-Tier Game Master!",
+      "url": "https://mangadex.org/title/29ab6984-7c1d-4d45-b925-25aa082b492e",
+      "removed_at": "2026-09-23T22:24:22Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "56efe728-4254-46b3-8b7c-1f3a0dc7a7a9",
+      "title": "I Have 5 Stepsisters",
+      "url": "https://mangadex.org/title/56efe728-4254-46b3-8b7c-1f3a0dc7a7a9",
+      "removed_at": "2026-09-23T22:24:22Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "7b9d73ff-a19e-4817-9eb7-657471f4d8d5",
+      "title": "Sem título",
+      "url": "https://mangadex.org/title/7b9d73ff-a19e-4817-9eb7-657471f4d8d5",
+      "removed_at": "2026-09-23T22:24:22Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "9c1cd558-fba3-40f1-bb84-b320f5d1eab1",
+      "title": "Bug Ego",
+      "url": "https://mangadex.org/title/9c1cd558-fba3-40f1-bb84-b320f5d1eab1",
+      "removed_at": "2026-09-23T22:24:22Z"
+    }
+  ]
+}
