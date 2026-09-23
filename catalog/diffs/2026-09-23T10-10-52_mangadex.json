@@ -1,0 +1,93 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-09-23T10:10:52Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "792e28fb-27be-425d-b92a-64e2d5474657",
+      "title": "Akane-banashi",
+      "url": "https://mangadex.org/title/792e28fb-27be-425d-b92a-64e2d5474657"
+    },
+    {
+      "source": "mangadex",
+      "key": "7b9cc384-4c98-4d57-83a4-93be3e573d69",
+      "title": "The Hero Returns from Another World, Becomes an Influencer, and Earns Money in the Real World, Where Dungeons have Appeared!",
+      "url": "https://mangadex.org/title/7b9cc384-4c98-4d57-83a4-93be3e573d69"
+    },
+    {
+      "source": "mangadex",
+      "key": "83c8fa21-926e-423f-a4ac-a74dbabad55c",
+      "title": "Sem título",
+      "url": "https://mangadex.org/title/83c8fa21-926e-423f-a4ac-a74dbabad55c"
+    },
+    {
+      "source": "mangadex",
+      "key": "b6886009-e60b-44a7-abc2-a575765277ba",
+      "title": "D.Gray-man",
+      "url": "https://mangadex.org/title/b6886009-e60b-44a7-abc2-a575765277ba"
+    },
+    {
+      "source": "mangadex",
+      "key": "d05bfa47-631c-4ebb-b590-11159206009b",
+      "title": "Juumonji in Sight!",
+      "url": "https://mangadex.org/title/d05bfa47-631c-4ebb-b590-11159206009b"
+    },
+    {
+      "source": "mangadex",
+      "key": "e4148575-6572-425f-9a60-50d94d423b58",
+      "title": "Baki Side Story: Gaia & Sikorsky - Sometimes Nomura—Two yet Three People Living Together",
+      "url": "https://mangadex.org/title/e4148575-6572-425f-9a60-50d94d423b58"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "1d330951-583e-423e-9cd7-abcd6f761f53",
+      "title": "My Sister's Best Friend",
+      "url": "https://mangadex.org/title/1d330951-583e-423e-9cd7-abcd6f761f53",
+      "removed_at": "2026-09-23T10:10:52Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "34019331-7377-4e2c-837e-f6e1ab2b5ef7",
+      "title": "The Seven Deadly Sins: Four Knights of the Apocalypse",
+      "url": "https://mangadex.org/title/34019331-7377-4e2c-837e-f6e1ab2b5ef7",
+      "removed_at": "2026-09-23T10:10:52Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "624d6ceb-768d-40a7-8412-84e083afbdb1",
+      "title": "I Found Amari-chan Next to the Number One Girl I Wanted to Make My Girlfriend",
+      "url": "https://mangadex.org/title/624d6ceb-768d-40a7-8412-84e083afbdb1",
+      "removed_at": "2026-09-23T10:10:52Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "8af6f938-8de8-475a-8b9b-01bcfe65f641",
+      "title": "I Want You To Say You Love Me",
+      "url": "https://mangadex.org/title/8af6f938-8de8-475a-8b9b-01bcfe65f641",
+      "removed_at": "2026-09-23T10:10:52Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "a6c86be9-0d1f-4829-9221-379c2341ed4d",
+      "title": "Hanzo and 13 Kunoichis",
+      "url": "https://mangadex.org/title/a6c86be9-0d1f-4829-9221-379c2341ed4d",
+      "removed_at": "2026-09-23T10:10:52Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "b6f8c7b9-eeae-4698-a0e7-05474f56b644",
+      "title": "The Invincible Little Lady",
+      "url": "https://mangadex.org/title/b6f8c7b9-eeae-4698-a0e7-05474f56b644",
+      "removed_at": "2026-09-23T10:10:52Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "d7037b2a-874a-4360-8a7b-07f2899152fd",
+      "title": "Welcome to Demon School! Iruma-kun",
+      "url": "https://mangadex.org/title/d7037b2a-874a-4360-8a7b-07f2899152fd",
+      "removed_at": "2026-09-23T10:10:52Z"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-09-23T05:24:06Z",
+  "updated_at": "2026-09-23T10:10:52Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -492,9 +492,10 @@
       "title": "My Sister's Best Friend",
       "url": "https://mangadex.org/title/1d330951-583e-423e-9cd7-abcd6f761f53",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-23T10:10:52Z",
+      "removed_by_source": true
     },
     "1da7a9c0-9994-4c60-861a-12220159255c": {
       "title": "Saint Seiya: Next Dimension (Color Edition)",
@@ -790,9 +791,10 @@
       "title": "The Seven Deadly Sins: Four Knights of the Apocalypse",
       "url": "https://mangadex.org/title/34019331-7377-4e2c-837e-f6e1ab2b5ef7",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-23T10:10:52Z",
+      "removed_by_source": true
     },
     "34e45b02-b5c8-4a4b-a21a-7b5059391dc8": {
       "title": "To You, The Immortal",
@@ -1486,9 +1488,10 @@
       "title": "I Found Amari-chan Next to the Number One Girl I Wanted to Make My Girlfriend",
       "url": "https://mangadex.org/title/624d6ceb-768d-40a7-8412-84e083afbdb1",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-23T10:10:52Z",
+      "removed_by_source": true
     },
     "6251f857-38ca-46c5-8a6c-5dd495810552": {
       "title": "Fake Holy Sword Story: I Was Taken Along When I Sold Out My Childhood Friend, The Saint",
@@ -2263,9 +2266,10 @@
       "title": "I Want You To Say You Love Me",
       "url": "https://mangadex.org/title/8af6f938-8de8-475a-8b9b-01bcfe65f641",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-23T10:10:52Z",
+      "removed_by_source": true
     },
     "8b8102da-c875-4dae-a79c-c62e817ff3f5": {
       "title": "On the Way to Meet Mom",
@@ -2750,9 +2754,10 @@
       "title": "Hanzo and 13 Kunoichis",
       "url": "https://mangadex.org/title/a6c86be9-0d1f-4829-9221-379c2341ed4d",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-23T10:10:52Z",
+      "removed_by_source": true
     },
     "a6dc8243-4452-4272-9f39-d3a250dc51c4": {
       "title": "Lazy Girl Momogusa",
@@ -3029,9 +3034,10 @@
       "title": "The Invincible Little Lady",
       "url": "https://mangadex.org/title/b6f8c7b9-eeae-4698-a0e7-05474f56b644",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-23T10:10:52Z",
+      "removed_by_source": true
     },
     "b70113a5-32a3-44e8-a28f-0e88392808ba": {
       "title": "One Piece Academy",
@@ -3595,9 +3601,10 @@
       "title": "Welcome to Demon School! Iruma-kun",
       "url": "https://mangadex.org/title/d7037b2a-874a-4360-8a7b-07f2899152fd",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-23T10:10:52Z",
+      "removed_by_source": true
     },
     "d78db808-93f7-498d-9368-e5767fd85057": {
       "title": "Class 2-B Hero Destroyerz",
@@ -6307,6 +6314,54 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-09-23T05:24:06Z",
+      "removed_at": null
+    },
+    "792e28fb-27be-425d-b92a-64e2d5474657": {
+      "title": "Akane-banashi",
+      "url": "https://mangadex.org/title/792e28fb-27be-425d-b92a-64e2d5474657",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-23T10:10:52Z",
+      "removed_at": null
+    },
+    "7b9cc384-4c98-4d57-83a4-93be3e573d69": {
+      "title": "The Hero Returns from Another World, Becomes an Influencer, and Earns Money in the Real World, Where Dungeons have Appeared!",
+      "url": "https://mangadex.org/title/7b9cc384-4c98-4d57-83a4-93be3e573d69",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-23T10:10:52Z",
+      "removed_at": null
+    },
+    "83c8fa21-926e-423f-a4ac-a74dbabad55c": {
+      "title": "Sem título",
+      "url": "https://mangadex.org/title/83c8fa21-926e-423f-a4ac-a74dbabad55c",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-23T10:10:52Z",
+      "removed_at": null
+    },
+    "b6886009-e60b-44a7-abc2-a575765277ba": {
+      "title": "D.Gray-man",
+      "url": "https://mangadex.org/title/b6886009-e60b-44a7-abc2-a575765277ba",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-23T10:10:52Z",
+      "removed_at": null
+    },
+    "d05bfa47-631c-4ebb-b590-11159206009b": {
+      "title": "Juumonji in Sight!",
+      "url": "https://mangadex.org/title/d05bfa47-631c-4ebb-b590-11159206009b",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-23T10:10:52Z",
+      "removed_at": null
+    },
+    "e4148575-6572-425f-9a60-50d94d423b58": {
+      "title": "Baki Side Story: Gaia & Sikorsky - Sometimes Nomura—Two yet Three People Living Together",
+      "url": "https://mangadex.org/title/e4148575-6572-425f-9a60-50d94d423b58",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-23T10:10:52Z",
       "removed_at": null
     }
   }
