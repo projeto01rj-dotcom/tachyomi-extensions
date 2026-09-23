@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-09-23T10:10:52Z",
+  "updated_at": "2026-09-23T15:08:12Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -484,9 +484,10 @@
       "title": "A Yuri Love Story That Begins with Getting Dumped in a Dream",
       "url": "https://mangadex.org/title/1d2967dd-d157-4cbb-84ed-ea7cf7140d14",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-23T15:08:12Z",
+      "removed_by_source": true
     },
     "1d330951-583e-423e-9cd7-abcd6f761f53": {
       "title": "My Sister's Best Friend",
@@ -826,9 +827,10 @@
       "title": "Bullying and Being Bullied",
       "url": "https://mangadex.org/title/37816dc3-20a5-44b7-a889-b245b85e036d",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-23T15:08:12Z",
+      "removed_by_source": true
     },
     "37f5cce0-8070-4ada-96e5-fa24b1bd4ff9": {
       "title": "Kaguya-sama: Love Is War",
@@ -1864,9 +1866,10 @@
       "title": "Enigmatica",
       "url": "https://mangadex.org/title/774f0f04-5023-4e2e-9c0b-f0ed382f078b",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-23T15:08:12Z",
+      "removed_by_source": true
     },
     "778b8438-af3a-4534-841c-adf923b55ee1": {
       "title": "Uma Musume - Pretty Derby: Star Blossom",
@@ -1931,9 +1934,10 @@
       "title": "Wing-Man",
       "url": "https://mangadex.org/title/7d885530-3222-4fc3-b32b-1bc7961e3b66",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-23T15:08:12Z",
+      "removed_by_source": true
     },
     "7e51aec5-7df3-4961-aa8f-5645d34f8944": {
       "title": "Thank You, Isekai!",
@@ -1998,9 +2002,10 @@
       "title": "Miss Kitty and Her Bodyguards",
       "url": "https://mangadex.org/title/813e1105-49c2-4853-9f59-34df06fcb80c",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-23T15:08:12Z",
+      "removed_by_source": true
     },
     "818d037d-2629-40ad-bdcc-09cf19f510d3": {
       "title": "Though I am an Inept Villainess: Tale of the Butterfly-Rat Swap in the Maiden Court",
@@ -6362,6 +6367,30 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-09-23T10:10:52Z",
+      "removed_at": null
+    },
+    "05c2917a-e0a4-4c55-abac-8be0f8b213e4": {
+      "title": "The Orphanage's Tamer",
+      "url": "https://mangadex.org/title/05c2917a-e0a4-4c55-abac-8be0f8b213e4",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-23T15:08:12Z",
+      "removed_at": null
+    },
+    "bc70eee3-5668-4a89-bc57-4ec3af33e8ed": {
+      "title": "Starting Today, You are the Snake Goddess' Son",
+      "url": "https://mangadex.org/title/bc70eee3-5668-4a89-bc57-4ec3af33e8ed",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-23T15:08:12Z",
+      "removed_at": null
+    },
+    "db692d58-4b13-4174-ae8c-30c515c0689c": {
+      "title": "Hunter x Hunter",
+      "url": "https://mangadex.org/title/db692d58-4b13-4174-ae8c-30c515c0689c",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-23T15:08:12Z",
       "removed_at": null
     }
   }

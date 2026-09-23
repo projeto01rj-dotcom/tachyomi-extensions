@@ -1,0 +1,61 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-09-23T15:08:12Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "05c2917a-e0a4-4c55-abac-8be0f8b213e4",
+      "title": "The Orphanage's Tamer",
+      "url": "https://mangadex.org/title/05c2917a-e0a4-4c55-abac-8be0f8b213e4"
+    },
+    {
+      "source": "mangadex",
+      "key": "bc70eee3-5668-4a89-bc57-4ec3af33e8ed",
+      "title": "Starting Today, You are the Snake Goddess' Son",
+      "url": "https://mangadex.org/title/bc70eee3-5668-4a89-bc57-4ec3af33e8ed"
+    },
+    {
+      "source": "mangadex",
+      "key": "db692d58-4b13-4174-ae8c-30c515c0689c",
+      "title": "Hunter x Hunter",
+      "url": "https://mangadex.org/title/db692d58-4b13-4174-ae8c-30c515c0689c"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "1d2967dd-d157-4cbb-84ed-ea7cf7140d14",
+      "title": "A Yuri Love Story That Begins with Getting Dumped in a Dream",
+      "url": "https://mangadex.org/title/1d2967dd-d157-4cbb-84ed-ea7cf7140d14",
+      "removed_at": "2026-09-23T15:08:12Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "37816dc3-20a5-44b7-a889-b245b85e036d",
+      "title": "Bullying and Being Bullied",
+      "url": "https://mangadex.org/title/37816dc3-20a5-44b7-a889-b245b85e036d",
+      "removed_at": "2026-09-23T15:08:12Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "774f0f04-5023-4e2e-9c0b-f0ed382f078b",
+      "title": "Enigmatica",
+      "url": "https://mangadex.org/title/774f0f04-5023-4e2e-9c0b-f0ed382f078b",
+      "removed_at": "2026-09-23T15:08:12Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "7d885530-3222-4fc3-b32b-1bc7961e3b66",
+      "title": "Wing-Man",
+      "url": "https://mangadex.org/title/7d885530-3222-4fc3-b32b-1bc7961e3b66",
+      "removed_at": "2026-09-23T15:08:12Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "813e1105-49c2-4853-9f59-34df06fcb80c",
+      "title": "Miss Kitty and Her Bodyguards",
+      "url": "https://mangadex.org/title/813e1105-49c2-4853-9f59-34df06fcb80c",
+      "removed_at": "2026-09-23T15:08:12Z"
+    }
+  ]
+}
