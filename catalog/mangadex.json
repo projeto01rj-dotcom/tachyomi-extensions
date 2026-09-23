@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-09-23T15:08:12Z",
+  "updated_at": "2026-09-23T19:08:35Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -122,17 +122,19 @@
       "title": "Is She Making Fun of Me?",
       "url": "https://mangadex.org/title/0972a94c-77cd-4d46-9592-056d5df82ea5",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-23T19:08:35Z",
+      "removed_by_source": true
     },
     "0a580438-bc72-4503-940b-12a5da881b56": {
       "title": "You Are a Four-Leaf Clover",
       "url": "https://mangadex.org/title/0a580438-bc72-4503-940b-12a5da881b56",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-23T19:08:35Z",
+      "removed_by_source": true
     },
     "0b03a6de-56a5-4f3f-bf1f-d893b8da05d3": {
       "title": "Starting Today, We’re Childhood Friends",
@@ -529,9 +531,10 @@
       "title": "She's Likely Aiming for My Older Brother",
       "url": "https://mangadex.org/title/1fc3d326-c037-43fa-8953-ed52a56caa18",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-23T19:08:35Z",
+      "removed_by_source": true
     },
     "1ffca916-3ad7-46d2-9591-a9b39e639971": {
       "title": "Second Life Ranker",
@@ -554,9 +557,10 @@
       "title": "The Ura Files",
       "url": "https://mangadex.org/title/211d46f6-7fce-4ce7-ac3f-3a4a239e7269",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-23T19:08:35Z",
+      "removed_by_source": true
     },
     "224b28bf-4763-4430-a4c1-ec124d283836": {
       "title": "#Gal x Gal Yuri",
@@ -1033,9 +1037,10 @@
       "title": "Molester Man",
       "url": "https://mangadex.org/title/48905e2d-4fe6-4f4d-90bc-bfe6e60b82c1",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-23T19:08:35Z",
+      "removed_by_source": true
     },
     "48db4722-3e23-46f2-9132-680dddb67266": {
       "title": "King of the Labyrinth",
@@ -1170,9 +1175,10 @@
       "title": "A Parallel World with a 1:39 Male to Female Ratio is Unexpectedly Normal (Fan Colored)",
       "url": "https://mangadex.org/title/51884f2e-8df3-45ec-8bab-4a9b10ae38ce",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-23T19:08:35Z",
+      "removed_by_source": true
     },
     "51c1e7cc-23f4-4a08-a961-c1ab75e2bb33": {
       "title": "Inexpressive Kashiwada and Expressive Oota",
@@ -1403,9 +1409,10 @@
       "title": "I Am the Sorcerer King",
       "url": "https://mangadex.org/title/5ed2558b-66e8-4413-aff8-0ff317f9f1d0",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-23T19:08:35Z",
+      "removed_by_source": true
     },
     "5f20aded-1216-41e3-b48d-87b0c4d9957c": {
       "title": "Kono Healer, Mendokusai",
@@ -1612,9 +1619,10 @@
       "title": "Apocalyptic Thief",
       "url": "https://mangadex.org/title/69854e22-5bb8-4491-ab71-c8f8a0cb94d0",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-23T19:08:35Z",
+      "removed_by_source": true
     },
     "69aa984a-f5c0-4505-a11f-fe50e5fd16c9": {
       "title": "A Certain Dark Side's ITEM",
@@ -1832,9 +1840,10 @@
       "title": "My Favorite VTuber Is Scary IRL",
       "url": "https://mangadex.org/title/76424fe0-ec26-400c-a0c9-93a17114a4ae",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-23T19:08:35Z",
+      "removed_by_source": true
     },
     "7643e9f6-8455-4a58-b7e8-bf6cd00f5251": {
       "title": "Tsukimichi: Moonlit Fantasy",
@@ -2210,9 +2219,10 @@
       "title": "Unwinding with the Aloof Girl at the Standing Bar",
       "url": "https://mangadex.org/title/8896ec06-cca8-4ee8-872a-cc8a359c3bb8",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-23T19:08:35Z",
+      "removed_by_source": true
     },
     "89791bd5-9676-4a71-b281-0587a51c026c": {
       "title": "Girl's Interstellar Adventure",
@@ -2357,9 +2367,10 @@
       "title": "Seven Sleeping Beauties",
       "url": "https://mangadex.org/title/912dd3eb-80f2-4659-8986-badb32c847c0",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-23T19:08:35Z",
+      "removed_by_source": true
     },
     "915412e0-ffc6-4b36-a75c-11a6d9f09244": {
       "title": "Fog Land",
@@ -2453,9 +2464,10 @@
       "title": "Marchen Crown",
       "url": "https://mangadex.org/title/9661f9e7-3c6a-448f-9b1e-2c563ed1e5e9",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-23T19:08:35Z",
+      "removed_by_source": true
     },
     "96ae166c-d8e1-4e9e-88cb-805b65154d7e": {
       "title": "Red Blue",
@@ -2639,9 +2651,10 @@
       "title": "Kimi Janakya Dame na Dorei Shoujo",
       "url": "https://mangadex.org/title/9edbc41a-5c25-4f1a-b323-9c0c9552dc34",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-23T19:08:35Z",
+      "removed_by_source": true
     },
     "9fc1e72f-ccd2-4674-83a5-7245c121f287": {
       "title": "A Drunk Thief Bought a Slave Girl",
@@ -2707,9 +2720,10 @@
       "title": "Solanin",
       "url": "https://mangadex.org/title/a42db50d-20df-4f33-bddc-fe990df9c231",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-23T19:08:35Z",
+      "removed_by_source": true
     },
     "a460ab18-22c1-47eb-a08a-9ee85fe37ec8": {
       "title": "Bleach (Official Colored)",
@@ -2828,9 +2842,10 @@
       "title": "JoJo's Bizarre Adventure Part 9 - The JOJOLands",
       "url": "https://mangadex.org/title/ab8cbb82-d0ed-45a7-8ffe-4bfa6d43d79c",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-23T19:08:35Z",
+      "removed_by_source": true
     },
     "ad75039d-686c-457f-b478-e56fc3b3c069": {
       "title": "I Started Working a Housekeeping Job and Ended up Being Liked by the Family of the Most Beautiful Girl in School.",
@@ -4348,17 +4363,19 @@
       "title": "For Saving a Collapsed Lady, I Got to Date Her Beautiful Twin Daughters",
       "url": "https://mangadex.org/title/34444088-d094-4bfb-8423-d87e24070ffe",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T16:50:52Z",
-      "removed_at": null
+      "removed_at": "2026-09-23T19:08:35Z",
+      "removed_by_source": true
     },
     "38179337-1640-4927-8851-9bedd8d19e82": {
       "title": "Aren't You Too Sweet Salt-God Sato-San?",
       "url": "https://mangadex.org/title/38179337-1640-4927-8851-9bedd8d19e82",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T16:50:52Z",
-      "removed_at": null
+      "removed_at": "2026-09-23T19:08:35Z",
+      "removed_by_source": true
     },
     "56efe728-4254-46b3-8b7c-1f3a0dc7a7a9": {
       "title": "I Have 5 Stepsisters",
@@ -4388,9 +4405,10 @@
       "title": "Artemis Under the Same Roof",
       "url": "https://mangadex.org/title/9024883c-759a-48bc-b4b1-659f8e4bcd9c",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T16:50:52Z",
-      "removed_at": null
+      "removed_at": "2026-09-23T19:08:35Z",
+      "removed_by_source": true
     },
     "9c1cd558-fba3-40f1-bb84-b320f5d1eab1": {
       "title": "Bug Ego",
@@ -6391,6 +6409,102 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-09-23T15:08:12Z",
+      "removed_at": null
+    },
+    "1aca5c7d-f9db-4b8f-90a3-d56bf357ecb9": {
+      "title": "Burning Kabaddi",
+      "url": "https://mangadex.org/title/1aca5c7d-f9db-4b8f-90a3-d56bf357ecb9",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-23T19:08:35Z",
+      "removed_at": null
+    },
+    "3aa6cd45-a36e-4abd-ab1c-f60f1db0014a": {
+      "title": "Natsume & Natsume",
+      "url": "https://mangadex.org/title/3aa6cd45-a36e-4abd-ab1c-f60f1db0014a",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-23T19:08:35Z",
+      "removed_at": null
+    },
+    "576d59fb-1885-4642-81ad-93b58dd5e57f": {
+      "title": "From Eroica with Love",
+      "url": "https://mangadex.org/title/576d59fb-1885-4642-81ad-93b58dd5e57f",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-23T19:08:35Z",
+      "removed_at": null
+    },
+    "6274fcab-df09-4ac5-b516-14152bd031c7": {
+      "title": "The Dangers in My Heart: The Romantic Comedy Won't Start",
+      "url": "https://mangadex.org/title/6274fcab-df09-4ac5-b516-14152bd031c7",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-23T19:08:35Z",
+      "removed_at": null
+    },
+    "63b2dc67-f55c-4f4a-899f-cedd77721bcf": {
+      "title": "I'm the Evil Lord of an Intergalactic Empire!",
+      "url": "https://mangadex.org/title/63b2dc67-f55c-4f4a-899f-cedd77721bcf",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-23T19:08:35Z",
+      "removed_at": null
+    },
+    "68095946-ece2-4090-b0df-698f1cdb2a70": {
+      "title": "Crows ZERO II - Suzuran x Housen",
+      "url": "https://mangadex.org/title/68095946-ece2-4090-b0df-698f1cdb2a70",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-23T19:08:35Z",
+      "removed_at": null
+    },
+    "7244463a-ebd5-4fb4-b71a-96d93008c1d6": {
+      "title": "The Hero's Granddaughter and the Demon King's Daughter",
+      "url": "https://mangadex.org/title/7244463a-ebd5-4fb4-b71a-96d93008c1d6",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-23T19:08:35Z",
+      "removed_at": null
+    },
+    "7e4e5e8a-f3f0-4612-b04d-257e2ac0b7eb": {
+      "title": "Finding Avalon: The Quest of a Chaosbringer",
+      "url": "https://mangadex.org/title/7e4e5e8a-f3f0-4612-b04d-257e2ac0b7eb",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-23T19:08:35Z",
+      "removed_at": null
+    },
+    "8c511f19-fdb3-442a-89d9-c387c26a18b1": {
+      "title": "Watashi no Tomodachi ga Sekaiichi Kawaii",
+      "url": "https://mangadex.org/title/8c511f19-fdb3-442a-89d9-c387c26a18b1",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-23T19:08:35Z",
+      "removed_at": null
+    },
+    "a6ccbfd7-4f32-4566-9e56-187189984a61": {
+      "title": "The Unfortunate \"Trapper\" Cast Out of the Hero's Party Will Defy Fate and Become the Strongest with the Unique Skill \"Arrow\"",
+      "url": "https://mangadex.org/title/a6ccbfd7-4f32-4566-9e56-187189984a61",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-23T19:08:35Z",
+      "removed_at": null
+    },
+    "e5ce88e2-8c46-482d-8acf-5c6d5a64a585": {
+      "title": "Noragami: Stray God",
+      "url": "https://mangadex.org/title/e5ce88e2-8c46-482d-8acf-5c6d5a64a585",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-23T19:08:35Z",
+      "removed_at": null
+    },
+    "f3bbee75-f39d-4853-a51b-81c55df8cc15": {
+      "title": "Santa X",
+      "url": "https://mangadex.org/title/f3bbee75-f39d-4853-a51b-81c55df8cc15",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-23T19:08:35Z",
       "removed_at": null
     }
   }
