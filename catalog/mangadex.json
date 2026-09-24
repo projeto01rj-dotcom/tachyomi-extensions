@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-09-24T19:39:02Z",
+  "updated_at": "2026-09-24T22:51:55Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -1129,9 +1129,10 @@
       "title": "Yuri Between the Class President and a Masochistic Girl",
       "url": "https://mangadex.org/title/4cc8b1ac-fea1-4f52-b242-5c45b3e60f6a",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-24T22:51:55Z",
+      "removed_by_source": true
     },
     "4cf9b503-439a-48f7-9fc5-21831087a421": {
       "title": "BECK",
@@ -2316,9 +2317,10 @@
       "title": "Destiny Unchain Online: How I became the Crimson Devil",
       "url": "https://mangadex.org/title/8e74e420-b05e-4975-9844-676c7156bd63",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-24T22:51:55Z",
+      "removed_by_source": true
     },
     "8e95570e-93a7-494d-8e83-bd755e3b631d": {
       "title": "Fragments of the Layered City",
@@ -4446,9 +4448,10 @@
       "title": "Soredemo Kimi o Shiawase ni Shitai",
       "url": "https://mangadex.org/title/d0b73d72-9665-4f1f-9113-16eb163ba619",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T16:50:52Z",
-      "removed_at": null
+      "removed_at": "2026-09-24T22:51:55Z",
+      "removed_by_source": true
     },
     "1fcaaa65-6fa4-4772-9006-b905101905d7": {
       "title": "Phoenix Rising Above Evil",
@@ -4822,9 +4825,10 @@
       "title": "Assassin's Pride",
       "url": "https://mangadex.org/title/29a0218e-8aac-4f92-887f-5940cb86f136",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-19T11:59:53Z",
-      "removed_at": null
+      "removed_at": "2026-09-24T22:51:55Z",
+      "removed_by_source": true
     },
     "3dda9dc7-be06-4f27-af07-670786ceee4e": {
       "title": "Shibuya Near Family",
@@ -4839,17 +4843,19 @@
       "title": "MookHyang: Dark Lady",
       "url": "https://mangadex.org/title/4ffd1f8f-ab82-4de4-9dea-e0608c043d7b",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-19T11:59:53Z",
-      "removed_at": null
+      "removed_at": "2026-09-24T22:51:55Z",
+      "removed_by_source": true
     },
     "7889434b-d9a5-454c-8ea1-8c7a4509fc51": {
       "title": "Servamp",
       "url": "https://mangadex.org/title/7889434b-d9a5-454c-8ea1-8c7a4509fc51",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-19T11:59:53Z",
-      "removed_at": null
+      "removed_at": "2026-09-24T22:51:55Z",
+      "removed_by_source": true
     },
     "7a9d76c3-42b9-4bcf-81d7-ad307d2ea971": {
       "title": "JoJo's Bizarre Adventure, Part 8: JoJolion - Digital Colored Comics",
@@ -4872,9 +4878,10 @@
       "title": "Prince Sun Wants to Be a Wife",
       "url": "https://mangadex.org/title/b7ebc129-8729-4121-9f11-c3260d3d97ed",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-19T11:59:53Z",
-      "removed_at": null
+      "removed_at": "2026-09-24T22:51:55Z",
+      "removed_by_source": true
     },
     "b90aae00-1fc5-4b24-92ae-08dcbac1fc6d": {
       "title": "Living Together with the Queen from My High School Days Who was Arrogant, Surprisingly isn't That Uncomfortable",
@@ -6822,6 +6829,38 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-09-24T19:39:02Z",
+      "removed_at": null
+    },
+    "202718c6-525e-4cec-a469-c945548cacc3": {
+      "title": "I Hate That We're Childhood Friends!: My Rise to the Top of School Life with an S-Rank Beauty Begins After a Falling-Out",
+      "url": "https://mangadex.org/title/202718c6-525e-4cec-a469-c945548cacc3",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-24T22:51:55Z",
+      "removed_at": null
+    },
+    "36d27f1d-122a-4c7e-9001-a0d62c8fb579": {
+      "title": "Mount Celeb Kaneda-san",
+      "url": "https://mangadex.org/title/36d27f1d-122a-4c7e-9001-a0d62c8fb579",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-24T22:51:55Z",
+      "removed_at": null
+    },
+    "c1f2daa5-9e93-42b9-86e8-f1ddb2916db2": {
+      "title": "Akabane Honeko no Bodyguard",
+      "url": "https://mangadex.org/title/c1f2daa5-9e93-42b9-86e8-f1ddb2916db2",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-24T22:51:55Z",
+      "removed_at": null
+    },
+    "d24e1ca1-431f-49cc-ba20-b48d15407e33": {
+      "title": "Sem título",
+      "url": "https://mangadex.org/title/d24e1ca1-431f-49cc-ba20-b48d15407e33",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-24T22:51:55Z",
       "removed_at": null
     }
   }
