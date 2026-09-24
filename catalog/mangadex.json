@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-09-24T00:39:00Z",
+  "updated_at": "2026-09-24T05:41:00Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -1022,9 +1022,10 @@
       "title": "Captain Corinth: The Galactic Navy Officer Becomes an Adventurer",
       "url": "https://mangadex.org/title/48221bce-0fd2-4519-b5f3-4fdc1921007b",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-24T05:41:00Z",
+      "removed_by_source": true
     },
     "484f94e7-35c3-4cb5-a068-53d684c1439a": {
       "title": "Baki Part 6",
@@ -3752,9 +3753,10 @@
       "title": "Tsumiki Ogami's Not-So-Ordinary Life",
       "url": "https://mangadex.org/title/df361a38-eef6-4674-bec6-86d08aa1d1aa",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-24T05:41:00Z",
+      "removed_by_source": true
     },
     "df38b169-e62e-43b0-9ebb-854400ba8889": {
       "title": "The Glasses Boy and His Glasses-Fetish Girlfriend",
@@ -4060,9 +4062,10 @@
       "title": "Roku’s House of Oddities",
       "url": "https://mangadex.org/title/ef292a72-5c4c-4d82-87af-c8637886922e",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-24T05:41:00Z",
+      "removed_by_source": true
     },
     "ef97c4a5-035e-4726-8ddc-cbec21f991a7": {
       "title": "Gal and Otaku Can't Understand Each Other",
@@ -4443,17 +4446,19 @@
       "title": "Phoenix Rising Above Evil",
       "url": "https://mangadex.org/title/1fcaaa65-6fa4-4772-9006-b905101905d7",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T19:20:34Z",
-      "removed_at": null
+      "removed_at": "2026-09-24T05:41:00Z",
+      "removed_by_source": true
     },
     "227e3f72-863f-46f9-bafe-c43104ca29ee": {
       "title": "FAIRY TAIL",
       "url": "https://mangadex.org/title/227e3f72-863f-46f9-bafe-c43104ca29ee",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T19:20:34Z",
-      "removed_at": null
+      "removed_at": "2026-09-24T05:41:00Z",
+      "removed_by_source": true
     },
     "2d68c7b8-6085-49cb-9c44-ec16805481da": {
       "title": "Appleseed",
@@ -4468,9 +4473,10 @@
       "title": "Ad Astra - Scipio and Hannibal",
       "url": "https://mangadex.org/title/3ea7e763-654b-46a6-9c36-6afbed1baa47",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T19:20:34Z",
-      "removed_at": null
+      "removed_at": "2026-09-24T05:41:00Z",
+      "removed_by_source": true
     },
     "59ef045c-0712-4f15-bb54-52bffd87481b": {
       "title": "Hitoner",
@@ -4484,33 +4490,37 @@
       "title": "A Cave King's Road to Paradise: Climbing to the Top with My Almighty Mining Skills!",
       "url": "https://mangadex.org/title/65af3243-8a16-4545-b53a-ed1a79e367ac",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T19:20:34Z",
-      "removed_at": null
+      "removed_at": "2026-09-24T05:41:00Z",
+      "removed_by_source": true
     },
     "8847f905-550d-4fe6-bcda-ac2b896789c7": {
       "title": "Golden Kamuy",
       "url": "https://mangadex.org/title/8847f905-550d-4fe6-bcda-ac2b896789c7",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T19:20:34Z",
-      "removed_at": null
+      "removed_at": "2026-09-24T05:41:00Z",
+      "removed_by_source": true
     },
     "99daf7bc-3a3b-4fe8-b10d-951b32bfea64": {
       "title": "Days with My Stepsister",
       "url": "https://mangadex.org/title/99daf7bc-3a3b-4fe8-b10d-951b32bfea64",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T19:20:34Z",
-      "removed_at": null
+      "removed_at": "2026-09-24T05:41:00Z",
+      "removed_by_source": true
     },
     "a1c7c817-4e59-43b7-9365-09675a149a6f": {
       "title": "One Piece",
       "url": "https://mangadex.org/title/a1c7c817-4e59-43b7-9365-09675a149a6f",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T19:20:34Z",
-      "removed_at": null
+      "removed_at": "2026-09-24T05:41:00Z",
+      "removed_by_source": true
     },
     "a4b39b6e-a448-4644-a540-64ceff1d8305": {
       "title": "Toilet-Bound Hanako-kun",
@@ -4540,9 +4550,10 @@
       "title": "A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires",
       "url": "https://mangadex.org/title/b8e88f44-8fe3-41b8-a391-335576f7ddcc",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T19:20:34Z",
-      "removed_at": null
+      "removed_at": "2026-09-24T05:41:00Z",
+      "removed_by_source": true
     },
     "c3a410f3-6c1c-454c-93eb-8b995fd4cf56": {
       "title": "Sakamoto Days (Official Colored)",
@@ -6553,6 +6564,62 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-09-24T00:39:00Z",
+      "removed_at": null
+    },
+    "15b458ec-71fc-40b0-af60-656d0904490e": {
+      "title": "Air Gear",
+      "url": "https://mangadex.org/title/15b458ec-71fc-40b0-af60-656d0904490e",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-24T05:41:00Z",
+      "removed_at": null
+    },
+    "3bb0279f-a01d-4aa4-93e4-305800f4b83e": {
+      "title": "Yona of the Dawn",
+      "url": "https://mangadex.org/title/3bb0279f-a01d-4aa4-93e4-305800f4b83e",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-24T05:41:00Z",
+      "removed_at": null
+    },
+    "48263de6-0f6e-4e62-96d0-345d12058d87": {
+      "title": "Yu☆Gi☆Oh! GX",
+      "url": "https://mangadex.org/title/48263de6-0f6e-4e62-96d0-345d12058d87",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-24T05:41:00Z",
+      "removed_at": null
+    },
+    "51faffdd-bdc5-41fb-a230-d377f0bd2f33": {
+      "title": "The Legend of Dororo and Hyakkimaru",
+      "url": "https://mangadex.org/title/51faffdd-bdc5-41fb-a230-d377f0bd2f33",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-24T05:41:00Z",
+      "removed_at": null
+    },
+    "a4807f27-d96e-4069-9705-88056e81a555": {
+      "title": "Lilim Holic",
+      "url": "https://mangadex.org/title/a4807f27-d96e-4069-9705-88056e81a555",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-24T05:41:00Z",
+      "removed_at": null
+    },
+    "a972aebe-50fb-4dfe-8f61-0150f3659467": {
+      "title": "The Little Lady Behind the Scenes",
+      "url": "https://mangadex.org/title/a972aebe-50fb-4dfe-8f61-0150f3659467",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-24T05:41:00Z",
+      "removed_at": null
+    },
+    "e30a22f9-352c-4e23-a6e9-95807620baaf": {
+      "title": "Why You Shouldn't Enter a Haunted House",
+      "url": "https://mangadex.org/title/e30a22f9-352c-4e23-a6e9-95807620baaf",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-24T05:41:00Z",
       "removed_at": null
     }
   }

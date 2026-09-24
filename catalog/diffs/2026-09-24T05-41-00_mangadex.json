@@ -1,0 +1,127 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-09-24T05:41:00Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "15b458ec-71fc-40b0-af60-656d0904490e",
+      "title": "Air Gear",
+      "url": "https://mangadex.org/title/15b458ec-71fc-40b0-af60-656d0904490e"
+    },
+    {
+      "source": "mangadex",
+      "key": "3bb0279f-a01d-4aa4-93e4-305800f4b83e",
+      "title": "Yona of the Dawn",
+      "url": "https://mangadex.org/title/3bb0279f-a01d-4aa4-93e4-305800f4b83e"
+    },
+    {
+      "source": "mangadex",
+      "key": "48263de6-0f6e-4e62-96d0-345d12058d87",
+      "title": "Yu☆Gi☆Oh! GX",
+      "url": "https://mangadex.org/title/48263de6-0f6e-4e62-96d0-345d12058d87"
+    },
+    {
+      "source": "mangadex",
+      "key": "51faffdd-bdc5-41fb-a230-d377f0bd2f33",
+      "title": "The Legend of Dororo and Hyakkimaru",
+      "url": "https://mangadex.org/title/51faffdd-bdc5-41fb-a230-d377f0bd2f33"
+    },
+    {
+      "source": "mangadex",
+      "key": "a4807f27-d96e-4069-9705-88056e81a555",
+      "title": "Lilim Holic",
+      "url": "https://mangadex.org/title/a4807f27-d96e-4069-9705-88056e81a555"
+    },
+    {
+      "source": "mangadex",
+      "key": "a972aebe-50fb-4dfe-8f61-0150f3659467",
+      "title": "The Little Lady Behind the Scenes",
+      "url": "https://mangadex.org/title/a972aebe-50fb-4dfe-8f61-0150f3659467"
+    },
+    {
+      "source": "mangadex",
+      "key": "e30a22f9-352c-4e23-a6e9-95807620baaf",
+      "title": "Why You Shouldn't Enter a Haunted House",
+      "url": "https://mangadex.org/title/e30a22f9-352c-4e23-a6e9-95807620baaf"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "48221bce-0fd2-4519-b5f3-4fdc1921007b",
+      "title": "Captain Corinth: The Galactic Navy Officer Becomes an Adventurer",
+      "url": "https://mangadex.org/title/48221bce-0fd2-4519-b5f3-4fdc1921007b",
+      "removed_at": "2026-09-24T05:41:00Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "df361a38-eef6-4674-bec6-86d08aa1d1aa",
+      "title": "Tsumiki Ogami's Not-So-Ordinary Life",
+      "url": "https://mangadex.org/title/df361a38-eef6-4674-bec6-86d08aa1d1aa",
+      "removed_at": "2026-09-24T05:41:00Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "ef292a72-5c4c-4d82-87af-c8637886922e",
+      "title": "Roku’s House of Oddities",
+      "url": "https://mangadex.org/title/ef292a72-5c4c-4d82-87af-c8637886922e",
+      "removed_at": "2026-09-24T05:41:00Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "1fcaaa65-6fa4-4772-9006-b905101905d7",
+      "title": "Phoenix Rising Above Evil",
+      "url": "https://mangadex.org/title/1fcaaa65-6fa4-4772-9006-b905101905d7",
+      "removed_at": "2026-09-24T05:41:00Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "227e3f72-863f-46f9-bafe-c43104ca29ee",
+      "title": "FAIRY TAIL",
+      "url": "https://mangadex.org/title/227e3f72-863f-46f9-bafe-c43104ca29ee",
+      "removed_at": "2026-09-24T05:41:00Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "3ea7e763-654b-46a6-9c36-6afbed1baa47",
+      "title": "Ad Astra - Scipio and Hannibal",
+      "url": "https://mangadex.org/title/3ea7e763-654b-46a6-9c36-6afbed1baa47",
+      "removed_at": "2026-09-24T05:41:00Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "65af3243-8a16-4545-b53a-ed1a79e367ac",
+      "title": "A Cave King's Road to Paradise: Climbing to the Top with My Almighty Mining Skills!",
+      "url": "https://mangadex.org/title/65af3243-8a16-4545-b53a-ed1a79e367ac",
+      "removed_at": "2026-09-24T05:41:00Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "8847f905-550d-4fe6-bcda-ac2b896789c7",
+      "title": "Golden Kamuy",
+      "url": "https://mangadex.org/title/8847f905-550d-4fe6-bcda-ac2b896789c7",
+      "removed_at": "2026-09-24T05:41:00Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "99daf7bc-3a3b-4fe8-b10d-951b32bfea64",
+      "title": "Days with My Stepsister",
+      "url": "https://mangadex.org/title/99daf7bc-3a3b-4fe8-b10d-951b32bfea64",
+      "removed_at": "2026-09-24T05:41:00Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "a1c7c817-4e59-43b7-9365-09675a149a6f",
+      "title": "One Piece",
+      "url": "https://mangadex.org/title/a1c7c817-4e59-43b7-9365-09675a149a6f",
+      "removed_at": "2026-09-24T05:41:00Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "b8e88f44-8fe3-41b8-a391-335576f7ddcc",
+      "title": "A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires",
+      "url": "https://mangadex.org/title/b8e88f44-8fe3-41b8-a391-335576f7ddcc",
+      "removed_at": "2026-09-24T05:41:00Z"
+    }
+  ]
+}
