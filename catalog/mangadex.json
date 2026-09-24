@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-09-23T22:24:22Z",
+  "updated_at": "2026-09-24T00:39:00Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -4400,9 +4400,10 @@
       "title": "Hirayasumi",
       "url": "https://mangadex.org/title/87ebd557-8394-4f16-8afe-a8644e555ddc",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T16:50:52Z",
-      "removed_at": null
+      "removed_at": "2026-09-24T00:39:00Z",
+      "removed_by_source": true
     },
     "9024883c-759a-48bc-b4b1-659f8e4bcd9c": {
       "title": "Artemis Under the Same Roof",
@@ -4458,9 +4459,10 @@
       "title": "Appleseed",
       "url": "https://mangadex.org/title/2d68c7b8-6085-49cb-9c44-ec16805481da",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T19:20:34Z",
-      "removed_at": null
+      "removed_at": "2026-09-24T00:39:00Z",
+      "removed_by_source": true
     },
     "3ea7e763-654b-46a6-9c36-6afbed1baa47": {
       "title": "Ad Astra - Scipio and Hannibal",
@@ -4546,9 +4548,10 @@
       "title": "Sakamoto Days (Official Colored)",
       "url": "https://mangadex.org/title/c3a410f3-6c1c-454c-93eb-8b995fd4cf56",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T19:20:34Z",
-      "removed_at": null
+      "removed_at": "2026-09-24T00:39:00Z",
+      "removed_by_source": true
     },
     "f4ad14b4-64d9-470f-9b4c-0fab84f0d507": {
       "title": "Unexciting Date",
@@ -6299,9 +6302,10 @@
       "title": "War of the Adults",
       "url": "https://mangadex.org/title/b85141eb-8051-451a-bf95-608351e2b613",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-23T05:24:06Z",
-      "removed_at": null
+      "removed_at": "2026-09-24T00:39:00Z",
+      "removed_by_source": true
     },
     "c1e284bc-0436-42fe-b571-fa35a94279ce": {
       "title": "Drama Queen",
@@ -6533,6 +6537,22 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-09-23T22:24:22Z",
+      "removed_at": null
+    },
+    "22d6d048-9f9f-4c3a-95c2-3b145f110e20": {
+      "title": "I'm in Love with the Villainess",
+      "url": "https://mangadex.org/title/22d6d048-9f9f-4c3a-95c2-3b145f110e20",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-24T00:39:00Z",
+      "removed_at": null
+    },
+    "89daf9dc-075a-4aa5-873a-cc76bb287108": {
+      "title": "The Way of the Househusband",
+      "url": "https://mangadex.org/title/89daf9dc-075a-4aa5-873a-cc76bb287108",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-24T00:39:00Z",
       "removed_at": null
     }
   }

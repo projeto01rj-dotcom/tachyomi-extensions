@@ -1,0 +1,48 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-09-24T00:39:00Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "22d6d048-9f9f-4c3a-95c2-3b145f110e20",
+      "title": "I'm in Love with the Villainess",
+      "url": "https://mangadex.org/title/22d6d048-9f9f-4c3a-95c2-3b145f110e20"
+    },
+    {
+      "source": "mangadex",
+      "key": "89daf9dc-075a-4aa5-873a-cc76bb287108",
+      "title": "The Way of the Househusband",
+      "url": "https://mangadex.org/title/89daf9dc-075a-4aa5-873a-cc76bb287108"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "87ebd557-8394-4f16-8afe-a8644e555ddc",
+      "title": "Hirayasumi",
+      "url": "https://mangadex.org/title/87ebd557-8394-4f16-8afe-a8644e555ddc",
+      "removed_at": "2026-09-24T00:39:00Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "2d68c7b8-6085-49cb-9c44-ec16805481da",
+      "title": "Appleseed",
+      "url": "https://mangadex.org/title/2d68c7b8-6085-49cb-9c44-ec16805481da",
+      "removed_at": "2026-09-24T00:39:00Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "c3a410f3-6c1c-454c-93eb-8b995fd4cf56",
+      "title": "Sakamoto Days (Official Colored)",
+      "url": "https://mangadex.org/title/c3a410f3-6c1c-454c-93eb-8b995fd4cf56",
+      "removed_at": "2026-09-24T00:39:00Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "b85141eb-8051-451a-bf95-608351e2b613",
+      "title": "War of the Adults",
+      "url": "https://mangadex.org/title/b85141eb-8051-451a-bf95-608351e2b613",
+      "removed_at": "2026-09-24T00:39:00Z"
+    }
+  ]
+}
