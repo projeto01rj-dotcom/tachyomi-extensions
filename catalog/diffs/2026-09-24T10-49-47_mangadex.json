@@ -1,0 +1,93 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-09-24T10:49:47Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "46e9cae5-4407-4576-9b9e-4c517ae9298e",
+      "title": "The Promised Neverland",
+      "url": "https://mangadex.org/title/46e9cae5-4407-4576-9b9e-4c517ae9298e"
+    },
+    {
+      "source": "mangadex",
+      "key": "87cef5f8-cb3a-4797-8560-a9faddd05f37",
+      "title": "Tsukimino Karma is Just My Pet...",
+      "url": "https://mangadex.org/title/87cef5f8-cb3a-4797-8560-a9faddd05f37"
+    },
+    {
+      "source": "mangadex",
+      "key": "b1629d65-f177-418a-a04f-ae4ee6929f90",
+      "title": "Imprisoned with the Horror Game's Male Lead",
+      "url": "https://mangadex.org/title/b1629d65-f177-418a-a04f-ae4ee6929f90"
+    },
+    {
+      "source": "mangadex",
+      "key": "d8a959f7-648e-4c8d-8f23-f1f3f8e129f3",
+      "title": "One-Punch Man",
+      "url": "https://mangadex.org/title/d8a959f7-648e-4c8d-8f23-f1f3f8e129f3"
+    },
+    {
+      "source": "mangadex",
+      "key": "e4573044-ca38-4b83-bcc5-9e3a7c0b764b",
+      "title": "Dear Flowers That Bloom In Days of Yore",
+      "url": "https://mangadex.org/title/e4573044-ca38-4b83-bcc5-9e3a7c0b764b"
+    },
+    {
+      "source": "mangadex",
+      "key": "fa718bd1-a6d2-4225-acc2-2828ac2dce6b",
+      "title": "Pressed Flower",
+      "url": "https://mangadex.org/title/fa718bd1-a6d2-4225-acc2-2828ac2dce6b"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "59ef045c-0712-4f15-bb54-52bffd87481b",
+      "title": "Hitoner",
+      "url": "https://mangadex.org/title/59ef045c-0712-4f15-bb54-52bffd87481b",
+      "removed_at": "2026-09-24T10:49:47Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "acd72dd4-3ec3-4730-b55d-c6b719c782a3",
+      "title": "World Teacher: Other World Style Education & Agent",
+      "url": "https://mangadex.org/title/acd72dd4-3ec3-4730-b55d-c6b719c782a3",
+      "removed_at": "2026-09-24T10:49:47Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "ad7bbb7c-2ff2-4768-a74a-da5d7aed1eb6",
+      "title": "Fatale Game",
+      "url": "https://mangadex.org/title/ad7bbb7c-2ff2-4768-a74a-da5d7aed1eb6",
+      "removed_at": "2026-09-24T10:49:47Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "def07dc0-a0d8-4b5d-8528-02983e989501",
+      "title": "Your Majesty the Demon King, it's time you get married!",
+      "url": "https://mangadex.org/title/def07dc0-a0d8-4b5d-8528-02983e989501",
+      "removed_at": "2026-09-24T10:49:47Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "1a9dbacf-b3ee-4516-a1fc-ef5b877d3136",
+      "title": "Ushiyama-san",
+      "url": "https://mangadex.org/title/1a9dbacf-b3ee-4516-a1fc-ef5b877d3136",
+      "removed_at": "2026-09-24T10:49:47Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "263deeff-c010-4ac7-bc01-6341f3e698ac",
+      "title": "Dragon Quest: The Great Adventure of Dai - Avan the Brave and the Demon King of Hellfire",
+      "url": "https://mangadex.org/title/263deeff-c010-4ac7-bc01-6341f3e698ac",
+      "removed_at": "2026-09-24T10:49:47Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "d05bfa47-631c-4ebb-b590-11159206009b",
+      "title": "Juumonji in Sight!",
+      "url": "https://mangadex.org/title/d05bfa47-631c-4ebb-b590-11159206009b",
+      "removed_at": "2026-09-24T10:49:47Z"
+    }
+  ]
+}

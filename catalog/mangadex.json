@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-09-24T05:41:00Z",
+  "updated_at": "2026-09-24T10:49:47Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -4482,9 +4482,10 @@
       "title": "Hitoner",
       "url": "https://mangadex.org/title/59ef045c-0712-4f15-bb54-52bffd87481b",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T19:20:34Z",
-      "removed_at": null
+      "removed_at": "2026-09-24T10:49:47Z",
+      "removed_by_source": true
     },
     "65af3243-8a16-4545-b53a-ed1a79e367ac": {
       "title": "A Cave King's Road to Paradise: Climbing to the Top with My Almighty Mining Skills!",
@@ -4534,17 +4535,19 @@
       "title": "World Teacher: Other World Style Education & Agent",
       "url": "https://mangadex.org/title/acd72dd4-3ec3-4730-b55d-c6b719c782a3",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T19:20:34Z",
-      "removed_at": null
+      "removed_at": "2026-09-24T10:49:47Z",
+      "removed_by_source": true
     },
     "ad7bbb7c-2ff2-4768-a74a-da5d7aed1eb6": {
       "title": "Fatale Game",
       "url": "https://mangadex.org/title/ad7bbb7c-2ff2-4768-a74a-da5d7aed1eb6",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T19:20:34Z",
-      "removed_at": null
+      "removed_at": "2026-09-24T10:49:47Z",
+      "removed_by_source": true
     },
     "b8e88f44-8fe3-41b8-a391-335576f7ddcc": {
       "title": "A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires",
@@ -4592,25 +4595,28 @@
       "title": "Your Majesty the Demon King, it's time you get married!",
       "url": "https://mangadex.org/title/def07dc0-a0d8-4b5d-8528-02983e989501",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T21:45:48Z",
-      "removed_at": null
+      "removed_at": "2026-09-24T10:49:47Z",
+      "removed_by_source": true
     },
     "1a9dbacf-b3ee-4516-a1fc-ef5b877d3136": {
       "title": "Ushiyama-san",
       "url": "https://mangadex.org/title/1a9dbacf-b3ee-4516-a1fc-ef5b877d3136",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T23:46:34Z",
-      "removed_at": null
+      "removed_at": "2026-09-24T10:49:47Z",
+      "removed_by_source": true
     },
     "263deeff-c010-4ac7-bc01-6341f3e698ac": {
       "title": "Dragon Quest: The Great Adventure of Dai - Avan the Brave and the Demon King of Hellfire",
       "url": "https://mangadex.org/title/263deeff-c010-4ac7-bc01-6341f3e698ac",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T23:46:34Z",
-      "removed_at": null
+      "removed_at": "2026-09-24T10:49:47Z",
+      "removed_by_source": true
     },
     "3c26e1f5-6836-4a00-a9d0-1a692e64b39f": {
       "title": "My Girlfriend is a Cyclops",
@@ -6394,9 +6400,10 @@
       "title": "Juumonji in Sight!",
       "url": "https://mangadex.org/title/d05bfa47-631c-4ebb-b590-11159206009b",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-23T10:10:52Z",
-      "removed_at": null
+      "removed_at": "2026-09-24T10:49:47Z",
+      "removed_by_source": true
     },
     "e4148575-6572-425f-9a60-50d94d423b58": {
       "title": "Baki Side Story: Gaia & Sikorsky - Sometimes Nomura—Two yet Three People Living Together",
@@ -6620,6 +6627,54 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-09-24T05:41:00Z",
+      "removed_at": null
+    },
+    "46e9cae5-4407-4576-9b9e-4c517ae9298e": {
+      "title": "The Promised Neverland",
+      "url": "https://mangadex.org/title/46e9cae5-4407-4576-9b9e-4c517ae9298e",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-24T10:49:47Z",
+      "removed_at": null
+    },
+    "87cef5f8-cb3a-4797-8560-a9faddd05f37": {
+      "title": "Tsukimino Karma is Just My Pet...",
+      "url": "https://mangadex.org/title/87cef5f8-cb3a-4797-8560-a9faddd05f37",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-24T10:49:47Z",
+      "removed_at": null
+    },
+    "b1629d65-f177-418a-a04f-ae4ee6929f90": {
+      "title": "Imprisoned with the Horror Game's Male Lead",
+      "url": "https://mangadex.org/title/b1629d65-f177-418a-a04f-ae4ee6929f90",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-24T10:49:47Z",
+      "removed_at": null
+    },
+    "d8a959f7-648e-4c8d-8f23-f1f3f8e129f3": {
+      "title": "One-Punch Man",
+      "url": "https://mangadex.org/title/d8a959f7-648e-4c8d-8f23-f1f3f8e129f3",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-24T10:49:47Z",
+      "removed_at": null
+    },
+    "e4573044-ca38-4b83-bcc5-9e3a7c0b764b": {
+      "title": "Dear Flowers That Bloom In Days of Yore",
+      "url": "https://mangadex.org/title/e4573044-ca38-4b83-bcc5-9e3a7c0b764b",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-24T10:49:47Z",
+      "removed_at": null
+    },
+    "fa718bd1-a6d2-4225-acc2-2828ac2dce6b": {
+      "title": "Pressed Flower",
+      "url": "https://mangadex.org/title/fa718bd1-a6d2-4225-acc2-2828ac2dce6b",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-24T10:49:47Z",
       "removed_at": null
     }
   }
