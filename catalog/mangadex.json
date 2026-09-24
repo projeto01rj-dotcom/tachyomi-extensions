@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-09-24T10:49:47Z",
+  "updated_at": "2026-09-24T15:37:18Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -781,9 +781,10 @@
       "title": "JoJo’s Bizarre Adventure, Part 9: The JoJoLands - Digital Colored Comics",
       "url": "https://mangadex.org/title/334019e1-18bb-4ac0-b35c-0e8efb1e481c",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-24T15:37:18Z",
+      "removed_by_source": true
     },
     "33f19cb0-46b4-448f-a9a1-f6f7ddaf158d": {
       "title": "Let Down",
@@ -1351,9 +1352,10 @@
       "title": "Sem título",
       "url": "https://mangadex.org/title/5ac4af05-c275-40d1-ba6e-64e9ad0528fa",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-24T15:37:18Z",
+      "removed_by_source": true
     },
     "5ae6ba69-9680-456a-8b84-47c68a6bac00": {
       "title": "My Ideal Girlfriend",
@@ -1385,9 +1387,10 @@
       "title": "Anjo the Mischievous Gal",
       "url": "https://mangadex.org/title/5e3a710f-0b0d-482b-9e84-d9c91960c625",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-24T15:37:18Z",
+      "removed_by_source": true
     },
     "5e746f0a-9eec-470d-ac52-32fa5814ea03": {
       "title": "Sem título",
@@ -4622,25 +4625,28 @@
       "title": "My Girlfriend is a Cyclops",
       "url": "https://mangadex.org/title/3c26e1f5-6836-4a00-a9d0-1a692e64b39f",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T23:46:34Z",
-      "removed_at": null
+      "removed_at": "2026-09-24T15:37:18Z",
+      "removed_by_source": true
     },
     "d0c60a11-0106-45cf-abfc-d131cb49868f": {
       "title": "Beast Tamer",
       "url": "https://mangadex.org/title/d0c60a11-0106-45cf-abfc-d131cb49868f",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T23:46:34Z",
-      "removed_at": null
+      "removed_at": "2026-09-24T15:37:18Z",
+      "removed_by_source": true
     },
     "23fed86c-a2f0-4cdc-a1b3-13596aac6e7c": {
       "title": "The Heart-Pounding Operation",
       "url": "https://mangadex.org/title/23fed86c-a2f0-4cdc-a1b3-13596aac6e7c",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-19T02:25:51Z",
-      "removed_at": null
+      "removed_at": "2026-09-24T15:37:18Z",
+      "removed_by_source": true
     },
     "3683f667-c23d-4688-b872-0ade276aaafa": {
       "title": "Battlefront of the Great Powers",
@@ -4654,25 +4660,28 @@
       "title": "Yurayura Q",
       "url": "https://mangadex.org/title/41dae5dc-603b-4842-895e-f7b176d108b2",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-19T02:25:51Z",
-      "removed_at": null
+      "removed_at": "2026-09-24T15:37:18Z",
+      "removed_by_source": true
     },
     "8f37b66a-1a30-4e75-bab5-8da922e86f2f": {
       "title": "Momoiro Meloik",
       "url": "https://mangadex.org/title/8f37b66a-1a30-4e75-bab5-8da922e86f2f",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-19T02:25:51Z",
-      "removed_at": null
+      "removed_at": "2026-09-24T15:37:18Z",
+      "removed_by_source": true
     },
     "e660da42-375c-4fca-80f1-1afbe5342b8f": {
       "title": "Fool Night",
       "url": "https://mangadex.org/title/e660da42-375c-4fca-80f1-1afbe5342b8f",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-19T02:25:51Z",
-      "removed_at": null
+      "removed_at": "2026-09-24T15:37:18Z",
+      "removed_by_source": true
     },
     "ead3f958-0d01-4c1f-b605-620eacb8ead0": {
       "title": "My Teasing Fiancée",
@@ -4686,9 +4695,10 @@
       "title": "Fall in Love, You False Angels",
       "url": "https://mangadex.org/title/f6aebf39-07b8-4959-ba73-fa852b96913b",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-19T02:25:51Z",
-      "removed_at": null
+      "removed_at": "2026-09-24T15:37:18Z",
+      "removed_by_source": true
     },
     "1f9fb803-733a-4104-bea3-f4b449da5e3c": {
       "title": "My Neighbor Ms. Kurokawa",
@@ -4734,9 +4744,10 @@
       "title": "Mikoto-chan Doesn't Want to Be Hated!",
       "url": "https://mangadex.org/title/4e338970-63e8-489c-b937-5e7e3005e1e3",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-19T07:27:30Z",
-      "removed_at": null
+      "removed_at": "2026-09-24T15:37:18Z",
+      "removed_by_source": true
     },
     "547b5366-e71a-400d-b48e-7d4447ac1cf3": {
       "title": "A Parallel World with a 1:39 Male to Female Ratio is Unexpectedly Normal",
@@ -6675,6 +6686,38 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-09-24T10:49:47Z",
+      "removed_at": null
+    },
+    "059c9a8e-4e19-4a99-9d69-4f199a1e049f": {
+      "title": "Abysmal",
+      "url": "https://mangadex.org/title/059c9a8e-4e19-4a99-9d69-4f199a1e049f",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-24T15:37:18Z",
+      "removed_at": null
+    },
+    "21699dbf-c427-41d8-bbcf-c7cbd1755615": {
+      "title": "Erio & the Electric Doll",
+      "url": "https://mangadex.org/title/21699dbf-c427-41d8-bbcf-c7cbd1755615",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-24T15:37:18Z",
+      "removed_at": null
+    },
+    "a72994fd-f1c5-4df2-b7b0-423356408958": {
+      "title": "The Black Create Summoner: Revenge of the Reincarnater",
+      "url": "https://mangadex.org/title/a72994fd-f1c5-4df2-b7b0-423356408958",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-24T15:37:18Z",
+      "removed_at": null
+    },
+    "d4894b47-9af3-4b84-8adc-cb49e34994ab": {
+      "title": "I Got Kicked Out of the Hero's Party, So I Went Back to My Hometown, and Then the Whole Party Followed Me!?",
+      "url": "https://mangadex.org/title/d4894b47-9af3-4b84-8adc-cb49e34994ab",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-24T15:37:18Z",
       "removed_at": null
     }
   }
