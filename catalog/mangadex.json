@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-09-24T15:37:18Z",
+  "updated_at": "2026-09-24T19:39:02Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -210,9 +210,10 @@
       "title": "After Severing Our Ties, All My Summons Became Dark Creatures",
       "url": "https://mangadex.org/title/100c9272-fbf1-48eb-9d09-e7ad80a228ed",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-24T19:39:02Z",
+      "removed_by_source": true
     },
     "101c7648-2599-4167-a4e8-5e1bc07fedae": {
       "title": "My Daughter Was an Unsold Elf Slave",
@@ -765,9 +766,10 @@
       "title": "Days Off in the Dragon's Stomach",
       "url": "https://mangadex.org/title/32505911-558f-4ce0-9eed-0b4538f29efc",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-24T19:39:02Z",
+      "removed_by_source": true
     },
     "32ace26d-acfa-4f6d-bf4b-10f90ac4a657": {
       "title": "Dekin no Mogura: The Earthbound Mole",
@@ -2095,9 +2097,10 @@
       "title": "Can You Resist The Temptations Of An Immoral Oneesan?",
       "url": "https://mangadex.org/title/8361f424-465e-4235-9ce7-e3310703a924",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-24T19:39:02Z",
+      "removed_by_source": true
     },
     "841836ec-8e05-40d1-b841-516b728f8f5f": {
       "title": "The Name of that Flame is Sexual Preference",
@@ -2926,9 +2929,10 @@
       "title": "Frieren: Beyond Journey's End",
       "url": "https://mangadex.org/title/b0b721ff-c388-4486-aa0f-c2b0bb321512",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-24T19:39:02Z",
+      "removed_by_source": true
     },
     "b1a5751e-fd75-4df1-b8c8-77d8b7b92e9a": {
       "title": "Please Give Me Your Blood, I Will Serve You in Gratitude",
@@ -3703,9 +3707,10 @@
       "title": "Seiken-chan is Complicated",
       "url": "https://mangadex.org/title/dc30bdcc-422c-4dd0-934e-7166d0c489b1",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-24T19:39:02Z",
+      "removed_by_source": true
     },
     "dc481ed5-4925-4f3c-bac1-e73f1e7ed338": {
       "title": "Jobless Reincarnation: I'll Try Seriously If I Go to Another World - Despondent Magician Arc",
@@ -4530,9 +4535,10 @@
       "title": "Toilet-Bound Hanako-kun",
       "url": "https://mangadex.org/title/a4b39b6e-a448-4644-a540-64ceff1d8305",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T19:20:34Z",
-      "removed_at": null
+      "removed_at": "2026-09-24T19:39:02Z",
+      "removed_by_source": true
     },
     "acd72dd4-3ec3-4730-b55d-c6b719c782a3": {
       "title": "World Teacher: Other World Style Education & Agent",
@@ -4652,9 +4658,10 @@
       "title": "Battlefront of the Great Powers",
       "url": "https://mangadex.org/title/3683f667-c23d-4688-b872-0ade276aaafa",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-19T02:25:51Z",
-      "removed_at": null
+      "removed_at": "2026-09-24T19:39:02Z",
+      "removed_by_source": true
     },
     "41dae5dc-603b-4842-895e-f7b176d108b2": {
       "title": "Yurayura Q",
@@ -4728,17 +4735,19 @@
       "title": "I’m a Kept Man for the Three Most Beautiful Girls in School",
       "url": "https://mangadex.org/title/315d9d7d-6875-4e48-ab96-fbb7b9c8f3f2",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-19T07:27:30Z",
-      "removed_at": null
+      "removed_at": "2026-09-24T19:39:02Z",
+      "removed_by_source": true
     },
     "372d2266-3034-41e6-83f7-5d2d0fadfe19": {
       "title": "I Want It!!",
       "url": "https://mangadex.org/title/372d2266-3034-41e6-83f7-5d2d0fadfe19",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-19T07:27:30Z",
-      "removed_at": null
+      "removed_at": "2026-09-24T19:39:02Z",
+      "removed_by_source": true
     },
     "4e338970-63e8-489c-b937-5e7e3005e1e3": {
       "title": "Mikoto-chan Doesn't Want to Be Hated!",
@@ -4761,25 +4770,28 @@
       "title": "The World's Strongest Butler: I was Banished from a Black Workplace, and I was Picked Up by the Ice Lady",
       "url": "https://mangadex.org/title/5c151924-f2b6-4d3e-8dba-3a64adc8e205",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-19T07:27:30Z",
-      "removed_at": null
+      "removed_at": "2026-09-24T19:39:02Z",
+      "removed_by_source": true
     },
     "77ae6d99-0d2d-4f63-8903-6246cac20897": {
       "title": "Tearmoon Empire",
       "url": "https://mangadex.org/title/77ae6d99-0d2d-4f63-8903-6246cac20897",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-19T07:27:30Z",
-      "removed_at": null
+      "removed_at": "2026-09-24T19:39:02Z",
+      "removed_by_source": true
     },
     "7b727ae2-2842-4c46-af8b-9162b7806659": {
       "title": "Girl Meets Rock!",
       "url": "https://mangadex.org/title/7b727ae2-2842-4c46-af8b-9162b7806659",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-19T07:27:30Z",
-      "removed_at": null
+      "removed_at": "2026-09-24T19:39:02Z",
+      "removed_by_source": true
     },
     "949b20c3-de22-4e7b-989f-b26a8cdf7ecb": {
       "title": "DOGSRED",
@@ -4818,9 +4830,10 @@
       "title": "Shibuya Near Family",
       "url": "https://mangadex.org/title/3dda9dc7-be06-4f27-af07-670786ceee4e",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-19T11:59:53Z",
-      "removed_at": null
+      "removed_at": "2026-09-24T19:39:02Z",
+      "removed_by_source": true
     },
     "4ffd1f8f-ab82-4de4-9dea-e0608c043d7b": {
       "title": "MookHyang: Dark Lady",
@@ -4850,9 +4863,10 @@
       "title": "Kaibutsu Oujo",
       "url": "https://mangadex.org/title/8589d1a7-01a3-469e-a1ae-8a682f8c987a",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-19T11:59:53Z",
-      "removed_at": null
+      "removed_at": "2026-09-24T19:39:02Z",
+      "removed_by_source": true
     },
     "b7ebc129-8729-4121-9f11-c3260d3d97ed": {
       "title": "Prince Sun Wants to Be a Wife",
@@ -4874,17 +4888,19 @@
       "title": "Konosuba: God's Blessing on This Wonderful World!",
       "url": "https://mangadex.org/title/bcfa196d-d162-45f5-a224-61d26b04a077",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-19T11:59:53Z",
-      "removed_at": null
+      "removed_at": "2026-09-24T19:39:02Z",
+      "removed_by_source": true
     },
     "c1d990dd-9ff2-4e47-b93d-5e56e34c5069": {
       "title": "Digimon Xros Wars",
       "url": "https://mangadex.org/title/c1d990dd-9ff2-4e47-b93d-5e56e34c5069",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-19T11:59:53Z",
-      "removed_at": null
+      "removed_at": "2026-09-24T19:39:02Z",
+      "removed_by_source": true
     },
     "0d4b349e-b7a2-4d63-9ce0-f864e790c4a2": {
       "title": "Veil",
@@ -6718,6 +6734,94 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-09-24T15:37:18Z",
+      "removed_at": null
+    },
+    "31295895-005d-40bf-b897-22aaeb5c1a66": {
+      "title": "DARKER THAN BLACK -Jet Black Flower-",
+      "url": "https://mangadex.org/title/31295895-005d-40bf-b897-22aaeb5c1a66",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-24T19:39:02Z",
+      "removed_at": null
+    },
+    "7324c64a-b35a-4072-84e6-dff029a4af27": {
+      "title": "The Classroom of a Black Cat and a Witch",
+      "url": "https://mangadex.org/title/7324c64a-b35a-4072-84e6-dff029a4af27",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-24T19:39:02Z",
+      "removed_at": null
+    },
+    "8cd657d2-fa8c-4927-b884-44952fe5fbd1": {
+      "title": "My Cute Cousin Always Gets Her Way",
+      "url": "https://mangadex.org/title/8cd657d2-fa8c-4927-b884-44952fe5fbd1",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-24T19:39:02Z",
+      "removed_at": null
+    },
+    "960e28fa-31de-4de0-bd62-a91c0243ed0e": {
+      "title": "Dead Mount Death Play",
+      "url": "https://mangadex.org/title/960e28fa-31de-4de0-bd62-a91c0243ed0e",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-24T19:39:02Z",
+      "removed_at": null
+    },
+    "971fb926-e2c7-40da-be30-59e540aeb013": {
+      "title": "Hima-Ten!",
+      "url": "https://mangadex.org/title/971fb926-e2c7-40da-be30-59e540aeb013",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-24T19:39:02Z",
+      "removed_at": null
+    },
+    "a19db143-0399-4c72-b999-75544b509cb9": {
+      "title": "I Thought My Childhood Friend Was a Guy… Now She’s My Wife and It’s Going Too Well!",
+      "url": "https://mangadex.org/title/a19db143-0399-4c72-b999-75544b509cb9",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-24T19:39:02Z",
+      "removed_at": null
+    },
+    "b198f9b8-7489-44cc-a062-1cb4b32d5507": {
+      "title": "When Trying to Get Back at the Hometown Bullies, Another Battle Began.",
+      "url": "https://mangadex.org/title/b198f9b8-7489-44cc-a062-1cb4b32d5507",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-24T19:39:02Z",
+      "removed_at": null
+    },
+    "b66e8da4-f2f3-4159-8db8-e523094be8c2": {
+      "title": "Puniru is a Kawaii Slime",
+      "url": "https://mangadex.org/title/b66e8da4-f2f3-4159-8db8-e523094be8c2",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-24T19:39:02Z",
+      "removed_at": null
+    },
+    "b8faa8ab-cb4e-416f-829d-d2a6042ba5ac": {
+      "title": "Ikoku Nikki",
+      "url": "https://mangadex.org/title/b8faa8ab-cb4e-416f-829d-d2a6042ba5ac",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-24T19:39:02Z",
+      "removed_at": null
+    },
+    "cde5424f-02e5-4c90-a433-b92d831d9856": {
+      "title": "Yearning for a Night Full of You",
+      "url": "https://mangadex.org/title/cde5424f-02e5-4c90-a433-b92d831d9856",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-24T19:39:02Z",
+      "removed_at": null
+    },
+    "fa4816db-6ea5-4183-81e5-08495557eb91": {
+      "title": "Massacre Happy End: The Blue Chapter",
+      "url": "https://mangadex.org/title/fa4816db-6ea5-4183-81e5-08495557eb91",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-24T19:39:02Z",
       "removed_at": null
     }
   }
