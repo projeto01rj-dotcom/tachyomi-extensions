@@ -1,0 +1,93 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-09-25T23:43:13Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "48863213-086b-4dfb-8103-8e279b8e5f5d",
+      "title": "This Monster Wants to Eat Me",
+      "url": "https://mangadex.org/title/48863213-086b-4dfb-8103-8e279b8e5f5d"
+    },
+    {
+      "source": "mangadex",
+      "key": "6298f526-a4a8-486c-bb08-470f7ac3235d",
+      "title": "I'm Just a Mob Priest, but Since I Realized This World is an Otome Game, I'll Train the Heroine",
+      "url": "https://mangadex.org/title/6298f526-a4a8-486c-bb08-470f7ac3235d"
+    },
+    {
+      "source": "mangadex",
+      "key": "7f1c253d-9557-4abc-b30b-929d7d8db45e",
+      "title": "August 9th, I Will Be Eaten by You.",
+      "url": "https://mangadex.org/title/7f1c253d-9557-4abc-b30b-929d7d8db45e"
+    },
+    {
+      "source": "mangadex",
+      "key": "a2320293-f00e-43a0-8d08-1110cf26a894",
+      "title": "The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible",
+      "url": "https://mangadex.org/title/a2320293-f00e-43a0-8d08-1110cf26a894"
+    },
+    {
+      "source": "mangadex",
+      "key": "bb06e098-79c4-4cca-8cd4-ad6fec2d6d7d",
+      "title": "Today's Urabe-san with…",
+      "url": "https://mangadex.org/title/bb06e098-79c4-4cca-8cd4-ad6fec2d6d7d"
+    },
+    {
+      "source": "mangadex",
+      "key": "dd765721-221e-4a00-a3d8-776372d6bf01",
+      "title": "Mobile Suit Gundam: Silver Phantom -Gravure-",
+      "url": "https://mangadex.org/title/dd765721-221e-4a00-a3d8-776372d6bf01"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "33f19cb0-46b4-448f-a9a1-f6f7ddaf158d",
+      "title": "Let Down",
+      "url": "https://mangadex.org/title/33f19cb0-46b4-448f-a9a1-f6f7ddaf158d",
+      "removed_at": "2026-09-25T23:43:13Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "394398f2-6287-48c7-9713-cd1759c97291",
+      "title": "The Blood Princess and the Knight",
+      "url": "https://mangadex.org/title/394398f2-6287-48c7-9713-cd1759c97291",
+      "removed_at": "2026-09-25T23:43:13Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "5f7b46a4-c807-4a92-9a3e-c6055c373b67",
+      "title": "Subaru and Subaru",
+      "url": "https://mangadex.org/title/5f7b46a4-c807-4a92-9a3e-c6055c373b67",
+      "removed_at": "2026-09-25T23:43:13Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "7786c392-f7e9-497f-8235-a8f26f247e8b",
+      "title": "2R4M",
+      "url": "https://mangadex.org/title/7786c392-f7e9-497f-8235-a8f26f247e8b",
+      "removed_at": "2026-09-25T23:43:13Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "0301208d-258a-444a-8ef7-66e433d801b1",
+      "title": "I'm Gonna Live with You Not Because My Parents Left Me Their Debt but Because I Like You",
+      "url": "https://mangadex.org/title/0301208d-258a-444a-8ef7-66e433d801b1",
+      "removed_at": "2026-09-25T23:43:13Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "0422e565-8953-4bda-86a2-9055430ff8cb",
+      "title": "The Heroines in my Graduation Albums",
+      "url": "https://mangadex.org/title/0422e565-8953-4bda-86a2-9055430ff8cb",
+      "removed_at": "2026-09-25T23:43:13Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "d2213279-1b4e-4699-8d6b-334d718b7474",
+      "title": "My Web Game Wife is a Popular Idol IRL",
+      "url": "https://mangadex.org/title/d2213279-1b4e-4699-8d6b-334d718b7474",
+      "removed_at": "2026-09-25T23:43:13Z"
+    }
+  ]
+}

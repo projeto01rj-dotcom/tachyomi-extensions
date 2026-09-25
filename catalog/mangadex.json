@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-09-25T20:36:24Z",
+  "updated_at": "2026-09-25T23:43:13Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -796,9 +796,10 @@
       "title": "Let Down",
       "url": "https://mangadex.org/title/33f19cb0-46b4-448f-a9a1-f6f7ddaf158d",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-25T23:43:13Z",
+      "removed_by_source": true
     },
     "34019331-7377-4e2c-837e-f6e1ab2b5ef7": {
       "title": "The Seven Deadly Sins: Four Knights of the Apocalypse",
@@ -865,9 +866,10 @@
       "title": "The Blood Princess and the Knight",
       "url": "https://mangadex.org/title/394398f2-6287-48c7-9713-cd1759c97291",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-25T23:43:13Z",
+      "removed_by_source": true
     },
     "3b6c3a0b-8752-41fc-9d3e-1310f6f28252": {
       "title": "Giant Killing",
@@ -1458,9 +1460,10 @@
       "title": "Subaru and Subaru",
       "url": "https://mangadex.org/title/5f7b46a4-c807-4a92-9a3e-c6055c373b67",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-25T23:43:13Z",
+      "removed_by_source": true
     },
     "600f467c-9613-4056-aa21-bb2ecc295b84": {
       "title": "I'm Sick and Tired of My Childhood Friend's, Now Girlfriend's, Constant Abuse, so I Broke up With Her",
@@ -5060,9 +5063,10 @@
       "title": "2R4M",
       "url": "https://mangadex.org/title/7786c392-f7e9-497f-8235-a8f26f247e8b",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-19T18:19:04Z",
-      "removed_at": null
+      "removed_at": "2026-09-25T23:43:13Z",
+      "removed_by_source": true
     },
     "9308cb58-bff6-49fd-bd4f-84f51053c2ae": {
       "title": "Masochist Gal Himekawa-san",
@@ -5287,17 +5291,19 @@
       "title": "I'm Gonna Live with You Not Because My Parents Left Me Their Debt but Because I Like You",
       "url": "https://mangadex.org/title/0301208d-258a-444a-8ef7-66e433d801b1",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-20T05:34:06Z",
-      "removed_at": null
+      "removed_at": "2026-09-25T23:43:13Z",
+      "removed_by_source": true
     },
     "0422e565-8953-4bda-86a2-9055430ff8cb": {
       "title": "The Heroines in my Graduation Albums",
       "url": "https://mangadex.org/title/0422e565-8953-4bda-86a2-9055430ff8cb",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-20T05:34:06Z",
-      "removed_at": null
+      "removed_at": "2026-09-25T23:43:13Z",
+      "removed_by_source": true
     },
     "05875db7-5d63-4157-86e3-7e148a851b63": {
       "title": "Embalming: The Another Tale of Frankenstein",
@@ -5360,9 +5366,10 @@
       "title": "My Web Game Wife is a Popular Idol IRL",
       "url": "https://mangadex.org/title/d2213279-1b4e-4699-8d6b-334d718b7474",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-20T05:34:06Z",
-      "removed_at": null
+      "removed_at": "2026-09-25T23:43:13Z",
+      "removed_by_source": true
     },
     "3b999f4a-0b7f-4aef-a849-cd86e31c4b57": {
       "title": "The Savior «Messiah»: The Former Hero Who Saved Another World Beats the Real World Full of Monsters",
@@ -7173,6 +7180,54 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-09-25T20:36:24Z",
+      "removed_at": null
+    },
+    "48863213-086b-4dfb-8103-8e279b8e5f5d": {
+      "title": "This Monster Wants to Eat Me",
+      "url": "https://mangadex.org/title/48863213-086b-4dfb-8103-8e279b8e5f5d",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-25T23:43:13Z",
+      "removed_at": null
+    },
+    "6298f526-a4a8-486c-bb08-470f7ac3235d": {
+      "title": "I'm Just a Mob Priest, but Since I Realized This World is an Otome Game, I'll Train the Heroine",
+      "url": "https://mangadex.org/title/6298f526-a4a8-486c-bb08-470f7ac3235d",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-25T23:43:13Z",
+      "removed_at": null
+    },
+    "7f1c253d-9557-4abc-b30b-929d7d8db45e": {
+      "title": "August 9th, I Will Be Eaten by You.",
+      "url": "https://mangadex.org/title/7f1c253d-9557-4abc-b30b-929d7d8db45e",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-25T23:43:13Z",
+      "removed_at": null
+    },
+    "a2320293-f00e-43a0-8d08-1110cf26a894": {
+      "title": "The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible",
+      "url": "https://mangadex.org/title/a2320293-f00e-43a0-8d08-1110cf26a894",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-25T23:43:13Z",
+      "removed_at": null
+    },
+    "bb06e098-79c4-4cca-8cd4-ad6fec2d6d7d": {
+      "title": "Today's Urabe-san with…",
+      "url": "https://mangadex.org/title/bb06e098-79c4-4cca-8cd4-ad6fec2d6d7d",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-25T23:43:13Z",
+      "removed_at": null
+    },
+    "dd765721-221e-4a00-a3d8-776372d6bf01": {
+      "title": "Mobile Suit Gundam: Silver Phantom -Gravure-",
+      "url": "https://mangadex.org/title/dd765721-221e-4a00-a3d8-776372d6bf01",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-25T23:43:13Z",
       "removed_at": null
     }
   }
