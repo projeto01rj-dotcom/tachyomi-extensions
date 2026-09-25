@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-09-25T12:02:19Z",
+  "updated_at": "2026-09-25T17:24:00Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -3000,9 +3000,10 @@
       "title": "Hero Classroom",
       "url": "https://mangadex.org/title/b3949b7e-a3c1-4532-b571-279b0f44a01d",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-25T17:24:00Z",
+      "removed_by_source": true
     },
     "b41bef1e-7df9-4255-bd82-ecf570fec566": {
       "title": "The New Gate",
@@ -3106,9 +3107,10 @@
       "title": "Vampire Knight",
       "url": "https://mangadex.org/title/baaa0ca4-efef-4b15-b91a-c1f85692c2a7",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-25T17:24:00Z",
+      "removed_by_source": true
     },
     "bbaa17c4-0f36-4bbb-9861-34fc8fdf20fc": {
       "title": "EDENS ZERO",
@@ -3307,9 +3309,10 @@
       "title": "Umamusume - Pretty Derby PisuPisu☆SupiSupi - Golshi-chan",
       "url": "https://mangadex.org/title/c83006f3-e650-46fd-b6de-a88df6b59fab",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-25T17:24:00Z",
+      "removed_by_source": true
     },
     "c855ec45-b8d9-4aea-9a0d-b2ae544c11dc": {
       "title": "Tokimori-san is Completely Defenseless!!",
@@ -4282,9 +4285,10 @@
       "title": "The Hero's Bereaved Family",
       "url": "https://mangadex.org/title/fa88b96d-492c-4535-8843-1ee277aea717",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-25T17:24:00Z",
+      "removed_by_source": true
     },
     "fb639340-5715-4242-9345-a2a5f9142f54": {
       "title": "Ms. Undead's Clumsy Youth",
@@ -4343,9 +4347,10 @@
       "title": "The Wakaba Home's Blue Loves",
       "url": "https://mangadex.org/title/fe1394fe-3d67-48fb-b452-06580d2dd9d7",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-25T17:24:00Z",
+      "removed_by_source": true
     },
     "ff2a2c47-48f2-43d1-b4c9-3f284613ffc6": {
       "title": "Karakuri Circus",
@@ -5112,41 +5117,46 @@
       "title": "Sea-Run End Credits",
       "url": "https://mangadex.org/title/08a69168-3adb-4f78-adaa-088b7663e0ff",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-19T20:52:57Z",
-      "removed_at": null
+      "removed_at": "2026-09-25T17:24:00Z",
+      "removed_by_source": true
     },
     "21fc423b-d07d-4f87-9d0c-a3adf033f33a": {
       "title": "Craftsman",
       "url": "https://mangadex.org/title/21fc423b-d07d-4f87-9d0c-a3adf033f33a",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-19T20:52:57Z",
-      "removed_at": null
+      "removed_at": "2026-09-25T17:24:00Z",
+      "removed_by_source": true
     },
     "2a6d4292-0db9-4bcd-b459-57dcad73c502": {
       "title": "Denpa Seinen",
       "url": "https://mangadex.org/title/2a6d4292-0db9-4bcd-b459-57dcad73c502",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-19T20:52:57Z",
-      "removed_at": null
+      "removed_at": "2026-09-25T17:24:00Z",
+      "removed_by_source": true
     },
     "4481002b-f65c-426a-8cb4-3a1bba1040c5": {
       "title": "Blade of the Immortal",
       "url": "https://mangadex.org/title/4481002b-f65c-426a-8cb4-3a1bba1040c5",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-19T20:52:57Z",
-      "removed_at": null
+      "removed_at": "2026-09-25T17:24:00Z",
+      "removed_by_source": true
     },
     "6033535e-ea6a-4f52-9d81-17101a739c33": {
       "title": "I Somehow Got Strong by Raising Skills Related to Farming",
       "url": "https://mangadex.org/title/6033535e-ea6a-4f52-9d81-17101a739c33",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-19T20:52:57Z",
-      "removed_at": null
+      "removed_at": "2026-09-25T17:24:00Z",
+      "removed_by_source": true
     },
     "a799cead-c82b-458c-8f1c-6bc19577bda6": {
       "title": "Are Physical Relationships Possible Between Childhood Friends of High School Students?",
@@ -5177,9 +5187,10 @@
       "title": "Girl's Baduk",
       "url": "https://mangadex.org/title/c6afc15c-889e-4d8a-8282-1f99dd650c24",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-19T20:52:57Z",
-      "removed_at": null
+      "removed_at": "2026-09-25T17:24:00Z",
+      "removed_by_source": true
     },
     "f110d48a-8461-428e-bbcb-5ae3c0d53d25": {
       "title": "I See You, Aizawa-san!",
@@ -5193,9 +5204,10 @@
       "title": "Sem título",
       "url": "https://mangadex.org/title/9b896cac-d827-4d1e-b32f-a914a2d9d323",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-19T22:35:27Z",
-      "removed_at": null
+      "removed_at": "2026-09-25T17:24:00Z",
+      "removed_by_source": true
     },
     "b93212ef-5d8f-4814-9e10-9237720a4057": {
       "title": "Hidamari Sketch",
@@ -5209,9 +5221,10 @@
       "title": "A Bride's Story",
       "url": "https://mangadex.org/title/cedc7401-8c70-4057-b14a-4ecbbcd73945",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-19T22:35:27Z",
-      "removed_at": null
+      "removed_at": "2026-09-25T17:24:00Z",
+      "removed_by_source": true
     },
     "01eca861-048f-465b-94cd-46fb862b4dc6": {
       "title": "Bookmark of Demise",
@@ -7005,6 +7018,78 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-09-25T12:02:19Z",
+      "removed_at": null
+    },
+    "4d12b7ee-d834-4214-999a-bd824b8d9470": {
+      "title": "Venus puts fur on me",
+      "url": "https://mangadex.org/title/4d12b7ee-d834-4214-999a-bd824b8d9470",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-25T17:24:00Z",
+      "removed_at": null
+    },
+    "5d49268c-f171-42c2-bf79-4b992bc50352": {
+      "title": "Love Revolution",
+      "url": "https://mangadex.org/title/5d49268c-f171-42c2-bf79-4b992bc50352",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-25T17:24:00Z",
+      "removed_at": null
+    },
+    "cb34b520-fd48-474e-8d06-a7a25473342e": {
+      "title": "The Girl I Like Confessed to Me While Handing Me Cash",
+      "url": "https://mangadex.org/title/cb34b520-fd48-474e-8d06-a7a25473342e",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-25T17:24:00Z",
+      "removed_at": null
+    },
+    "d422ddc8-eea3-4b0a-82a4-291bbd8c9285": {
+      "title": "The Children of Shiunji Family",
+      "url": "https://mangadex.org/title/d422ddc8-eea3-4b0a-82a4-291bbd8c9285",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-25T17:24:00Z",
+      "removed_at": null
+    },
+    "d6c4c581-e3c8-4816-b0a1-bd3b80472432": {
+      "title": "There's No Need for the Most Evil Rogue to Move",
+      "url": "https://mangadex.org/title/d6c4c581-e3c8-4816-b0a1-bd3b80472432",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-25T17:24:00Z",
+      "removed_at": null
+    },
+    "e06e6024-9688-4a38-a8b4-6facd3fe1d80": {
+      "title": "Miss Regular Customer Wants to Enjoy",
+      "url": "https://mangadex.org/title/e06e6024-9688-4a38-a8b4-6facd3fe1d80",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-25T17:24:00Z",
+      "removed_at": null
+    },
+    "e3fa25bc-23eb-46c3-af17-36ec9200456e": {
+      "title": "Contract Sisters",
+      "url": "https://mangadex.org/title/e3fa25bc-23eb-46c3-af17-36ec9200456e",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-25T17:24:00Z",
+      "removed_at": null
+    },
+    "e78a489b-6632-4d61-b00b-5206f5b8b22b": {
+      "title": "That Time I Got Reincarnated as a Slime",
+      "url": "https://mangadex.org/title/e78a489b-6632-4d61-b00b-5206f5b8b22b",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-25T17:24:00Z",
+      "removed_at": null
+    },
+    "f4fa82a7-4c09-4906-b3f3-80f8a30bae54": {
+      "title": "The Reason Yoimiya Nagi Makes Late-Night Meals for Her Manager",
+      "url": "https://mangadex.org/title/f4fa82a7-4c09-4906-b3f3-80f8a30bae54",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-25T17:24:00Z",
       "removed_at": null
     }
   }
