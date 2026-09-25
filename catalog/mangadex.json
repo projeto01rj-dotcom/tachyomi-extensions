@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-09-25T01:02:40Z",
+  "updated_at": "2026-09-25T06:17:35Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -453,9 +453,10 @@
       "title": "100 Ghost Stories That Will Lead to My Own Death",
       "url": "https://mangadex.org/title/1c01dcad-8e60-4fdd-8dd4-ddc5c200ba36",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-25T06:17:35Z",
+      "removed_by_source": true
     },
     "1c258c7a-5529-4fde-b6c0-f8028223993b": {
       "title": "Yu☆Gi☆Oh! OCG Structures",
@@ -973,9 +974,10 @@
       "title": "Not Quite Love",
       "url": "https://mangadex.org/title/4242c6d3-4ee4-4b0b-9ca0-23bd57952805",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-25T06:17:35Z",
+      "removed_by_source": true
     },
     "44e19786-bac7-47a6-a4fd-545aa68436ed": {
       "title": "Morino-san Just Won't Leave Me Be",
@@ -2334,9 +2336,10 @@
       "title": "Comic Girls",
       "url": "https://mangadex.org/title/8ee7d7b1-1f85-4b8e-9861-66c8b7b53929",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-25T06:17:35Z",
+      "removed_by_source": true
     },
     "8ef11280-30bc-434b-bf61-c61e092905ac": {
       "title": "I Made Friends with the Second Prettiest Girl in My Class",
@@ -4914,9 +4917,10 @@
       "title": "Veil",
       "url": "https://mangadex.org/title/0d4b349e-b7a2-4d63-9ce0-f864e790c4a2",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-19T15:40:30Z",
-      "removed_at": null
+      "removed_at": "2026-09-25T06:17:35Z",
+      "removed_by_source": true
     },
     "18ef1e92-f574-4c8c-99af-555e44ba418e": {
       "title": "Eastern Thorned Poet Hermit ~ Wild and Horned Hermit.",
@@ -4931,9 +4935,10 @@
       "title": "Yandere Story",
       "url": "https://mangadex.org/title/20d74873-a9d2-4f9e-a2ae-221be54ed620",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-19T15:40:30Z",
-      "removed_at": null
+      "removed_at": "2026-09-25T06:17:35Z",
+      "removed_by_source": true
     },
     "469b4919-e422-415c-bd44-18fcb0d4687b": {
       "title": "The Moon Does Not Count Sheep",
@@ -4948,9 +4953,10 @@
       "title": "Unnamed Memory",
       "url": "https://mangadex.org/title/636933aa-976e-4455-8082-36751a554be0",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-19T15:40:30Z",
-      "removed_at": null
+      "removed_at": "2026-09-25T06:17:35Z",
+      "removed_by_source": true
     },
     "6e156d65-cf65-4d5b-9d04-52f2f8100fbf": {
       "title": "Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin",
@@ -4964,17 +4970,19 @@
       "title": "Dream Team Retsuden",
       "url": "https://mangadex.org/title/7714747b-047b-438d-bdeb-87b9d7cb792a",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-19T15:40:30Z",
-      "removed_at": null
+      "removed_at": "2026-09-25T06:17:35Z",
+      "removed_by_source": true
     },
     "a4054c29-3fee-407c-992e-f3d1b8bcdbfb": {
       "title": "Oyasumi Stray Sheep",
       "url": "https://mangadex.org/title/a4054c29-3fee-407c-992e-f3d1b8bcdbfb",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-19T15:40:30Z",
-      "removed_at": null
+      "removed_at": "2026-09-25T06:17:35Z",
+      "removed_by_source": true
     },
     "c02343b3-74e4-4057-b34a-90e08d93f95a": {
       "title": "Is the Order a Rabbit?",
@@ -4988,17 +4996,19 @@
       "title": "Chainsaw Man (Official Colored)",
       "url": "https://mangadex.org/title/e896c48c-3150-437d-ba57-d8567eb399ae",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-19T15:40:30Z",
-      "removed_at": null
+      "removed_at": "2026-09-25T06:17:35Z",
+      "removed_by_source": true
     },
     "f8a6e3ef-d7a8-4aa3-89b2-03ef234deae6": {
       "title": "The Villainess' Bride",
       "url": "https://mangadex.org/title/f8a6e3ef-d7a8-4aa3-89b2-03ef234deae6",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-19T15:40:30Z",
-      "removed_at": null
+      "removed_at": "2026-09-25T06:17:35Z",
+      "removed_by_source": true
     },
     "136a8c13-cf72-427a-8d76-23f1bf070c0e": {
       "title": "I’m a “Behemoth,” an S-Ranked Monster, but Mistaken for a Cat, I Live as an Elf Girl’s Pet",
@@ -6880,6 +6890,70 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-09-25T01:02:40Z",
+      "removed_at": null
+    },
+    "0121587d-69ee-40d7-8488-f2ef66e293ce": {
+      "title": "Bear and Bunny Cannot Be Friends",
+      "url": "https://mangadex.org/title/0121587d-69ee-40d7-8488-f2ef66e293ce",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-25T06:17:35Z",
+      "removed_at": null
+    },
+    "0da324ee-2ec5-4fd4-9221-c203c3867ec1": {
+      "title": "Middle-Aged Bachelor's Isekai Life",
+      "url": "https://mangadex.org/title/0da324ee-2ec5-4fd4-9221-c203c3867ec1",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-25T06:17:35Z",
+      "removed_at": null
+    },
+    "590666db-1beb-4830-8732-dc11dfbe0148": {
+      "title": "Code Geass: Lelouch The Private Home Tutor",
+      "url": "https://mangadex.org/title/590666db-1beb-4830-8732-dc11dfbe0148",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-25T06:17:35Z",
+      "removed_at": null
+    },
+    "678b0682-b887-4de4-b774-addf10d16c8b": {
+      "title": "Code Geass: Lelouch of the Rebellion",
+      "url": "https://mangadex.org/title/678b0682-b887-4de4-b774-addf10d16c8b",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-25T06:17:35Z",
+      "removed_at": null
+    },
+    "6bb8cc05-ff11-4f6b-b875-f708444fbfed": {
+      "title": "A Story of a Plain Girl Who Hates Gyarus",
+      "url": "https://mangadex.org/title/6bb8cc05-ff11-4f6b-b875-f708444fbfed",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-25T06:17:35Z",
+      "removed_at": null
+    },
+    "cb98bd40-a903-4416-bdd0-dab93d8f36ad": {
+      "title": "How About R15?",
+      "url": "https://mangadex.org/title/cb98bd40-a903-4416-bdd0-dab93d8f36ad",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-25T06:17:35Z",
+      "removed_at": null
+    },
+    "e4453a00-7a95-4c65-bec9-b612fd32d2cb": {
+      "title": "A 3 panel Romcom Manga which ends in a page",
+      "url": "https://mangadex.org/title/e4453a00-7a95-4c65-bec9-b612fd32d2cb",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-25T06:17:35Z",
+      "removed_at": null
+    },
+    "f546580d-2bf5-4738-a2d9-420f6e56970b": {
+      "title": "Hino Hideshi's Doraemon",
+      "url": "https://mangadex.org/title/f546580d-2bf5-4738-a2d9-420f6e56970b",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-25T06:17:35Z",
       "removed_at": null
     }
   }
