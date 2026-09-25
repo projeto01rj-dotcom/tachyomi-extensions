@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-09-25T17:24:00Z",
+  "updated_at": "2026-09-25T20:36:24Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -359,9 +359,10 @@
       "title": "The Phantom Girl in Games of Death.",
       "url": "https://mangadex.org/title/17fbb99d-2c27-486f-90a1-2540f4227818",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-25T20:36:24Z",
+      "removed_by_source": true
     },
     "18d92807-8627-4a23-9ef6-12a0a7fbd054": {
       "title": "Did You Think You Could Live Normally Even in a World With a 1:5 Male-to-Female Ratio?: When Deeply Intense Feelings of the Girls are Toyed With by an Oblivious Boy",
@@ -420,9 +421,10 @@
       "title": "Sexual Service Co. - Everyday Extras",
       "url": "https://mangadex.org/title/1a75a39b-8a64-4dd1-ba82-569e44cfa379",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-25T20:36:24Z",
+      "removed_by_source": true
     },
     "1aad07fb-3ec1-4acf-8c5b-d8f5f5929a5d": {
       "title": "THE ISEKAI DOCTOR　Any sufficiently advanced medical science is indistinguishable from magic.",
@@ -3685,9 +3687,10 @@
       "title": "Isekai Uncle",
       "url": "https://mangadex.org/title/d8f1d7da-8bb1-407b-8be3-10ac2894d3c6",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-25T20:36:24Z",
+      "removed_by_source": true
     },
     "dbbca2b5-bdd1-4f2b-8b2e-d72bf7fd89a0": {
       "title": "I'm Really Not the Evil God's Lackey",
@@ -5213,9 +5216,10 @@
       "title": "Hidamari Sketch",
       "url": "https://mangadex.org/title/b93212ef-5d8f-4814-9e10-9237720a4057",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-19T22:35:27Z",
-      "removed_at": null
+      "removed_at": "2026-09-25T20:36:24Z",
+      "removed_by_source": true
     },
     "cedc7401-8c70-4057-b14a-4ecbbcd73945": {
       "title": "A Bride's Story",
@@ -5230,9 +5234,10 @@
       "title": "Bookmark of Demise",
       "url": "https://mangadex.org/title/01eca861-048f-465b-94cd-46fb862b4dc6",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-20T00:31:21Z",
-      "removed_at": null
+      "removed_at": "2026-09-25T20:36:24Z",
+      "removed_by_source": true
     },
     "0d4f9dba-f55f-4ff7-9f49-52311939504e": {
       "title": "From Old Country Bumpkin to Master Swordsman: My Hotshot Disciples are All Grown Up Now, and They Won't Leave Me Alone",
@@ -5246,33 +5251,37 @@
       "title": "Garuru Girl",
       "url": "https://mangadex.org/title/ab541412-f0d0-4fcf-a7a3-084a835d9d4a",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-20T00:31:21Z",
-      "removed_at": null
+      "removed_at": "2026-09-25T20:36:24Z",
+      "removed_by_source": true
     },
     "c1d891a3-7bd2-423a-b56d-3674430c0e88": {
       "title": "Tactless Kubo Wants to Understand Real Love",
       "url": "https://mangadex.org/title/c1d891a3-7bd2-423a-b56d-3674430c0e88",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-20T00:31:21Z",
-      "removed_at": null
+      "removed_at": "2026-09-25T20:36:24Z",
+      "removed_by_source": true
     },
     "ebf6b4b1-f514-4e93-8305-0c16c21c7163": {
       "title": "Space Juggernaut",
       "url": "https://mangadex.org/title/ebf6b4b1-f514-4e93-8305-0c16c21c7163",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-20T00:31:21Z",
-      "removed_at": null
+      "removed_at": "2026-09-25T20:36:24Z",
+      "removed_by_source": true
     },
     "ee80e31f-0d55-4cd5-9a67-c0bcee3ecc95": {
       "title": "Black Channel",
       "url": "https://mangadex.org/title/ee80e31f-0d55-4cd5-9a67-c0bcee3ecc95",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-20T00:31:21Z",
-      "removed_at": null
+      "removed_at": "2026-09-25T20:36:24Z",
+      "removed_by_source": true
     },
     "0301208d-258a-444a-8ef7-66e433d801b1": {
       "title": "I'm Gonna Live with You Not Because My Parents Left Me Their Debt but Because I Like You",
@@ -5294,9 +5303,10 @@
       "title": "Embalming: The Another Tale of Frankenstein",
       "url": "https://mangadex.org/title/05875db7-5d63-4157-86e3-7e148a851b63",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-20T05:34:06Z",
-      "removed_at": null
+      "removed_at": "2026-09-25T20:36:24Z",
+      "removed_by_source": true
     },
     "1b3d94a9-7d30-482d-9f11-4bd0a69608bb": {
       "title": "During the Live Streaming, I Proposed to a Female Ghost - And She Actually Agreed?!",
@@ -6366,9 +6376,10 @@
       "title": "Multi-Mind Mayhem: Isekai Tensei Soudouki",
       "url": "https://mangadex.org/title/469171aa-78cd-475c-98c5-68475d059dc1",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-23T05:24:06Z",
-      "removed_at": null
+      "removed_at": "2026-09-25T20:36:24Z",
+      "removed_by_source": true
     },
     "6c657548-3560-4236-ad18-402c6d2c3115": {
       "title": "How to Raise a Boring Girlfriend",
@@ -7090,6 +7101,78 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-09-25T17:24:00Z",
+      "removed_at": null
+    },
+    "17eebcc7-d993-446c-84be-c222bfb27794": {
+      "title": "Reincarnated Devil’s Plan for Raising the Strongest Hero",
+      "url": "https://mangadex.org/title/17eebcc7-d993-446c-84be-c222bfb27794",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-25T20:36:24Z",
+      "removed_at": null
+    },
+    "1d5c2296-f2c8-449d-9c54-a140035f3d4e": {
+      "title": "Unfurl",
+      "url": "https://mangadex.org/title/1d5c2296-f2c8-449d-9c54-a140035f3d4e",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-25T20:36:24Z",
+      "removed_at": null
+    },
+    "34b47146-a72e-43d8-9ea5-935a5956f09f": {
+      "title": "OMORI",
+      "url": "https://mangadex.org/title/34b47146-a72e-43d8-9ea5-935a5956f09f",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-25T20:36:24Z",
+      "removed_at": null
+    },
+    "41c40654-fb7e-4cae-9796-79731118f819": {
+      "title": "The 100 Curses of the Illeston Manor",
+      "url": "https://mangadex.org/title/41c40654-fb7e-4cae-9796-79731118f819",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-25T20:36:24Z",
+      "removed_at": null
+    },
+    "4a973243-952e-44d7-a50f-883b4b7c9cc2": {
+      "title": "SSS-Class Revival Hunter",
+      "url": "https://mangadex.org/title/4a973243-952e-44d7-a50f-883b4b7c9cc2",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-25T20:36:24Z",
+      "removed_at": null
+    },
+    "737c292b-5b97-41bb-8b04-51bcc945f7a7": {
+      "title": "Garbage Brave: Revenge Story of a Hero Who Has Been Thrown Away After Being Summoned to Another World",
+      "url": "https://mangadex.org/title/737c292b-5b97-41bb-8b04-51bcc945f7a7",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-25T20:36:24Z",
+      "removed_at": null
+    },
+    "8c6e0eb8-fb94-44a3-9bf4-fa72dee36775": {
+      "title": "Your Throne",
+      "url": "https://mangadex.org/title/8c6e0eb8-fb94-44a3-9bf4-fa72dee36775",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-25T20:36:24Z",
+      "removed_at": null
+    },
+    "af7cc594-4f6a-4c0a-8f74-16748910dee5": {
+      "title": "Akagami no Shirayukihime",
+      "url": "https://mangadex.org/title/af7cc594-4f6a-4c0a-8f74-16748910dee5",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-25T20:36:24Z",
+      "removed_at": null
+    },
+    "e421aa24-46c5-472d-b587-b8e42fb3803a": {
+      "title": "Dolls Nest: ORPHANS",
+      "url": "https://mangadex.org/title/e421aa24-46c5-472d-b587-b8e42fb3803a",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-25T20:36:24Z",
       "removed_at": null
     }
   }
