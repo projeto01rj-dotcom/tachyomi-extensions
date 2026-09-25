@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-09-25T06:17:35Z",
+  "updated_at": "2026-09-25T12:02:19Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -551,9 +551,10 @@
       "title": "Sem título",
       "url": "https://mangadex.org/title/206b25a1-f7c2-4234-84d0-732f9317740d",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-25T12:02:19Z",
+      "removed_by_source": true
     },
     "211d46f6-7fce-4ce7-ac3f-3a4a239e7269": {
       "title": "The Ura Files",
@@ -1744,9 +1745,10 @@
       "title": "My New Friend Wasn't What I Expected",
       "url": "https://mangadex.org/title/6d957e71-2468-4043-8b6a-acffd0a23591",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-25T12:02:19Z",
+      "removed_by_source": true
     },
     "6e93f6a1-3097-47aa-816e-04b496cafe12": {
       "title": "My Tsundere Girlfriend's Thick Thighs Situation",
@@ -1927,9 +1929,10 @@
       "title": "I Don't Know Which is Love",
       "url": "https://mangadex.org/title/79ca6344-5468-4fa8-8eb7-859728b27156",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-25T12:02:19Z",
+      "removed_by_source": true
     },
     "7a208b59-d7ea-4b33-aaa1-d798f25479c1": {
       "title": "The Abandoned Reincarnated Young Lady Aims to Become the Strongest Adventurer!",
@@ -4962,9 +4965,10 @@
       "title": "Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin",
       "url": "https://mangadex.org/title/6e156d65-cf65-4d5b-9d04-52f2f8100fbf",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-19T15:40:30Z",
-      "removed_at": null
+      "removed_at": "2026-09-25T12:02:19Z",
+      "removed_by_source": true
     },
     "7714747b-047b-438d-bdeb-87b9d7cb792a": {
       "title": "Dream Team Retsuden",
@@ -5030,17 +5034,19 @@
       "title": "The Strongest Old Knight Commander is Celebrated as a Hero in the Countryside After Being Cheated on and Exiled",
       "url": "https://mangadex.org/title/5f056699-2250-44e9-bcea-0c8beefb42bf",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-19T18:19:04Z",
-      "removed_at": null
+      "removed_at": "2026-09-25T12:02:19Z",
+      "removed_by_source": true
     },
     "6724bbf4-5855-4972-b6c9-ea92469aba89": {
       "title": "Prey",
       "url": "https://mangadex.org/title/6724bbf4-5855-4972-b6c9-ea92469aba89",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-19T18:19:04Z",
-      "removed_at": null
+      "removed_at": "2026-09-25T12:02:19Z",
+      "removed_by_source": true
     },
     "7786c392-f7e9-497f-8235-a8f26f247e8b": {
       "title": "2R4M",
@@ -5054,17 +5060,19 @@
       "title": "Masochist Gal Himekawa-san",
       "url": "https://mangadex.org/title/9308cb58-bff6-49fd-bd4f-84f51053c2ae",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-19T18:19:04Z",
-      "removed_at": null
+      "removed_at": "2026-09-25T12:02:19Z",
+      "removed_by_source": true
     },
     "a2f26a6c-2ebc-4aec-a5ef-e9968c9f85fb": {
       "title": "Apparently, My Childhood Friend's Older Sister, Who is Called a Gal Nowadays, is a Yandere Who Pathologically Loves Me, a Degraded Version of My Twin Brother Who Can Do Everything Perfectly",
       "url": "https://mangadex.org/title/a2f26a6c-2ebc-4aec-a5ef-e9968c9f85fb",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-19T18:19:04Z",
-      "removed_at": null
+      "removed_at": "2026-09-25T12:02:19Z",
+      "removed_by_source": true
     },
     "a920060c-7e39-4ac1-980c-f0e605a40ae4": {
       "title": "My Gyaru Wife's Secrets",
@@ -5078,17 +5086,19 @@
       "title": "Marika's Love Meter Malfunction",
       "url": "https://mangadex.org/title/d36bea9f-853f-4908-9957-5514b1903e36",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-19T18:19:04Z",
-      "removed_at": null
+      "removed_at": "2026-09-25T12:02:19Z",
+      "removed_by_source": true
     },
     "d8d8ca2d-19c1-4c4c-9401-fbe32ec0cdd5": {
       "title": "Fuuto Detective",
       "url": "https://mangadex.org/title/d8d8ca2d-19c1-4c4c-9401-fbe32ec0cdd5",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-19T18:19:04Z",
-      "removed_at": null
+      "removed_at": "2026-09-25T12:02:19Z",
+      "removed_by_source": true
     },
     "e8c316a1-fc1a-4870-b418-29d5013db516": {
       "title": "The Heroines of a Gal Game Who Avoided the End of Death Read My [Diary] And Found Out My Secret",
@@ -5142,9 +5152,10 @@
       "title": "Are Physical Relationships Possible Between Childhood Friends of High School Students?",
       "url": "https://mangadex.org/title/a799cead-c82b-458c-8f1c-6bc19577bda6",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-19T20:52:57Z",
-      "removed_at": null
+      "removed_at": "2026-09-25T12:02:19Z",
+      "removed_by_source": true
     },
     "ac743453-99ef-49e5-93e5-265cfff01fe0": {
       "title": "Speedrunner Cannot Return from the Game World",
@@ -6954,6 +6965,46 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-09-25T06:17:35Z",
+      "removed_at": null
+    },
+    "09bbbb75-1086-4e7c-b775-ae9ee1816e0d": {
+      "title": "Versus",
+      "url": "https://mangadex.org/title/09bbbb75-1086-4e7c-b775-ae9ee1816e0d",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-25T12:02:19Z",
+      "removed_at": null
+    },
+    "42f40118-dff5-4f23-acbf-e54e89f026bd": {
+      "title": "Welcome Back, First Love.",
+      "url": "https://mangadex.org/title/42f40118-dff5-4f23-acbf-e54e89f026bd",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-25T12:02:19Z",
+      "removed_at": null
+    },
+    "45b8d08e-b3ca-4aa7-bb14-120a1ed3c72f": {
+      "title": "Wakaba Won't Give Up!",
+      "url": "https://mangadex.org/title/45b8d08e-b3ca-4aa7-bb14-120a1ed3c72f",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-25T12:02:19Z",
+      "removed_at": null
+    },
+    "5018f2b1-65ee-4a76-a7f3-4bb851e1ade5": {
+      "title": "High Score Girl: Dash",
+      "url": "https://mangadex.org/title/5018f2b1-65ee-4a76-a7f3-4bb851e1ade5",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-25T12:02:19Z",
+      "removed_at": null
+    },
+    "baa95345-24fb-47a9-83e9-434ff671f968": {
+      "title": "Smoking Behind the Supermarket with You",
+      "url": "https://mangadex.org/title/baa95345-24fb-47a9-83e9-434ff671f968",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-25T12:02:19Z",
       "removed_at": null
     }
   }
