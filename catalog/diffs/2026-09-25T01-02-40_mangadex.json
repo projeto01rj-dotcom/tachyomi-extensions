@@ -1,0 +1,41 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-09-25T01:02:40Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "555bc816-ecab-48a2-b4f6-024da707a392",
+      "title": "Houkago wa Kenka Saikyou no Gal ni Tsurekomareru Seikatsu - Kanojotachi ni Sukarete, Boku mo Saikyou ni!?",
+      "url": "https://mangadex.org/title/555bc816-ecab-48a2-b4f6-024da707a392"
+    },
+    {
+      "source": "mangadex",
+      "key": "7aeb5715-8918-44a5-963d-23d94486ea22",
+      "title": "I Reincarnated as a Monster in a Game World, and Picked up the Heroine Who Was My Oshi in My Previous Life",
+      "url": "https://mangadex.org/title/7aeb5715-8918-44a5-963d-23d94486ea22"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "b24d2c22-5b28-44d4-a77f-0e920cd960a6",
+      "title": "Wolf-chan Wants to Look Cool",
+      "url": "https://mangadex.org/title/b24d2c22-5b28-44d4-a77f-0e920cd960a6",
+      "removed_at": "2026-09-25T01:02:40Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "18ef1e92-f574-4c8c-99af-555e44ba418e",
+      "title": "Eastern Thorned Poet Hermit ~ Wild and Horned Hermit.",
+      "url": "https://mangadex.org/title/18ef1e92-f574-4c8c-99af-555e44ba418e",
+      "removed_at": "2026-09-25T01:02:40Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "469b4919-e422-415c-bd44-18fcb0d4687b",
+      "title": "The Moon Does Not Count Sheep",
+      "url": "https://mangadex.org/title/469b4919-e422-415c-bd44-18fcb0d4687b",
+      "removed_at": "2026-09-25T01:02:40Z"
+    }
+  ]
+}
