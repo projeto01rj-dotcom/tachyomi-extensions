@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-09-26T17:18:39Z",
+  "updated_at": "2026-09-26T20:00:58Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -430,9 +430,10 @@
       "title": "THE ISEKAI DOCTOR　Any sufficiently advanced medical science is indistinguishable from magic.",
       "url": "https://mangadex.org/title/1aad07fb-3ec1-4acf-8c5b-d8f5f5929a5d",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-26T20:00:58Z",
+      "removed_by_source": true
     },
     "1ae96a86-b943-4c1f-8e06-e46981f6d4d3": {
       "title": "Aoi-kun's Dirty Stories Are Irresistible!!",
@@ -2174,9 +2175,10 @@
       "title": "Tougen Anki: Legend of the Cursed Blood",
       "url": "https://mangadex.org/title/85a99758-de39-471e-9f6d-800547f53d0a",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-26T20:00:58Z",
+      "removed_by_source": true
     },
     "85b3504c-62e8-49e7-9a81-fb64a3f51def": {
       "title": "Walking Home with You",
@@ -4387,9 +4389,10 @@
       "title": "I'm Still Looking Up At You",
       "url": "https://mangadex.org/title/ffeef500-d3e0-4c8d-b0f4-ce178afe7b87",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-26T20:00:58Z",
+      "removed_by_source": true
     },
     "fffbfac3-b7ad-41ee-9581-b4d90ecec941": {
       "title": "Grand Blue Dreaming",
@@ -5566,9 +5569,10 @@
       "title": "Two Ways",
       "url": "https://mangadex.org/title/15b376d2-e7a3-4bae-b837-041ba375d5b0",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-20T17:32:57Z",
-      "removed_at": null
+      "removed_at": "2026-09-26T20:00:58Z",
+      "removed_by_source": true
     },
     "229e5177-2e71-4642-bd56-a9b0b0ba0e60": {
       "title": "A Certain Magical Index",
@@ -5670,9 +5674,10 @@
       "title": "I Am a Hero",
       "url": "https://mangadex.org/title/ff5ef336-72d7-45a2-bc69-c2ae8fbfeec8",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-20T17:32:57Z",
-      "removed_at": null
+      "removed_at": "2026-09-26T20:00:58Z",
+      "removed_by_source": true
     },
     "024af7a5-f8ad-4b67-b950-b1708f52b018": {
       "title": "There Was a Cute Girl in the Hero's Party, so I Tried Confessing to Her",
@@ -7484,6 +7489,38 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-09-26T17:18:39Z",
+      "removed_at": null
+    },
+    "14504f0c-3d05-417c-b38e-417f20d080b8": {
+      "title": "A Comic/Manga About A Girl Who Lets Me Do Whatever I Want",
+      "url": "https://mangadex.org/title/14504f0c-3d05-417c-b38e-417f20d080b8",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-26T20:00:58Z",
+      "removed_at": null
+    },
+    "1fd22b12-ed87-487e-9b92-614db46e5160": {
+      "title": "Dominate the Three Realms",
+      "url": "https://mangadex.org/title/1fd22b12-ed87-487e-9b92-614db46e5160",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-26T20:00:58Z",
+      "removed_at": null
+    },
+    "a32a7f35-4bc5-4c60-8913-999238deeebd": {
+      "title": "A Superstar From Birth",
+      "url": "https://mangadex.org/title/a32a7f35-4bc5-4c60-8913-999238deeebd",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-26T20:00:58Z",
+      "removed_at": null
+    },
+    "e4351665-25f3-4edd-8546-10e5122e721d": {
+      "title": "Spica of Sin and Punishment",
+      "url": "https://mangadex.org/title/e4351665-25f3-4edd-8546-10e5122e721d",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-26T20:00:58Z",
       "removed_at": null
     }
   }

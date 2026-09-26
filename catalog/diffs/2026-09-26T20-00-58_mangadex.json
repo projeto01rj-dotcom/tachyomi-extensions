@@ -1,0 +1,67 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-09-26T20:00:58Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "14504f0c-3d05-417c-b38e-417f20d080b8",
+      "title": "A Comic/Manga About A Girl Who Lets Me Do Whatever I Want",
+      "url": "https://mangadex.org/title/14504f0c-3d05-417c-b38e-417f20d080b8"
+    },
+    {
+      "source": "mangadex",
+      "key": "1fd22b12-ed87-487e-9b92-614db46e5160",
+      "title": "Dominate the Three Realms",
+      "url": "https://mangadex.org/title/1fd22b12-ed87-487e-9b92-614db46e5160"
+    },
+    {
+      "source": "mangadex",
+      "key": "a32a7f35-4bc5-4c60-8913-999238deeebd",
+      "title": "A Superstar From Birth",
+      "url": "https://mangadex.org/title/a32a7f35-4bc5-4c60-8913-999238deeebd"
+    },
+    {
+      "source": "mangadex",
+      "key": "e4351665-25f3-4edd-8546-10e5122e721d",
+      "title": "Spica of Sin and Punishment",
+      "url": "https://mangadex.org/title/e4351665-25f3-4edd-8546-10e5122e721d"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "1aad07fb-3ec1-4acf-8c5b-d8f5f5929a5d",
+      "title": "THE ISEKAI DOCTOR　Any sufficiently advanced medical science is indistinguishable from magic.",
+      "url": "https://mangadex.org/title/1aad07fb-3ec1-4acf-8c5b-d8f5f5929a5d",
+      "removed_at": "2026-09-26T20:00:58Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "85a99758-de39-471e-9f6d-800547f53d0a",
+      "title": "Tougen Anki: Legend of the Cursed Blood",
+      "url": "https://mangadex.org/title/85a99758-de39-471e-9f6d-800547f53d0a",
+      "removed_at": "2026-09-26T20:00:58Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "ffeef500-d3e0-4c8d-b0f4-ce178afe7b87",
+      "title": "I'm Still Looking Up At You",
+      "url": "https://mangadex.org/title/ffeef500-d3e0-4c8d-b0f4-ce178afe7b87",
+      "removed_at": "2026-09-26T20:00:58Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "15b376d2-e7a3-4bae-b837-041ba375d5b0",
+      "title": "Two Ways",
+      "url": "https://mangadex.org/title/15b376d2-e7a3-4bae-b837-041ba375d5b0",
+      "removed_at": "2026-09-26T20:00:58Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "ff5ef336-72d7-45a2-bc69-c2ae8fbfeec8",
+      "title": "I Am a Hero",
+      "url": "https://mangadex.org/title/ff5ef336-72d7-45a2-bc69-c2ae8fbfeec8",
+      "removed_at": "2026-09-26T20:00:58Z"
+    }
+  ]
+}
