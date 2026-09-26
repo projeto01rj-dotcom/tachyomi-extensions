@@ -1,0 +1,81 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-09-26T23:02:26Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "45e75d8f-4b93-4211-a648-6696cd39d578",
+      "title": "My Childhood Friend Has Grown Too Much",
+      "url": "https://mangadex.org/title/45e75d8f-4b93-4211-a648-6696cd39d578"
+    },
+    {
+      "source": "mangadex",
+      "key": "630fcb7b-a262-4c92-b0c7-1323392f1b67",
+      "title": "I, a Mere Villager, Have Been Reincarnated as a Tyrant Prince from 300 Years Ago!: With the Knowledge of My Previous Life, I’ll Avoid the Assassination Flags and Survive Peacefully!",
+      "url": "https://mangadex.org/title/630fcb7b-a262-4c92-b0c7-1323392f1b67"
+    },
+    {
+      "source": "mangadex",
+      "key": "6e52262f-bcd5-49c4-b93a-f4652d189844",
+      "title": "The Founder Of Diabolism",
+      "url": "https://mangadex.org/title/6e52262f-bcd5-49c4-b93a-f4652d189844"
+    },
+    {
+      "source": "mangadex",
+      "key": "dc332d04-d3b0-413c-a767-70f5e451b031",
+      "title": "Black Summoner",
+      "url": "https://mangadex.org/title/dc332d04-d3b0-413c-a767-70f5e451b031"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "13d2856e-9163-43a1-86f9-cd66d41db09b",
+      "title": "Isekai Samurai",
+      "url": "https://mangadex.org/title/13d2856e-9163-43a1-86f9-cd66d41db09b",
+      "removed_at": "2026-09-26T23:02:26Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "2e0fdb3b-632c-4f8f-a311-5b56952db647",
+      "title": "Bocchi the Rock!",
+      "url": "https://mangadex.org/title/2e0fdb3b-632c-4f8f-a311-5b56952db647",
+      "removed_at": "2026-09-26T23:02:26Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "3c6f718e-12ef-462e-b774-0e37b7242503",
+      "title": "Friend Girlfriend",
+      "url": "https://mangadex.org/title/3c6f718e-12ef-462e-b774-0e37b7242503",
+      "removed_at": "2026-09-26T23:02:26Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "024af7a5-f8ad-4b67-b950-b1708f52b018",
+      "title": "There Was a Cute Girl in the Hero's Party, so I Tried Confessing to Her",
+      "url": "https://mangadex.org/title/024af7a5-f8ad-4b67-b950-b1708f52b018",
+      "removed_at": "2026-09-26T23:02:26Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "67e56a7a-c7ea-4db8-84f0-db19c2034729",
+      "title": "Seasons of Blossom",
+      "url": "https://mangadex.org/title/67e56a7a-c7ea-4db8-84f0-db19c2034729",
+      "removed_at": "2026-09-26T23:02:26Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "6f7b4a77-31ca-4ba6-a4a1-ecaa6a66ee1e",
+      "title": "The Strongest Tamer: Rejected by Every Guild in the Kingdom, so I Moved Abroad for a Slow Life",
+      "url": "https://mangadex.org/title/6f7b4a77-31ca-4ba6-a4a1-ecaa6a66ee1e",
+      "removed_at": "2026-09-26T23:02:26Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "b3175db1-7f49-4321-ad68-5a59e0e53b61",
+      "title": "Sem título",
+      "url": "https://mangadex.org/title/b3175db1-7f49-4321-ad68-5a59e0e53b61",
+      "removed_at": "2026-09-26T23:02:26Z"
+    }
+  ]
+}
