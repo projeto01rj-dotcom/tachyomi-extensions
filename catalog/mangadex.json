@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-09-25T23:43:13Z",
+  "updated_at": "2026-09-26T02:45:08Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -779,9 +779,10 @@
       "title": "Dekin no Mogura: The Earthbound Mole",
       "url": "https://mangadex.org/title/32ace26d-acfa-4f6d-bf4b-10f90ac4a657",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-26T02:45:08Z",
+      "removed_by_source": true
     },
     "334019e1-18bb-4ac0-b35c-0e8efb1e481c": {
       "title": "JoJo’s Bizarre Adventure, Part 9: The JoJoLands - Digital Colored Comics",
@@ -1259,9 +1260,10 @@
       "title": "23:4",
       "url": "https://mangadex.org/title/55028f3b-448a-43ac-8f35-894256aeb062",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-26T02:45:08Z",
+      "removed_by_source": true
     },
     "553d4b8f-9ab9-4711-8ed2-ef337d8e7923": {
       "title": "Wandance",
@@ -2847,9 +2849,10 @@
       "title": "Oosaki-san & Komori-san",
       "url": "https://mangadex.org/title/a990dd6e-7049-4fe0-a281-3909b2498086",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-26T02:45:08Z",
+      "removed_by_source": true
     },
     "a9dd451c-3c45-4d66-a818-4e1b78855838": {
       "title": "Uma Musume: Cinderella Gray",
@@ -3911,9 +3914,10 @@
       "title": "Don't Dress Up My Sweet Sweet Love",
       "url": "https://mangadex.org/title/e5c45705-779d-44ae-8efb-16d5cb602cdb",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-26T02:45:08Z",
+      "removed_by_source": true
     },
     "e7a92445-d4ee-411a-8680-17dfd699ee5f": {
       "title": "The Nerd Next Door Turned Out To Be The Magic Tower Master",
@@ -4247,9 +4251,10 @@
       "title": "I Shall Master This Family",
       "url": "https://mangadex.org/title/f89ed57a-e4c0-48f5-b664-8ef88aa87fd9",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-26T02:45:08Z",
+      "removed_by_source": true
     },
     "f933f2ff-db4c-4a84-b82a-9a72321bc1bf": {
       "title": "I'm an Idiot",
@@ -4715,9 +4720,10 @@
       "title": "My Teasing Fiancée",
       "url": "https://mangadex.org/title/ead3f958-0d01-4c1f-b605-620eacb8ead0",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-19T02:25:51Z",
-      "removed_at": null
+      "removed_at": "2026-09-26T02:45:08Z",
+      "removed_by_source": true
     },
     "f6aebf39-07b8-4959-ba73-fa852b96913b": {
       "title": "Fall in Love, You False Angels",
@@ -5326,9 +5332,10 @@
       "title": "The Girl I Fell in Love With in Okinawa Speaks in a Heavy Dialect and It's Too Much of a Pain",
       "url": "https://mangadex.org/title/39a038c6-9699-44fb-9e8a-5cb12fb4a748",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-20T05:34:06Z",
-      "removed_at": null
+      "removed_at": "2026-09-26T02:45:08Z",
+      "removed_by_source": true
     },
     "3c6f718e-12ef-462e-b774-0e37b7242503": {
       "title": "Friend Girlfriend",
@@ -5342,9 +5349,10 @@
       "title": "Liar Liar",
       "url": "https://mangadex.org/title/7d57ab90-c312-4eae-9f2d-a744592476be",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-20T05:34:06Z",
-      "removed_at": null
+      "removed_at": "2026-09-26T02:45:08Z",
+      "removed_by_source": true
     },
     "7e3d081f-30f2-475d-83bb-e247cffea3d6": {
       "title": "Isshiki-san Wants to Know About Love.",
@@ -5358,9 +5366,10 @@
       "title": "You're the Only One I Can See",
       "url": "https://mangadex.org/title/bb5f1b24-58a6-49e4-847b-a322c2addbd5",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-20T05:34:06Z",
-      "removed_at": null
+      "removed_at": "2026-09-26T02:45:08Z",
+      "removed_by_source": true
     },
     "d2213279-1b4e-4699-8d6b-334d718b7474": {
       "title": "My Web Game Wife is a Popular Idol IRL",
@@ -5415,9 +5424,10 @@
       "title": "A CERTAIN STORY OF AI MEETS GENIUS",
       "url": "https://mangadex.org/title/c1b60d61-8122-4dc1-8ff3-e3d136e73f70",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-20T10:21:16Z",
-      "removed_at": null
+      "removed_at": "2026-09-26T02:45:08Z",
+      "removed_by_source": true
     },
     "c39ee2f5-2551-4f18-9717-c3fbda28b320": {
       "title": "Today Is Kurosaki-san's Turn, Too!",
@@ -5439,9 +5449,10 @@
       "title": "I Made a Harem in the Underworld",
       "url": "https://mangadex.org/title/deb17077-6e45-4c60-b87d-5e323eac8385",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-20T10:21:16Z",
-      "removed_at": null
+      "removed_at": "2026-09-26T02:45:08Z",
+      "removed_by_source": true
     },
     "e02f32f7-66d6-4eda-818e-a7e4e2c198a1": {
       "title": "Miss Sunflower",
@@ -7228,6 +7239,38 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-09-25T23:43:13Z",
+      "removed_at": null
+    },
+    "11bfa371-f53f-42b7-8213-94b1323b02b6": {
+      "title": "A Sign of Affection",
+      "url": "https://mangadex.org/title/11bfa371-f53f-42b7-8213-94b1323b02b6",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-26T02:45:08Z",
+      "removed_at": null
+    },
+    "67ffb21f-1351-4caf-be96-924c4df57341": {
+      "title": "36",
+      "url": "https://mangadex.org/title/67ffb21f-1351-4caf-be96-924c4df57341",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-26T02:45:08Z",
+      "removed_at": null
+    },
+    "6fc1c54b-7285-4a51-8c8b-22838f04eb26": {
+      "title": "There is No Love Wishing Upon a Star",
+      "url": "https://mangadex.org/title/6fc1c54b-7285-4a51-8c8b-22838f04eb26",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-26T02:45:08Z",
+      "removed_at": null
+    },
+    "94e2a775-8b23-427f-86a6-1584a2e70464": {
+      "title": "★The Ultimate Tank Returns★ Dominating With 10,000x Attack Speed",
+      "url": "https://mangadex.org/title/94e2a775-8b23-427f-86a6-1584a2e70464",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-26T02:45:08Z",
       "removed_at": null
     }
   }
