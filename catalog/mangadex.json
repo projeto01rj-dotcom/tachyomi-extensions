@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-09-26T13:16:27Z",
+  "updated_at": "2026-09-26T17:18:39Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -3635,9 +3635,10 @@
       "title": "Dark Gathering",
       "url": "https://mangadex.org/title/d64b0768-bebe-433c-b923-99870503c0a3",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-26T17:18:39Z",
+      "removed_by_source": true
     },
     "d6b7314c-e1c0-44b8-b725-673317e75eec": {
       "title": "Sem título",
@@ -4837,9 +4838,10 @@
       "title": "Hope You're Happy, Lemon",
       "url": "https://mangadex.org/title/b65fbf0e-6768-407d-ba79-fa9fcb319155",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-19T07:27:30Z",
-      "removed_at": null
+      "removed_at": "2026-09-26T17:18:39Z",
+      "removed_by_source": true
     },
     "d964361f-042a-4c1b-907d-3c907dd50060": {
       "title": "A Ninja and an Assassin Under One Roof",
@@ -5581,33 +5583,37 @@
       "title": "Demon X Angel Can't Get Along!",
       "url": "https://mangadex.org/title/36bad9cb-6310-4048-a48e-a1ab7b7dcb3e",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-20T17:32:57Z",
-      "removed_at": null
+      "removed_at": "2026-09-26T17:18:39Z",
+      "removed_by_source": true
     },
     "3e65d915-332b-4399-ba64-ebf0583f9887": {
       "title": "The Story of a Tsundere Nordic Female Classmate Going into Dere Mode as Soon as She's Announced as My Fiancée",
       "url": "https://mangadex.org/title/3e65d915-332b-4399-ba64-ebf0583f9887",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-20T17:32:57Z",
-      "removed_at": null
+      "removed_at": "2026-09-26T17:18:39Z",
+      "removed_by_source": true
     },
     "6d922c2c-f118-424c-8d21-78d9b24f25b5": {
       "title": "You Are My Unkind Spring",
       "url": "https://mangadex.org/title/6d922c2c-f118-424c-8d21-78d9b24f25b5",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-20T17:32:57Z",
-      "removed_at": null
+      "removed_at": "2026-09-26T17:18:39Z",
+      "removed_by_source": true
     },
     "732dc0ec-bdba-431b-9be1-40ca1d235dd4": {
       "title": "My Daughters, S-Rank Adventurers, Have a Severe Obsession with Their Father",
       "url": "https://mangadex.org/title/732dc0ec-bdba-431b-9be1-40ca1d235dd4",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-20T17:32:57Z",
-      "removed_at": null
+      "removed_at": "2026-09-26T17:18:39Z",
+      "removed_by_source": true
     },
     "73320da2-eac6-4ff5-a12d-30788624d85b": {
       "title": "Overlord: New World",
@@ -5621,9 +5627,10 @@
       "title": "I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability",
       "url": "https://mangadex.org/title/b5c415a8-2af4-44cd-8b2e-edb23800e2c8",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-20T17:32:57Z",
-      "removed_at": null
+      "removed_at": "2026-09-26T17:18:39Z",
+      "removed_by_source": true
     },
     "da7bb886-7e6b-4174-83a9-2c478475b846": {
       "title": "Parallel World Pharmacy",
@@ -5637,17 +5644,19 @@
       "title": "Absolute Regression",
       "url": "https://mangadex.org/title/db1f4c31-f92f-4f4f-a8c6-fc898e432888",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-20T17:32:57Z",
-      "removed_at": null
+      "removed_at": "2026-09-26T17:18:39Z",
+      "removed_by_source": true
     },
     "eb2e7517-5b07-4a7f-84ea-92e27d82edd9": {
       "title": "Sem título",
       "url": "https://mangadex.org/title/eb2e7517-5b07-4a7f-84ea-92e27d82edd9",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-20T17:32:57Z",
-      "removed_at": null
+      "removed_at": "2026-09-26T17:18:39Z",
+      "removed_by_source": true
     },
     "eca991a0-1aa0-412e-9abc-845a92213534": {
       "title": "A Romantic Comedy Where the Heroine Dies in the End",
@@ -6447,9 +6456,10 @@
       "title": "Drama Queen",
       "url": "https://mangadex.org/title/c1e284bc-0436-42fe-b571-fa35a94279ce",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-23T05:24:06Z",
-      "removed_at": null
+      "removed_at": "2026-09-26T17:18:39Z",
+      "removed_by_source": true
     },
     "c8909273-7dea-4739-ac2e-c24da08b0b93": {
       "title": "Villain Classroom",
@@ -7394,6 +7404,86 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-09-26T13:16:27Z",
+      "removed_at": null
+    },
+    "00b64b8f-cb7e-4322-9855-3669fe210ac7": {
+      "title": "I’m Capped at Level 1?! Thus Begins My Journey to Become the World’s Strongest Badass!",
+      "url": "https://mangadex.org/title/00b64b8f-cb7e-4322-9855-3669fe210ac7",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-26T17:18:39Z",
+      "removed_at": null
+    },
+    "05a56be4-26ab-4f50-8fc0-ab8304570258": {
+      "title": "Drawing: The Greatest Mangaka Becomes a Skilled \"Martial Artist\" in Another World",
+      "url": "https://mangadex.org/title/05a56be4-26ab-4f50-8fc0-ab8304570258",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-26T17:18:39Z",
+      "removed_at": null
+    },
+    "28b8be97-44f2-4bc7-8164-f9ae8ff85491": {
+      "title": "See You at the Laundromat Tonight",
+      "url": "https://mangadex.org/title/28b8be97-44f2-4bc7-8164-f9ae8ff85491",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-26T17:18:39Z",
+      "removed_at": null
+    },
+    "6676aef9-cf30-4950-9a20-e0382b5e7447": {
+      "title": "Record of Ragnarok Forbidden Side-Story: Gods' Apocalypse",
+      "url": "https://mangadex.org/title/6676aef9-cf30-4950-9a20-e0382b5e7447",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-26T17:18:39Z",
+      "removed_at": null
+    },
+    "8d522601-dd9c-4f12-8cee-b918c8ae0539": {
+      "title": "The Ruler of the Land",
+      "url": "https://mangadex.org/title/8d522601-dd9c-4f12-8cee-b918c8ae0539",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-26T17:18:39Z",
+      "removed_at": null
+    },
+    "904e6834-e9d6-45d2-a1ff-f37d29584c0c": {
+      "title": "Tengen Hero Wars",
+      "url": "https://mangadex.org/title/904e6834-e9d6-45d2-a1ff-f37d29584c0c",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-26T17:18:39Z",
+      "removed_at": null
+    },
+    "cd9b65e3-b9e2-4d8b-b9dd-0bc8be59f312": {
+      "title": "Beast Complex",
+      "url": "https://mangadex.org/title/cd9b65e3-b9e2-4d8b-b9dd-0bc8be59f312",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-26T17:18:39Z",
+      "removed_at": null
+    },
+    "ce9be7a2-721a-4710-a76d-b7c4af970bd1": {
+      "title": "Our Last Crusade or the Rise of a New World",
+      "url": "https://mangadex.org/title/ce9be7a2-721a-4710-a76d-b7c4af970bd1",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-26T17:18:39Z",
+      "removed_at": null
+    },
+    "f437d09f-6198-47e8-a335-f05828e2d5eb": {
+      "title": "Hell Prince: Devils and Realist",
+      "url": "https://mangadex.org/title/f437d09f-6198-47e8-a335-f05828e2d5eb",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-26T17:18:39Z",
+      "removed_at": null
+    },
+    "f60a8cd7-a8a0-45a9-a142-7da8f9da1184": {
+      "title": "Thighs-san Next to Me",
+      "url": "https://mangadex.org/title/f60a8cd7-a8a0-45a9-a142-7da8f9da1184",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-26T17:18:39Z",
       "removed_at": null
     }
   }
