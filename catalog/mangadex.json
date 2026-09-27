@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-09-27T20:38:48Z",
+  "updated_at": "2026-09-27T23:30:49Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -4417,9 +4417,10 @@
       "title": "Grand Blue Dreaming",
       "url": "https://mangadex.org/title/fffbfac3-b7ad-41ee-9581-b4d90ecec941",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-27T23:30:49Z",
+      "removed_by_source": true
     },
     "34444088-d094-4bfb-8423-d87e24070ffe": {
       "title": "For Saving a Collapsed Lady, I Got to Date Her Beautiful Twin Daughters",
@@ -6050,9 +6051,10 @@
       "title": "Kage no Jitsuryokusha ni Naritakute! Master of Garden ~Shichikage Retsuden~",
       "url": "https://mangadex.org/title/91d928a1-7237-4d03-abc3-4b1440cc7d55",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-21T17:31:13Z",
-      "removed_at": null
+      "removed_at": "2026-09-27T23:30:49Z",
+      "removed_by_source": true
     },
     "a5ee781b-e01f-4da8-90ca-962056cb5435": {
       "title": "MAD",
@@ -6198,9 +6200,10 @@
       "title": "The Chronicles of a Thousand Immortals",
       "url": "https://mangadex.org/title/16970351-67d8-4c8b-9b5d-4c9380f108cc",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-22T05:12:36Z",
-      "removed_at": null
+      "removed_at": "2026-09-27T23:30:49Z",
+      "removed_by_source": true
     },
     "3c67b306-6859-43aa-bdaf-0f782c9ea0d7": {
       "title": "Kamisama Gakkou no Ochikobore",
@@ -6215,9 +6218,10 @@
       "title": "To Me, Games Are Murder",
       "url": "https://mangadex.org/title/65489777-d127-402e-97f8-798abedeeabf",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-22T05:12:36Z",
-      "removed_at": null
+      "removed_at": "2026-09-27T23:30:49Z",
+      "removed_by_source": true
     },
     "b8249e7e-cd20-43f3-b961-f47ad1070ab0": {
       "title": "How to Love a Loser",
@@ -6240,17 +6244,19 @@
       "title": "The Apothecary Diaries: Maomao's Notes from the Inner Palace",
       "url": "https://mangadex.org/title/8c1d7d0c-e0b7-4170-941d-29f652c3c19d",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-22T10:09:00Z",
-      "removed_at": null
+      "removed_at": "2026-09-27T23:30:49Z",
+      "removed_by_source": true
     },
     "b340d77a-6bfe-4f33-8352-4d305ecf264c": {
       "title": "Daemons of the Shadow Realm",
       "url": "https://mangadex.org/title/b340d77a-6bfe-4f33-8352-4d305ecf264c",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-22T10:09:00Z",
-      "removed_at": null
+      "removed_at": "2026-09-27T23:30:49Z",
+      "removed_by_source": true
     },
     "e6909948-0a4a-4577-9e64-125837045dec": {
       "title": "Hiroin-kun",
@@ -7934,6 +7940,38 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-09-27T20:38:48Z",
+      "removed_at": null
+    },
+    "2d63ef8c-eae6-44b4-a300-595b7de11516": {
+      "title": "The Only One Who Knows How to Make Her Fall for Me Is the Future Me Who Marries Her",
+      "url": "https://mangadex.org/title/2d63ef8c-eae6-44b4-a300-595b7de11516",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-27T23:30:49Z",
+      "removed_at": null
+    },
+    "4801f266-cc4e-4c3b-8d1d-f50f08b25b62": {
+      "title": "Witch Watch",
+      "url": "https://mangadex.org/title/4801f266-cc4e-4c3b-8d1d-f50f08b25b62",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-27T23:30:49Z",
+      "removed_at": null
+    },
+    "58bc83a0-1808-484e-88b9-17e167469e23": {
+      "title": "Chillin' in Another World with Level 2 Super Cheat Powers",
+      "url": "https://mangadex.org/title/58bc83a0-1808-484e-88b9-17e167469e23",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-27T23:30:49Z",
+      "removed_at": null
+    },
+    "d76dc781-0512-4626-9872-cd01835cfa5e": {
+      "title": "Celebrity Family's Ex-Backstage Son Wants a Normal Youth",
+      "url": "https://mangadex.org/title/d76dc781-0512-4626-9872-cd01835cfa5e",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-27T23:30:49Z",
       "removed_at": null
     }
   }

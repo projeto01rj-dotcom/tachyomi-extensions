@@ -1,0 +1,74 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-09-27T23:30:49Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "2d63ef8c-eae6-44b4-a300-595b7de11516",
+      "title": "The Only One Who Knows How to Make Her Fall for Me Is the Future Me Who Marries Her",
+      "url": "https://mangadex.org/title/2d63ef8c-eae6-44b4-a300-595b7de11516"
+    },
+    {
+      "source": "mangadex",
+      "key": "4801f266-cc4e-4c3b-8d1d-f50f08b25b62",
+      "title": "Witch Watch",
+      "url": "https://mangadex.org/title/4801f266-cc4e-4c3b-8d1d-f50f08b25b62"
+    },
+    {
+      "source": "mangadex",
+      "key": "58bc83a0-1808-484e-88b9-17e167469e23",
+      "title": "Chillin' in Another World with Level 2 Super Cheat Powers",
+      "url": "https://mangadex.org/title/58bc83a0-1808-484e-88b9-17e167469e23"
+    },
+    {
+      "source": "mangadex",
+      "key": "d76dc781-0512-4626-9872-cd01835cfa5e",
+      "title": "Celebrity Family's Ex-Backstage Son Wants a Normal Youth",
+      "url": "https://mangadex.org/title/d76dc781-0512-4626-9872-cd01835cfa5e"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "fffbfac3-b7ad-41ee-9581-b4d90ecec941",
+      "title": "Grand Blue Dreaming",
+      "url": "https://mangadex.org/title/fffbfac3-b7ad-41ee-9581-b4d90ecec941",
+      "removed_at": "2026-09-27T23:30:49Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "91d928a1-7237-4d03-abc3-4b1440cc7d55",
+      "title": "Kage no Jitsuryokusha ni Naritakute! Master of Garden ~Shichikage Retsuden~",
+      "url": "https://mangadex.org/title/91d928a1-7237-4d03-abc3-4b1440cc7d55",
+      "removed_at": "2026-09-27T23:30:49Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "16970351-67d8-4c8b-9b5d-4c9380f108cc",
+      "title": "The Chronicles of a Thousand Immortals",
+      "url": "https://mangadex.org/title/16970351-67d8-4c8b-9b5d-4c9380f108cc",
+      "removed_at": "2026-09-27T23:30:49Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "65489777-d127-402e-97f8-798abedeeabf",
+      "title": "To Me, Games Are Murder",
+      "url": "https://mangadex.org/title/65489777-d127-402e-97f8-798abedeeabf",
+      "removed_at": "2026-09-27T23:30:49Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "8c1d7d0c-e0b7-4170-941d-29f652c3c19d",
+      "title": "The Apothecary Diaries: Maomao's Notes from the Inner Palace",
+      "url": "https://mangadex.org/title/8c1d7d0c-e0b7-4170-941d-29f652c3c19d",
+      "removed_at": "2026-09-27T23:30:49Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "b340d77a-6bfe-4f33-8352-4d305ecf264c",
+      "title": "Daemons of the Shadow Realm",
+      "url": "https://mangadex.org/title/b340d77a-6bfe-4f33-8352-4d305ecf264c",
+      "removed_at": "2026-09-27T23:30:49Z"
+    }
+  ]
+}
