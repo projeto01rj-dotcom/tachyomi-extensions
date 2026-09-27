@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-09-26T23:02:26Z",
+  "updated_at": "2026-09-27T01:36:53Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -889,9 +889,10 @@
       "title": "I Think I Turned My Childhood Friend Into a Girl",
       "url": "https://mangadex.org/title/3bcc56f0-1b71-4542-b7b1-74db4fab2d72",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-27T01:36:53Z",
+      "removed_by_source": true
     },
     "3ce2d473-dc22-4b93-8ad7-8b65bb466771": {
       "title": "Fate/Grand Order -Epic of Remnant- Pseudo-Singularity III: The Stage of Carnage, Shimousa - Seven Duels of Swordmasters",
@@ -1766,9 +1767,10 @@
       "title": "My Tsundere Girlfriend's Thick Thighs Situation",
       "url": "https://mangadex.org/title/6e93f6a1-3097-47aa-816e-04b496cafe12",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-27T01:36:53Z",
+      "removed_by_source": true
     },
     "6ecc62e4-25ad-4102-b0d8-580a8023d2fb": {
       "title": "The Summer You Were There",
@@ -2654,9 +2656,10 @@
       "title": "Legend of the High School Iron Fist: Tough",
       "url": "https://mangadex.org/title/9dee3a07-f3d0-45e3-a297-922d3c45a076",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-27T01:36:53Z",
+      "removed_by_source": true
     },
     "9eb78304-0436-484d-9a79-a925b45e2731": {
       "title": "WIND BREAKER",
@@ -3384,9 +3387,10 @@
       "title": "MF Ghost",
       "url": "https://mangadex.org/title/c96f1bf8-a100-40bb-98ef-c240b9b7cf96",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-27T01:36:53Z",
+      "removed_by_source": true
     },
     "c978f893-c764-42f4-9b04-fbf162e4d67a": {
       "title": "Mobile Suit Gundam Thunderbolt",
@@ -5266,9 +5270,10 @@
       "title": "From Old Country Bumpkin to Master Swordsman: My Hotshot Disciples are All Grown Up Now, and They Won't Leave Me Alone",
       "url": "https://mangadex.org/title/0d4f9dba-f55f-4ff7-9f49-52311939504e",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-20T00:31:21Z",
-      "removed_at": null
+      "removed_at": "2026-09-27T01:36:53Z",
+      "removed_by_source": true
     },
     "ab541412-f0d0-4fcf-a7a3-084a835d9d4a": {
       "title": "Garuru Girl",
@@ -5738,33 +5743,37 @@
       "title": "Dead Account",
       "url": "https://mangadex.org/title/15a1a7e1-8b39-4b76-b4d2-3006f3413dfd",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-20T22:34:40Z",
-      "removed_at": null
+      "removed_at": "2026-09-27T01:36:53Z",
+      "removed_by_source": true
     },
     "28b5d037-175d-4119-96f8-e860e408ebe9": {
       "title": "Sem título",
       "url": "https://mangadex.org/title/28b5d037-175d-4119-96f8-e860e408ebe9",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-20T22:34:40Z",
-      "removed_at": null
+      "removed_at": "2026-09-27T01:36:53Z",
+      "removed_by_source": true
     },
     "3b9bade6-28a0-4f2f-8211-4b5106a2cbbd": {
       "title": "I May Be a Guild Receptionist, but I'll Solo Any Boss to Clock Out on Time",
       "url": "https://mangadex.org/title/3b9bade6-28a0-4f2f-8211-4b5106a2cbbd",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-20T22:34:40Z",
-      "removed_at": null
+      "removed_at": "2026-09-27T01:36:53Z",
+      "removed_by_source": true
     },
     "67b35ba4-9c53-4957-91e7-4f7884e4b412": {
       "title": "Miss Kobayashi's Dragon Maid",
       "url": "https://mangadex.org/title/67b35ba4-9c53-4957-91e7-4f7884e4b412",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-20T22:34:40Z",
-      "removed_at": null
+      "removed_at": "2026-09-27T01:36:53Z",
+      "removed_by_source": true
     },
     "843c31ff-d390-4199-bc3b-94b0dfc63632": {
       "title": "Baki Side Story: Retsu Kaioh Doesn't Mind Even If It's in Another World",
@@ -5786,25 +5795,28 @@
       "title": "Tiger Brother - Barkhan",
       "url": "https://mangadex.org/title/cc70617a-de43-46e2-b582-0e4df9fd04f9",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-20T22:34:40Z",
-      "removed_at": null
+      "removed_at": "2026-09-27T01:36:53Z",
+      "removed_by_source": true
     },
     "e19faf72-2235-4126-9a77-46f9275de222": {
       "title": "Primal Hunter",
       "url": "https://mangadex.org/title/e19faf72-2235-4126-9a77-46f9275de222",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-20T22:34:40Z",
-      "removed_at": null
+      "removed_at": "2026-09-27T01:36:53Z",
+      "removed_by_source": true
     },
     "edaae213-67c7-4a6c-ad5f-141001891741": {
       "title": "Yu☆Gi☆Oh!",
       "url": "https://mangadex.org/title/edaae213-67c7-4a6c-ad5f-141001891741",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-20T22:34:40Z",
-      "removed_at": null
+      "removed_at": "2026-09-27T01:36:53Z",
+      "removed_by_source": true
     },
     "f137cc52-8535-4e2e-b79b-649a891f8551": {
       "title": "Dungeon Crawler Carl",
@@ -5818,9 +5830,10 @@
       "title": "Akuyuu no Ore ga Ponkotsu Kishi o Miterarenain da ga, Dou Sewa o Yakya Ii?: Madome Gaiden",
       "url": "https://mangadex.org/title/30193c1f-1569-4c2d-8c29-8a365fec322b",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-21T05:42:57Z",
-      "removed_at": null
+      "removed_at": "2026-09-27T01:36:53Z",
+      "removed_by_source": true
     },
     "4c28fa92-d88a-4686-b068-348c4e72f3e1": {
       "title": "The Simple-Looking Sword Saint Is Nevertheless The Strongest",
@@ -5842,9 +5855,10 @@
       "title": "Saint Seiya: Another Story of Hades - Dark Wing",
       "url": "https://mangadex.org/title/58e2a0a4-1296-4cdd-9552-84bd0349bd0e",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-21T05:42:57Z",
-      "removed_at": null
+      "removed_at": "2026-09-27T01:36:53Z",
+      "removed_by_source": true
     },
     "840d6798-0087-4d94-96da-f36c163720fd": {
       "title": "Cookie Run: Operation Survival",
@@ -5898,9 +5912,10 @@
       "title": "My Dear Lass",
       "url": "https://mangadex.org/title/f74dc24b-3f38-44d5-b7d0-8c40f4b04e29",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-21T05:42:57Z",
-      "removed_at": null
+      "removed_at": "2026-09-27T01:36:53Z",
+      "removed_by_source": true
     },
     "6f2b317e-17ff-491a-8f61-e6e591ae2df2": {
       "title": "Akanabe-sensei Doesn't Know About Embarrassment",
@@ -7560,6 +7575,62 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-09-26T23:02:26Z",
+      "removed_at": null
+    },
+    "01fce4c5-a47b-485c-9d7e-445bf52603a8": {
+      "title": "Tale of a Girl and a Delinquent Who's Bad with Women",
+      "url": "https://mangadex.org/title/01fce4c5-a47b-485c-9d7e-445bf52603a8",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-27T01:36:53Z",
+      "removed_at": null
+    },
+    "16a16845-90d1-4895-b2b8-4895624588c7": {
+      "title": "Mysterious Disappearances",
+      "url": "https://mangadex.org/title/16a16845-90d1-4895-b2b8-4895624588c7",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-27T01:36:53Z",
+      "removed_at": null
+    },
+    "5a318852-931a-4431-9c0b-362e5822ad5e": {
+      "title": "Kero Kero Chime",
+      "url": "https://mangadex.org/title/5a318852-931a-4431-9c0b-362e5822ad5e",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-27T01:36:53Z",
+      "removed_at": null
+    },
+    "5a3c9fe2-037b-497e-8686-793a537ffd5f": {
+      "title": "Have a Great Trip After the End Credits",
+      "url": "https://mangadex.org/title/5a3c9fe2-037b-497e-8686-793a537ffd5f",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-27T01:36:53Z",
+      "removed_at": null
+    },
+    "b0475326-9f58-4258-8876-d33d4cb1bdc9": {
+      "title": "My Maid Looks Like the Girl I Like in My Class",
+      "url": "https://mangadex.org/title/b0475326-9f58-4258-8876-d33d4cb1bdc9",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-27T01:36:53Z",
+      "removed_at": null
+    },
+    "c3295871-b930-4ee3-ac0f-ff7102ecec4e": {
+      "title": "Sasha-chan and Her Classmate Otaku-kun",
+      "url": "https://mangadex.org/title/c3295871-b930-4ee3-ac0f-ff7102ecec4e",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-27T01:36:53Z",
+      "removed_at": null
+    },
+    "f11d9d5c-bc4c-4552-8ac1-33e158c5a2c2": {
+      "title": "Log into the Future",
+      "url": "https://mangadex.org/title/f11d9d5c-bc4c-4552-8ac1-33e158c5a2c2",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-27T01:36:53Z",
       "removed_at": null
     }
   }
