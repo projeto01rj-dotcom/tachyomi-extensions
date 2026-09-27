@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-09-27T17:52:20Z",
+  "updated_at": "2026-09-27T20:38:48Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -2001,9 +2001,10 @@
       "title": "I Spoiled \"Kuderella\" Next Door and I'm Going to Give Her a Key to My House",
       "url": "https://mangadex.org/title/7e5916f3-e271-4041-805a-23b932bb5b91",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-27T20:38:48Z",
+      "removed_by_source": true
     },
     "7e905fc7-d534-479e-9880-f89effbf30e2": {
       "title": "Howling Song for Husky Girl",
@@ -2700,9 +2701,10 @@
       "title": "A Drunk Thief Bought a Slave Girl",
       "url": "https://mangadex.org/title/9fc1e72f-ccd2-4674-83a5-7245c121f287",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-27T20:38:48Z",
+      "removed_by_source": true
     },
     "a07320a4-afcd-413a-a451-d69a448d0c28": {
       "title": "Usogui",
@@ -2823,9 +2825,10 @@
       "title": "Lazy Girl Momogusa",
       "url": "https://mangadex.org/title/a6dc8243-4452-4272-9f39-d3a250dc51c4",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-27T20:38:48Z",
+      "removed_by_source": true
     },
     "a72d5653-7238-40ba-8135-c93910a02bc4": {
       "title": "A Story About Buying a Classmate Once a Week: 5,000 Yen for an Excuse to Spend Time Together",
@@ -3599,9 +3602,10 @@
       "title": "Nevermore",
       "url": "https://mangadex.org/title/d43a0e7c-248d-438f-ac4e-862f614b33d9",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-27T20:38:48Z",
+      "removed_by_source": true
     },
     "d5208b9d-5233-4672-bf5c-6e7d23767e37": {
       "title": "JM",
@@ -5210,9 +5214,10 @@
       "title": "Speedrunner Cannot Return from the Game World",
       "url": "https://mangadex.org/title/ac743453-99ef-49e5-93e5-265cfff01fe0",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-19T20:52:57Z",
-      "removed_at": null
+      "removed_at": "2026-09-27T20:38:48Z",
+      "removed_by_source": true
     },
     "b22561f9-81f1-45f6-b2c0-f5b53cfaee19": {
       "title": "All Hail the Sect Leader",
@@ -5685,9 +5690,10 @@
       "title": "A Romantic Comedy Where the Heroine Dies in the End",
       "url": "https://mangadex.org/title/eca991a0-1aa0-412e-9abc-845a92213534",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-20T17:32:57Z",
-      "removed_at": null
+      "removed_at": "2026-09-27T20:38:48Z",
+      "removed_by_source": true
     },
     "ff5ef336-72d7-45a2-bc69-c2ae8fbfeec8": {
       "title": "I Am a Hero",
@@ -6166,9 +6172,10 @@
       "title": "The Oppressed Princess Was a Reincarnated Legendary Magician",
       "url": "https://mangadex.org/title/912fd3b2-dda9-4ffb-ab85-955f67dafd7f",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-22T00:13:49Z",
-      "removed_at": null
+      "removed_at": "2026-09-27T20:38:48Z",
+      "removed_by_source": true
     },
     "b78f8c5c-d53d-4de2-a4f6-9c1abceb4513": {
       "title": "The Strongest Sage with 0 Magic Power: After Mastering Magic Theory, I Became the Strongest in the World",
@@ -6199,9 +6206,10 @@
       "title": "Kamisama Gakkou no Ochikobore",
       "url": "https://mangadex.org/title/3c67b306-6859-43aa-bdaf-0f782c9ea0d7",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-22T05:12:36Z",
-      "removed_at": null
+      "removed_at": "2026-09-27T20:38:48Z",
+      "removed_by_source": true
     },
     "65489777-d127-402e-97f8-798abedeeabf": {
       "title": "To Me, Games Are Murder",
@@ -6215,9 +6223,10 @@
       "title": "How to Love a Loser",
       "url": "https://mangadex.org/title/b8249e7e-cd20-43f3-b961-f47ad1070ab0",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-22T05:12:36Z",
-      "removed_at": null
+      "removed_at": "2026-09-27T20:38:48Z",
+      "removed_by_source": true
     },
     "80422e14-b9ad-4fda-970f-de370d5fa4e5": {
       "title": "Made In Abyss",
@@ -7909,6 +7918,22 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-09-27T17:52:20Z",
+      "removed_at": null
+    },
+    "b02a8869-44ab-4ed9-836e-be69a5407518": {
+      "title": "Playful Relationships",
+      "url": "https://mangadex.org/title/b02a8869-44ab-4ed9-836e-be69a5407518",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-27T20:38:48Z",
+      "removed_at": null
+    },
+    "e9a43274-52cc-425e-9871-877894200b00": {
+      "title": "Mortal Kombat",
+      "url": "https://mangadex.org/title/e9a43274-52cc-425e-9871-877894200b00",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-27T20:38:48Z",
       "removed_at": null
     }
   }
