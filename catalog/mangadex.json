@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-09-27T01:36:53Z",
+  "updated_at": "2026-09-27T07:23:09Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -714,9 +714,10 @@
       "title": "The Result of Confessing to the Class Angel",
       "url": "https://mangadex.org/title/2cf5ac51-8ad6-46a5-a921-2e2f26b5fcf1",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-27T07:23:09Z",
+      "removed_by_source": true
     },
     "2e3ec8e6-cee0-4779-8f4e-c42ab683ef75": {
       "title": "Demon Mother: My Son Is so Cute, I Just Can't Help Myself!",
@@ -1548,9 +1549,10 @@
       "title": "My Yuri Started with Slavery",
       "url": "https://mangadex.org/title/62d99da1-33e7-45cf-98a2-ca4544fc0344",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-27T07:23:09Z",
+      "removed_by_source": true
     },
     "6306c976-d776-48c3-b29f-d345e65f272b": {
       "title": "Yuru Yuri",
@@ -2170,9 +2172,10 @@
       "title": "DIG IT",
       "url": "https://mangadex.org/title/858e2de7-afba-4096-9aa7-1fccac0119c9",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-27T07:23:09Z",
+      "removed_by_source": true
     },
     "85a99758-de39-471e-9f6d-800547f53d0a": {
       "title": "Tougen Anki: Legend of the Cursed Blood",
@@ -5787,9 +5790,10 @@
       "title": "Chronos Ruler",
       "url": "https://mangadex.org/title/b264d819-6ac4-4444-b4d6-9129b9111dd3",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-20T22:34:40Z",
-      "removed_at": null
+      "removed_at": "2026-09-27T07:23:09Z",
+      "removed_by_source": true
     },
     "cc70617a-de43-46e2-b582-0e4df9fd04f9": {
       "title": "Tiger Brother - Barkhan",
@@ -5839,9 +5843,10 @@
       "title": "The Simple-Looking Sword Saint Is Nevertheless The Strongest",
       "url": "https://mangadex.org/title/4c28fa92-d88a-4686-b068-348c4e72f3e1",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-21T05:42:57Z",
-      "removed_at": null
+      "removed_at": "2026-09-27T07:23:09Z",
+      "removed_by_source": true
     },
     "55ace2fb-e157-4d76-9e72-67c6bd762a39": {
       "title": "An Archdemon's Dilemma: How to Love Your Elf Bride",
@@ -5888,9 +5893,10 @@
       "title": "The Wrong Way to Use Healing Magic",
       "url": "https://mangadex.org/title/e0589f47-72f9-4e9a-ac31-5b88bcad6220",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-21T05:42:57Z",
-      "removed_at": null
+      "removed_at": "2026-09-27T07:23:09Z",
+      "removed_by_source": true
     },
     "e0c9100e-287d-4417-8c17-b4e696254dc7": {
       "title": "The Yakuza's Guide to Babysitting",
@@ -5921,9 +5927,10 @@
       "title": "Akanabe-sensei Doesn't Know About Embarrassment",
       "url": "https://mangadex.org/title/6f2b317e-17ff-491a-8f61-e6e591ae2df2",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-21T11:33:44Z",
-      "removed_at": null
+      "removed_at": "2026-09-27T07:23:09Z",
+      "removed_by_source": true
     },
     "829bb5b6-b9d2-4fc3-ba63-485934b098c6": {
       "title": "To Aru Myouto no Nichijou",
@@ -7631,6 +7638,70 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-09-27T01:36:53Z",
+      "removed_at": null
+    },
+    "07dcd201-fe35-46cd-8931-e1445efbe469": {
+      "title": "Hidden Reincarnation",
+      "url": "https://mangadex.org/title/07dcd201-fe35-46cd-8931-e1445efbe469",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-27T07:23:09Z",
+      "removed_at": null
+    },
+    "61d81be6-2759-4cc4-9815-7952a3449149": {
+      "title": "Tensei Shitara Slime Datta Ken - Clayman Revenge",
+      "url": "https://mangadex.org/title/61d81be6-2759-4cc4-9815-7952a3449149",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-27T07:23:09Z",
+      "removed_at": null
+    },
+    "7cd3ca23-2d70-4c03-99f0-b1ee848c4dc4": {
+      "title": "Yakuza Reincarnation",
+      "url": "https://mangadex.org/title/7cd3ca23-2d70-4c03-99f0-b1ee848c4dc4",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-27T07:23:09Z",
+      "removed_at": null
+    },
+    "be35df55-adc2-46e6-83cf-0e9f0356ea39": {
+      "title": "Catenaccio",
+      "url": "https://mangadex.org/title/be35df55-adc2-46e6-83cf-0e9f0356ea39",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-27T07:23:09Z",
+      "removed_at": null
+    },
+    "d4f95ca5-10be-4173-ba77-f70b7cd82f5b": {
+      "title": "Confession",
+      "url": "https://mangadex.org/title/d4f95ca5-10be-4173-ba77-f70b7cd82f5b",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-27T07:23:09Z",
+      "removed_at": null
+    },
+    "d6e9b748-9187-4f93-a5df-b802c567f60c": {
+      "title": "The Reformation of the World as Overseen by a Realist Demon King",
+      "url": "https://mangadex.org/title/d6e9b748-9187-4f93-a5df-b802c567f60c",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-27T07:23:09Z",
+      "removed_at": null
+    },
+    "e33662cd-2e31-4158-8f32-0ccc8ef1bd76": {
+      "title": "Me Tsuki Warui Hito ga Konomi no Taipuna Futari",
+      "url": "https://mangadex.org/title/e33662cd-2e31-4158-8f32-0ccc8ef1bd76",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-27T07:23:09Z",
+      "removed_at": null
+    },
+    "f7d3a91a-f47a-43ce-9a2c-4da813b15eea": {
+      "title": "My Dog Becomes a Human",
+      "url": "https://mangadex.org/title/f7d3a91a-f47a-43ce-9a2c-4da813b15eea",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-27T07:23:09Z",
       "removed_at": null
     }
   }

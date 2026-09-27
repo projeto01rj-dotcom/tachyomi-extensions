@@ -1,0 +1,105 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-09-27T07:23:09Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "07dcd201-fe35-46cd-8931-e1445efbe469",
+      "title": "Hidden Reincarnation",
+      "url": "https://mangadex.org/title/07dcd201-fe35-46cd-8931-e1445efbe469"
+    },
+    {
+      "source": "mangadex",
+      "key": "61d81be6-2759-4cc4-9815-7952a3449149",
+      "title": "Tensei Shitara Slime Datta Ken - Clayman Revenge",
+      "url": "https://mangadex.org/title/61d81be6-2759-4cc4-9815-7952a3449149"
+    },
+    {
+      "source": "mangadex",
+      "key": "7cd3ca23-2d70-4c03-99f0-b1ee848c4dc4",
+      "title": "Yakuza Reincarnation",
+      "url": "https://mangadex.org/title/7cd3ca23-2d70-4c03-99f0-b1ee848c4dc4"
+    },
+    {
+      "source": "mangadex",
+      "key": "be35df55-adc2-46e6-83cf-0e9f0356ea39",
+      "title": "Catenaccio",
+      "url": "https://mangadex.org/title/be35df55-adc2-46e6-83cf-0e9f0356ea39"
+    },
+    {
+      "source": "mangadex",
+      "key": "d4f95ca5-10be-4173-ba77-f70b7cd82f5b",
+      "title": "Confession",
+      "url": "https://mangadex.org/title/d4f95ca5-10be-4173-ba77-f70b7cd82f5b"
+    },
+    {
+      "source": "mangadex",
+      "key": "d6e9b748-9187-4f93-a5df-b802c567f60c",
+      "title": "The Reformation of the World as Overseen by a Realist Demon King",
+      "url": "https://mangadex.org/title/d6e9b748-9187-4f93-a5df-b802c567f60c"
+    },
+    {
+      "source": "mangadex",
+      "key": "e33662cd-2e31-4158-8f32-0ccc8ef1bd76",
+      "title": "Me Tsuki Warui Hito ga Konomi no Taipuna Futari",
+      "url": "https://mangadex.org/title/e33662cd-2e31-4158-8f32-0ccc8ef1bd76"
+    },
+    {
+      "source": "mangadex",
+      "key": "f7d3a91a-f47a-43ce-9a2c-4da813b15eea",
+      "title": "My Dog Becomes a Human",
+      "url": "https://mangadex.org/title/f7d3a91a-f47a-43ce-9a2c-4da813b15eea"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "2cf5ac51-8ad6-46a5-a921-2e2f26b5fcf1",
+      "title": "The Result of Confessing to the Class Angel",
+      "url": "https://mangadex.org/title/2cf5ac51-8ad6-46a5-a921-2e2f26b5fcf1",
+      "removed_at": "2026-09-27T07:23:09Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "62d99da1-33e7-45cf-98a2-ca4544fc0344",
+      "title": "My Yuri Started with Slavery",
+      "url": "https://mangadex.org/title/62d99da1-33e7-45cf-98a2-ca4544fc0344",
+      "removed_at": "2026-09-27T07:23:09Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "858e2de7-afba-4096-9aa7-1fccac0119c9",
+      "title": "DIG IT",
+      "url": "https://mangadex.org/title/858e2de7-afba-4096-9aa7-1fccac0119c9",
+      "removed_at": "2026-09-27T07:23:09Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "b264d819-6ac4-4444-b4d6-9129b9111dd3",
+      "title": "Chronos Ruler",
+      "url": "https://mangadex.org/title/b264d819-6ac4-4444-b4d6-9129b9111dd3",
+      "removed_at": "2026-09-27T07:23:09Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "4c28fa92-d88a-4686-b068-348c4e72f3e1",
+      "title": "The Simple-Looking Sword Saint Is Nevertheless The Strongest",
+      "url": "https://mangadex.org/title/4c28fa92-d88a-4686-b068-348c4e72f3e1",
+      "removed_at": "2026-09-27T07:23:09Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "e0589f47-72f9-4e9a-ac31-5b88bcad6220",
+      "title": "The Wrong Way to Use Healing Magic",
+      "url": "https://mangadex.org/title/e0589f47-72f9-4e9a-ac31-5b88bcad6220",
+      "removed_at": "2026-09-27T07:23:09Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "6f2b317e-17ff-491a-8f61-e6e591ae2df2",
+      "title": "Akanabe-sensei Doesn't Know About Embarrassment",
+      "url": "https://mangadex.org/title/6f2b317e-17ff-491a-8f61-e6e591ae2df2",
+      "removed_at": "2026-09-27T07:23:09Z"
+    }
+  ]
+}
