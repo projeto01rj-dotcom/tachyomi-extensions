@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-09-28T02:47:08Z",
+  "updated_at": "2026-09-28T09:10:45Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -831,9 +831,10 @@
       "title": "Now That We Draw",
       "url": "https://mangadex.org/title/356de811-ae92-48f1-b93b-cfdf0f8d02e4",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-28T09:10:45Z",
+      "removed_by_source": true
     },
     "36b4c3d4-629d-45cb-b911-ae0906f6b544": {
       "title": "Touch",
@@ -2469,9 +2470,10 @@
       "title": "The Blue Wolves of Mibu",
       "url": "https://mangadex.org/title/947cdce5-182e-4ff3-9484-218c638e88ac",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-28T09:10:45Z",
+      "removed_by_source": true
     },
     "9484b1fd-0271-4c9b-b096-7e313823058e": {
       "title": "Am I Actually the Strongest?",
@@ -2959,9 +2961,10 @@
       "title": "My Stepmother's Love isn't Going How I Thought!",
       "url": "https://mangadex.org/title/b04a286a-0770-4007-9d68-a8576deae471",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-28T09:10:45Z",
+      "removed_by_source": true
     },
     "b0b721ff-c388-4486-aa0f-c2b0bb321512": {
       "title": "Frieren: Beyond Journey's End",
@@ -4767,9 +4770,10 @@
       "title": "My Neighbor Ms. Kurokawa",
       "url": "https://mangadex.org/title/1f9fb803-733a-4104-bea3-f4b449da5e3c",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-19T07:27:30Z",
-      "removed_at": null
+      "removed_at": "2026-09-28T09:10:45Z",
+      "removed_by_source": true
     },
     "2e0fdb3b-632c-4f8f-a311-5b56952db647": {
       "title": "Bocchi the Rock!",
@@ -5903,9 +5907,10 @@
       "title": "Smile!",
       "url": "https://mangadex.org/title/9ef6e461-033b-4976-b222-943856c94a97",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-21T05:42:57Z",
-      "removed_at": null
+      "removed_at": "2026-09-28T09:10:45Z",
+      "removed_by_source": true
     },
     "e0589f47-72f9-4e9a-ac31-5b88bcad6220": {
       "title": "The Wrong Way to Use Healing Magic",
@@ -6297,9 +6302,10 @@
       "title": "Magical Girl 201",
       "url": "https://mangadex.org/title/8fb6d1db-c0c5-4122-81fe-dd480bfdb6eb",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-22T15:05:00Z",
-      "removed_at": null
+      "removed_at": "2026-09-28T09:10:45Z",
+      "removed_by_source": true
     },
     "b05918e4-fb1a-4b10-a919-eaecf00fd7dd": {
       "title": "Tower Dungeon",
@@ -6332,25 +6338,28 @@
       "title": "A Love Manual You Can Use from Today",
       "url": "https://mangadex.org/title/1bfbb8cf-96ea-416e-b211-656a9eb04a57",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-22T19:00:57Z",
-      "removed_at": null
+      "removed_at": "2026-09-28T09:10:45Z",
+      "removed_by_source": true
     },
     "30196491-8fc2-4961-8886-a58f898b1b3e": {
       "title": "Berserk of Gluttony: The One that Exceeds the Concept of Levels",
       "url": "https://mangadex.org/title/30196491-8fc2-4961-8886-a58f898b1b3e",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-22T19:00:57Z",
-      "removed_at": null
+      "removed_at": "2026-09-28T09:10:45Z",
+      "removed_by_source": true
     },
     "418861d1-815e-4b01-8347-eba0d687df25": {
       "title": "When the Villainess Meets the Yandere",
       "url": "https://mangadex.org/title/418861d1-815e-4b01-8347-eba0d687df25",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-22T19:00:57Z",
-      "removed_at": null
+      "removed_at": "2026-09-28T09:10:45Z",
+      "removed_by_source": true
     },
     "4d6decd4-835d-4905-9534-2571dae07bcd": {
       "title": "Lord El-Melloi II-sei no Jikenbo",
@@ -6364,17 +6373,19 @@
       "title": "The Wind Spell",
       "url": "https://mangadex.org/title/82148d28-92b9-4f02-9996-07b4017d2be7",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-22T19:00:57Z",
-      "removed_at": null
+      "removed_at": "2026-09-28T09:10:45Z",
+      "removed_by_source": true
     },
     "be314f77-95d8-4722-8369-7ae6cb1a536b": {
       "title": "The Helpless Saint and the Powerless Princess: The Tale of How a Saint with No Magic Was Summoned to Save Another World",
       "url": "https://mangadex.org/title/be314f77-95d8-4722-8369-7ae6cb1a536b",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-22T19:00:57Z",
-      "removed_at": null
+      "removed_at": "2026-09-28T09:10:45Z",
+      "removed_by_source": true
     },
     "cb9de964-2995-4d80-91a4-a0b89a13107d": {
       "title": "Wandering Around Another World with Just One Fishing Rod",
@@ -6388,25 +6399,28 @@
       "title": "Magic Stone Gourmet: Eating Magical Power Made Me the Strongest",
       "url": "https://mangadex.org/title/cbb22826-963e-4602-a5cd-a50c75723d59",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-22T19:00:57Z",
-      "removed_at": null
+      "removed_at": "2026-09-28T09:10:45Z",
+      "removed_by_source": true
     },
     "f4397b12-137c-426f-92ff-618ddfbad51a": {
       "title": "Marriage Toxin",
       "url": "https://mangadex.org/title/f4397b12-137c-426f-92ff-618ddfbad51a",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-22T19:00:57Z",
-      "removed_at": null
+      "removed_at": "2026-09-28T09:10:45Z",
+      "removed_by_source": true
     },
     "183b5c1e-5bfd-4f7f-9b21-3ac88c584987": {
       "title": "Orb: On the Movements of the Earth",
       "url": "https://mangadex.org/title/183b5c1e-5bfd-4f7f-9b21-3ac88c584987",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-22T22:21:12Z",
-      "removed_at": null
+      "removed_at": "2026-09-28T09:10:45Z",
+      "removed_by_source": true
     },
     "19c8ff73-5282-435f-b0ff-3ba492230150": {
       "title": "Kurosaki-kun no Iinari ni Nante Naranai",
@@ -6452,9 +6466,10 @@
       "title": "It Seems the Production Skill Acquired in Another World is the Strongest.",
       "url": "https://mangadex.org/title/d68ceffd-ac56-45db-9129-3413dd0d7063",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-22T22:21:12Z",
-      "removed_at": null
+      "removed_at": "2026-09-28T09:10:45Z",
+      "removed_by_source": true
     },
     "3c30229a-e6a3-44fa-a1ac-61a208c2ebad": {
       "title": "Yaotome x 2",
@@ -8018,6 +8033,118 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-09-28T02:47:08Z",
+      "removed_at": null
+    },
+    "0e8fac17-979e-4e37-8f45-2c334b25d6dd": {
+      "title": "Whisper Me a Love Song",
+      "url": "https://mangadex.org/title/0e8fac17-979e-4e37-8f45-2c334b25d6dd",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-28T09:10:45Z",
+      "removed_at": null
+    },
+    "12e28a8a-cbfe-4e12-bab8-b6fb0b9a59b4": {
+      "title": "Death's Daughter and the Black Blade",
+      "url": "https://mangadex.org/title/12e28a8a-cbfe-4e12-bab8-b6fb0b9a59b4",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-28T09:10:45Z",
+      "removed_at": null
+    },
+    "2b390cec-b461-485a-ad70-d900469f862b": {
+      "title": "I Faked a Pregnancy, but My Husband Returned",
+      "url": "https://mangadex.org/title/2b390cec-b461-485a-ad70-d900469f862b",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-28T09:10:45Z",
+      "removed_at": null
+    },
+    "50491535-8d93-4f37-a885-14441766bd43": {
+      "title": "After Helping the \"Ice Princess\" from Another School, I Decided to Start as a Friend",
+      "url": "https://mangadex.org/title/50491535-8d93-4f37-a885-14441766bd43",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-28T09:10:45Z",
+      "removed_at": null
+    },
+    "5272da37-6c69-4ecc-a1e0-d25db7b3e80f": {
+      "title": "The Protagonist's Childhood Friend Is Coming on Strong to Me, a Mob",
+      "url": "https://mangadex.org/title/5272da37-6c69-4ecc-a1e0-d25db7b3e80f",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-28T09:10:45Z",
+      "removed_at": null
+    },
+    "53c12cd2-f7ff-4976-b16a-c83efdeedb6f": {
+      "title": "Elqueeness",
+      "url": "https://mangadex.org/title/53c12cd2-f7ff-4976-b16a-c83efdeedb6f",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-28T09:10:45Z",
+      "removed_at": null
+    },
+    "658b9adf-33c5-439d-9df3-9650c0649bf9": {
+      "title": "Nomadic Life with the Elves' Terrible Food",
+      "url": "https://mangadex.org/title/658b9adf-33c5-439d-9df3-9650c0649bf9",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-28T09:10:45Z",
+      "removed_at": null
+    },
+    "72231b89-3934-439b-9d83-0f82e45f01d6": {
+      "title": "The Unaware Atelier Meister",
+      "url": "https://mangadex.org/title/72231b89-3934-439b-9d83-0f82e45f01d6",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-28T09:10:45Z",
+      "removed_at": null
+    },
+    "ae3736bf-dc58-40cc-b1cb-928269edf62b": {
+      "title": "No, Miyahara, Not You!",
+      "url": "https://mangadex.org/title/ae3736bf-dc58-40cc-b1cb-928269edf62b",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-28T09:10:45Z",
+      "removed_at": null
+    },
+    "bda927f7-df67-4842-b830-19c931159e41": {
+      "title": "Never-Ending",
+      "url": "https://mangadex.org/title/bda927f7-df67-4842-b830-19c931159e41",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-28T09:10:45Z",
+      "removed_at": null
+    },
+    "d89cfcf7-dcb4-4af7-8c95-330c2c6167d0": {
+      "title": "The Return of the Corpse King: I, a Former Hero, Have Been Summoned Back to Isekai to Stop the CHUUNI Secret Society Organized by Me",
+      "url": "https://mangadex.org/title/d89cfcf7-dcb4-4af7-8c95-330c2c6167d0",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-28T09:10:45Z",
+      "removed_at": null
+    },
+    "e63fc981-7fd2-469d-9d89-a1bbb0b609b4": {
+      "title": "Wife",
+      "url": "https://mangadex.org/title/e63fc981-7fd2-469d-9d89-a1bbb0b609b4",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-28T09:10:45Z",
+      "removed_at": null
+    },
+    "f5c25341-d6ff-4585-8548-3a48fc7654d9": {
+      "title": "Akira Failing in Love",
+      "url": "https://mangadex.org/title/f5c25341-d6ff-4585-8548-3a48fc7654d9",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-28T09:10:45Z",
+      "removed_at": null
+    },
+    "fe9b4485-550a-4823-84eb-8680283b5d9f": {
+      "title": "Amusement Park: Baki Side Story",
+      "url": "https://mangadex.org/title/fe9b4485-550a-4823-84eb-8680283b5d9f",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-28T09:10:45Z",
       "removed_at": null
     }
   }
