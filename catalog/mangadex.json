@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-09-27T23:30:49Z",
+  "updated_at": "2026-09-28T02:47:08Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -1924,9 +1924,10 @@
       "title": "Kunon the Sorcerer Can See",
       "url": "https://mangadex.org/title/77c4966f-ead7-45bb-87e0-9ac618b11e8e",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-28T02:47:08Z",
+      "removed_by_source": true
     },
     "787a9f0c-6f48-401c-8edc-d6ee07516c4f": {
       "title": "Cheeky Brat",
@@ -6278,17 +6279,19 @@
       "title": "Kirihara-san Does Not Have a Sense of Distance!",
       "url": "https://mangadex.org/title/301c828c-9756-4354-b16e-d50e0d06e627",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-22T15:05:00Z",
-      "removed_at": null
+      "removed_at": "2026-09-28T02:47:08Z",
+      "removed_by_source": true
     },
     "4393fd4e-d646-4bab-9c95-786168ccb618": {
       "title": "Devilman",
       "url": "https://mangadex.org/title/4393fd4e-d646-4bab-9c95-786168ccb618",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-22T15:05:00Z",
-      "removed_at": null
+      "removed_at": "2026-09-28T02:47:08Z",
+      "removed_by_source": true
     },
     "8fb6d1db-c0c5-4122-81fe-dd480bfdb6eb": {
       "title": "Magical Girl 201",
@@ -6302,25 +6305,28 @@
       "title": "Tower Dungeon",
       "url": "https://mangadex.org/title/b05918e4-fb1a-4b10-a919-eaecf00fd7dd",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-22T15:05:00Z",
-      "removed_at": null
+      "removed_at": "2026-09-28T02:47:08Z",
+      "removed_by_source": true
     },
     "c0727be3-cccf-4cfd-99de-13c52c0f23be": {
       "title": "Kyomu-neechan Wants Attention",
       "url": "https://mangadex.org/title/c0727be3-cccf-4cfd-99de-13c52c0f23be",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-22T15:05:00Z",
-      "removed_at": null
+      "removed_at": "2026-09-28T02:47:08Z",
+      "removed_by_source": true
     },
     "cbb4cbf1-567d-48ac-a48d-ba96124e1171": {
       "title": "Even a Parakeet Wants to Experience Youth",
       "url": "https://mangadex.org/title/cbb4cbf1-567d-48ac-a48d-ba96124e1171",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-22T15:05:00Z",
-      "removed_at": null
+      "removed_at": "2026-09-28T02:47:08Z",
+      "removed_by_source": true
     },
     "1bfbb8cf-96ea-416e-b211-656a9eb04a57": {
       "title": "A Love Manual You Can Use from Today",
@@ -7972,6 +7978,46 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-09-27T23:30:49Z",
+      "removed_at": null
+    },
+    "0855e750-6ada-4c22-bfc5-fa63b1118bda": {
+      "title": "Isekai ni Tobasareta Ossan wa Doko e Iku?",
+      "url": "https://mangadex.org/title/0855e750-6ada-4c22-bfc5-fa63b1118bda",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-28T02:47:08Z",
+      "removed_at": null
+    },
+    "18d4293c-bd6a-4d60-9178-9888e4cd7cbe": {
+      "title": "Yu☆Gi☆Oh! R",
+      "url": "https://mangadex.org/title/18d4293c-bd6a-4d60-9178-9888e4cd7cbe",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-28T02:47:08Z",
+      "removed_at": null
+    },
+    "7efd0c17-8599-4f67-ab78-d7c1d073c5cc": {
+      "title": "Boys Next Door",
+      "url": "https://mangadex.org/title/7efd0c17-8599-4f67-ab78-d7c1d073c5cc",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-28T02:47:08Z",
+      "removed_at": null
+    },
+    "d65c0332-3764-4c89-84bd-b1a4e7278ad7": {
+      "title": "Kagurabachi",
+      "url": "https://mangadex.org/title/d65c0332-3764-4c89-84bd-b1a4e7278ad7",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-28T02:47:08Z",
+      "removed_at": null
+    },
+    "e2d016cf-5b7f-4c8a-8f8d-34ec5d7cfc52": {
+      "title": "Cruel Fairytales",
+      "url": "https://mangadex.org/title/e2d016cf-5b7f-4c8a-8f8d-34ec5d7cfc52",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-28T02:47:08Z",
       "removed_at": null
     }
   }

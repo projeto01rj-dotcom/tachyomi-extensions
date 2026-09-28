@@ -1,0 +1,80 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-09-28T02:47:08Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "0855e750-6ada-4c22-bfc5-fa63b1118bda",
+      "title": "Isekai ni Tobasareta Ossan wa Doko e Iku?",
+      "url": "https://mangadex.org/title/0855e750-6ada-4c22-bfc5-fa63b1118bda"
+    },
+    {
+      "source": "mangadex",
+      "key": "18d4293c-bd6a-4d60-9178-9888e4cd7cbe",
+      "title": "Yu☆Gi☆Oh! R",
+      "url": "https://mangadex.org/title/18d4293c-bd6a-4d60-9178-9888e4cd7cbe"
+    },
+    {
+      "source": "mangadex",
+      "key": "7efd0c17-8599-4f67-ab78-d7c1d073c5cc",
+      "title": "Boys Next Door",
+      "url": "https://mangadex.org/title/7efd0c17-8599-4f67-ab78-d7c1d073c5cc"
+    },
+    {
+      "source": "mangadex",
+      "key": "d65c0332-3764-4c89-84bd-b1a4e7278ad7",
+      "title": "Kagurabachi",
+      "url": "https://mangadex.org/title/d65c0332-3764-4c89-84bd-b1a4e7278ad7"
+    },
+    {
+      "source": "mangadex",
+      "key": "e2d016cf-5b7f-4c8a-8f8d-34ec5d7cfc52",
+      "title": "Cruel Fairytales",
+      "url": "https://mangadex.org/title/e2d016cf-5b7f-4c8a-8f8d-34ec5d7cfc52"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "77c4966f-ead7-45bb-87e0-9ac618b11e8e",
+      "title": "Kunon the Sorcerer Can See",
+      "url": "https://mangadex.org/title/77c4966f-ead7-45bb-87e0-9ac618b11e8e",
+      "removed_at": "2026-09-28T02:47:08Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "301c828c-9756-4354-b16e-d50e0d06e627",
+      "title": "Kirihara-san Does Not Have a Sense of Distance!",
+      "url": "https://mangadex.org/title/301c828c-9756-4354-b16e-d50e0d06e627",
+      "removed_at": "2026-09-28T02:47:08Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "4393fd4e-d646-4bab-9c95-786168ccb618",
+      "title": "Devilman",
+      "url": "https://mangadex.org/title/4393fd4e-d646-4bab-9c95-786168ccb618",
+      "removed_at": "2026-09-28T02:47:08Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "b05918e4-fb1a-4b10-a919-eaecf00fd7dd",
+      "title": "Tower Dungeon",
+      "url": "https://mangadex.org/title/b05918e4-fb1a-4b10-a919-eaecf00fd7dd",
+      "removed_at": "2026-09-28T02:47:08Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "c0727be3-cccf-4cfd-99de-13c52c0f23be",
+      "title": "Kyomu-neechan Wants Attention",
+      "url": "https://mangadex.org/title/c0727be3-cccf-4cfd-99de-13c52c0f23be",
+      "removed_at": "2026-09-28T02:47:08Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "cbb4cbf1-567d-48ac-a48d-ba96124e1171",
+      "title": "Even a Parakeet Wants to Experience Youth",
+      "url": "https://mangadex.org/title/cbb4cbf1-567d-48ac-a48d-ba96124e1171",
+      "removed_at": "2026-09-28T02:47:08Z"
+    }
+  ]
+}
