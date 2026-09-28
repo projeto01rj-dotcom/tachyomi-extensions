@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-09-28T09:10:45Z",
+  "updated_at": "2026-09-28T17:45:14Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -281,9 +281,10 @@
       "title": "The Perfect Senior's Secret!",
       "url": "https://mangadex.org/title/131696f9-df99-4677-8813-9d70b82bf0be",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-28T17:45:14Z",
+      "removed_by_source": true
     },
     "1380753e-3652-4ab6-a72b-96fbe47fbcc3": {
       "title": "Stuck in My Sister's Dating Sim",
@@ -466,9 +467,10 @@
       "title": "Yu☆Gi☆Oh! OCG Structures",
       "url": "https://mangadex.org/title/1c258c7a-5529-4fde-b6c0-f8028223993b",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-28T17:45:14Z",
+      "removed_by_source": true
     },
     "1cf64f4a-c565-44ea-8a8e-c210dec6e441": {
       "title": "Otr of the Flame",
@@ -3739,9 +3741,10 @@
       "title": "I Married the Head of My Archenemy’s Household: My Wife Is Cute, Fragile, Kind, Smart, Adorable, and Simply the Best",
       "url": "https://mangadex.org/title/dbcc54b8-0a76-4508-a3a8-eca0a8f5492d",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-28T17:45:14Z",
+      "removed_by_source": true
     },
     "dbdffb51-7817-40af-a090-e6c68f42d7e3": {
       "title": "A Flirty and Devoted Kouhai (Pre-Serialization)",
@@ -4024,9 +4027,10 @@
       "title": "Put It All in the Ring",
       "url": "https://mangadex.org/title/eb1babe4-e69a-43f2-b0df-e46eef3ec206",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-28T17:45:14Z",
+      "removed_by_source": true
     },
     "eb1e9858-5d3c-4c3e-a394-12c5b4d0b55f": {
       "title": "Sem título",
@@ -4404,9 +4408,10 @@
       "title": "Loner Life in Another World",
       "url": "https://mangadex.org/title/ffe69cc2-3f9e-4eab-a7f7-c963cea9ec25",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-28T17:45:14Z",
+      "removed_by_source": true
     },
     "ffeef500-d3e0-4c8d-b0f4-ce178afe7b87": {
       "title": "I'm Still Looking Up At You",
@@ -5504,17 +5509,19 @@
       "title": "Miss Sunflower",
       "url": "https://mangadex.org/title/e02f32f7-66d6-4eda-818e-a7e4e2c198a1",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-20T10:21:16Z",
-      "removed_at": null
+      "removed_at": "2026-09-28T17:45:14Z",
+      "removed_by_source": true
     },
     "e182b09f-09ab-4201-8f37-0ced6822eb39": {
       "title": "No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!",
       "url": "https://mangadex.org/title/e182b09f-09ab-4201-8f37-0ced6822eb39",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-20T10:21:16Z",
-      "removed_at": null
+      "removed_at": "2026-09-28T17:45:14Z",
+      "removed_by_source": true
     },
     "13cf8ddd-93da-4cbb-93dc-91c4ac1a6d25": {
       "title": "Abe-kun's Got Me Now!",
@@ -6137,9 +6144,10 @@
       "title": "Even Though I Was a Virgin, I Reincarnated as a Villainous Noble, so I Was Supposed to Build a Harem... but Somehow I Ended up Becoming a Saint Who Saved the World (Sob)",
       "url": "https://mangadex.org/title/9f652434-2d30-49b0-9375-ba07de981c70",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-21T21:28:23Z",
-      "removed_at": null
+      "removed_at": "2026-09-28T17:45:14Z",
+      "removed_by_source": true
     },
     "d0f135d0-da19-42dd-8ffe-4851d661bab6": {
       "title": "In Another World I'm Called the \"Black Healer\"",
@@ -6163,9 +6171,10 @@
       "title": "Lemon",
       "url": "https://mangadex.org/title/3f907123-abea-4a4a-9011-c6734cbf3b29",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-22T00:13:49Z",
-      "removed_at": null
+      "removed_at": "2026-09-28T17:45:14Z",
+      "removed_by_source": true
     },
     "4c532b6f-0f3d-47db-8dd3-94474dc0e325": {
       "title": "Maybe Undefeatable",
@@ -6426,9 +6435,10 @@
       "title": "Kurosaki-kun no Iinari ni Nante Naranai",
       "url": "https://mangadex.org/title/19c8ff73-5282-435f-b0ff-3ba492230150",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-22T22:21:12Z",
-      "removed_at": null
+      "removed_at": "2026-09-28T17:45:14Z",
+      "removed_by_source": true
     },
     "54510496-b1d9-4b71-ac97-b50dec06d685": {
       "title": "Fire Emblem: Engage",
@@ -6442,25 +6452,28 @@
       "title": "Alya Sometimes Hides Her Feelings in Russian",
       "url": "https://mangadex.org/title/6bf844c8-2ce4-401a-a761-3151042efe30",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-22T22:21:12Z",
-      "removed_at": null
+      "removed_at": "2026-09-28T17:45:14Z",
+      "removed_by_source": true
     },
     "77096449-d627-4699-a197-eab81d2f0bd2": {
       "title": "Juudai Happyou (Fan Colored)",
       "url": "https://mangadex.org/title/77096449-d627-4699-a197-eab81d2f0bd2",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-22T22:21:12Z",
-      "removed_at": null
+      "removed_at": "2026-09-28T17:45:14Z",
+      "removed_by_source": true
     },
     "8300b59b-0d57-4681-b2b7-c4bbfc811dae": {
       "title": "FUGA: Melodies of Steel",
       "url": "https://mangadex.org/title/8300b59b-0d57-4681-b2b7-c4bbfc811dae",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-22T22:21:12Z",
-      "removed_at": null
+      "removed_at": "2026-09-28T17:45:14Z",
+      "removed_by_source": true
     },
     "d68ceffd-ac56-45db-9129-3413dd0d7063": {
       "title": "It Seems the Production Skill Acquired in Another World is the Strongest.",
@@ -6475,17 +6488,19 @@
       "title": "Yaotome x 2",
       "url": "https://mangadex.org/title/3c30229a-e6a3-44fa-a1ac-61a208c2ebad",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-23T00:47:21Z",
-      "removed_at": null
+      "removed_at": "2026-09-28T17:45:14Z",
+      "removed_by_source": true
     },
     "c8a49176-cf28-42e5-960e-8efd2d903323": {
       "title": "We are the Main Characters of the Demon World!",
       "url": "https://mangadex.org/title/c8a49176-cf28-42e5-960e-8efd2d903323",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-23T00:47:21Z",
-      "removed_at": null
+      "removed_at": "2026-09-28T17:45:14Z",
+      "removed_by_source": true
     },
     "dddd5a26-839b-4762-ad81-060aeee32b60": {
       "title": "Starting With x10: You Really Exploited the Bug!",
@@ -6499,17 +6514,19 @@
       "title": "The Kingdoms of Ruin",
       "url": "https://mangadex.org/title/2750ed89-ea66-4c0c-ab05-7417a9e0de3e",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-23T05:24:06Z",
-      "removed_at": null
+      "removed_at": "2026-09-28T17:45:14Z",
+      "removed_by_source": true
     },
     "3c1bbe08-abec-49fd-bd19-455b31e320c6": {
       "title": "Sem título",
       "url": "https://mangadex.org/title/3c1bbe08-abec-49fd-bd19-455b31e320c6",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-23T05:24:06Z",
-      "removed_at": null
+      "removed_at": "2026-09-28T17:45:14Z",
+      "removed_by_source": true
     },
     "3cbc4293-3623-470a-9405-f46b328c83d4": {
       "title": "The Lecture You Would Never Want Your Parents to Give You",
@@ -6532,17 +6549,19 @@
       "title": "How to Raise a Boring Girlfriend",
       "url": "https://mangadex.org/title/6c657548-3560-4236-ad18-402c6d2c3115",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-23T05:24:06Z",
-      "removed_at": null
+      "removed_at": "2026-09-28T17:45:14Z",
+      "removed_by_source": true
     },
     "805ff299-b5ed-4887-90ef-bece73d182e5": {
       "title": "Otherworld Battle Royale",
       "url": "https://mangadex.org/title/805ff299-b5ed-4887-90ef-bece73d182e5",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-23T05:24:06Z",
-      "removed_at": null
+      "removed_at": "2026-09-28T17:45:14Z",
+      "removed_by_source": true
     },
     "b85141eb-8051-451a-bf95-608351e2b613": {
       "title": "War of the Adults",
@@ -6566,9 +6585,10 @@
       "title": "Villain Classroom",
       "url": "https://mangadex.org/title/c8909273-7dea-4739-ac2e-c24da08b0b93",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-23T05:24:06Z",
-      "removed_at": null
+      "removed_at": "2026-09-28T17:45:14Z",
+      "removed_by_source": true
     },
     "cf404ea0-03c4-4382-9f02-afd9a8f40cd1": {
       "title": "I, an Ordinary Guy with No Redeeming Qualities, Risked My Life to Save Beautiful Twin Sisters, Only to Make the Secretly Yandere Duo Fall Madly in Love with Me",
@@ -6582,9 +6602,10 @@
       "title": "Hirano And Kagiura",
       "url": "https://mangadex.org/title/d0f286ac-9ecf-4472-a3d7-1009eb0199e2",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-23T05:24:06Z",
-      "removed_at": null
+      "removed_at": "2026-09-28T17:45:14Z",
+      "removed_by_source": true
     },
     "ea0e7020-2b2f-4f17-9251-fee3632dc135": {
       "title": "My Yandere Girlfriend Lurks in the Dungeon and Kills Me Over and Over Again",
@@ -6598,9 +6619,10 @@
       "title": "Akane-banashi",
       "url": "https://mangadex.org/title/792e28fb-27be-425d-b92a-64e2d5474657",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-23T10:10:52Z",
-      "removed_at": null
+      "removed_at": "2026-09-28T17:45:14Z",
+      "removed_by_source": true
     },
     "7b9cc384-4c98-4d57-83a4-93be3e573d69": {
       "title": "The Hero Returns from Another World, Becomes an Influencer, and Earns Money in the Real World, Where Dungeons have Appeared!",
@@ -8145,6 +8167,142 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-09-28T09:10:45Z",
+      "removed_at": null
+    },
+    "0eaadf3a-34c8-49b4-94a1-01cb8cdf8d07": {
+      "title": "TS-Reincarnated Beauty Netora Reiko Wants to Be NTR'd",
+      "url": "https://mangadex.org/title/0eaadf3a-34c8-49b4-94a1-01cb8cdf8d07",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-28T17:45:14Z",
+      "removed_at": null
+    },
+    "191c5909-354c-4f15-b3f7-e28bf56dc6a8": {
+      "title": "Weather Child",
+      "url": "https://mangadex.org/title/191c5909-354c-4f15-b3f7-e28bf56dc6a8",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-28T17:45:14Z",
+      "removed_at": null
+    },
+    "32db4174-7944-40c4-9f76-4c322177bc04": {
+      "title": "The Solitary Girl, and What We Do in Her Room",
+      "url": "https://mangadex.org/title/32db4174-7944-40c4-9f76-4c322177bc04",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-28T17:45:14Z",
+      "removed_at": null
+    },
+    "441e03e9-800a-4739-b656-966d0660c168": {
+      "title": "A Toxic 20-Year-Old Game Streamer Accidentally Reveals His Nice Personality Because He Forgot to End the Stream",
+      "url": "https://mangadex.org/title/441e03e9-800a-4739-b656-966d0660c168",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-28T17:45:14Z",
+      "removed_at": null
+    },
+    "5bb3b15f-3f60-490a-b873-bd7589f4e662": {
+      "title": "An S-class Adventurer, Banished as the Tank of the Party, Uses His \"Slave Release\" Skill to Build the Strongest Country in History!",
+      "url": "https://mangadex.org/title/5bb3b15f-3f60-490a-b873-bd7589f4e662",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-28T17:45:14Z",
+      "removed_at": null
+    },
+    "5dcfebee-5028-420e-bccb-4f55c21a5439": {
+      "title": "Otherworld Magical Girl Radical☆Haruna",
+      "url": "https://mangadex.org/title/5dcfebee-5028-420e-bccb-4f55c21a5439",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-28T17:45:14Z",
+      "removed_at": null
+    },
+    "6df29d13-2dab-4ca6-a0b5-74070abf3e1d": {
+      "title": "The One Within the Villainess",
+      "url": "https://mangadex.org/title/6df29d13-2dab-4ca6-a0b5-74070abf3e1d",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-28T17:45:14Z",
+      "removed_at": null
+    },
+    "719e707d-e2ad-4877-bc12-27f224d162b3": {
+      "title": "I Want to Live the Harem Life of My Dreams with the Hypnosis App I Got",
+      "url": "https://mangadex.org/title/719e707d-e2ad-4877-bc12-27f224d162b3",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-28T17:45:14Z",
+      "removed_at": null
+    },
+    "77566ea5-33a0-43e2-ba5b-ff7af8c397c9": {
+      "title": "Witch Hat Atelier Kitchen",
+      "url": "https://mangadex.org/title/77566ea5-33a0-43e2-ba5b-ff7af8c397c9",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-28T17:45:14Z",
+      "removed_at": null
+    },
+    "7c33a822-0220-4aac-b2e7-a6943569ebd0": {
+      "title": "The Behemoth Bridegroom",
+      "url": "https://mangadex.org/title/7c33a822-0220-4aac-b2e7-a6943569ebd0",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-28T17:45:14Z",
+      "removed_at": null
+    },
+    "87ed0cea-cd84-40fe-ad94-71e9257536f8": {
+      "title": "Princess Reincarnation: The Legendary Arch Mage (♂) Becomes a Princess Knight and Creates a Legendary Order of Lady Knights and Becomes Unrivaled",
+      "url": "https://mangadex.org/title/87ed0cea-cd84-40fe-ad94-71e9257536f8",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-28T17:45:14Z",
+      "removed_at": null
+    },
+    "a41b5a2b-9dc5-4e9c-bafd-f614eeeaae3b": {
+      "title": "Sem título",
+      "url": "https://mangadex.org/title/a41b5a2b-9dc5-4e9c-bafd-f614eeeaae3b",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-28T17:45:14Z",
+      "removed_at": null
+    },
+    "b939206a-34c1-4b9a-b802-0647bfa59f2f": {
+      "title": "Dustland",
+      "url": "https://mangadex.org/title/b939206a-34c1-4b9a-b802-0647bfa59f2f",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-28T17:45:14Z",
+      "removed_at": null
+    },
+    "d042e605-a07a-4cd2-87d5-ebe53c0b135f": {
+      "title": "The Monster Girl I Saved.",
+      "url": "https://mangadex.org/title/d042e605-a07a-4cd2-87d5-ebe53c0b135f",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-28T17:45:14Z",
+      "removed_at": null
+    },
+    "d16f92a6-6f5f-442c-b011-b68abc986209": {
+      "title": "Everyone's Darling has a Secret",
+      "url": "https://mangadex.org/title/d16f92a6-6f5f-442c-b011-b68abc986209",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-28T17:45:14Z",
+      "removed_at": null
+    },
+    "e05dd982-6d09-4f3d-8e8e-6c9ae65b5857": {
+      "title": "The Color of the End: Mission in the Apocalypse",
+      "url": "https://mangadex.org/title/e05dd982-6d09-4f3d-8e8e-6c9ae65b5857",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-28T17:45:14Z",
+      "removed_at": null
+    },
+    "ff360116-6df6-4bd3-817c-795f651c5b75": {
+      "title": "Prison!",
+      "url": "https://mangadex.org/title/ff360116-6df6-4bd3-817c-795f651c5b75",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-28T17:45:14Z",
       "removed_at": null
     }
   }
