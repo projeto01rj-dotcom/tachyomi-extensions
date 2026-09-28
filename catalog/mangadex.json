@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-09-28T17:45:14Z",
+  "updated_at": "2026-09-28T22:48:10Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -1291,9 +1291,10 @@
       "title": "I was reincarnated as the father of a villainess, so I dote on my wife and daughter.",
       "url": "https://mangadex.org/title/55f04818-b37c-4022-8d20-b936b62301f9",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-28T22:48:10Z",
+      "removed_by_source": true
     },
     "5603f107-81fa-455a-973f-5bedf4ea1d7e": {
       "title": "Over Rev!",
@@ -5049,9 +5050,10 @@
       "title": "Is the Order a Rabbit?",
       "url": "https://mangadex.org/title/c02343b3-74e4-4057-b34a-90e08d93f95a",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-19T15:40:30Z",
-      "removed_at": null
+      "removed_at": "2026-09-28T22:48:10Z",
+      "removed_by_source": true
     },
     "e896c48c-3150-437d-ba57-d8567eb399ae": {
       "title": "Chainsaw Man (Official Colored)",
@@ -6400,9 +6402,10 @@
       "title": "Wandering Around Another World with Just One Fishing Rod",
       "url": "https://mangadex.org/title/cb9de964-2995-4d80-91a4-a0b89a13107d",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-22T19:00:57Z",
-      "removed_at": null
+      "removed_at": "2026-09-28T22:48:10Z",
+      "removed_by_source": true
     },
     "cbb22826-963e-4602-a5cd-a50c75723d59": {
       "title": "Magic Stone Gourmet: Eating Magical Power Made Me the Strongest",
@@ -6594,9 +6597,10 @@
       "title": "I, an Ordinary Guy with No Redeeming Qualities, Risked My Life to Save Beautiful Twin Sisters, Only to Make the Secretly Yandere Duo Fall Madly in Love with Me",
       "url": "https://mangadex.org/title/cf404ea0-03c4-4382-9f02-afd9a8f40cd1",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-23T05:24:06Z",
-      "removed_at": null
+      "removed_at": "2026-09-28T22:48:10Z",
+      "removed_by_source": true
     },
     "d0f286ac-9ecf-4472-a3d7-1009eb0199e2": {
       "title": "Hirano And Kagiura",
@@ -6644,9 +6648,10 @@
       "title": "D.Gray-man",
       "url": "https://mangadex.org/title/b6886009-e60b-44a7-abc2-a575765277ba",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-23T10:10:52Z",
-      "removed_at": null
+      "removed_at": "2026-09-28T22:48:10Z",
+      "removed_by_source": true
     },
     "d05bfa47-631c-4ebb-b590-11159206009b": {
       "title": "Juumonji in Sight!",
@@ -6701,9 +6706,10 @@
       "title": "Natsume & Natsume",
       "url": "https://mangadex.org/title/3aa6cd45-a36e-4abd-ab1c-f60f1db0014a",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-23T19:08:35Z",
-      "removed_at": null
+      "removed_at": "2026-09-28T22:48:10Z",
+      "removed_by_source": true
     },
     "576d59fb-1885-4642-81ad-93b58dd5e57f": {
       "title": "From Eroica with Love",
@@ -6725,9 +6731,10 @@
       "title": "I'm the Evil Lord of an Intergalactic Empire!",
       "url": "https://mangadex.org/title/63b2dc67-f55c-4f4a-899f-cedd77721bcf",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-23T19:08:35Z",
-      "removed_at": null
+      "removed_at": "2026-09-28T22:48:10Z",
+      "removed_by_source": true
     },
     "68095946-ece2-4090-b0df-698f1cdb2a70": {
       "title": "Crows ZERO II - Suzuran x Housen",
@@ -6741,9 +6748,10 @@
       "title": "The Hero's Granddaughter and the Demon King's Daughter",
       "url": "https://mangadex.org/title/7244463a-ebd5-4fb4-b71a-96d93008c1d6",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-23T19:08:35Z",
-      "removed_at": null
+      "removed_at": "2026-09-28T22:48:10Z",
+      "removed_by_source": true
     },
     "7e4e5e8a-f3f0-4612-b04d-257e2ac0b7eb": {
       "title": "Finding Avalon: The Quest of a Chaosbringer",
@@ -6765,9 +6773,10 @@
       "title": "The Unfortunate \"Trapper\" Cast Out of the Hero's Party Will Defy Fate and Become the Strongest with the Unique Skill \"Arrow\"",
       "url": "https://mangadex.org/title/a6ccbfd7-4f32-4566-9e56-187189984a61",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-23T19:08:35Z",
-      "removed_at": null
+      "removed_at": "2026-09-28T22:48:10Z",
+      "removed_by_source": true
     },
     "e5ce88e2-8c46-482d-8acf-5c6d5a64a585": {
       "title": "Noragami: Stray God",
@@ -7269,9 +7278,10 @@
       "title": "The Reason Yoimiya Nagi Makes Late-Night Meals for Her Manager",
       "url": "https://mangadex.org/title/f4fa82a7-4c09-4906-b3f3-80f8a30bae54",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-25T17:24:00Z",
-      "removed_at": null
+      "removed_at": "2026-09-28T22:48:10Z",
+      "removed_by_source": true
     },
     "17eebcc7-d993-446c-84be-c222bfb27794": {
       "title": "Reincarnated Devil’s Plan for Raising the Strongest Hero",
@@ -7949,9 +7959,10 @@
       "title": "The World's Strongest Rearguard: Labyrinth Country's Novice Seeker",
       "url": "https://mangadex.org/title/b347d551-52eb-40cb-a11a-bfb9959d6495",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-27T17:52:20Z",
-      "removed_at": null
+      "removed_at": "2026-09-28T22:48:10Z",
+      "removed_by_source": true
     },
     "c595a11d-8610-48c8-bd72-1755a5b6372b": {
       "title": "My Beloved Apocalypse",
@@ -8303,6 +8314,54 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-09-28T17:45:14Z",
+      "removed_at": null
+    },
+    "077a3fed-1634-424f-be7a-9a96b7f07b78": {
+      "title": "Kingdom",
+      "url": "https://mangadex.org/title/077a3fed-1634-424f-be7a-9a96b7f07b78",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-28T22:48:10Z",
+      "removed_at": null
+    },
+    "259dfd8a-f06a-4825-8fa6-a2dcd7274230": {
+      "title": "Call of the Night",
+      "url": "https://mangadex.org/title/259dfd8a-f06a-4825-8fa6-a2dcd7274230",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-28T22:48:10Z",
+      "removed_at": null
+    },
+    "3e3604cc-97b5-43f0-ab2c-c144debcae87": {
+      "title": "Yu☆Gi☆Oh! OCG STORIES",
+      "url": "https://mangadex.org/title/3e3604cc-97b5-43f0-ab2c-c144debcae87",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-28T22:48:10Z",
+      "removed_at": null
+    },
+    "50d9f5b3-fc69-4742-bd72-1d652c337cf4": {
+      "title": "Crossplay Love: Otaku x Punk",
+      "url": "https://mangadex.org/title/50d9f5b3-fc69-4742-bd72-1d652c337cf4",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-28T22:48:10Z",
+      "removed_at": null
+    },
+    "63e54dfd-f7a9-473e-a591-28558e229c5b": {
+      "title": "Zatch Bell!!",
+      "url": "https://mangadex.org/title/63e54dfd-f7a9-473e-a591-28558e229c5b",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-28T22:48:10Z",
+      "removed_at": null
+    },
+    "84b8110c-b14f-42fe-bd95-72d821ac489d": {
+      "title": "Sensei, How About This Month?",
+      "url": "https://mangadex.org/title/84b8110c-b14f-42fe-bd95-72d821ac489d",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-28T22:48:10Z",
       "removed_at": null
     }
   }
