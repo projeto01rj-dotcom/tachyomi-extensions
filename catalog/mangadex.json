@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-09-29T08:49:30Z",
+  "updated_at": "2026-09-29T15:15:32Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -5165,9 +5165,10 @@
       "title": "The Heroines of a Gal Game Who Avoided the End of Death Read My [Diary] And Found Out My Secret",
       "url": "https://mangadex.org/title/e8c316a1-fc1a-4870-b418-29d5013db516",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-19T18:19:04Z",
-      "removed_at": null
+      "removed_at": "2026-09-29T15:15:32Z",
+      "removed_by_source": true
     },
     "08a69168-3adb-4f78-adaa-088b7663e0ff": {
       "title": "Sea-Run End Credits",
@@ -6852,33 +6853,37 @@
       "title": "Air Gear",
       "url": "https://mangadex.org/title/15b458ec-71fc-40b0-af60-656d0904490e",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-24T05:41:00Z",
-      "removed_at": null
+      "removed_at": "2026-09-29T15:15:32Z",
+      "removed_by_source": true
     },
     "3bb0279f-a01d-4aa4-93e4-305800f4b83e": {
       "title": "Yona of the Dawn",
       "url": "https://mangadex.org/title/3bb0279f-a01d-4aa4-93e4-305800f4b83e",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-24T05:41:00Z",
-      "removed_at": null
+      "removed_at": "2026-09-29T15:15:32Z",
+      "removed_by_source": true
     },
     "48263de6-0f6e-4e62-96d0-345d12058d87": {
       "title": "Yu☆Gi☆Oh! GX",
       "url": "https://mangadex.org/title/48263de6-0f6e-4e62-96d0-345d12058d87",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-24T05:41:00Z",
-      "removed_at": null
+      "removed_at": "2026-09-29T15:15:32Z",
+      "removed_by_source": true
     },
     "51faffdd-bdc5-41fb-a230-d377f0bd2f33": {
       "title": "The Legend of Dororo and Hyakkimaru",
       "url": "https://mangadex.org/title/51faffdd-bdc5-41fb-a230-d377f0bd2f33",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-24T05:41:00Z",
-      "removed_at": null
+      "removed_at": "2026-09-29T15:15:32Z",
+      "removed_by_source": true
     },
     "a4807f27-d96e-4069-9705-88056e81a555": {
       "title": "Lilim Holic",
@@ -6900,9 +6905,10 @@
       "title": "Why You Shouldn't Enter a Haunted House",
       "url": "https://mangadex.org/title/e30a22f9-352c-4e23-a6e9-95807620baaf",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-24T05:41:00Z",
-      "removed_at": null
+      "removed_at": "2026-09-29T15:15:32Z",
+      "removed_by_source": true
     },
     "46e9cae5-4407-4576-9b9e-4c517ae9298e": {
       "title": "The Promised Neverland",
@@ -6916,9 +6922,10 @@
       "title": "Tsukimino Karma is Just My Pet...",
       "url": "https://mangadex.org/title/87cef5f8-cb3a-4797-8560-a9faddd05f37",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-24T10:49:47Z",
-      "removed_at": null
+      "removed_at": "2026-09-29T15:15:32Z",
+      "removed_by_source": true
     },
     "b1629d65-f177-418a-a04f-ae4ee6929f90": {
       "title": "Imprisoned with the Horror Game's Male Lead",
@@ -6948,9 +6955,10 @@
       "title": "Pressed Flower",
       "url": "https://mangadex.org/title/fa718bd1-a6d2-4225-acc2-2828ac2dce6b",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-24T10:49:47Z",
-      "removed_at": null
+      "removed_at": "2026-09-29T15:15:32Z",
+      "removed_by_source": true
     },
     "059c9a8e-4e19-4a99-9d69-4f199a1e049f": {
       "title": "Abysmal",
@@ -8424,6 +8432,62 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-09-29T08:49:30Z",
+      "removed_at": null
+    },
+    "6ee24b3e-5a71-480f-abe0-5c9791402fc8": {
+      "title": "Otoko Ippiki Gaki Daisho",
+      "url": "https://mangadex.org/title/6ee24b3e-5a71-480f-abe0-5c9791402fc8",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-29T15:15:32Z",
+      "removed_at": null
+    },
+    "9316b513-7adc-4c1e-9405-fb65ea8570bc": {
+      "title": "What Was I Meant to Call This Mess That Wouldn't Go Away?",
+      "url": "https://mangadex.org/title/9316b513-7adc-4c1e-9405-fb65ea8570bc",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-29T15:15:32Z",
+      "removed_at": null
+    },
+    "9b3d1a67-941f-4538-9e75-3797eeb3771f": {
+      "title": "How to Treat a Lady Knight Right",
+      "url": "https://mangadex.org/title/9b3d1a67-941f-4538-9e75-3797eeb3771f",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-29T15:15:32Z",
+      "removed_at": null
+    },
+    "a0c817d7-3cd5-4f29-abd1-1baa6c225817": {
+      "title": "b(a)dtime stories",
+      "url": "https://mangadex.org/title/a0c817d7-3cd5-4f29-abd1-1baa6c225817",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-29T15:15:32Z",
+      "removed_at": null
+    },
+    "b2aab7a6-59be-4270-b942-5d7965ebcb19": {
+      "title": "The Cat in Quarantine",
+      "url": "https://mangadex.org/title/b2aab7a6-59be-4270-b942-5d7965ebcb19",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-29T15:15:32Z",
+      "removed_at": null
+    },
+    "ce89adb4-63fc-422e-9fbc-40ea6af4525c": {
+      "title": "Terra ForMars",
+      "url": "https://mangadex.org/title/ce89adb4-63fc-422e-9fbc-40ea6af4525c",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-29T15:15:32Z",
+      "removed_at": null
+    },
+    "e6e2bc05-4b01-47d5-b0e5-78374d58368e": {
+      "title": "untitled",
+      "url": "https://mangadex.org/title/e6e2bc05-4b01-47d5-b0e5-78374d58368e",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-29T15:15:32Z",
       "removed_at": null
     }
   }

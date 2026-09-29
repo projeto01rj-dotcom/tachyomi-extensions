@@ -1,0 +1,106 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-09-29T15:15:32Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "6ee24b3e-5a71-480f-abe0-5c9791402fc8",
+      "title": "Otoko Ippiki Gaki Daisho",
+      "url": "https://mangadex.org/title/6ee24b3e-5a71-480f-abe0-5c9791402fc8"
+    },
+    {
+      "source": "mangadex",
+      "key": "9316b513-7adc-4c1e-9405-fb65ea8570bc",
+      "title": "What Was I Meant to Call This Mess That Wouldn't Go Away?",
+      "url": "https://mangadex.org/title/9316b513-7adc-4c1e-9405-fb65ea8570bc"
+    },
+    {
+      "source": "mangadex",
+      "key": "9b3d1a67-941f-4538-9e75-3797eeb3771f",
+      "title": "How to Treat a Lady Knight Right",
+      "url": "https://mangadex.org/title/9b3d1a67-941f-4538-9e75-3797eeb3771f"
+    },
+    {
+      "source": "mangadex",
+      "key": "a0c817d7-3cd5-4f29-abd1-1baa6c225817",
+      "title": "b(a)dtime stories",
+      "url": "https://mangadex.org/title/a0c817d7-3cd5-4f29-abd1-1baa6c225817"
+    },
+    {
+      "source": "mangadex",
+      "key": "b2aab7a6-59be-4270-b942-5d7965ebcb19",
+      "title": "The Cat in Quarantine",
+      "url": "https://mangadex.org/title/b2aab7a6-59be-4270-b942-5d7965ebcb19"
+    },
+    {
+      "source": "mangadex",
+      "key": "ce89adb4-63fc-422e-9fbc-40ea6af4525c",
+      "title": "Terra ForMars",
+      "url": "https://mangadex.org/title/ce89adb4-63fc-422e-9fbc-40ea6af4525c"
+    },
+    {
+      "source": "mangadex",
+      "key": "e6e2bc05-4b01-47d5-b0e5-78374d58368e",
+      "title": "untitled",
+      "url": "https://mangadex.org/title/e6e2bc05-4b01-47d5-b0e5-78374d58368e"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "e8c316a1-fc1a-4870-b418-29d5013db516",
+      "title": "The Heroines of a Gal Game Who Avoided the End of Death Read My [Diary] And Found Out My Secret",
+      "url": "https://mangadex.org/title/e8c316a1-fc1a-4870-b418-29d5013db516",
+      "removed_at": "2026-09-29T15:15:32Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "15b458ec-71fc-40b0-af60-656d0904490e",
+      "title": "Air Gear",
+      "url": "https://mangadex.org/title/15b458ec-71fc-40b0-af60-656d0904490e",
+      "removed_at": "2026-09-29T15:15:32Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "3bb0279f-a01d-4aa4-93e4-305800f4b83e",
+      "title": "Yona of the Dawn",
+      "url": "https://mangadex.org/title/3bb0279f-a01d-4aa4-93e4-305800f4b83e",
+      "removed_at": "2026-09-29T15:15:32Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "48263de6-0f6e-4e62-96d0-345d12058d87",
+      "title": "Yu☆Gi☆Oh! GX",
+      "url": "https://mangadex.org/title/48263de6-0f6e-4e62-96d0-345d12058d87",
+      "removed_at": "2026-09-29T15:15:32Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "51faffdd-bdc5-41fb-a230-d377f0bd2f33",
+      "title": "The Legend of Dororo and Hyakkimaru",
+      "url": "https://mangadex.org/title/51faffdd-bdc5-41fb-a230-d377f0bd2f33",
+      "removed_at": "2026-09-29T15:15:32Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "e30a22f9-352c-4e23-a6e9-95807620baaf",
+      "title": "Why You Shouldn't Enter a Haunted House",
+      "url": "https://mangadex.org/title/e30a22f9-352c-4e23-a6e9-95807620baaf",
+      "removed_at": "2026-09-29T15:15:32Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "87cef5f8-cb3a-4797-8560-a9faddd05f37",
+      "title": "Tsukimino Karma is Just My Pet...",
+      "url": "https://mangadex.org/title/87cef5f8-cb3a-4797-8560-a9faddd05f37",
+      "removed_at": "2026-09-29T15:15:32Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "fa718bd1-a6d2-4225-acc2-2828ac2dce6b",
+      "title": "Pressed Flower",
+      "url": "https://mangadex.org/title/fa718bd1-a6d2-4225-acc2-2828ac2dce6b",
+      "removed_at": "2026-09-29T15:15:32Z"
+    }
+  ]
+}
