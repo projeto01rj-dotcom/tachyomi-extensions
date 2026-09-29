@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-09-29T20:05:21Z",
+  "updated_at": "2026-09-29T23:50:35Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -184,9 +184,10 @@
       "title": "Nine Peaks",
       "url": "https://mangadex.org/title/0cfcda3b-0dcb-459b-9931-aa823e7bf403",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-29T23:50:35Z",
+      "removed_by_source": true
     },
     "0e017a08-835a-4cbe-ba63-576d5010a5a0": {
       "title": "Sem título",
@@ -4170,9 +4171,10 @@
       "title": "Nighthawk Returns",
       "url": "https://mangadex.org/title/f21cda14-5352-4ae9-82c5-53d68b4d8869",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-29T23:50:35Z",
+      "removed_by_source": true
     },
     "f239fcd4-9f7f-4296-9e52-ee5a66a7e938": {
       "title": "Namida Ame to Serenade",
@@ -5256,9 +5258,10 @@
       "title": "I See You, Aizawa-san!",
       "url": "https://mangadex.org/title/f110d48a-8461-428e-bbcb-5ae3c0d53d25",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-19T20:52:57Z",
-      "removed_at": null
+      "removed_at": "2026-09-29T23:50:35Z",
+      "removed_by_source": true
     },
     "9b896cac-d827-4d1e-b32f-a914a2d9d323": {
       "title": "Sem título",
@@ -6943,9 +6946,10 @@
       "title": "One-Punch Man",
       "url": "https://mangadex.org/title/d8a959f7-648e-4c8d-8f23-f1f3f8e129f3",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-24T10:49:47Z",
-      "removed_at": null
+      "removed_at": "2026-09-29T23:50:35Z",
+      "removed_by_source": true
     },
     "e4573044-ca38-4b83-bcc5-9e3a7c0b764b": {
       "title": "Dear Flowers That Bloom In Days of Yore",
@@ -7027,9 +7031,10 @@
       "title": "Dead Mount Death Play",
       "url": "https://mangadex.org/title/960e28fa-31de-4de0-bd62-a91c0243ed0e",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-24T19:39:02Z",
-      "removed_at": null
+      "removed_at": "2026-09-29T23:50:35Z",
+      "removed_by_source": true
     },
     "971fb926-e2c7-40da-be30-59e540aeb013": {
       "title": "Hima-Ten!",
@@ -7075,9 +7080,10 @@
       "title": "Yearning for a Night Full of You",
       "url": "https://mangadex.org/title/cde5424f-02e5-4c90-a433-b92d831d9856",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-24T19:39:02Z",
-      "removed_at": null
+      "removed_at": "2026-09-29T23:50:35Z",
+      "removed_by_source": true
     },
     "fa4816db-6ea5-4183-81e5-08495557eb91": {
       "title": "Massacre Happy End: The Blue Chapter",
@@ -8527,6 +8533,14 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-09-29T20:05:21Z",
+      "removed_at": null
+    },
+    "1834ead6-82fd-4a79-a998-c5ab0c8edeef": {
+      "title": "Metaphor: ReFantazio",
+      "url": "https://mangadex.org/title/1834ead6-82fd-4a79-a998-c5ab0c8edeef",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-29T23:50:35Z",
       "removed_at": null
     }
   }

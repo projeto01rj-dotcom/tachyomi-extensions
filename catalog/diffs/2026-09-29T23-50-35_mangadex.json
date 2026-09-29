@@ -1,0 +1,56 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-09-29T23:50:35Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "1834ead6-82fd-4a79-a998-c5ab0c8edeef",
+      "title": "Metaphor: ReFantazio",
+      "url": "https://mangadex.org/title/1834ead6-82fd-4a79-a998-c5ab0c8edeef"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "0cfcda3b-0dcb-459b-9931-aa823e7bf403",
+      "title": "Nine Peaks",
+      "url": "https://mangadex.org/title/0cfcda3b-0dcb-459b-9931-aa823e7bf403",
+      "removed_at": "2026-09-29T23:50:35Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "f21cda14-5352-4ae9-82c5-53d68b4d8869",
+      "title": "Nighthawk Returns",
+      "url": "https://mangadex.org/title/f21cda14-5352-4ae9-82c5-53d68b4d8869",
+      "removed_at": "2026-09-29T23:50:35Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "f110d48a-8461-428e-bbcb-5ae3c0d53d25",
+      "title": "I See You, Aizawa-san!",
+      "url": "https://mangadex.org/title/f110d48a-8461-428e-bbcb-5ae3c0d53d25",
+      "removed_at": "2026-09-29T23:50:35Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "d8a959f7-648e-4c8d-8f23-f1f3f8e129f3",
+      "title": "One-Punch Man",
+      "url": "https://mangadex.org/title/d8a959f7-648e-4c8d-8f23-f1f3f8e129f3",
+      "removed_at": "2026-09-29T23:50:35Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "960e28fa-31de-4de0-bd62-a91c0243ed0e",
+      "title": "Dead Mount Death Play",
+      "url": "https://mangadex.org/title/960e28fa-31de-4de0-bd62-a91c0243ed0e",
+      "removed_at": "2026-09-29T23:50:35Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "cde5424f-02e5-4c90-a433-b92d831d9856",
+      "title": "Yearning for a Night Full of You",
+      "url": "https://mangadex.org/title/cde5424f-02e5-4c90-a433-b92d831d9856",
+      "removed_at": "2026-09-29T23:50:35Z"
+    }
+  ]
+}
