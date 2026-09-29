@@ -1,0 +1,69 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-09-29T08:49:30Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "0c44cf39-3d6c-4472-815b-9e163613cfe9",
+      "title": "My Wish Is to Fall in Love Until You Die",
+      "url": "https://mangadex.org/title/0c44cf39-3d6c-4472-815b-9e163613cfe9"
+    },
+    {
+      "source": "mangadex",
+      "key": "1760bde8-b369-4072-943d-1d99a521d75c",
+      "title": "Mashiro-chan Wants to Do It Even If It's with a Fake Boyfriend",
+      "url": "https://mangadex.org/title/1760bde8-b369-4072-943d-1d99a521d75c"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "f417eb23-621c-4ff4-b110-640d3d6d97b7",
+      "title": "Graykeith: Translator Daemonica",
+      "url": "https://mangadex.org/title/f417eb23-621c-4ff4-b110-640d3d6d97b7",
+      "removed_at": "2026-09-29T08:49:30Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "dddd5a26-839b-4762-ad81-060aeee32b60",
+      "title": "Starting With x10: You Really Exploited the Bug!",
+      "url": "https://mangadex.org/title/dddd5a26-839b-4762-ad81-060aeee32b60",
+      "removed_at": "2026-09-29T08:49:30Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "83c8fa21-926e-423f-a4ac-a74dbabad55c",
+      "title": "Sem título",
+      "url": "https://mangadex.org/title/83c8fa21-926e-423f-a4ac-a74dbabad55c",
+      "removed_at": "2026-09-29T08:49:30Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "0081e3dd-bf93-4bd4-aa95-3e8c0f1dfa31",
+      "title": "Yukidoke to Agapanthus",
+      "url": "https://mangadex.org/title/0081e3dd-bf93-4bd4-aa95-3e8c0f1dfa31",
+      "removed_at": "2026-09-29T08:49:30Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "0fc730bf-45d6-42c1-8823-1c379aa1309e",
+      "title": "JK to Kateikyoushi",
+      "url": "https://mangadex.org/title/0fc730bf-45d6-42c1-8823-1c379aa1309e",
+      "removed_at": "2026-09-29T08:49:30Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "e42f6486-e018-4f29-b54c-7baed2ee855d",
+      "title": "Sem título",
+      "url": "https://mangadex.org/title/e42f6486-e018-4f29-b54c-7baed2ee855d",
+      "removed_at": "2026-09-29T08:49:30Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "89daf9dc-075a-4aa5-873a-cc76bb287108",
+      "title": "The Way of the Househusband",
+      "url": "https://mangadex.org/title/89daf9dc-075a-4aa5-873a-cc76bb287108",
+      "removed_at": "2026-09-29T08:49:30Z"
+    }
+  ]
+}
