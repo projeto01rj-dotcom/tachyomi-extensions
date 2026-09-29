@@ -1,0 +1,81 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-09-29T02:26:01Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "394ef8a1-a59a-4e4e-9d6c-8e1a834d307a",
+      "title": "Miss Kobayashi's Dragon Maid: Ilulu Doesn't Understand Love",
+      "url": "https://mangadex.org/title/394ef8a1-a59a-4e4e-9d6c-8e1a834d307a"
+    },
+    {
+      "source": "mangadex",
+      "key": "78a664a7-2f4e-464b-b925-92984012f00c",
+      "title": "Even If You Don't Do It",
+      "url": "https://mangadex.org/title/78a664a7-2f4e-464b-b925-92984012f00c"
+    },
+    {
+      "source": "mangadex",
+      "key": "f4fa3679-6918-4684-bcb6-377c9f336898",
+      "title": "Eastern Strange Legend of Wise Spirits: Cheating Detective Satori",
+      "url": "https://mangadex.org/title/f4fa3679-6918-4684-bcb6-377c9f336898"
+    },
+    {
+      "source": "mangadex",
+      "key": "fc7e628c-6c26-497a-b17d-dfea90b44652",
+      "title": "A Girlfriend Was Forced Upon Me, The Forever Loner",
+      "url": "https://mangadex.org/title/fc7e628c-6c26-497a-b17d-dfea90b44652"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "1aca5c7d-f9db-4b8f-90a3-d56bf357ecb9",
+      "title": "Burning Kabaddi",
+      "url": "https://mangadex.org/title/1aca5c7d-f9db-4b8f-90a3-d56bf357ecb9",
+      "removed_at": "2026-09-29T02:26:01Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "6274fcab-df09-4ac5-b516-14152bd031c7",
+      "title": "The Dangers in My Heart: The Romantic Comedy Won't Start",
+      "url": "https://mangadex.org/title/6274fcab-df09-4ac5-b516-14152bd031c7",
+      "removed_at": "2026-09-29T02:26:01Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "68095946-ece2-4090-b0df-698f1cdb2a70",
+      "title": "Crows ZERO II - Suzuran x Housen",
+      "url": "https://mangadex.org/title/68095946-ece2-4090-b0df-698f1cdb2a70",
+      "removed_at": "2026-09-29T02:26:01Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "7e4e5e8a-f3f0-4612-b04d-257e2ac0b7eb",
+      "title": "Finding Avalon: The Quest of a Chaosbringer",
+      "url": "https://mangadex.org/title/7e4e5e8a-f3f0-4612-b04d-257e2ac0b7eb",
+      "removed_at": "2026-09-29T02:26:01Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "8c511f19-fdb3-442a-89d9-c387c26a18b1",
+      "title": "Watashi no Tomodachi ga Sekaiichi Kawaii",
+      "url": "https://mangadex.org/title/8c511f19-fdb3-442a-89d9-c387c26a18b1",
+      "removed_at": "2026-09-29T02:26:01Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "e5ce88e2-8c46-482d-8acf-5c6d5a64a585",
+      "title": "Noragami: Stray God",
+      "url": "https://mangadex.org/title/e5ce88e2-8c46-482d-8acf-5c6d5a64a585",
+      "removed_at": "2026-09-29T02:26:01Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "f3bbee75-f39d-4853-a51b-81c55df8cc15",
+      "title": "Santa X",
+      "url": "https://mangadex.org/title/f3bbee75-f39d-4853-a51b-81c55df8cc15",
+      "removed_at": "2026-09-29T02:26:01Z"
+    }
+  ]
+}

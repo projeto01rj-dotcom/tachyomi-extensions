@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-09-28T22:48:10Z",
+  "updated_at": "2026-09-29T02:26:01Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -6698,9 +6698,10 @@
       "title": "Burning Kabaddi",
       "url": "https://mangadex.org/title/1aca5c7d-f9db-4b8f-90a3-d56bf357ecb9",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-23T19:08:35Z",
-      "removed_at": null
+      "removed_at": "2026-09-29T02:26:01Z",
+      "removed_by_source": true
     },
     "3aa6cd45-a36e-4abd-ab1c-f60f1db0014a": {
       "title": "Natsume & Natsume",
@@ -6723,9 +6724,10 @@
       "title": "The Dangers in My Heart: The Romantic Comedy Won't Start",
       "url": "https://mangadex.org/title/6274fcab-df09-4ac5-b516-14152bd031c7",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-23T19:08:35Z",
-      "removed_at": null
+      "removed_at": "2026-09-29T02:26:01Z",
+      "removed_by_source": true
     },
     "63b2dc67-f55c-4f4a-899f-cedd77721bcf": {
       "title": "I'm the Evil Lord of an Intergalactic Empire!",
@@ -6740,9 +6742,10 @@
       "title": "Crows ZERO II - Suzuran x Housen",
       "url": "https://mangadex.org/title/68095946-ece2-4090-b0df-698f1cdb2a70",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-23T19:08:35Z",
-      "removed_at": null
+      "removed_at": "2026-09-29T02:26:01Z",
+      "removed_by_source": true
     },
     "7244463a-ebd5-4fb4-b71a-96d93008c1d6": {
       "title": "The Hero's Granddaughter and the Demon King's Daughter",
@@ -6757,17 +6760,19 @@
       "title": "Finding Avalon: The Quest of a Chaosbringer",
       "url": "https://mangadex.org/title/7e4e5e8a-f3f0-4612-b04d-257e2ac0b7eb",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-23T19:08:35Z",
-      "removed_at": null
+      "removed_at": "2026-09-29T02:26:01Z",
+      "removed_by_source": true
     },
     "8c511f19-fdb3-442a-89d9-c387c26a18b1": {
       "title": "Watashi no Tomodachi ga Sekaiichi Kawaii",
       "url": "https://mangadex.org/title/8c511f19-fdb3-442a-89d9-c387c26a18b1",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-23T19:08:35Z",
-      "removed_at": null
+      "removed_at": "2026-09-29T02:26:01Z",
+      "removed_by_source": true
     },
     "a6ccbfd7-4f32-4566-9e56-187189984a61": {
       "title": "The Unfortunate \"Trapper\" Cast Out of the Hero's Party Will Defy Fate and Become the Strongest with the Unique Skill \"Arrow\"",
@@ -6782,17 +6787,19 @@
       "title": "Noragami: Stray God",
       "url": "https://mangadex.org/title/e5ce88e2-8c46-482d-8acf-5c6d5a64a585",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-23T19:08:35Z",
-      "removed_at": null
+      "removed_at": "2026-09-29T02:26:01Z",
+      "removed_by_source": true
     },
     "f3bbee75-f39d-4853-a51b-81c55df8cc15": {
       "title": "Santa X",
       "url": "https://mangadex.org/title/f3bbee75-f39d-4853-a51b-81c55df8cc15",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-23T19:08:35Z",
-      "removed_at": null
+      "removed_at": "2026-09-29T02:26:01Z",
+      "removed_by_source": true
     },
     "0081e3dd-bf93-4bd4-aa95-3e8c0f1dfa31": {
       "title": "Yukidoke to Agapanthus",
@@ -8362,6 +8369,38 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-09-28T22:48:10Z",
+      "removed_at": null
+    },
+    "394ef8a1-a59a-4e4e-9d6c-8e1a834d307a": {
+      "title": "Miss Kobayashi's Dragon Maid: Ilulu Doesn't Understand Love",
+      "url": "https://mangadex.org/title/394ef8a1-a59a-4e4e-9d6c-8e1a834d307a",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-29T02:26:01Z",
+      "removed_at": null
+    },
+    "78a664a7-2f4e-464b-b925-92984012f00c": {
+      "title": "Even If You Don't Do It",
+      "url": "https://mangadex.org/title/78a664a7-2f4e-464b-b925-92984012f00c",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-29T02:26:01Z",
+      "removed_at": null
+    },
+    "f4fa3679-6918-4684-bcb6-377c9f336898": {
+      "title": "Eastern Strange Legend of Wise Spirits: Cheating Detective Satori",
+      "url": "https://mangadex.org/title/f4fa3679-6918-4684-bcb6-377c9f336898",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-29T02:26:01Z",
+      "removed_at": null
+    },
+    "fc7e628c-6c26-497a-b17d-dfea90b44652": {
+      "title": "A Girlfriend Was Forced Upon Me, The Forever Loner",
+      "url": "https://mangadex.org/title/fc7e628c-6c26-497a-b17d-dfea90b44652",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-29T02:26:01Z",
       "removed_at": null
     }
   }
