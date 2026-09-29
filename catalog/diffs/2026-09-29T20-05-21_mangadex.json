@@ -1,0 +1,81 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-09-29T20:05:21Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "03346265-8076-4b14-8c80-78c2f04511be",
+      "title": "NoTR",
+      "url": "https://mangadex.org/title/03346265-8076-4b14-8c80-78c2f04511be"
+    },
+    {
+      "source": "mangadex",
+      "key": "29ca9de0-b633-4756-b4f3-c3bef1ee4f9e",
+      "title": "Seasons of Lovesome",
+      "url": "https://mangadex.org/title/29ca9de0-b633-4756-b4f3-c3bef1ee4f9e"
+    },
+    {
+      "source": "mangadex",
+      "key": "2fec6641-beb1-4ae9-a32f-204dd06688ac",
+      "title": "The Angel Next Door Spoils Me Rotten",
+      "url": "https://mangadex.org/title/2fec6641-beb1-4ae9-a32f-204dd06688ac"
+    },
+    {
+      "source": "mangadex",
+      "key": "8513b78c-cd7e-4efa-90d4-cab852430fd6",
+      "title": "That Farthest, Closest Guy. ~I Was Supposed To Never Fall In Love With You~",
+      "url": "https://mangadex.org/title/8513b78c-cd7e-4efa-90d4-cab852430fd6"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "936f0ba5-ca65-4de4-99b1-528c02a4454d",
+      "title": "Hunter x Hunter (Official Colored)",
+      "url": "https://mangadex.org/title/936f0ba5-ca65-4de4-99b1-528c02a4454d",
+      "removed_at": "2026-09-29T20:05:21Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "7b9cc384-4c98-4d57-83a4-93be3e573d69",
+      "title": "The Hero Returns from Another World, Becomes an Influencer, and Earns Money in the Real World, Where Dungeons have Appeared!",
+      "url": "https://mangadex.org/title/7b9cc384-4c98-4d57-83a4-93be3e573d69",
+      "removed_at": "2026-09-29T20:05:21Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "46e9cae5-4407-4576-9b9e-4c517ae9298e",
+      "title": "The Promised Neverland",
+      "url": "https://mangadex.org/title/46e9cae5-4407-4576-9b9e-4c517ae9298e",
+      "removed_at": "2026-09-29T20:05:21Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "b1629d65-f177-418a-a04f-ae4ee6929f90",
+      "title": "Imprisoned with the Horror Game's Male Lead",
+      "url": "https://mangadex.org/title/b1629d65-f177-418a-a04f-ae4ee6929f90",
+      "removed_at": "2026-09-29T20:05:21Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "059c9a8e-4e19-4a99-9d69-4f199a1e049f",
+      "title": "Abysmal",
+      "url": "https://mangadex.org/title/059c9a8e-4e19-4a99-9d69-4f199a1e049f",
+      "removed_at": "2026-09-29T20:05:21Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "a72994fd-f1c5-4df2-b7b0-423356408958",
+      "title": "The Black Create Summoner: Revenge of the Reincarnater",
+      "url": "https://mangadex.org/title/a72994fd-f1c5-4df2-b7b0-423356408958",
+      "removed_at": "2026-09-29T20:05:21Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "d4894b47-9af3-4b84-8adc-cb49e34994ab",
+      "title": "I Got Kicked Out of the Hero's Party, So I Went Back to My Hometown, and Then the Whole Party Followed Me!?",
+      "url": "https://mangadex.org/title/d4894b47-9af3-4b84-8adc-cb49e34994ab",
+      "removed_at": "2026-09-29T20:05:21Z"
+    }
+  ]
+}
