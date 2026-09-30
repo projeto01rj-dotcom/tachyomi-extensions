@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-09-30T16:11:08Z",
+  "updated_at": "2026-09-30T20:54:49Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -1092,17 +1092,19 @@
       "title": "Sweet Cohabitation Romcom with My Senior Girlfriend and Alcohol Starts at Twenty",
       "url": "https://mangadex.org/title/492e9584-b84b-4c78-afa1-71a747ba4ebe",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-30T20:54:49Z",
+      "removed_by_source": true
     },
     "494868d1-f9d9-405d-82c6-8bb8cfdc3980": {
       "title": "Hiiragi-chan & Tomikawa-chan",
       "url": "https://mangadex.org/title/494868d1-f9d9-405d-82c6-8bb8cfdc3980",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-30T20:54:49Z",
+      "removed_by_source": true
     },
     "4ada20eb-085a-491a-8c49-477ab42014d7": {
       "title": "The Beginning After the End",
@@ -2240,9 +2242,10 @@
       "title": "Farming Life in Another World",
       "url": "https://mangadex.org/title/879af0bb-ce30-47e4-a74e-cd1ce874c6e3",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-30T20:54:49Z",
+      "removed_by_source": true
     },
     "87ffa375-bd2c-49ba-ba0c-6d78ea07c342": {
       "title": "Medaka Kuroiwa is Impervious to My Charms",
@@ -4160,9 +4163,10 @@
       "title": "The Weakest Tamer Began a Journey to Pick up Trash",
       "url": "https://mangadex.org/title/f0aa2ca6-8985-4b6f-beda-f7fa1956422e",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-30T20:54:49Z",
+      "removed_by_source": true
     },
     "f1680061-212b-4265-a201-61bd371f7328": {
       "title": "5-ji kara 9-ji made",
@@ -4804,9 +4808,10 @@
       "title": "Managing a Wild Idol",
       "url": "https://mangadex.org/title/2f0af125-71c3-462f-b518-bf431f52a51e",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-19T07:27:30Z",
-      "removed_at": null
+      "removed_at": "2026-09-30T20:54:49Z",
+      "removed_by_source": true
     },
     "315d9d7d-6875-4e48-ab96-fbb7b9c8f3f2": {
       "title": "I’m a Kept Man for the Three Most Beautiful Girls in School",
@@ -5676,9 +5681,10 @@
       "title": "Overlord: New World",
       "url": "https://mangadex.org/title/73320da2-eac6-4ff5-a12d-30788624d85b",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-20T17:32:57Z",
-      "removed_at": null
+      "removed_at": "2026-09-30T20:54:49Z",
+      "removed_by_source": true
     },
     "b5c415a8-2af4-44cd-8b2e-edb23800e2c8": {
       "title": "I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability",
@@ -6157,9 +6163,10 @@
       "title": "Gakuen Babysitters",
       "url": "https://mangadex.org/title/9b96ec17-deb7-402b-b822-ae40e03533db",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-21T21:28:23Z",
-      "removed_at": null
+      "removed_at": "2026-09-30T20:54:49Z",
+      "removed_by_source": true
     },
     "9f652434-2d30-49b0-9375-ba07de981c70": {
       "title": "Even Though I Was a Virgin, I Reincarnated as a Villainous Noble, so I Was Supposed to Build a Harem... but Somehow I Ended up Becoming a Saint Who Saved the World (Sob)",
@@ -6272,9 +6279,10 @@
       "title": "Made In Abyss",
       "url": "https://mangadex.org/title/80422e14-b9ad-4fda-970f-de370d5fa4e5",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-22T10:09:00Z",
-      "removed_at": null
+      "removed_at": "2026-09-30T20:54:49Z",
+      "removed_by_source": true
     },
     "8c1d7d0c-e0b7-4170-941d-29f652c3c19d": {
       "title": "The Apothecary Diaries: Maomao's Notes from the Inner Palace",
@@ -6555,9 +6563,10 @@
       "title": "The Lecture You Would Never Want Your Parents to Give You",
       "url": "https://mangadex.org/title/3cbc4293-3623-470a-9405-f46b328c83d4",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-23T05:24:06Z",
-      "removed_at": null
+      "removed_at": "2026-09-30T20:54:49Z",
+      "removed_by_source": true
     },
     "469171aa-78cd-475c-98c5-68475d059dc1": {
       "title": "Multi-Mind Mayhem: Isekai Tensei Soudouki",
@@ -7223,9 +7232,10 @@
       "title": "A 3 panel Romcom Manga which ends in a page",
       "url": "https://mangadex.org/title/e4453a00-7a95-4c65-bec9-b612fd32d2cb",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-25T06:17:35Z",
-      "removed_at": null
+      "removed_at": "2026-09-30T20:54:49Z",
+      "removed_by_source": true
     },
     "f546580d-2bf5-4738-a2d9-420f6e56970b": {
       "title": "Hino Hideshi's Doraemon",
@@ -7282,9 +7292,10 @@
       "title": "Venus puts fur on me",
       "url": "https://mangadex.org/title/4d12b7ee-d834-4214-999a-bd824b8d9470",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-25T17:24:00Z",
-      "removed_at": null
+      "removed_at": "2026-09-30T20:54:49Z",
+      "removed_by_source": true
     },
     "5d49268c-f171-42c2-bf79-4b992bc50352": {
       "title": "Love Revolution",
@@ -7298,9 +7309,10 @@
       "title": "The Girl I Like Confessed to Me While Handing Me Cash",
       "url": "https://mangadex.org/title/cb34b520-fd48-474e-8d06-a7a25473342e",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-25T17:24:00Z",
-      "removed_at": null
+      "removed_at": "2026-09-30T20:54:49Z",
+      "removed_by_source": true
     },
     "d422ddc8-eea3-4b0a-82a4-291bbd8c9285": {
       "title": "The Children of Shiunji Family",
@@ -7314,9 +7326,10 @@
       "title": "There's No Need for the Most Evil Rogue to Move",
       "url": "https://mangadex.org/title/d6c4c581-e3c8-4816-b0a1-bd3b80472432",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-25T17:24:00Z",
-      "removed_at": null
+      "removed_at": "2026-09-30T20:54:49Z",
+      "removed_by_source": true
     },
     "e06e6024-9688-4a38-a8b4-6facd3fe1d80": {
       "title": "Miss Regular Customer Wants to Enjoy",
@@ -7395,9 +7408,10 @@
       "title": "Garbage Brave: Revenge Story of a Hero Who Has Been Thrown Away After Being Summoned to Another World",
       "url": "https://mangadex.org/title/737c292b-5b97-41bb-8b04-51bcc945f7a7",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-25T20:36:24Z",
-      "removed_at": null
+      "removed_at": "2026-09-30T20:54:49Z",
+      "removed_by_source": true
     },
     "8c6e0eb8-fb94-44a3-9bf4-fa72dee36775": {
       "title": "Your Throne",
@@ -8588,9 +8602,10 @@
       "title": "Kurumizawa's Folly",
       "url": "https://mangadex.org/title/35131be6-d68d-4141-b756-930361172eba",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-30T03:12:27Z",
-      "removed_at": null
+      "removed_at": "2026-09-30T20:54:49Z",
+      "removed_by_source": true
     },
     "3b5c0def-79ae-44e8-9d71-9aa2e83f9a9f": {
       "title": "Petals of Reincarnation",
@@ -8718,6 +8733,70 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-09-30T16:11:08Z",
+      "removed_at": null
+    },
+    "12571b60-3b83-4a14-99c5-6c7c3a717d5d": {
+      "title": "I'm Working at the Church as a Priest, but I Want to Be Cut Some Slack from the Mutilated Bodies of the Heroes that Keep Getting Sent to Me",
+      "url": "https://mangadex.org/title/12571b60-3b83-4a14-99c5-6c7c3a717d5d",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-30T20:54:49Z",
+      "removed_at": null
+    },
+    "69dc2fa5-9b39-48c3-bea5-5f6bf4bf4038": {
+      "title": "Tensei Shitara Ore ga Heroine de Aitsu ga Yuusha Datta",
+      "url": "https://mangadex.org/title/69dc2fa5-9b39-48c3-bea5-5f6bf4bf4038",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-30T20:54:49Z",
+      "removed_at": null
+    },
+    "7622667c-6922-4003-9fc1-ded7a0598292": {
+      "title": "Namae no nai Kaibutsu - Kumo to Shoujo to Ryoki Satsujin",
+      "url": "https://mangadex.org/title/7622667c-6922-4003-9fc1-ded7a0598292",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-30T20:54:49Z",
+      "removed_at": null
+    },
+    "979836c0-171e-4c88-9a8a-1de8d156b136": {
+      "title": "Stained in Crimson",
+      "url": "https://mangadex.org/title/979836c0-171e-4c88-9a8a-1de8d156b136",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-30T20:54:49Z",
+      "removed_at": null
+    },
+    "99a896d1-2b13-4638-8f5a-96dbcc70ab93": {
+      "title": "A Cozy Life in the Woods with the White Witch",
+      "url": "https://mangadex.org/title/99a896d1-2b13-4638-8f5a-96dbcc70ab93",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-30T20:54:49Z",
+      "removed_at": null
+    },
+    "aec5b821-ca9d-4273-bece-cd3385a9cc8c": {
+      "title": "Kagetora-kun Can't Return",
+      "url": "https://mangadex.org/title/aec5b821-ca9d-4273-bece-cd3385a9cc8c",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-30T20:54:49Z",
+      "removed_at": null
+    },
+    "bcf2a791-c789-483a-91b1-12b09d2b38d7": {
+      "title": "How to Eat Life",
+      "url": "https://mangadex.org/title/bcf2a791-c789-483a-91b1-12b09d2b38d7",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-30T20:54:49Z",
+      "removed_at": null
+    },
+    "c9c13bf0-abd8-46a8-9b82-18c248b1db89": {
+      "title": "The Handsome Girl Who Stole My Girlfriend Seems to be After Me Now",
+      "url": "https://mangadex.org/title/c9c13bf0-abd8-46a8-9b82-18c248b1db89",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-30T20:54:49Z",
       "removed_at": null
     }
   }
