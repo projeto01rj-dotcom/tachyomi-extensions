@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-09-29T23:50:35Z",
+  "updated_at": "2026-09-30T03:12:27Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -2086,9 +2086,10 @@
       "title": "Zettai Karen Children",
       "url": "https://mangadex.org/title/8265ac42-6962-416c-bcb9-cc30915d5856",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-30T03:12:27Z",
+      "removed_by_source": true
     },
     "8311ab2d-f034-4e7a-8635-4dce27bf6027": {
       "title": "Rurouni Kenshin: The Hokkaido Arc",
@@ -3137,9 +3138,10 @@
       "title": "Klutzy, Gullible Nishiga Hachi",
       "url": "https://mangadex.org/title/b847999d-1de3-4df5-83e5-a2cf970d060a",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-30T03:12:27Z",
+      "removed_by_source": true
     },
     "baaa0ca4-efef-4b15-b91a-c1f85692c2a7": {
       "title": "Vampire Knight",
@@ -4342,9 +4344,10 @@
       "title": "Ms. Undead's Clumsy Youth",
       "url": "https://mangadex.org/title/fb639340-5715-4242-9345-a2a5f9142f54",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-30T03:12:27Z",
+      "removed_by_source": true
     },
     "fbf326f7-ccbd-4d54-bbad-852d76e46523": {
       "title": "Revenge of the Baskerville Bloodhound",
@@ -7007,17 +7010,19 @@
       "title": "DARKER THAN BLACK -Jet Black Flower-",
       "url": "https://mangadex.org/title/31295895-005d-40bf-b897-22aaeb5c1a66",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-24T19:39:02Z",
-      "removed_at": null
+      "removed_at": "2026-09-30T03:12:27Z",
+      "removed_by_source": true
     },
     "7324c64a-b35a-4072-84e6-dff029a4af27": {
       "title": "The Classroom of a Black Cat and a Witch",
       "url": "https://mangadex.org/title/7324c64a-b35a-4072-84e6-dff029a4af27",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-24T19:39:02Z",
-      "removed_at": null
+      "removed_at": "2026-09-30T03:12:27Z",
+      "removed_by_source": true
     },
     "8cd657d2-fa8c-4927-b884-44952fe5fbd1": {
       "title": "My Cute Cousin Always Gets Her Way",
@@ -7040,33 +7045,37 @@
       "title": "Hima-Ten!",
       "url": "https://mangadex.org/title/971fb926-e2c7-40da-be30-59e540aeb013",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-24T19:39:02Z",
-      "removed_at": null
+      "removed_at": "2026-09-30T03:12:27Z",
+      "removed_by_source": true
     },
     "a19db143-0399-4c72-b999-75544b509cb9": {
       "title": "I Thought My Childhood Friend Was a Guy… Now She’s My Wife and It’s Going Too Well!",
       "url": "https://mangadex.org/title/a19db143-0399-4c72-b999-75544b509cb9",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-24T19:39:02Z",
-      "removed_at": null
+      "removed_at": "2026-09-30T03:12:27Z",
+      "removed_by_source": true
     },
     "b198f9b8-7489-44cc-a062-1cb4b32d5507": {
       "title": "When Trying to Get Back at the Hometown Bullies, Another Battle Began.",
       "url": "https://mangadex.org/title/b198f9b8-7489-44cc-a062-1cb4b32d5507",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-24T19:39:02Z",
-      "removed_at": null
+      "removed_at": "2026-09-30T03:12:27Z",
+      "removed_by_source": true
     },
     "b66e8da4-f2f3-4159-8db8-e523094be8c2": {
       "title": "Puniru is a Kawaii Slime",
       "url": "https://mangadex.org/title/b66e8da4-f2f3-4159-8db8-e523094be8c2",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-24T19:39:02Z",
-      "removed_at": null
+      "removed_at": "2026-09-30T03:12:27Z",
+      "removed_by_source": true
     },
     "b8faa8ab-cb4e-416f-829d-d2a6042ba5ac": {
       "title": "Ikoku Nikki",
@@ -7089,9 +7098,10 @@
       "title": "Massacre Happy End: The Blue Chapter",
       "url": "https://mangadex.org/title/fa4816db-6ea5-4183-81e5-08495557eb91",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-24T19:39:02Z",
-      "removed_at": null
+      "removed_at": "2026-09-30T03:12:27Z",
+      "removed_by_source": true
     },
     "202718c6-525e-4cec-a469-c945548cacc3": {
       "title": "I Hate That We're Childhood Friends!: My Rise to the Top of School Life with an S-Rank Beauty Begins After a Falling-Out",
@@ -7113,33 +7123,37 @@
       "title": "Akabane Honeko no Bodyguard",
       "url": "https://mangadex.org/title/c1f2daa5-9e93-42b9-86e8-f1ddb2916db2",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-24T22:51:55Z",
-      "removed_at": null
+      "removed_at": "2026-09-30T03:12:27Z",
+      "removed_by_source": true
     },
     "d24e1ca1-431f-49cc-ba20-b48d15407e33": {
       "title": "Sem título",
       "url": "https://mangadex.org/title/d24e1ca1-431f-49cc-ba20-b48d15407e33",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-24T22:51:55Z",
-      "removed_at": null
+      "removed_at": "2026-09-30T03:12:27Z",
+      "removed_by_source": true
     },
     "555bc816-ecab-48a2-b4f6-024da707a392": {
       "title": "Houkago wa Kenka Saikyou no Gal ni Tsurekomareru Seikatsu - Kanojotachi ni Sukarete, Boku mo Saikyou ni!?",
       "url": "https://mangadex.org/title/555bc816-ecab-48a2-b4f6-024da707a392",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-25T01:02:40Z",
-      "removed_at": null
+      "removed_at": "2026-09-30T03:12:27Z",
+      "removed_by_source": true
     },
     "7aeb5715-8918-44a5-963d-23d94486ea22": {
       "title": "I Reincarnated as a Monster in a Game World, and Picked up the Heroine Who Was My Oshi in My Previous Life",
       "url": "https://mangadex.org/title/7aeb5715-8918-44a5-963d-23d94486ea22",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-25T01:02:40Z",
-      "removed_at": null
+      "removed_at": "2026-09-30T03:12:27Z",
+      "removed_by_source": true
     },
     "0121587d-69ee-40d7-8488-f2ef66e293ce": {
       "title": "Bear and Bunny Cannot Be Friends",
@@ -8541,6 +8555,94 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-09-29T23:50:35Z",
+      "removed_at": null
+    },
+    "3486c56e-47db-4d62-a9b4-71ea44acbaec": {
+      "title": "Centuria",
+      "url": "https://mangadex.org/title/3486c56e-47db-4d62-a9b4-71ea44acbaec",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-30T03:12:27Z",
+      "removed_at": null
+    },
+    "35131be6-d68d-4141-b756-930361172eba": {
+      "title": "Kurumizawa's Folly",
+      "url": "https://mangadex.org/title/35131be6-d68d-4141-b756-930361172eba",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-30T03:12:27Z",
+      "removed_at": null
+    },
+    "3b5c0def-79ae-44e8-9d71-9aa2e83f9a9f": {
+      "title": "Petals of Reincarnation",
+      "url": "https://mangadex.org/title/3b5c0def-79ae-44e8-9d71-9aa2e83f9a9f",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-30T03:12:27Z",
+      "removed_at": null
+    },
+    "44bb6cb5-7c19-4fc0-8e83-b895c41b12a5": {
+      "title": "Reader",
+      "url": "https://mangadex.org/title/44bb6cb5-7c19-4fc0-8e83-b895c41b12a5",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-30T03:12:27Z",
+      "removed_at": null
+    },
+    "84fe5a6a-6414-48f3-9d87-175c3b4c6089": {
+      "title": "Me & Roboco",
+      "url": "https://mangadex.org/title/84fe5a6a-6414-48f3-9d87-175c3b4c6089",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-30T03:12:27Z",
+      "removed_at": null
+    },
+    "8df8074d-c9b8-4526-b74b-ee287590608f": {
+      "title": "Under Doctor",
+      "url": "https://mangadex.org/title/8df8074d-c9b8-4526-b74b-ee287590608f",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-30T03:12:27Z",
+      "removed_at": null
+    },
+    "9d9b04ad-9a83-49f4-8ae4-a9a3780fe9c0": {
+      "title": "Sakamoto Days",
+      "url": "https://mangadex.org/title/9d9b04ad-9a83-49f4-8ae4-a9a3780fe9c0",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-30T03:12:27Z",
+      "removed_at": null
+    },
+    "ce398cd4-33cf-4717-9e2c-ef98c7a5c578": {
+      "title": "Hero Organization",
+      "url": "https://mangadex.org/title/ce398cd4-33cf-4717-9e2c-ef98c7a5c578",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-30T03:12:27Z",
+      "removed_at": null
+    },
+    "d6643b6b-5a2e-4f94-8f30-13d4f5e4299a": {
+      "title": "Hiiragi-san Is a Little Careless",
+      "url": "https://mangadex.org/title/d6643b6b-5a2e-4f94-8f30-13d4f5e4299a",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-30T03:12:27Z",
+      "removed_at": null
+    },
+    "f25669f5-d886-49c5-bbac-d3b4c5ff3d02": {
+      "title": "Ultimate Exorcist Kiyoshi",
+      "url": "https://mangadex.org/title/f25669f5-d886-49c5-bbac-d3b4c5ff3d02",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-30T03:12:27Z",
+      "removed_at": null
+    },
+    "f8e41a48-5ca9-41e3-94a7-a1379a4fda62": {
+      "title": "Kuroko’s Basketball",
+      "url": "https://mangadex.org/title/f8e41a48-5ca9-41e3-94a7-a1379a4fda62",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-30T03:12:27Z",
       "removed_at": null
     }
   }
