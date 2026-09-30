@@ -1,0 +1,121 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-09-30T16:11:08Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "569963c5-6b0b-4f92-b561-e1304b78b0dc",
+      "title": "Bungo Stray Dogs: Wan!",
+      "url": "https://mangadex.org/title/569963c5-6b0b-4f92-b561-e1304b78b0dc"
+    },
+    {
+      "source": "mangadex",
+      "key": "9422a147-c0c8-400d-9106-57cb8ece3dba",
+      "title": "You are Ms. servant",
+      "url": "https://mangadex.org/title/9422a147-c0c8-400d-9106-57cb8ece3dba"
+    },
+    {
+      "source": "mangadex",
+      "key": "b49fd121-19bf-4344-a8e1-d1be7ca04e08",
+      "title": "The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat",
+      "url": "https://mangadex.org/title/b49fd121-19bf-4344-a8e1-d1be7ca04e08"
+    },
+    {
+      "source": "mangadex",
+      "key": "d0fef7be-d7e7-4b1d-a30f-23702599bd05",
+      "title": "Scarlet Star",
+      "url": "https://mangadex.org/title/d0fef7be-d7e7-4b1d-a30f-23702599bd05"
+    },
+    {
+      "source": "mangadex",
+      "key": "ef63deb7-88bc-4942-85bb-2f32cfc72ea5",
+      "title": "Debby the Corsifa is Emulous",
+      "url": "https://mangadex.org/title/ef63deb7-88bc-4942-85bb-2f32cfc72ea5"
+    },
+    {
+      "source": "mangadex",
+      "key": "fbe1d7d2-f4b5-415a-9cb7-b4e9c819e8b8",
+      "title": "Kyou mo Veranda de",
+      "url": "https://mangadex.org/title/fbe1d7d2-f4b5-415a-9cb7-b4e9c819e8b8"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "90af37cc-76f4-4c90-bfe0-1e3b85a42da2",
+      "title": "Kamatte Shinsotsu-chan ga Maikai Sasottekuru",
+      "url": "https://mangadex.org/title/90af37cc-76f4-4c90-bfe0-1e3b85a42da2",
+      "removed_at": "2026-09-30T16:11:08Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "7e3d081f-30f2-475d-83bb-e247cffea3d6",
+      "title": "Isshiki-san Wants to Know About Love.",
+      "url": "https://mangadex.org/title/7e3d081f-30f2-475d-83bb-e247cffea3d6",
+      "removed_at": "2026-09-30T16:11:08Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "f6fbb32f-b6d6-453a-9a22-8ccea45451dd",
+      "title": "Oda-chan & Akechi-kun",
+      "url": "https://mangadex.org/title/f6fbb32f-b6d6-453a-9a22-8ccea45451dd",
+      "removed_at": "2026-09-30T16:11:08Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "55ace2fb-e157-4d76-9e72-67c6bd762a39",
+      "title": "An Archdemon's Dilemma: How to Love Your Elf Bride",
+      "url": "https://mangadex.org/title/55ace2fb-e157-4d76-9e72-67c6bd762a39",
+      "removed_at": "2026-09-30T16:11:08Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "e0c9100e-287d-4417-8c17-b4e696254dc7",
+      "title": "The Yakuza's Guide to Babysitting",
+      "url": "https://mangadex.org/title/e0c9100e-287d-4417-8c17-b4e696254dc7",
+      "removed_at": "2026-09-30T16:11:08Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "0121587d-69ee-40d7-8488-f2ef66e293ce",
+      "title": "Bear and Bunny Cannot Be Friends",
+      "url": "https://mangadex.org/title/0121587d-69ee-40d7-8488-f2ef66e293ce",
+      "removed_at": "2026-09-30T16:11:08Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "590666db-1beb-4830-8732-dc11dfbe0148",
+      "title": "Code Geass: Lelouch The Private Home Tutor",
+      "url": "https://mangadex.org/title/590666db-1beb-4830-8732-dc11dfbe0148",
+      "removed_at": "2026-09-30T16:11:08Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "678b0682-b887-4de4-b774-addf10d16c8b",
+      "title": "Code Geass: Lelouch of the Rebellion",
+      "url": "https://mangadex.org/title/678b0682-b887-4de4-b774-addf10d16c8b",
+      "removed_at": "2026-09-30T16:11:08Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "6bb8cc05-ff11-4f6b-b875-f708444fbfed",
+      "title": "A Story of a Plain Girl Who Hates Gyarus",
+      "url": "https://mangadex.org/title/6bb8cc05-ff11-4f6b-b875-f708444fbfed",
+      "removed_at": "2026-09-30T16:11:08Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "42f40118-dff5-4f23-acbf-e54e89f026bd",
+      "title": "Welcome Back, First Love.",
+      "url": "https://mangadex.org/title/42f40118-dff5-4f23-acbf-e54e89f026bd",
+      "removed_at": "2026-09-30T16:11:08Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "baa95345-24fb-47a9-83e9-434ff671f968",
+      "title": "Smoking Behind the Supermarket with You",
+      "url": "https://mangadex.org/title/baa95345-24fb-47a9-83e9-434ff671f968",
+      "removed_at": "2026-09-30T16:11:08Z"
+    }
+  ]
+}

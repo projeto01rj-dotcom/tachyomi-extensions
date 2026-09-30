@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-09-30T09:53:00Z",
+  "updated_at": "2026-09-30T16:11:08Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -2408,9 +2408,10 @@
       "title": "Kamatte Shinsotsu-chan ga Maikai Sasottekuru",
       "url": "https://mangadex.org/title/90af37cc-76f4-4c90-bfe0-1e3b85a42da2",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-30T16:11:08Z",
+      "removed_by_source": true
     },
     "912dd3eb-80f2-4659-8986-badb32c847c0": {
       "title": "Seven Sleeping Beauties",
@@ -5416,9 +5417,10 @@
       "title": "Isshiki-san Wants to Know About Love.",
       "url": "https://mangadex.org/title/7e3d081f-30f2-475d-83bb-e247cffea3d6",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-20T05:34:06Z",
-      "removed_at": null
+      "removed_at": "2026-09-30T16:11:08Z",
+      "removed_by_source": true
     },
     "bb5f1b24-58a6-49e4-847b-a322c2addbd5": {
       "title": "You're the Only One I Can See",
@@ -5611,9 +5613,10 @@
       "title": "Oda-chan & Akechi-kun",
       "url": "https://mangadex.org/title/f6fbb32f-b6d6-453a-9a22-8ccea45451dd",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-20T14:17:46Z",
-      "removed_at": null
+      "removed_at": "2026-09-30T16:11:08Z",
+      "removed_by_source": true
     },
     "15b376d2-e7a3-4bae-b837-041ba375d5b0": {
       "title": "Two Ways",
@@ -5894,9 +5897,10 @@
       "title": "An Archdemon's Dilemma: How to Love Your Elf Bride",
       "url": "https://mangadex.org/title/55ace2fb-e157-4d76-9e72-67c6bd762a39",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-21T05:42:57Z",
-      "removed_at": null
+      "removed_at": "2026-09-30T16:11:08Z",
+      "removed_by_source": true
     },
     "58e2a0a4-1296-4cdd-9552-84bd0349bd0e": {
       "title": "Saint Seiya: Another Story of Hades - Dark Wing",
@@ -5947,9 +5951,10 @@
       "title": "The Yakuza's Guide to Babysitting",
       "url": "https://mangadex.org/title/e0c9100e-287d-4417-8c17-b4e696254dc7",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-21T05:42:57Z",
-      "removed_at": null
+      "removed_at": "2026-09-30T16:11:08Z",
+      "removed_by_source": true
     },
     "f417eb23-621c-4ff4-b110-640d3d6d97b7": {
       "title": "Graykeith: Translator Daemonica",
@@ -7166,9 +7171,10 @@
       "title": "Bear and Bunny Cannot Be Friends",
       "url": "https://mangadex.org/title/0121587d-69ee-40d7-8488-f2ef66e293ce",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-25T06:17:35Z",
-      "removed_at": null
+      "removed_at": "2026-09-30T16:11:08Z",
+      "removed_by_source": true
     },
     "0da324ee-2ec5-4fd4-9221-c203c3867ec1": {
       "title": "Middle-Aged Bachelor's Isekai Life",
@@ -7182,25 +7188,28 @@
       "title": "Code Geass: Lelouch The Private Home Tutor",
       "url": "https://mangadex.org/title/590666db-1beb-4830-8732-dc11dfbe0148",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-25T06:17:35Z",
-      "removed_at": null
+      "removed_at": "2026-09-30T16:11:08Z",
+      "removed_by_source": true
     },
     "678b0682-b887-4de4-b774-addf10d16c8b": {
       "title": "Code Geass: Lelouch of the Rebellion",
       "url": "https://mangadex.org/title/678b0682-b887-4de4-b774-addf10d16c8b",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-25T06:17:35Z",
-      "removed_at": null
+      "removed_at": "2026-09-30T16:11:08Z",
+      "removed_by_source": true
     },
     "6bb8cc05-ff11-4f6b-b875-f708444fbfed": {
       "title": "A Story of a Plain Girl Who Hates Gyarus",
       "url": "https://mangadex.org/title/6bb8cc05-ff11-4f6b-b875-f708444fbfed",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-25T06:17:35Z",
-      "removed_at": null
+      "removed_at": "2026-09-30T16:11:08Z",
+      "removed_by_source": true
     },
     "cb98bd40-a903-4416-bdd0-dab93d8f36ad": {
       "title": "How About R15?",
@@ -7239,9 +7248,10 @@
       "title": "Welcome Back, First Love.",
       "url": "https://mangadex.org/title/42f40118-dff5-4f23-acbf-e54e89f026bd",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-25T12:02:19Z",
-      "removed_at": null
+      "removed_at": "2026-09-30T16:11:08Z",
+      "removed_by_source": true
     },
     "45b8d08e-b3ca-4aa7-bb14-120a1ed3c72f": {
       "title": "Wakaba Won't Give Up!",
@@ -7263,9 +7273,10 @@
       "title": "Smoking Behind the Supermarket with You",
       "url": "https://mangadex.org/title/baa95345-24fb-47a9-83e9-434ff671f968",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-25T12:02:19Z",
-      "removed_at": null
+      "removed_at": "2026-09-30T16:11:08Z",
+      "removed_by_source": true
     },
     "4d12b7ee-d834-4214-999a-bd824b8d9470": {
       "title": "Venus puts fur on me",
@@ -8659,6 +8670,54 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-09-30T09:53:00Z",
+      "removed_at": null
+    },
+    "569963c5-6b0b-4f92-b561-e1304b78b0dc": {
+      "title": "Bungo Stray Dogs: Wan!",
+      "url": "https://mangadex.org/title/569963c5-6b0b-4f92-b561-e1304b78b0dc",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-30T16:11:08Z",
+      "removed_at": null
+    },
+    "9422a147-c0c8-400d-9106-57cb8ece3dba": {
+      "title": "You are Ms. servant",
+      "url": "https://mangadex.org/title/9422a147-c0c8-400d-9106-57cb8ece3dba",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-30T16:11:08Z",
+      "removed_at": null
+    },
+    "b49fd121-19bf-4344-a8e1-d1be7ca04e08": {
+      "title": "The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat",
+      "url": "https://mangadex.org/title/b49fd121-19bf-4344-a8e1-d1be7ca04e08",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-30T16:11:08Z",
+      "removed_at": null
+    },
+    "d0fef7be-d7e7-4b1d-a30f-23702599bd05": {
+      "title": "Scarlet Star",
+      "url": "https://mangadex.org/title/d0fef7be-d7e7-4b1d-a30f-23702599bd05",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-30T16:11:08Z",
+      "removed_at": null
+    },
+    "ef63deb7-88bc-4942-85bb-2f32cfc72ea5": {
+      "title": "Debby the Corsifa is Emulous",
+      "url": "https://mangadex.org/title/ef63deb7-88bc-4942-85bb-2f32cfc72ea5",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-30T16:11:08Z",
+      "removed_at": null
+    },
+    "fbe1d7d2-f4b5-415a-9cb7-b4e9c819e8b8": {
+      "title": "Kyou mo Veranda de",
+      "url": "https://mangadex.org/title/fbe1d7d2-f4b5-415a-9cb7-b4e9c819e8b8",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-30T16:11:08Z",
       "removed_at": null
     }
   }
