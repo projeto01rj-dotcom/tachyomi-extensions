@@ -1,0 +1,70 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-09-30T09:53:00Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "c93b96e9-29bb-419c-b756-f098b05a4b65",
+      "title": "Money Forest",
+      "url": "https://mangadex.org/title/c93b96e9-29bb-419c-b756-f098b05a4b65"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "101c7648-2599-4167-a4e8-5e1bc07fedae",
+      "title": "My Daughter Was an Unsold Elf Slave",
+      "url": "https://mangadex.org/title/101c7648-2599-4167-a4e8-5e1bc07fedae",
+      "removed_at": "2026-09-30T09:53:00Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "44e19786-bac7-47a6-a4fd-545aa68436ed",
+      "title": "Morino-san Just Won't Leave Me Be",
+      "url": "https://mangadex.org/title/44e19786-bac7-47a6-a4fd-545aa68436ed",
+      "removed_at": "2026-09-30T09:53:00Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "7643e9f6-8455-4a58-b7e8-bf6cd00f5251",
+      "title": "Tsukimichi: Moonlit Fantasy",
+      "url": "https://mangadex.org/title/7643e9f6-8455-4a58-b7e8-bf6cd00f5251",
+      "removed_at": "2026-09-30T09:53:00Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "1655b797-a968-42b3-a529-c3a98d2fd4d2",
+      "title": "Date or Kill: Secret Matching",
+      "url": "https://mangadex.org/title/1655b797-a968-42b3-a529-c3a98d2fd4d2",
+      "removed_at": "2026-09-30T09:53:00Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "840d6798-0087-4d94-96da-f36c163720fd",
+      "title": "Cookie Run: Operation Survival",
+      "url": "https://mangadex.org/title/840d6798-0087-4d94-96da-f36c163720fd",
+      "removed_at": "2026-09-30T09:53:00Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "22d6d048-9f9f-4c3a-95c2-3b145f110e20",
+      "title": "I'm in Love with the Villainess",
+      "url": "https://mangadex.org/title/22d6d048-9f9f-4c3a-95c2-3b145f110e20",
+      "removed_at": "2026-09-30T09:53:00Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "36d27f1d-122a-4c7e-9001-a0d62c8fb579",
+      "title": "Mount Celeb Kaneda-san",
+      "url": "https://mangadex.org/title/36d27f1d-122a-4c7e-9001-a0d62c8fb579",
+      "removed_at": "2026-09-30T09:53:00Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "f546580d-2bf5-4738-a2d9-420f6e56970b",
+      "title": "Hino Hideshi's Doraemon",
+      "url": "https://mangadex.org/title/f546580d-2bf5-4738-a2d9-420f6e56970b",
+      "removed_at": "2026-09-30T09:53:00Z"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-09-30T03:12:27Z",
+  "updated_at": "2026-09-30T09:53:00Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -220,9 +220,10 @@
       "title": "My Daughter Was an Unsold Elf Slave",
       "url": "https://mangadex.org/title/101c7648-2599-4167-a4e8-5e1bc07fedae",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-30T09:53:00Z",
+      "removed_by_source": true
     },
     "10de26cf-f750-44b2-a504-7bb9a53e0419": {
       "title": "The Way I Look at My Childhood Friend has Changed",
@@ -1002,9 +1003,10 @@
       "title": "Morino-san Just Won't Leave Me Be",
       "url": "https://mangadex.org/title/44e19786-bac7-47a6-a4fd-545aa68436ed",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-30T09:53:00Z",
+      "removed_by_source": true
     },
     "44f84cc1-819c-47a6-a59f-43d016f72b43": {
       "title": "Versatile Mage",
@@ -1886,9 +1888,10 @@
       "title": "Tsukimichi: Moonlit Fantasy",
       "url": "https://mangadex.org/title/7643e9f6-8455-4a58-b7e8-bf6cd00f5251",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-09-30T09:53:00Z",
+      "removed_by_source": true
     },
     "767b0346-b8be-42d8-99a0-62c3590138fa": {
       "title": "Disney Twisted Wonderland: The Comic—Episode of Octavinelle",
@@ -5740,9 +5743,10 @@
       "title": "Date or Kill: Secret Matching",
       "url": "https://mangadex.org/title/1655b797-a968-42b3-a529-c3a98d2fd4d2",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-20T20:02:30Z",
-      "removed_at": null
+      "removed_at": "2026-09-30T09:53:00Z",
+      "removed_by_source": true
     },
     "3df1a9a3-a1be-47a3-9e90-9b3e55b1d0ac": {
       "title": "The Dangers in My Heart",
@@ -5907,9 +5911,10 @@
       "title": "Cookie Run: Operation Survival",
       "url": "https://mangadex.org/title/840d6798-0087-4d94-96da-f36c163720fd",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-21T05:42:57Z",
-      "removed_at": null
+      "removed_at": "2026-09-30T09:53:00Z",
+      "removed_by_source": true
     },
     "8573d280-7f60-411d-b146-c97dca3c62f2": {
       "title": "We're J-Just Childhood Friends",
@@ -6844,9 +6849,10 @@
       "title": "I'm in Love with the Villainess",
       "url": "https://mangadex.org/title/22d6d048-9f9f-4c3a-95c2-3b145f110e20",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-24T00:39:00Z",
-      "removed_at": null
+      "removed_at": "2026-09-30T09:53:00Z",
+      "removed_by_source": true
     },
     "89daf9dc-075a-4aa5-873a-cc76bb287108": {
       "title": "The Way of the Househusband",
@@ -7115,9 +7121,10 @@
       "title": "Mount Celeb Kaneda-san",
       "url": "https://mangadex.org/title/36d27f1d-122a-4c7e-9001-a0d62c8fb579",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-24T22:51:55Z",
-      "removed_at": null
+      "removed_at": "2026-09-30T09:53:00Z",
+      "removed_by_source": true
     },
     "c1f2daa5-9e93-42b9-86e8-f1ddb2916db2": {
       "title": "Akabane Honeko no Bodyguard",
@@ -7215,9 +7222,10 @@
       "title": "Hino Hideshi's Doraemon",
       "url": "https://mangadex.org/title/f546580d-2bf5-4738-a2d9-420f6e56970b",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-25T06:17:35Z",
-      "removed_at": null
+      "removed_at": "2026-09-30T09:53:00Z",
+      "removed_by_source": true
     },
     "09bbbb75-1086-4e7c-b775-ae9ee1816e0d": {
       "title": "Versus",
@@ -8643,6 +8651,14 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-09-30T03:12:27Z",
+      "removed_at": null
+    },
+    "c93b96e9-29bb-419c-b756-f098b05a4b65": {
+      "title": "Money Forest",
+      "url": "https://mangadex.org/title/c93b96e9-29bb-419c-b756-f098b05a4b65",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-09-30T09:53:00Z",
       "removed_at": null
     }
   }
