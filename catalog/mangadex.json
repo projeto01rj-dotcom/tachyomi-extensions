@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-01T06:15:33Z",
+  "updated_at": "2026-10-01T13:38:29Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -2181,9 +2181,10 @@
       "title": "A Very Popular Idol Classmate has Taken a Liking to Me, a Person Who doesn't Want to Work for my Whole Life",
       "url": "https://mangadex.org/title/85456d9d-9c70-49e4-bbda-462b5a4af3c4",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-01T13:38:29Z",
+      "removed_by_source": true
     },
     "858e2de7-afba-4096-9aa7-1fccac0119c9": {
       "title": "DIG IT",
@@ -3340,9 +3341,10 @@
       "title": "My Son Seems To Have Reincarnated Into Another World: Full Ver.",
       "url": "https://mangadex.org/title/c73341b2-14d1-4f9a-a7a8-a4fa9f342486",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-01T13:38:29Z",
+      "removed_by_source": true
     },
     "c82afca5-b16d-41d1-93d9-fcea21f7f264": {
       "title": "Mechanical Girl, Total Annihilation",
@@ -7501,33 +7503,37 @@
       "title": "A Sign of Affection",
       "url": "https://mangadex.org/title/11bfa371-f53f-42b7-8213-94b1323b02b6",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-26T02:45:08Z",
-      "removed_at": null
+      "removed_at": "2026-10-01T13:38:29Z",
+      "removed_by_source": true
     },
     "67ffb21f-1351-4caf-be96-924c4df57341": {
       "title": "36",
       "url": "https://mangadex.org/title/67ffb21f-1351-4caf-be96-924c4df57341",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-26T02:45:08Z",
-      "removed_at": null
+      "removed_at": "2026-10-01T13:38:29Z",
+      "removed_by_source": true
     },
     "6fc1c54b-7285-4a51-8c8b-22838f04eb26": {
       "title": "There is No Love Wishing Upon a Star",
       "url": "https://mangadex.org/title/6fc1c54b-7285-4a51-8c8b-22838f04eb26",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-26T02:45:08Z",
-      "removed_at": null
+      "removed_at": "2026-10-01T13:38:29Z",
+      "removed_by_source": true
     },
     "94e2a775-8b23-427f-86a6-1584a2e70464": {
       "title": "★The Ultimate Tank Returns★ Dominating With 10,000x Attack Speed",
       "url": "https://mangadex.org/title/94e2a775-8b23-427f-86a6-1584a2e70464",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-26T02:45:08Z",
-      "removed_at": null
+      "removed_at": "2026-10-01T13:38:29Z",
+      "removed_by_source": true
     },
     "3cf1a8fc-2a14-41e3-8bc8-a7201a9f2dc0": {
       "title": "Caretaker Boy and His Clumsy Childhood Friend",
@@ -7549,9 +7555,10 @@
       "title": "Olympia of Infidelity",
       "url": "https://mangadex.org/title/bf16d046-cea1-401b-89bf-5cf898824c3a",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-26T08:09:47Z",
-      "removed_at": null
+      "removed_at": "2026-10-01T13:38:29Z",
+      "removed_by_source": true
     },
     "e5f13b1a-eabd-4752-863a-cc3930a20d24": {
       "title": "A Sharp-Eyed Classmate",
@@ -8889,6 +8896,46 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-01T06:15:33Z",
+      "removed_at": null
+    },
+    "bed2ef5e-99b1-4809-8f65-5866391f839b": {
+      "title": "The Gender of Mona Lisa",
+      "url": "https://mangadex.org/title/bed2ef5e-99b1-4809-8f65-5866391f839b",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-01T13:38:29Z",
+      "removed_at": null
+    },
+    "ca118f66-a81e-4049-8200-031a72e0ae99": {
+      "title": "Wakfu - The Great Wave",
+      "url": "https://mangadex.org/title/ca118f66-a81e-4049-8200-031a72e0ae99",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-01T13:38:29Z",
+      "removed_at": null
+    },
+    "e2098259-eb5d-4781-b220-63e3c26a55e5": {
+      "title": "Funtime Phobia",
+      "url": "https://mangadex.org/title/e2098259-eb5d-4781-b220-63e3c26a55e5",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-01T13:38:29Z",
+      "removed_at": null
+    },
+    "f678b24d-f1fd-4717-8824-4138845390eb": {
+      "title": "When I Repaired a Gal's Bicycle, She Became Attached to Me",
+      "url": "https://mangadex.org/title/f678b24d-f1fd-4717-8824-4138845390eb",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-01T13:38:29Z",
+      "removed_at": null
+    },
+    "f90df7aa-c8cd-4ca7-842c-b3dbe38b8b2a": {
+      "title": "Schoolboy vs The World",
+      "url": "https://mangadex.org/title/f90df7aa-c8cd-4ca7-842c-b3dbe38b8b2a",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-01T13:38:29Z",
       "removed_at": null
     }
   }
