@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-01T13:38:29Z",
+  "updated_at": "2026-10-01T19:10:25Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -5881,9 +5881,10 @@
       "title": "Dungeon Crawler Carl",
       "url": "https://mangadex.org/title/f137cc52-8535-4e2e-b79b-649a891f8551",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-21T00:41:46Z",
-      "removed_at": null
+      "removed_at": "2026-10-01T19:10:25Z",
+      "removed_by_source": true
     },
     "30193c1f-1569-4c2d-8c29-8a365fec322b": {
       "title": "Akuyuu no Ore ga Ponkotsu Kishi o Miterarenain da ga, Dou Sewa o Yakya Ii?: Madome Gaiden",
@@ -6407,9 +6408,10 @@
       "title": "Lord El-Melloi II-sei no Jikenbo",
       "url": "https://mangadex.org/title/4d6decd4-835d-4905-9534-2571dae07bcd",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-22T19:00:57Z",
-      "removed_at": null
+      "removed_at": "2026-10-01T19:10:25Z",
+      "removed_by_source": true
     },
     "82148d28-92b9-4f02-9996-07b4017d2be7": {
       "title": "The Wind Spell",
@@ -7539,9 +7541,10 @@
       "title": "Caretaker Boy and His Clumsy Childhood Friend",
       "url": "https://mangadex.org/title/3cf1a8fc-2a14-41e3-8bc8-a7201a9f2dc0",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-26T08:09:47Z",
-      "removed_at": null
+      "removed_at": "2026-10-01T19:10:25Z",
+      "removed_by_source": true
     },
     "b5b21ca1-bba5-4b9a-8cd1-6248f731650b": {
       "title": "Record of Ragnarok",
@@ -7564,33 +7567,37 @@
       "title": "A Sharp-Eyed Classmate",
       "url": "https://mangadex.org/title/e5f13b1a-eabd-4752-863a-cc3930a20d24",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-26T08:09:47Z",
-      "removed_at": null
+      "removed_at": "2026-10-01T19:10:25Z",
+      "removed_by_source": true
     },
     "01ea7299-112c-41f4-b2a0-6d28c272deef": {
       "title": "The Flowery Path of Evil",
       "url": "https://mangadex.org/title/01ea7299-112c-41f4-b2a0-6d28c272deef",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-26T13:16:27Z",
-      "removed_at": null
+      "removed_at": "2026-10-01T19:10:25Z",
+      "removed_by_source": true
     },
     "0a15b7c4-dbc9-4565-a5c4-2171db421cb2": {
       "title": "Osu!! Karate Club",
       "url": "https://mangadex.org/title/0a15b7c4-dbc9-4565-a5c4-2171db421cb2",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-26T13:16:27Z",
-      "removed_at": null
+      "removed_at": "2026-10-01T19:10:25Z",
+      "removed_by_source": true
     },
     "12ac16ec-8894-420b-bc03-eade9340dfd8": {
       "title": "Trinity Seven - The 7 Magicians",
       "url": "https://mangadex.org/title/12ac16ec-8894-420b-bc03-eade9340dfd8",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-26T13:16:27Z",
-      "removed_at": null
+      "removed_at": "2026-10-01T19:10:25Z",
+      "removed_by_source": true
     },
     "770c61b9-0ef2-460b-8c25-c10ab23349ce": {
       "title": "Akebi-chan's Sailor Uniform",
@@ -7612,33 +7619,37 @@
       "title": "The Most Notorious \"Talker\" Runs the World's Greatest Clan",
       "url": "https://mangadex.org/title/826aec63-3fa8-413d-9a40-d2d1ef262725",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-26T13:16:27Z",
-      "removed_at": null
+      "removed_at": "2026-10-01T19:10:25Z",
+      "removed_by_source": true
     },
     "83e6e476-63e0-4c86-aaed-c011150d8cab": {
       "title": "The Lady Knight and the Beast-Eared Child",
       "url": "https://mangadex.org/title/83e6e476-63e0-4c86-aaed-c011150d8cab",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-26T13:16:27Z",
-      "removed_at": null
+      "removed_at": "2026-10-01T19:10:25Z",
+      "removed_by_source": true
     },
     "c089b50c-beeb-434a-ab8d-2676dc026564": {
       "title": "Lucky Me: I Secretly Cultivated for 1,000 Years",
       "url": "https://mangadex.org/title/c089b50c-beeb-434a-ab8d-2676dc026564",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-26T13:16:27Z",
-      "removed_at": null
+      "removed_at": "2026-10-01T19:10:25Z",
+      "removed_by_source": true
     },
     "c66d2a14-e0a2-4488-9023-abdab7249d61": {
       "title": "Arte",
       "url": "https://mangadex.org/title/c66d2a14-e0a2-4488-9023-abdab7249d61",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-26T13:16:27Z",
-      "removed_at": null
+      "removed_at": "2026-10-01T19:10:25Z",
+      "removed_by_source": true
     },
     "00b64b8f-cb7e-4322-9855-3669fe210ac7": {
       "title": "I’m Capped at Level 1?! Thus Begins My Journey to Become the World’s Strongest Badass!",
@@ -8936,6 +8947,62 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-01T13:38:29Z",
+      "removed_at": null
+    },
+    "0483d2ef-557e-43ae-9761-2f2f0677625a": {
+      "title": "The Lotus Eaters, Drunk and Sober",
+      "url": "https://mangadex.org/title/0483d2ef-557e-43ae-9761-2f2f0677625a",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-01T19:10:25Z",
+      "removed_at": null
+    },
+    "0948937b-682c-4fe2-90bb-4c552c6818c4": {
+      "title": "I Have Nine Quadrillion Simp Gold Coins",
+      "url": "https://mangadex.org/title/0948937b-682c-4fe2-90bb-4c552c6818c4",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-01T19:10:25Z",
+      "removed_at": null
+    },
+    "0c8abbe9-ae3b-4591-a378-9eaaf9ddec18": {
+      "title": "Straight Girl Trap",
+      "url": "https://mangadex.org/title/0c8abbe9-ae3b-4591-a378-9eaaf9ddec18",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-01T19:10:25Z",
+      "removed_at": null
+    },
+    "a4c0c579-f0a6-4ff7-bc2e-1c0d3f614d03": {
+      "title": "To a New You",
+      "url": "https://mangadex.org/title/a4c0c579-f0a6-4ff7-bc2e-1c0d3f614d03",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-01T19:10:25Z",
+      "removed_at": null
+    },
+    "a742b777-8f13-47ea-89d8-01e47615107d": {
+      "title": "The Legend of Ranran",
+      "url": "https://mangadex.org/title/a742b777-8f13-47ea-89d8-01e47615107d",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-01T19:10:25Z",
+      "removed_at": null
+    },
+    "cab91d47-c2d0-46d4-ba81-51dd530b13d1": {
+      "title": "Sem título",
+      "url": "https://mangadex.org/title/cab91d47-c2d0-46d4-ba81-51dd530b13d1",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-01T19:10:25Z",
+      "removed_at": null
+    },
+    "d2a01e38-1c0d-4e4b-a9ae-21d119e8b326": {
+      "title": "Demon King of the Royal Class",
+      "url": "https://mangadex.org/title/d2a01e38-1c0d-4e4b-a9ae-21d119e8b326",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-01T19:10:25Z",
       "removed_at": null
     }
   }
