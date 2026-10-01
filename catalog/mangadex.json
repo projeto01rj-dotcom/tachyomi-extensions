@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-01T00:17:09Z",
+  "updated_at": "2026-10-01T06:15:33Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -4658,9 +4658,10 @@
       "title": "Unexciting Date",
       "url": "https://mangadex.org/title/f4ad14b4-64d9-470f-9b4c-0fab84f0d507",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T19:20:34Z",
-      "removed_at": null
+      "removed_at": "2026-10-01T06:15:33Z",
+      "removed_by_source": true
     },
     "76d0be3f-ceee-4c98-9d16-a5240bb03434": {
       "title": "Sem título",
@@ -7276,9 +7277,10 @@
       "title": "High Score Girl: Dash",
       "url": "https://mangadex.org/title/5018f2b1-65ee-4a76-a7f3-4bb851e1ade5",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-25T12:02:19Z",
-      "removed_at": null
+      "removed_at": "2026-10-01T06:15:33Z",
+      "removed_by_source": true
     },
     "baa95345-24fb-47a9-83e9-434ff671f968": {
       "title": "Smoking Behind the Supermarket with You",
@@ -7387,9 +7389,10 @@
       "title": "OMORI",
       "url": "https://mangadex.org/title/34b47146-a72e-43d8-9ea5-935a5956f09f",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-25T20:36:24Z",
-      "removed_at": null
+      "removed_at": "2026-10-01T06:15:33Z",
+      "removed_by_source": true
     },
     "41c40654-fb7e-4cae-9796-79731118f819": {
       "title": "The 100 Curses of the Illeston Manor",
@@ -7403,9 +7406,10 @@
       "title": "SSS-Class Revival Hunter",
       "url": "https://mangadex.org/title/4a973243-952e-44d7-a50f-883b4b7c9cc2",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-25T20:36:24Z",
-      "removed_at": null
+      "removed_at": "2026-10-01T06:15:33Z",
+      "removed_by_source": true
     },
     "737c292b-5b97-41bb-8b04-51bcc945f7a7": {
       "title": "Garbage Brave: Revenge Story of a Hero Who Has Been Thrown Away After Being Summoned to Another World",
@@ -7463,9 +7467,10 @@
       "title": "August 9th, I Will Be Eaten by You.",
       "url": "https://mangadex.org/title/7f1c253d-9557-4abc-b30b-929d7d8db45e",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-25T23:43:13Z",
-      "removed_at": null
+      "removed_at": "2026-10-01T06:15:33Z",
+      "removed_by_source": true
     },
     "a2320293-f00e-43a0-8d08-1110cf26a894": {
       "title": "The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible",
@@ -7487,9 +7492,10 @@
       "title": "Mobile Suit Gundam: Silver Phantom -Gravure-",
       "url": "https://mangadex.org/title/dd765721-221e-4a00-a3d8-776372d6bf01",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-25T23:43:13Z",
-      "removed_at": null
+      "removed_at": "2026-10-01T06:15:33Z",
+      "removed_by_source": true
     },
     "11bfa371-f53f-42b7-8213-94b1323b02b6": {
       "title": "A Sign of Affection",
@@ -8859,6 +8865,30 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-01T00:17:09Z",
+      "removed_at": null
+    },
+    "4e46ebce-c851-4854-ab50-47775739d129": {
+      "title": "Shadow Skill: Dawn",
+      "url": "https://mangadex.org/title/4e46ebce-c851-4854-ab50-47775739d129",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-01T06:15:33Z",
+      "removed_at": null
+    },
+    "7215b1e8-bac1-49a2-83d9-ed62335dd849": {
+      "title": "Please Marry Me with Divorce in Mind",
+      "url": "https://mangadex.org/title/7215b1e8-bac1-49a2-83d9-ed62335dd849",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-01T06:15:33Z",
+      "removed_at": null
+    },
+    "b8a3be2d-a2be-4e9a-b1c2-8a46aacc9aba": {
+      "title": "Sleepy Barmaid",
+      "url": "https://mangadex.org/title/b8a3be2d-a2be-4e9a-b1c2-8a46aacc9aba",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-01T06:15:33Z",
       "removed_at": null
     }
   }
