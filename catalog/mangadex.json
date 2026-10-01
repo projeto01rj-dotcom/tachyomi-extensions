@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-09-30T20:54:49Z",
+  "updated_at": "2026-10-01T00:17:09Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -2895,9 +2895,10 @@
       "title": "Uma Musume: Cinderella Gray",
       "url": "https://mangadex.org/title/a9dd451c-3c45-4d66-a818-4e1b78855838",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-01T00:17:09Z",
+      "removed_by_source": true
     },
     "ab8cbb82-d0ed-45a7-8ffe-4bfa6d43d79c": {
       "title": "JoJo's Bizarre Adventure Part 9 - The JOJOLands",
@@ -7368,17 +7369,19 @@
       "title": "Reincarnated Devil’s Plan for Raising the Strongest Hero",
       "url": "https://mangadex.org/title/17eebcc7-d993-446c-84be-c222bfb27794",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-25T20:36:24Z",
-      "removed_at": null
+      "removed_at": "2026-10-01T00:17:09Z",
+      "removed_by_source": true
     },
     "1d5c2296-f2c8-449d-9c54-a140035f3d4e": {
       "title": "Unfurl",
       "url": "https://mangadex.org/title/1d5c2296-f2c8-449d-9c54-a140035f3d4e",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-25T20:36:24Z",
-      "removed_at": null
+      "removed_at": "2026-10-01T00:17:09Z",
+      "removed_by_source": true
     },
     "34b47146-a72e-43d8-9ea5-935a5956f09f": {
       "title": "OMORI",
@@ -7417,25 +7420,28 @@
       "title": "Your Throne",
       "url": "https://mangadex.org/title/8c6e0eb8-fb94-44a3-9bf4-fa72dee36775",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-25T20:36:24Z",
-      "removed_at": null
+      "removed_at": "2026-10-01T00:17:09Z",
+      "removed_by_source": true
     },
     "af7cc594-4f6a-4c0a-8f74-16748910dee5": {
       "title": "Akagami no Shirayukihime",
       "url": "https://mangadex.org/title/af7cc594-4f6a-4c0a-8f74-16748910dee5",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-25T20:36:24Z",
-      "removed_at": null
+      "removed_at": "2026-10-01T00:17:09Z",
+      "removed_by_source": true
     },
     "e421aa24-46c5-472d-b587-b8e42fb3803a": {
       "title": "Dolls Nest: ORPHANS",
       "url": "https://mangadex.org/title/e421aa24-46c5-472d-b587-b8e42fb3803a",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-25T20:36:24Z",
-      "removed_at": null
+      "removed_at": "2026-10-01T00:17:09Z",
+      "removed_by_source": true
     },
     "48863213-086b-4dfb-8103-8e279b8e5f5d": {
       "title": "This Monster Wants to Eat Me",
@@ -8797,6 +8803,62 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-09-30T20:54:49Z",
+      "removed_at": null
+    },
+    "077812bd-6ee9-4756-a508-9148b254661e": {
+      "title": "I Reincarnated as a Mob Villain in a Game and Decided to Become the Final Boss. But for Some Reason, Everyone Thinks I'm the Best King Ever - Can Someone Please Tell Me Why?!",
+      "url": "https://mangadex.org/title/077812bd-6ee9-4756-a508-9148b254661e",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-01T00:17:09Z",
+      "removed_at": null
+    },
+    "402c2e75-ea1b-432e-9e65-77c0627e55eb": {
+      "title": "The Monporte Royal Family's Scandal",
+      "url": "https://mangadex.org/title/402c2e75-ea1b-432e-9e65-77c0627e55eb",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-01T00:17:09Z",
+      "removed_at": null
+    },
+    "8f3c24d3-6e15-4fea-a60f-f80cef482853": {
+      "title": "Ahiru no Sora",
+      "url": "https://mangadex.org/title/8f3c24d3-6e15-4fea-a60f-f80cef482853",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-01T00:17:09Z",
+      "removed_at": null
+    },
+    "a1526a66-5dbf-4fef-9e7b-5f8f48b2ca93": {
+      "title": "Pale Blue-green Color Saudade",
+      "url": "https://mangadex.org/title/a1526a66-5dbf-4fef-9e7b-5f8f48b2ca93",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-01T00:17:09Z",
+      "removed_at": null
+    },
+    "be902d25-2427-4d9a-a8e5-3fc5a7c26dd4": {
+      "title": "Summoned Along with a Home Center, I'll Bring About a Dungeon Renovation!",
+      "url": "https://mangadex.org/title/be902d25-2427-4d9a-a8e5-3fc5a7c26dd4",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-01T00:17:09Z",
+      "removed_at": null
+    },
+    "cbbee977-a4ff-4106-b57f-cdcc9d006ed8": {
+      "title": "I Picked up an Attribute",
+      "url": "https://mangadex.org/title/cbbee977-a4ff-4106-b57f-cdcc9d006ed8",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-01T00:17:09Z",
+      "removed_at": null
+    },
+    "daf070c3-4398-4beb-8dae-4c8d21376cec": {
+      "title": "I Become A Villain In My Novel",
+      "url": "https://mangadex.org/title/daf070c3-4398-4beb-8dae-4c8d21376cec",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-01T00:17:09Z",
       "removed_at": null
     }
   }
