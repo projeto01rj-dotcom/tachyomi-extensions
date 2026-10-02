@@ -1,0 +1,54 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-02T15:13:23Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "5af50da5-c3f6-4f67-9888-89df886757f6",
+      "title": "The Hachioji Specialty: Tengu's Love",
+      "url": "https://mangadex.org/title/5af50da5-c3f6-4f67-9888-89df886757f6"
+    },
+    {
+      "source": "mangadex",
+      "key": "7066efc8-b73f-4b17-8b8d-6060a5412590",
+      "title": "Kill Blue",
+      "url": "https://mangadex.org/title/7066efc8-b73f-4b17-8b8d-6060a5412590"
+    },
+    {
+      "source": "mangadex",
+      "key": "de9e3b62-eac5-4c0a-917d-ffccad694381",
+      "title": "Sometimes Even Reality Is a Lie!",
+      "url": "https://mangadex.org/title/de9e3b62-eac5-4c0a-917d-ffccad694381"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "68a946fc-7ff0-434e-a500-34b3207efd6f",
+      "title": "A Story of Taking Home a Lonely Gal from My Class and Turning Her into an Elegant Beauty",
+      "url": "https://mangadex.org/title/68a946fc-7ff0-434e-a500-34b3207efd6f",
+      "removed_at": "2026-10-02T15:13:23Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "16a16845-90d1-4895-b2b8-4895624588c7",
+      "title": "Mysterious Disappearances",
+      "url": "https://mangadex.org/title/16a16845-90d1-4895-b2b8-4895624588c7",
+      "removed_at": "2026-10-02T15:13:23Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "5a3c9fe2-037b-497e-8686-793a537ffd5f",
+      "title": "Have a Great Trip After the End Credits",
+      "url": "https://mangadex.org/title/5a3c9fe2-037b-497e-8686-793a537ffd5f",
+      "removed_at": "2026-10-02T15:13:23Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "e63fc981-7fd2-469d-9d89-a1bbb0b609b4",
+      "title": "Wife",
+      "url": "https://mangadex.org/title/e63fc981-7fd2-469d-9d89-a1bbb0b609b4",
+      "removed_at": "2026-10-02T15:13:23Z"
+    }
+  ]
+}
