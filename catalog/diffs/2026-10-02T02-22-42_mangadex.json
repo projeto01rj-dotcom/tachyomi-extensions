@@ -1,0 +1,68 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-02T02:22:42Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "8d2e9520-4127-4bf2-94a3-b2571029562d",
+      "title": "Make the Exorcist Fall in Love",
+      "url": "https://mangadex.org/title/8d2e9520-4127-4bf2-94a3-b2571029562d"
+    },
+    {
+      "source": "mangadex",
+      "key": "9c7f72dd-3d2f-4753-9d6e-aefc7ae65665",
+      "title": "Captive Hero: A Disposable Swordsman Rises to Power in the Enemy Country",
+      "url": "https://mangadex.org/title/9c7f72dd-3d2f-4753-9d6e-aefc7ae65665"
+    },
+    {
+      "source": "mangadex",
+      "key": "a2a738f4-0fe4-4968-95a8-5ebcb7f86f72",
+      "title": "The Grimoire of Usami - Hifuu Kurabu Ikai Satsuei Kiroku",
+      "url": "https://mangadex.org/title/a2a738f4-0fe4-4968-95a8-5ebcb7f86f72"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "e4573044-ca38-4b83-bcc5-9e3a7c0b764b",
+      "title": "Dear Flowers That Bloom In Days of Yore",
+      "url": "https://mangadex.org/title/e4573044-ca38-4b83-bcc5-9e3a7c0b764b",
+      "removed_at": "2026-10-02T02:22:42Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "d422ddc8-eea3-4b0a-82a4-291bbd8c9285",
+      "title": "The Children of Shiunji Family",
+      "url": "https://mangadex.org/title/d422ddc8-eea3-4b0a-82a4-291bbd8c9285",
+      "removed_at": "2026-10-02T02:22:42Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "904e6834-e9d6-45d2-a1ff-f37d29584c0c",
+      "title": "Tengen Hero Wars",
+      "url": "https://mangadex.org/title/904e6834-e9d6-45d2-a1ff-f37d29584c0c",
+      "removed_at": "2026-10-02T02:22:42Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "14504f0c-3d05-417c-b38e-417f20d080b8",
+      "title": "A Comic/Manga About A Girl Who Lets Me Do Whatever I Want",
+      "url": "https://mangadex.org/title/14504f0c-3d05-417c-b38e-417f20d080b8",
+      "removed_at": "2026-10-02T02:22:42Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "1fd22b12-ed87-487e-9b92-614db46e5160",
+      "title": "Dominate the Three Realms",
+      "url": "https://mangadex.org/title/1fd22b12-ed87-487e-9b92-614db46e5160",
+      "removed_at": "2026-10-02T02:22:42Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "a32a7f35-4bc5-4c60-8913-999238deeebd",
+      "title": "A Superstar From Birth",
+      "url": "https://mangadex.org/title/a32a7f35-4bc5-4c60-8913-999238deeebd",
+      "removed_at": "2026-10-02T02:22:42Z"
+    }
+  ]
+}
