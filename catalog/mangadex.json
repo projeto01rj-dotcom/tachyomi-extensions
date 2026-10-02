@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-02T20:01:26Z",
+  "updated_at": "2026-10-02T23:54:05Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -4101,9 +4101,10 @@
       "title": "ONIMAI: I'm Now Your Sister!",
       "url": "https://mangadex.org/title/ed996855-70de-449f-bba2-e8e24224c14d",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-02T23:54:05Z",
+      "removed_by_source": true
     },
     "ee03b8cd-29f9-4340-8e9b-8e8db57c3393": {
       "title": "Slacking Master Komukai-san won't Let Me Off!",
@@ -5489,9 +5490,10 @@
       "title": "The Story of How a Beautiful Foreign Student Who Lives Next Door Started to Visit My House After I Helped a Lost Little Girl",
       "url": "https://mangadex.org/title/a287ef9c-3718-4c6f-80be-44e404b78641",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-20T10:21:16Z",
-      "removed_at": null
+      "removed_at": "2026-10-02T23:54:05Z",
+      "removed_by_source": true
     },
     "b36771d2-5081-4c49-b161-8a46f88b4052": {
       "title": "Heroine Hajimemashita",
@@ -7956,9 +7958,10 @@
       "title": "Somehow, I Started Living With a NEET Otaku Kunoichi",
       "url": "https://mangadex.org/title/22e2af18-0469-4e91-9947-dd68b767664a",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-27T13:11:02Z",
-      "removed_at": null
+      "removed_at": "2026-10-02T23:54:05Z",
+      "removed_by_source": true
     },
     "27179c2f-72d7-4a49-a577-2fa6eaf9df4d": {
       "title": "Useless High School Girls",
@@ -7981,9 +7984,10 @@
       "title": "Genderswapped Medic's Battlefield Diary",
       "url": "https://mangadex.org/title/56dec7d4-9d44-4689-a748-1434c6dfd17f",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-27T13:11:02Z",
-      "removed_at": null
+      "removed_at": "2026-10-02T23:54:05Z",
+      "removed_by_source": true
     },
     "65fcafb1-9124-41ae-acec-44cf100e4df4": {
       "title": "Your Head’s Fallen Off Again",
@@ -9287,6 +9291,30 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-02T20:01:26Z",
+      "removed_at": null
+    },
+    "0e4eb6ee-84e7-492a-8431-7586ef900239": {
+      "title": "Beyblade X & Detective Conan",
+      "url": "https://mangadex.org/title/0e4eb6ee-84e7-492a-8431-7586ef900239",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-02T23:54:05Z",
+      "removed_at": null
+    },
+    "a967d6e2-e269-4ab8-9306-04ffc4c2cb52": {
+      "title": "The Tiger Won't Eat the Dragon Yet",
+      "url": "https://mangadex.org/title/a967d6e2-e269-4ab8-9306-04ffc4c2cb52",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-02T23:54:05Z",
+      "removed_at": null
+    },
+    "d38db441-104b-451f-a611-c9dbf7822efc": {
+      "title": "Kamen Rider My-th",
+      "url": "https://mangadex.org/title/d38db441-104b-451f-a611-c9dbf7822efc",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-02T23:54:05Z",
       "removed_at": null
     }
   }

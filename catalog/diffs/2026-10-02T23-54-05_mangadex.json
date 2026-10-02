@@ -1,0 +1,54 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-02T23:54:05Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "0e4eb6ee-84e7-492a-8431-7586ef900239",
+      "title": "Beyblade X & Detective Conan",
+      "url": "https://mangadex.org/title/0e4eb6ee-84e7-492a-8431-7586ef900239"
+    },
+    {
+      "source": "mangadex",
+      "key": "a967d6e2-e269-4ab8-9306-04ffc4c2cb52",
+      "title": "The Tiger Won't Eat the Dragon Yet",
+      "url": "https://mangadex.org/title/a967d6e2-e269-4ab8-9306-04ffc4c2cb52"
+    },
+    {
+      "source": "mangadex",
+      "key": "d38db441-104b-451f-a611-c9dbf7822efc",
+      "title": "Kamen Rider My-th",
+      "url": "https://mangadex.org/title/d38db441-104b-451f-a611-c9dbf7822efc"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "ed996855-70de-449f-bba2-e8e24224c14d",
+      "title": "ONIMAI: I'm Now Your Sister!",
+      "url": "https://mangadex.org/title/ed996855-70de-449f-bba2-e8e24224c14d",
+      "removed_at": "2026-10-02T23:54:05Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "a287ef9c-3718-4c6f-80be-44e404b78641",
+      "title": "The Story of How a Beautiful Foreign Student Who Lives Next Door Started to Visit My House After I Helped a Lost Little Girl",
+      "url": "https://mangadex.org/title/a287ef9c-3718-4c6f-80be-44e404b78641",
+      "removed_at": "2026-10-02T23:54:05Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "22e2af18-0469-4e91-9947-dd68b767664a",
+      "title": "Somehow, I Started Living With a NEET Otaku Kunoichi",
+      "url": "https://mangadex.org/title/22e2af18-0469-4e91-9947-dd68b767664a",
+      "removed_at": "2026-10-02T23:54:05Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "56dec7d4-9d44-4689-a748-1434c6dfd17f",
+      "title": "Genderswapped Medic's Battlefield Diary",
+      "url": "https://mangadex.org/title/56dec7d4-9d44-4689-a748-1434c6dfd17f",
+      "removed_at": "2026-10-02T23:54:05Z"
+    }
+  ]
+}
