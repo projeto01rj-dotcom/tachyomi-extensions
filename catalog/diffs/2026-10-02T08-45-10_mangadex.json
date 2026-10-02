@@ -1,0 +1,106 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-02T08:45:10Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "0951feea-ba41-4ad0-9cb0-edadc77eae73",
+      "title": "Kakegurui - Compulsive Gambler -",
+      "url": "https://mangadex.org/title/0951feea-ba41-4ad0-9cb0-edadc77eae73"
+    },
+    {
+      "source": "mangadex",
+      "key": "4c20ff54-3dfe-4433-a1e3-274492cdb2fc",
+      "title": "Arpeggio of Blue Steel",
+      "url": "https://mangadex.org/title/4c20ff54-3dfe-4433-a1e3-274492cdb2fc"
+    },
+    {
+      "source": "mangadex",
+      "key": "4e0ab019-afcb-4fd9-98eb-fcb28cf7fc81",
+      "title": "A Certain Scientific Mental Out",
+      "url": "https://mangadex.org/title/4e0ab019-afcb-4fd9-98eb-fcb28cf7fc81"
+    },
+    {
+      "source": "mangadex",
+      "key": "5a90308a-8b12-4a4d-9c6d-2487028fe319",
+      "title": "Uzaki-chan Wants to Hang Out!",
+      "url": "https://mangadex.org/title/5a90308a-8b12-4a4d-9c6d-2487028fe319"
+    },
+    {
+      "source": "mangadex",
+      "key": "6233aed2-2f42-4308-a2b9-7d37b836cc33",
+      "title": "Kusunoki's Flunking Her High School Glow-Up",
+      "url": "https://mangadex.org/title/6233aed2-2f42-4308-a2b9-7d37b836cc33"
+    },
+    {
+      "source": "mangadex",
+      "key": "7f7678c7-0d32-4d36-a99a-1bfe32483584",
+      "title": "Supervillain Boy",
+      "url": "https://mangadex.org/title/7f7678c7-0d32-4d36-a99a-1bfe32483584"
+    },
+    {
+      "source": "mangadex",
+      "key": "c2989387-6b0e-49df-90bc-0385fefbcda5",
+      "title": "Murim Psychopath",
+      "url": "https://mangadex.org/title/c2989387-6b0e-49df-90bc-0385fefbcda5"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "b1a9ac33-4978-4fa9-a5ae-2cc728342dab",
+      "title": "I Fell for My Friend's Older Sister",
+      "url": "https://mangadex.org/title/b1a9ac33-4978-4fa9-a5ae-2cc728342dab",
+      "removed_at": "2026-10-02T08:45:10Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "a920060c-7e39-4ac1-980c-f0e605a40ae4",
+      "title": "My Gyaru Wife's Secrets",
+      "url": "https://mangadex.org/title/a920060c-7e39-4ac1-980c-f0e605a40ae4",
+      "removed_at": "2026-10-02T08:45:10Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "c9a8ffb7-682f-40e2-87fe-9537e8f425ea",
+      "title": "Sem título",
+      "url": "https://mangadex.org/title/c9a8ffb7-682f-40e2-87fe-9537e8f425ea",
+      "removed_at": "2026-10-02T08:45:10Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "e78a489b-6632-4d61-b00b-5206f5b8b22b",
+      "title": "That Time I Got Reincarnated as a Slime",
+      "url": "https://mangadex.org/title/e78a489b-6632-4d61-b00b-5206f5b8b22b",
+      "removed_at": "2026-10-02T08:45:10Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "630fcb7b-a262-4c92-b0c7-1323392f1b67",
+      "title": "I, a Mere Villager, Have Been Reincarnated as a Tyrant Prince from 300 Years Ago!: With the Knowledge of My Previous Life, I’ll Avoid the Assassination Flags and Survive Peacefully!",
+      "url": "https://mangadex.org/title/630fcb7b-a262-4c92-b0c7-1323392f1b67",
+      "removed_at": "2026-10-02T08:45:10Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "6e52262f-bcd5-49c4-b93a-f4652d189844",
+      "title": "The Founder Of Diabolism",
+      "url": "https://mangadex.org/title/6e52262f-bcd5-49c4-b93a-f4652d189844",
+      "removed_at": "2026-10-02T08:45:10Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "01fce4c5-a47b-485c-9d7e-445bf52603a8",
+      "title": "Tale of a Girl and a Delinquent Who's Bad with Women",
+      "url": "https://mangadex.org/title/01fce4c5-a47b-485c-9d7e-445bf52603a8",
+      "removed_at": "2026-10-02T08:45:10Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "0855e750-6ada-4c22-bfc5-fa63b1118bda",
+      "title": "Isekai ni Tobasareta Ossan wa Doko e Iku?",
+      "url": "https://mangadex.org/title/0855e750-6ada-4c22-bfc5-fa63b1118bda",
+      "removed_at": "2026-10-02T08:45:10Z"
+    }
+  ]
+}
