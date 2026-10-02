@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-02T15:13:23Z",
+  "updated_at": "2026-10-02T20:01:26Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -158,9 +158,10 @@
       "title": "Underworld Monarch, I Am the Abyss",
       "url": "https://mangadex.org/title/0c1a6369-10d5-43cb-a392-dafdd13ea0c9",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-02T20:01:26Z",
+      "removed_by_source": true
     },
     "0c3d2ca2-0857-4a6c-be97-59ffa3e29873": {
       "title": "Hand Jumper",
@@ -1323,9 +1324,10 @@
       "title": "Bocchi the Rock! Side Story: Hiroi Kikuri's Heavy Drinking Diary",
       "url": "https://mangadex.org/title/56901ae8-aece-4983-96c3-94751c96a8bb",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-02T20:01:26Z",
+      "removed_by_source": true
     },
     "575c6f8b-02bc-4300-b808-16e35c2bc2e2": {
       "title": "The Wolf That Picked Something Up",
@@ -3929,9 +3931,10 @@
       "title": "Dara-san of Reiwa",
       "url": "https://mangadex.org/title/e4121f7e-41c1-448f-98df-a019d764c17a",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-02T20:01:26Z",
+      "removed_by_source": true
     },
     "e424ab14-c0c8-44a0-8152-ce230476be56": {
       "title": "One Day, the Male Lead Fell Into Our House",
@@ -4062,9 +4065,10 @@
       "title": "Mane Mane Nichi Nichi: Baseball Manager Everyday",
       "url": "https://mangadex.org/title/ec0c3cbf-dc3d-4df2-b2c6-2af7ad41541e",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-02T20:01:26Z",
+      "removed_by_source": true
     },
     "ec387b13-b35c-4abe-a089-5b69ff429118": {
       "title": "A Prince of a Friend",
@@ -4420,9 +4424,10 @@
       "title": "Karakuri Circus",
       "url": "https://mangadex.org/title/ff2a2c47-48f2-43d1-b4c9-3f284613ffc6",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-02T20:01:26Z",
+      "removed_by_source": true
     },
     "ffe69cc2-3f9e-4eab-a7f7-c963cea9ec25": {
       "title": "Loner Life in Another World",
@@ -7413,9 +7418,10 @@
       "title": "The 100 Curses of the Illeston Manor",
       "url": "https://mangadex.org/title/41c40654-fb7e-4cae-9796-79731118f819",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-25T20:36:24Z",
-      "removed_at": null
+      "removed_at": "2026-10-02T20:01:26Z",
+      "removed_by_source": true
     },
     "4a973243-952e-44d7-a50f-883b4b7c9cc2": {
       "title": "SSS-Class Revival Hunter",
@@ -7840,9 +7846,10 @@
       "title": "Kero Kero Chime",
       "url": "https://mangadex.org/title/5a318852-931a-4431-9c0b-362e5822ad5e",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-27T01:36:53Z",
-      "removed_at": null
+      "removed_at": "2026-10-02T20:01:26Z",
+      "removed_by_source": true
     },
     "5a3c9fe2-037b-497e-8686-793a537ffd5f": {
       "title": "Have a Great Trip After the End Credits",
@@ -7897,9 +7904,10 @@
       "title": "Yakuza Reincarnation",
       "url": "https://mangadex.org/title/7cd3ca23-2d70-4c03-99f0-b1ee848c4dc4",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-27T07:23:09Z",
-      "removed_at": null
+      "removed_at": "2026-10-02T20:01:26Z",
+      "removed_by_source": true
     },
     "be35df55-adc2-46e6-83cf-0e9f0356ea39": {
       "title": "Catenaccio",
@@ -7913,9 +7921,10 @@
       "title": "Confession",
       "url": "https://mangadex.org/title/d4f95ca5-10be-4173-ba77-f70b7cd82f5b",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-27T07:23:09Z",
-      "removed_at": null
+      "removed_at": "2026-10-02T20:01:26Z",
+      "removed_by_source": true
     },
     "d6e9b748-9187-4f93-a5df-b802c567f60c": {
       "title": "The Reformation of the World as Overseen by a Realist Demon King",
@@ -7929,17 +7938,19 @@
       "title": "Me Tsuki Warui Hito ga Konomi no Taipuna Futari",
       "url": "https://mangadex.org/title/e33662cd-2e31-4158-8f32-0ccc8ef1bd76",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-27T07:23:09Z",
-      "removed_at": null
+      "removed_at": "2026-10-02T20:01:26Z",
+      "removed_by_source": true
     },
     "f7d3a91a-f47a-43ce-9a2c-4da813b15eea": {
       "title": "My Dog Becomes a Human",
       "url": "https://mangadex.org/title/f7d3a91a-f47a-43ce-9a2c-4da813b15eea",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-27T07:23:09Z",
-      "removed_at": null
+      "removed_at": "2026-10-02T20:01:26Z",
+      "removed_by_source": true
     },
     "22e2af18-0469-4e91-9947-dd68b767664a": {
       "title": "Somehow, I Started Living With a NEET Otaku Kunoichi",
@@ -7953,9 +7964,10 @@
       "title": "Useless High School Girls",
       "url": "https://mangadex.org/title/27179c2f-72d7-4a49-a577-2fa6eaf9df4d",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-27T13:11:02Z",
-      "removed_at": null
+      "removed_at": "2026-10-02T20:01:26Z",
+      "removed_by_source": true
     },
     "512cd78f-cbb8-460a-bafd-e8840c0f7c31": {
       "title": "Sword Art Online: Unital Ring",
@@ -7977,9 +7989,10 @@
       "title": "Your Head’s Fallen Off Again",
       "url": "https://mangadex.org/title/65fcafb1-9124-41ae-acec-44cf100e4df4",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-27T13:11:02Z",
-      "removed_at": null
+      "removed_at": "2026-10-02T20:01:26Z",
+      "removed_by_source": true
     },
     "6f8f4894-44fd-4047-b973-fa2c7cfac893": {
       "title": "William of the Wardrobe",
@@ -8025,9 +8038,10 @@
       "title": "My Lovely Fox Wife",
       "url": "https://mangadex.org/title/c8b7c932-3eaa-4005-81ef-c70f2862b51b",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-27T13:11:02Z",
-      "removed_at": null
+      "removed_at": "2026-10-02T20:01:26Z",
+      "removed_by_source": true
     },
     "16dcfceb-4382-45f1-adb0-d57fc5ea0d06": {
       "title": "My Death Flags Show No Sign of Ending",
@@ -8974,9 +8988,10 @@
       "title": "Schoolboy vs The World",
       "url": "https://mangadex.org/title/f90df7aa-c8cd-4ca7-842c-b3dbe38b8b2a",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-01T13:38:29Z",
-      "removed_at": null
+      "removed_at": "2026-10-02T20:01:26Z",
+      "removed_by_source": true
     },
     "0483d2ef-557e-43ae-9761-2f2f0677625a": {
       "title": "The Lotus Eaters, Drunk and Sober",
@@ -9192,6 +9207,86 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-02T15:13:23Z",
+      "removed_at": null
+    },
+    "0b171f64-89a5-4c37-b5f9-75cca57e8787": {
+      "title": "Failure Frame: I Became the Strongest and Annihilated Everything With Low-Level Spells",
+      "url": "https://mangadex.org/title/0b171f64-89a5-4c37-b5f9-75cca57e8787",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-02T20:01:26Z",
+      "removed_at": null
+    },
+    "1887bb79-d747-4f35-9f9d-0c08e477f138": {
+      "title": "I Have a Dragon in My Body",
+      "url": "https://mangadex.org/title/1887bb79-d747-4f35-9f9d-0c08e477f138",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-02T20:01:26Z",
+      "removed_at": null
+    },
+    "733fc3ac-deca-444e-bb79-14186e00ccf1": {
+      "title": "Shadows House (Official Colored)",
+      "url": "https://mangadex.org/title/733fc3ac-deca-444e-bb79-14186e00ccf1",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-02T20:01:26Z",
+      "removed_at": null
+    },
+    "95aa6275-3a71-460b-af9f-33ee9b93bebc": {
+      "title": "Nue's Exorcist",
+      "url": "https://mangadex.org/title/95aa6275-3a71-460b-af9f-33ee9b93bebc",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-02T20:01:26Z",
+      "removed_at": null
+    },
+    "af6f72d6-af16-4974-ac72-c8ca8cb6db58": {
+      "title": "The State of a Certain Wife",
+      "url": "https://mangadex.org/title/af6f72d6-af16-4974-ac72-c8ca8cb6db58",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-02T20:01:26Z",
+      "removed_at": null
+    },
+    "b5e3b32e-5d96-4ebd-b37e-3caa0b258824": {
+      "title": "The Path of the Perfect Evasion Healer",
+      "url": "https://mangadex.org/title/b5e3b32e-5d96-4ebd-b37e-3caa0b258824",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-02T20:01:26Z",
+      "removed_at": null
+    },
+    "b700777b-b007-436a-8830-951cd5e1df97": {
+      "title": "Phantom Busters",
+      "url": "https://mangadex.org/title/b700777b-b007-436a-8830-951cd5e1df97",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-02T20:01:26Z",
+      "removed_at": null
+    },
+    "cdded836-5be4-425b-9c7f-2b98663ca80f": {
+      "title": "Tried Watching the Cursed Video",
+      "url": "https://mangadex.org/title/cdded836-5be4-425b-9c7f-2b98663ca80f",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-02T20:01:26Z",
+      "removed_at": null
+    },
+    "e531c6ca-0b07-4878-8ae8-87357375acd9": {
+      "title": "LV999 Villager",
+      "url": "https://mangadex.org/title/e531c6ca-0b07-4878-8ae8-87357375acd9",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-02T20:01:26Z",
+      "removed_at": null
+    },
+    "f8f3f045-01b5-4216-8f41-d947d8b448b0": {
+      "title": "Kindergarten WARS",
+      "url": "https://mangadex.org/title/f8f3f045-01b5-4216-8f41-d947d8b448b0",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-02T20:01:26Z",
       "removed_at": null
     }
   }
