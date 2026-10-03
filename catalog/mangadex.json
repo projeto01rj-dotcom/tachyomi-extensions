@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-03T09:19:15Z",
+  "updated_at": "2026-10-03T14:21:43Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -8054,9 +8054,10 @@
       "title": "My Death Flags Show No Sign of Ending",
       "url": "https://mangadex.org/title/16dcfceb-4382-45f1-adb0-d57fc5ea0d06",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-27T17:52:20Z",
-      "removed_at": null
+      "removed_at": "2026-10-03T14:21:43Z",
+      "removed_by_source": true
     },
     "1ef6ddce-7930-45ae-a335-9a45604b99f7": {
       "title": "How a Realist Hero Rebuilt the Kingdom",
@@ -8139,9 +8140,10 @@
       "title": "I Love You!",
       "url": "https://mangadex.org/title/cf5a10ad-332b-4e12-9e81-cee75fff313e",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-27T17:52:20Z",
-      "removed_at": null
+      "removed_at": "2026-10-03T14:21:43Z",
+      "removed_by_source": true
     },
     "b02a8869-44ab-4ed9-836e-be69a5407518": {
       "title": "Playful Relationships",
@@ -9384,6 +9386,38 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-03T09:19:15Z",
+      "removed_at": null
+    },
+    "518c6492-b720-476e-b3dd-f33470d38662": {
+      "title": "Tapioca",
+      "url": "https://mangadex.org/title/518c6492-b720-476e-b3dd-f33470d38662",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-03T14:21:43Z",
+      "removed_at": null
+    },
+    "eff87780-93d9-412e-b831-c731787e9bea": {
+      "title": "The Foolish Angel Dances with the Devil",
+      "url": "https://mangadex.org/title/eff87780-93d9-412e-b831-c731787e9bea",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-03T14:21:43Z",
+      "removed_at": null
+    },
+    "f6f3fe1c-c086-4f50-a8cf-3ec48fa3f3a8": {
+      "title": "Record of Ragnarok: The Jack the Ripper Case Files",
+      "url": "https://mangadex.org/title/f6f3fe1c-c086-4f50-a8cf-3ec48fa3f3a8",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-03T14:21:43Z",
+      "removed_at": null
+    },
+    "ff548fb5-0f54-4e61-927b-2bf985e7b033": {
+      "title": "Umareru Seibetsu wo Machigaeta!",
+      "url": "https://mangadex.org/title/ff548fb5-0f54-4e61-927b-2bf985e7b033",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-03T14:21:43Z",
       "removed_at": null
     }
   }

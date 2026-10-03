@@ -1,0 +1,46 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-03T14:21:43Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "518c6492-b720-476e-b3dd-f33470d38662",
+      "title": "Tapioca",
+      "url": "https://mangadex.org/title/518c6492-b720-476e-b3dd-f33470d38662"
+    },
+    {
+      "source": "mangadex",
+      "key": "eff87780-93d9-412e-b831-c731787e9bea",
+      "title": "The Foolish Angel Dances with the Devil",
+      "url": "https://mangadex.org/title/eff87780-93d9-412e-b831-c731787e9bea"
+    },
+    {
+      "source": "mangadex",
+      "key": "f6f3fe1c-c086-4f50-a8cf-3ec48fa3f3a8",
+      "title": "Record of Ragnarok: The Jack the Ripper Case Files",
+      "url": "https://mangadex.org/title/f6f3fe1c-c086-4f50-a8cf-3ec48fa3f3a8"
+    },
+    {
+      "source": "mangadex",
+      "key": "ff548fb5-0f54-4e61-927b-2bf985e7b033",
+      "title": "Umareru Seibetsu wo Machigaeta!",
+      "url": "https://mangadex.org/title/ff548fb5-0f54-4e61-927b-2bf985e7b033"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "16dcfceb-4382-45f1-adb0-d57fc5ea0d06",
+      "title": "My Death Flags Show No Sign of Ending",
+      "url": "https://mangadex.org/title/16dcfceb-4382-45f1-adb0-d57fc5ea0d06",
+      "removed_at": "2026-10-03T14:21:43Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "cf5a10ad-332b-4e12-9e81-cee75fff313e",
+      "title": "I Love You!",
+      "url": "https://mangadex.org/title/cf5a10ad-332b-4e12-9e81-cee75fff313e",
+      "removed_at": "2026-10-03T14:21:43Z"
+    }
+  ]
+}
