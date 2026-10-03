@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-03T18:04:49Z",
+  "updated_at": "2026-10-03T21:35:52Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -1058,9 +1058,10 @@
       "title": "Baki Part 6",
       "url": "https://mangadex.org/title/484f94e7-35c3-4cb5-a068-53d684c1439a",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-03T21:35:52Z",
+      "removed_by_source": true
     },
     "48905e2d-4fe6-4f4d-90bc-bfe6e60b82c1": {
       "title": "Molester Man",
@@ -7487,9 +7488,10 @@
       "title": "I'm Just a Mob Priest, but Since I Realized This World is an Otome Game, I'll Train the Heroine",
       "url": "https://mangadex.org/title/6298f526-a4a8-486c-bb08-470f7ac3235d",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-25T23:43:13Z",
-      "removed_at": null
+      "removed_at": "2026-10-03T21:35:52Z",
+      "removed_by_source": true
     },
     "7f1c253d-9557-4abc-b30b-929d7d8db45e": {
       "title": "August 9th, I Will Be Eaten by You.",
@@ -8197,9 +8199,10 @@
       "title": "Celebrity Family's Ex-Backstage Son Wants a Normal Youth",
       "url": "https://mangadex.org/title/d76dc781-0512-4626-9872-cd01835cfa5e",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-27T23:30:49Z",
-      "removed_at": null
+      "removed_at": "2026-10-03T21:35:52Z",
+      "removed_by_source": true
     },
     "0855e750-6ada-4c22-bfc5-fa63b1118bda": {
       "title": "Isekai ni Tobasareta Ossan wa Doko e Iku?",
@@ -8214,33 +8217,37 @@
       "title": "Yu☆Gi☆Oh! R",
       "url": "https://mangadex.org/title/18d4293c-bd6a-4d60-9178-9888e4cd7cbe",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-28T02:47:08Z",
-      "removed_at": null
+      "removed_at": "2026-10-03T21:35:52Z",
+      "removed_by_source": true
     },
     "7efd0c17-8599-4f67-ab78-d7c1d073c5cc": {
       "title": "Boys Next Door",
       "url": "https://mangadex.org/title/7efd0c17-8599-4f67-ab78-d7c1d073c5cc",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-28T02:47:08Z",
-      "removed_at": null
+      "removed_at": "2026-10-03T21:35:52Z",
+      "removed_by_source": true
     },
     "d65c0332-3764-4c89-84bd-b1a4e7278ad7": {
       "title": "Kagurabachi",
       "url": "https://mangadex.org/title/d65c0332-3764-4c89-84bd-b1a4e7278ad7",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-28T02:47:08Z",
-      "removed_at": null
+      "removed_at": "2026-10-03T21:35:52Z",
+      "removed_by_source": true
     },
     "e2d016cf-5b7f-4c8a-8f8d-34ec5d7cfc52": {
       "title": "Cruel Fairytales",
       "url": "https://mangadex.org/title/e2d016cf-5b7f-4c8a-8f8d-34ec5d7cfc52",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-28T02:47:08Z",
-      "removed_at": null
+      "removed_at": "2026-10-03T21:35:52Z",
+      "removed_by_source": true
     },
     "0e8fac17-979e-4e37-8f45-2c334b25d6dd": {
       "title": "Whisper Me a Love Song",
@@ -8262,17 +8269,19 @@
       "title": "I Faked a Pregnancy, but My Husband Returned",
       "url": "https://mangadex.org/title/2b390cec-b461-485a-ad70-d900469f862b",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-28T09:10:45Z",
-      "removed_at": null
+      "removed_at": "2026-10-03T21:35:52Z",
+      "removed_by_source": true
     },
     "50491535-8d93-4f37-a885-14441766bd43": {
       "title": "After Helping the \"Ice Princess\" from Another School, I Decided to Start as a Friend",
       "url": "https://mangadex.org/title/50491535-8d93-4f37-a885-14441766bd43",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-28T09:10:45Z",
-      "removed_at": null
+      "removed_at": "2026-10-03T21:35:52Z",
+      "removed_by_source": true
     },
     "5272da37-6c69-4ecc-a1e0-d25db7b3e80f": {
       "title": "The Protagonist's Childhood Friend Is Coming on Strong to Me, a Mob",
@@ -8318,9 +8327,10 @@
       "title": "Never-Ending",
       "url": "https://mangadex.org/title/bda927f7-df67-4842-b830-19c931159e41",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-28T09:10:45Z",
-      "removed_at": null
+      "removed_at": "2026-10-03T21:35:52Z",
+      "removed_by_source": true
     },
     "d89cfcf7-dcb4-4af7-8c95-330c2c6167d0": {
       "title": "The Return of the Corpse King: I, a Former Hero, Have Been Summoned Back to Isekai to Stop the CHUUNI Secret Society Organized by Me",
@@ -9449,6 +9459,54 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-03T18:04:49Z",
+      "removed_at": null
+    },
+    "18d53ae1-88a8-4882-96c7-92432cbbf95c": {
+      "title": "My Roommate isn't from this World",
+      "url": "https://mangadex.org/title/18d53ae1-88a8-4882-96c7-92432cbbf95c",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-03T21:35:52Z",
+      "removed_at": null
+    },
+    "25707e09-1afb-48da-a04e-36b4daa7cce6": {
+      "title": "A Chef of Nobunaga",
+      "url": "https://mangadex.org/title/25707e09-1afb-48da-a04e-36b4daa7cce6",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-03T21:35:52Z",
+      "removed_at": null
+    },
+    "4d97b35d-2d9f-4369-964f-3b0ce2c7fbbc": {
+      "title": "The Infinite Mage",
+      "url": "https://mangadex.org/title/4d97b35d-2d9f-4369-964f-3b0ce2c7fbbc",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-03T21:35:52Z",
+      "removed_at": null
+    },
+    "70015311-3e53-4501-bd6e-7504edd16d08": {
+      "title": "I'm Fine with Being the Second Girlfriend.",
+      "url": "https://mangadex.org/title/70015311-3e53-4501-bd6e-7504edd16d08",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-03T21:35:52Z",
+      "removed_at": null
+    },
+    "737a846b-2e67-4d63-9f7e-f54b3beebac4": {
+      "title": "Please Go Home, Miss Akutsu!",
+      "url": "https://mangadex.org/title/737a846b-2e67-4d63-9f7e-f54b3beebac4",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-03T21:35:52Z",
+      "removed_at": null
+    },
+    "f89b2d11-e530-400d-a1bb-2601541b040d": {
+      "title": "Howling Blaze: The Funeral Flame Blade & the Immortal Witch",
+      "url": "https://mangadex.org/title/f89b2d11-e530-400d-a1bb-2601541b040d",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-03T21:35:52Z",
       "removed_at": null
     }
   }
