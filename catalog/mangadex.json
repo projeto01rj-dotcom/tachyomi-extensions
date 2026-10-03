@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-02T23:54:05Z",
+  "updated_at": "2026-10-03T03:05:29Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -7148,9 +7148,10 @@
       "title": "I Hate That We're Childhood Friends!: My Rise to the Top of School Life with an S-Rank Beauty Begins After a Falling-Out",
       "url": "https://mangadex.org/title/202718c6-525e-4cec-a469-c945548cacc3",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-24T22:51:55Z",
-      "removed_at": null
+      "removed_at": "2026-10-03T03:05:29Z",
+      "removed_by_source": true
     },
     "36d27f1d-122a-4c7e-9001-a0d62c8fb579": {
       "title": "Mount Celeb Kaneda-san",
@@ -8075,9 +8076,10 @@
       "title": "Blow that Flute! Jaguar",
       "url": "https://mangadex.org/title/485a777b-e395-4ab1-b262-2a87f53e23c0",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-27T17:52:20Z",
-      "removed_at": null
+      "removed_at": "2026-10-03T03:05:29Z",
+      "removed_by_source": true
     },
     "5a46590b-14df-43f6-8450-5813cbf482e7": {
       "title": "The 8th Son? Are You Kidding Me?",
@@ -8099,17 +8101,19 @@
       "title": "Return of the Frozen Player",
       "url": "https://mangadex.org/title/8cfccbc9-1b2a-4e90-a691-aa43be33136b",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-27T17:52:20Z",
-      "removed_at": null
+      "removed_at": "2026-10-03T03:05:29Z",
+      "removed_by_source": true
     },
     "9e4ab6ae-f730-4ce2-a528-97986beb8549": {
       "title": "Martial Arts Reigns",
       "url": "https://mangadex.org/title/9e4ab6ae-f730-4ce2-a528-97986beb8549",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-27T17:52:20Z",
-      "removed_at": null
+      "removed_at": "2026-10-03T03:05:29Z",
+      "removed_by_source": true
     },
     "b347d551-52eb-40cb-a11a-bfb9959d6495": {
       "title": "The World's Strongest Rearguard: Labyrinth Country's Novice Seeker",
@@ -8124,9 +8128,10 @@
       "title": "My Beloved Apocalypse",
       "url": "https://mangadex.org/title/c595a11d-8610-48c8-bd72-1755a5b6372b",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-27T17:52:20Z",
-      "removed_at": null
+      "removed_at": "2026-10-03T03:05:29Z",
+      "removed_by_source": true
     },
     "cf5a10ad-332b-4e12-9e81-cee75fff313e": {
       "title": "I Love You!",
@@ -8164,9 +8169,10 @@
       "title": "Witch Watch",
       "url": "https://mangadex.org/title/4801f266-cc4e-4c3b-8d1d-f50f08b25b62",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-27T23:30:49Z",
-      "removed_at": null
+      "removed_at": "2026-10-03T03:05:29Z",
+      "removed_by_source": true
     },
     "58bc83a0-1808-484e-88b9-17e167469e23": {
       "title": "Chillin' in Another World with Level 2 Super Cheat Powers",
@@ -8703,9 +8709,10 @@
       "title": "Me & Roboco",
       "url": "https://mangadex.org/title/84fe5a6a-6414-48f3-9d87-175c3b4c6089",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-30T03:12:27Z",
-      "removed_at": null
+      "removed_at": "2026-10-03T03:05:29Z",
+      "removed_by_source": true
     },
     "8df8074d-c9b8-4526-b74b-ee287590608f": {
       "title": "Under Doctor",
@@ -9315,6 +9322,46 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-02T23:54:05Z",
+      "removed_at": null
+    },
+    "15dcfe9e-371f-4fff-b99a-0c182935bf49": {
+      "title": "No. 6",
+      "url": "https://mangadex.org/title/15dcfe9e-371f-4fff-b99a-0c182935bf49",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-03T03:05:29Z",
+      "removed_at": null
+    },
+    "3ad8d2f2-1afe-43da-a88b-0a790c64939e": {
+      "title": "Maria's Judgement",
+      "url": "https://mangadex.org/title/3ad8d2f2-1afe-43da-a88b-0a790c64939e",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-03T03:05:29Z",
+      "removed_at": null
+    },
+    "7477bdb7-c146-41f7-a8de-29c7b7b5034c": {
+      "title": "Don't XX Ms. Tsukimine",
+      "url": "https://mangadex.org/title/7477bdb7-c146-41f7-a8de-29c7b7b5034c",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-03T03:05:29Z",
+      "removed_at": null
+    },
+    "a8c6395b-aa04-426f-aa09-284ae1c3a1e5": {
+      "title": "The Final Exorcist: Ender Geister",
+      "url": "https://mangadex.org/title/a8c6395b-aa04-426f-aa09-284ae1c3a1e5",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-03T03:05:29Z",
+      "removed_at": null
+    },
+    "d7ae4a0f-bb85-48d9-98c2-45144f27374b": {
+      "title": "Charlotte",
+      "url": "https://mangadex.org/title/d7ae4a0f-bb85-48d9-98c2-45144f27374b",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-03T03:05:29Z",
       "removed_at": null
     }
   }

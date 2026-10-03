@@ -1,0 +1,87 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-03T03:05:29Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "15dcfe9e-371f-4fff-b99a-0c182935bf49",
+      "title": "No. 6",
+      "url": "https://mangadex.org/title/15dcfe9e-371f-4fff-b99a-0c182935bf49"
+    },
+    {
+      "source": "mangadex",
+      "key": "3ad8d2f2-1afe-43da-a88b-0a790c64939e",
+      "title": "Maria's Judgement",
+      "url": "https://mangadex.org/title/3ad8d2f2-1afe-43da-a88b-0a790c64939e"
+    },
+    {
+      "source": "mangadex",
+      "key": "7477bdb7-c146-41f7-a8de-29c7b7b5034c",
+      "title": "Don't XX Ms. Tsukimine",
+      "url": "https://mangadex.org/title/7477bdb7-c146-41f7-a8de-29c7b7b5034c"
+    },
+    {
+      "source": "mangadex",
+      "key": "a8c6395b-aa04-426f-aa09-284ae1c3a1e5",
+      "title": "The Final Exorcist: Ender Geister",
+      "url": "https://mangadex.org/title/a8c6395b-aa04-426f-aa09-284ae1c3a1e5"
+    },
+    {
+      "source": "mangadex",
+      "key": "d7ae4a0f-bb85-48d9-98c2-45144f27374b",
+      "title": "Charlotte",
+      "url": "https://mangadex.org/title/d7ae4a0f-bb85-48d9-98c2-45144f27374b"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "202718c6-525e-4cec-a469-c945548cacc3",
+      "title": "I Hate That We're Childhood Friends!: My Rise to the Top of School Life with an S-Rank Beauty Begins After a Falling-Out",
+      "url": "https://mangadex.org/title/202718c6-525e-4cec-a469-c945548cacc3",
+      "removed_at": "2026-10-03T03:05:29Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "485a777b-e395-4ab1-b262-2a87f53e23c0",
+      "title": "Blow that Flute! Jaguar",
+      "url": "https://mangadex.org/title/485a777b-e395-4ab1-b262-2a87f53e23c0",
+      "removed_at": "2026-10-03T03:05:29Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "8cfccbc9-1b2a-4e90-a691-aa43be33136b",
+      "title": "Return of the Frozen Player",
+      "url": "https://mangadex.org/title/8cfccbc9-1b2a-4e90-a691-aa43be33136b",
+      "removed_at": "2026-10-03T03:05:29Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "9e4ab6ae-f730-4ce2-a528-97986beb8549",
+      "title": "Martial Arts Reigns",
+      "url": "https://mangadex.org/title/9e4ab6ae-f730-4ce2-a528-97986beb8549",
+      "removed_at": "2026-10-03T03:05:29Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "c595a11d-8610-48c8-bd72-1755a5b6372b",
+      "title": "My Beloved Apocalypse",
+      "url": "https://mangadex.org/title/c595a11d-8610-48c8-bd72-1755a5b6372b",
+      "removed_at": "2026-10-03T03:05:29Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "4801f266-cc4e-4c3b-8d1d-f50f08b25b62",
+      "title": "Witch Watch",
+      "url": "https://mangadex.org/title/4801f266-cc4e-4c3b-8d1d-f50f08b25b62",
+      "removed_at": "2026-10-03T03:05:29Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "84fe5a6a-6414-48f3-9d87-175c3b4c6089",
+      "title": "Me & Roboco",
+      "url": "https://mangadex.org/title/84fe5a6a-6414-48f3-9d87-175c3b4c6089",
+      "removed_at": "2026-10-03T03:05:29Z"
+    }
+  ]
+}
