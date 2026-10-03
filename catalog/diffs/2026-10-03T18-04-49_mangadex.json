@@ -1,0 +1,75 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-03T18:04:49Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "0a522e70-37c7-476e-8b2c-ddc1050ccc2a",
+      "title": "The Higa Sisters",
+      "url": "https://mangadex.org/title/0a522e70-37c7-476e-8b2c-ddc1050ccc2a"
+    },
+    {
+      "source": "mangadex",
+      "key": "7d425c5c-2bc0-4f50-b3e5-eebb0e222cf0",
+      "title": "My Childhood Friend Is Always Down Whenever I Make a Move",
+      "url": "https://mangadex.org/title/7d425c5c-2bc0-4f50-b3e5-eebb0e222cf0"
+    },
+    {
+      "source": "mangadex",
+      "key": "f5b69b9e-c41f-4d12-8f62-fa7eba9d9b6c",
+      "title": "The Home Improvement Store Employee Building an Agricultural Village in Another World",
+      "url": "https://mangadex.org/title/f5b69b9e-c41f-4d12-8f62-fa7eba9d9b6c"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "ae55f0e6-d979-4a55-865e-352ac49d5527",
+      "title": "I'm Being Spoiled By My Cousin Big Sister?",
+      "url": "https://mangadex.org/title/ae55f0e6-d979-4a55-865e-352ac49d5527",
+      "removed_at": "2026-10-03T18:04:49Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "48863213-086b-4dfb-8103-8e279b8e5f5d",
+      "title": "This Monster Wants to Eat Me",
+      "url": "https://mangadex.org/title/48863213-086b-4dfb-8103-8e279b8e5f5d",
+      "removed_at": "2026-10-03T18:04:49Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "bb06e098-79c4-4cca-8cd4-ad6fec2d6d7d",
+      "title": "Today's Urabe-san with…",
+      "url": "https://mangadex.org/title/bb06e098-79c4-4cca-8cd4-ad6fec2d6d7d",
+      "removed_at": "2026-10-03T18:04:49Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "05a56be4-26ab-4f50-8fc0-ab8304570258",
+      "title": "Drawing: The Greatest Mangaka Becomes a Skilled \"Martial Artist\" in Another World",
+      "url": "https://mangadex.org/title/05a56be4-26ab-4f50-8fc0-ab8304570258",
+      "removed_at": "2026-10-03T18:04:49Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "b02a8869-44ab-4ed9-836e-be69a5407518",
+      "title": "Playful Relationships",
+      "url": "https://mangadex.org/title/b02a8869-44ab-4ed9-836e-be69a5407518",
+      "removed_at": "2026-10-03T18:04:49Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "e9a43274-52cc-425e-9871-877894200b00",
+      "title": "Mortal Kombat",
+      "url": "https://mangadex.org/title/e9a43274-52cc-425e-9871-877894200b00",
+      "removed_at": "2026-10-03T18:04:49Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "58bc83a0-1808-484e-88b9-17e167469e23",
+      "title": "Chillin' in Another World with Level 2 Super Cheat Powers",
+      "url": "https://mangadex.org/title/58bc83a0-1808-484e-88b9-17e167469e23",
+      "removed_at": "2026-10-03T18:04:49Z"
+    }
+  ]
+}

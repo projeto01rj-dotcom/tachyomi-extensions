@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-03T14:21:43Z",
+  "updated_at": "2026-10-03T18:04:49Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -2936,9 +2936,10 @@
       "title": "I'm Being Spoiled By My Cousin Big Sister?",
       "url": "https://mangadex.org/title/ae55f0e6-d979-4a55-865e-352ac49d5527",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-03T18:04:49Z",
+      "removed_by_source": true
     },
     "aefbf95e-5fad-4a92-94d2-ac6dc7c44351": {
       "title": "Hatori and Furuta's Extraordinarily Ordinary Life",
@@ -7477,9 +7478,10 @@
       "title": "This Monster Wants to Eat Me",
       "url": "https://mangadex.org/title/48863213-086b-4dfb-8103-8e279b8e5f5d",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-25T23:43:13Z",
-      "removed_at": null
+      "removed_at": "2026-10-03T18:04:49Z",
+      "removed_by_source": true
     },
     "6298f526-a4a8-486c-bb08-470f7ac3235d": {
       "title": "I'm Just a Mob Priest, but Since I Realized This World is an Otome Game, I'll Train the Heroine",
@@ -7510,9 +7512,10 @@
       "title": "Today's Urabe-san with…",
       "url": "https://mangadex.org/title/bb06e098-79c4-4cca-8cd4-ad6fec2d6d7d",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-25T23:43:13Z",
-      "removed_at": null
+      "removed_at": "2026-10-03T18:04:49Z",
+      "removed_by_source": true
     },
     "dd765721-221e-4a00-a3d8-776372d6bf01": {
       "title": "Mobile Suit Gundam: Silver Phantom -Gravure-",
@@ -7686,9 +7689,10 @@
       "title": "Drawing: The Greatest Mangaka Becomes a Skilled \"Martial Artist\" in Another World",
       "url": "https://mangadex.org/title/05a56be4-26ab-4f50-8fc0-ab8304570258",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-26T17:18:39Z",
-      "removed_at": null
+      "removed_at": "2026-10-03T18:04:49Z",
+      "removed_by_source": true
     },
     "28b8be97-44f2-4bc7-8164-f9ae8ff85491": {
       "title": "See You at the Laundromat Tonight",
@@ -8149,17 +8153,19 @@
       "title": "Playful Relationships",
       "url": "https://mangadex.org/title/b02a8869-44ab-4ed9-836e-be69a5407518",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-27T20:38:48Z",
-      "removed_at": null
+      "removed_at": "2026-10-03T18:04:49Z",
+      "removed_by_source": true
     },
     "e9a43274-52cc-425e-9871-877894200b00": {
       "title": "Mortal Kombat",
       "url": "https://mangadex.org/title/e9a43274-52cc-425e-9871-877894200b00",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-27T20:38:48Z",
-      "removed_at": null
+      "removed_at": "2026-10-03T18:04:49Z",
+      "removed_by_source": true
     },
     "2d63ef8c-eae6-44b4-a300-595b7de11516": {
       "title": "The Only One Who Knows How to Make Her Fall for Me Is the Future Me Who Marries Her",
@@ -8182,9 +8188,10 @@
       "title": "Chillin' in Another World with Level 2 Super Cheat Powers",
       "url": "https://mangadex.org/title/58bc83a0-1808-484e-88b9-17e167469e23",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-27T23:30:49Z",
-      "removed_at": null
+      "removed_at": "2026-10-03T18:04:49Z",
+      "removed_by_source": true
     },
     "d76dc781-0512-4626-9872-cd01835cfa5e": {
       "title": "Celebrity Family's Ex-Backstage Son Wants a Normal Youth",
@@ -9418,6 +9425,30 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-03T14:21:43Z",
+      "removed_at": null
+    },
+    "0a522e70-37c7-476e-8b2c-ddc1050ccc2a": {
+      "title": "The Higa Sisters",
+      "url": "https://mangadex.org/title/0a522e70-37c7-476e-8b2c-ddc1050ccc2a",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-03T18:04:49Z",
+      "removed_at": null
+    },
+    "7d425c5c-2bc0-4f50-b3e5-eebb0e222cf0": {
+      "title": "My Childhood Friend Is Always Down Whenever I Make a Move",
+      "url": "https://mangadex.org/title/7d425c5c-2bc0-4f50-b3e5-eebb0e222cf0",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-03T18:04:49Z",
+      "removed_at": null
+    },
+    "f5b69b9e-c41f-4d12-8f62-fa7eba9d9b6c": {
+      "title": "The Home Improvement Store Employee Building an Agricultural Village in Another World",
+      "url": "https://mangadex.org/title/f5b69b9e-c41f-4d12-8f62-fa7eba9d9b6c",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-03T18:04:49Z",
       "removed_at": null
     }
   }
