@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-03T03:05:29Z",
+  "updated_at": "2026-10-03T09:19:15Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -2282,9 +2282,10 @@
       "title": "Girl's Interstellar Adventure",
       "url": "https://mangadex.org/title/89791bd5-9676-4a71-b281-0587a51c026c",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-03T09:19:15Z",
+      "removed_by_source": true
     },
     "89ed3ec2-ebe6-4d6b-92eb-d753a8bb365e": {
       "title": "Saving 80,000 Gold in Another World for My Retirement",
@@ -3371,9 +3372,10 @@
       "title": "Tokimori-san is Completely Defenseless!!",
       "url": "https://mangadex.org/title/c855ec45-b8d9-4aea-9a0d-b2ae544c11dc",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-03T09:19:15Z",
+      "removed_by_source": true
     },
     "c88ca39b-c68a-4551-ac6f-65d23cfcca72": {
       "title": "She was Actually My Stepsister.: Recently, the Sense of Distance Between Me and My New Stepbrother is Incredibly Close",
@@ -8718,9 +8720,10 @@
       "title": "Under Doctor",
       "url": "https://mangadex.org/title/8df8074d-c9b8-4526-b74b-ee287590608f",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-30T03:12:27Z",
-      "removed_at": null
+      "removed_at": "2026-10-03T09:19:15Z",
+      "removed_by_source": true
     },
     "9d9b04ad-9a83-49f4-8ae4-a9a3780fe9c0": {
       "title": "Sakamoto Days",
@@ -8751,17 +8754,19 @@
       "title": "Ultimate Exorcist Kiyoshi",
       "url": "https://mangadex.org/title/f25669f5-d886-49c5-bbac-d3b4c5ff3d02",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-30T03:12:27Z",
-      "removed_at": null
+      "removed_at": "2026-10-03T09:19:15Z",
+      "removed_by_source": true
     },
     "f8e41a48-5ca9-41e3-94a7-a1379a4fda62": {
       "title": "Kuroko’s Basketball",
       "url": "https://mangadex.org/title/f8e41a48-5ca9-41e3-94a7-a1379a4fda62",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-30T03:12:27Z",
-      "removed_at": null
+      "removed_at": "2026-10-03T09:19:15Z",
+      "removed_by_source": true
     },
     "c93b96e9-29bb-419c-b756-f098b05a4b65": {
       "title": "Money Forest",
@@ -9248,9 +9253,10 @@
       "title": "Nue's Exorcist",
       "url": "https://mangadex.org/title/95aa6275-3a71-460b-af9f-33ee9b93bebc",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-02T20:01:26Z",
-      "removed_at": null
+      "removed_at": "2026-10-03T09:19:15Z",
+      "removed_by_source": true
     },
     "af6f72d6-af16-4974-ac72-c8ca8cb6db58": {
       "title": "The State of a Certain Wife",
@@ -9362,6 +9368,22 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-03T03:05:29Z",
+      "removed_at": null
+    },
+    "8a0e1c19-d214-4263-9172-435867d2a4ee": {
+      "title": "Seraph of the End—Guren Ichinose: Catastrophe at Sixteen",
+      "url": "https://mangadex.org/title/8a0e1c19-d214-4263-9172-435867d2a4ee",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-03T09:19:15Z",
+      "removed_at": null
+    },
+    "b9e40a22-ca9c-4f08-b537-ca6b75d8d720": {
+      "title": "Toukyou Cannabis Special Ward: The Guy Called Cannabis King",
+      "url": "https://mangadex.org/title/b9e40a22-ca9c-4f08-b537-ca6b75d8d720",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-03T09:19:15Z",
       "removed_at": null
     }
   }
