@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-04T06:06:54Z",
+  "updated_at": "2026-10-04T12:38:42Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -1592,9 +1592,10 @@
       "title": "The Sweet Sixty Princess",
       "url": "https://mangadex.org/title/647c6480-a877-4899-9382-5757fcfba1d3",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-04T12:38:42Z",
+      "removed_by_source": true
     },
     "65208a20-4253-42c8-b0e7-56524bbe795b": {
       "title": "Legend of Star General",
@@ -8378,9 +8379,10 @@
       "title": "TS-Reincarnated Beauty Netora Reiko Wants to Be NTR'd",
       "url": "https://mangadex.org/title/0eaadf3a-34c8-49b4-94a1-01cb8cdf8d07",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-28T17:45:14Z",
-      "removed_at": null
+      "removed_at": "2026-10-04T12:38:42Z",
+      "removed_by_source": true
     },
     "191c5909-354c-4f15-b3f7-e28bf56dc6a8": {
       "title": "Weather Child",
@@ -8403,9 +8405,10 @@
       "title": "A Toxic 20-Year-Old Game Streamer Accidentally Reveals His Nice Personality Because He Forgot to End the Stream",
       "url": "https://mangadex.org/title/441e03e9-800a-4739-b656-966d0660c168",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-28T17:45:14Z",
-      "removed_at": null
+      "removed_at": "2026-10-04T12:38:42Z",
+      "removed_by_source": true
     },
     "5bb3b15f-3f60-490a-b873-bd7589f4e662": {
       "title": "An S-class Adventurer, Banished as the Tank of the Party, Uses His \"Slave Release\" Skill to Build the Strongest Country in History!",
@@ -8469,9 +8472,10 @@
       "title": "Sem título",
       "url": "https://mangadex.org/title/a41b5a2b-9dc5-4e9c-bafd-f614eeeaae3b",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-28T17:45:14Z",
-      "removed_at": null
+      "removed_at": "2026-10-04T12:38:42Z",
+      "removed_by_source": true
     },
     "b939206a-34c1-4b9a-b802-0647bfa59f2f": {
       "title": "Dustland",
@@ -8512,9 +8516,10 @@
       "title": "Prison!",
       "url": "https://mangadex.org/title/ff360116-6df6-4bd3-817c-795f651c5b75",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-28T17:45:14Z",
-      "removed_at": null
+      "removed_at": "2026-10-04T12:38:42Z",
+      "removed_by_source": true
     },
     "077a3fed-1634-424f-be7a-9a96b7f07b78": {
       "title": "Kingdom",
@@ -9570,6 +9575,30 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-04T06:06:54Z",
+      "removed_at": null
+    },
+    "39b4e02a-f2f2-4ff0-bf2c-f87cf54ab178": {
+      "title": "Chronicles of an Aristocrat Reborn in Another World: The Apostle of the Gods Who Know No Self-Restraint",
+      "url": "https://mangadex.org/title/39b4e02a-f2f2-4ff0-bf2c-f87cf54ab178",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-04T12:38:42Z",
+      "removed_at": null
+    },
+    "5d36e164-32de-4de7-a5db-8d53f4662af8": {
+      "title": "Even If I Become a Girl with Tiger Ears",
+      "url": "https://mangadex.org/title/5d36e164-32de-4de7-a5db-8d53f4662af8",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-04T12:38:42Z",
+      "removed_at": null
+    },
+    "c8b3d40c-86b8-41cd-a793-c280d5b9da10": {
+      "title": "Death Frenzy",
+      "url": "https://mangadex.org/title/c8b3d40c-86b8-41cd-a793-c280d5b9da10",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-04T12:38:42Z",
       "removed_at": null
     }
   }

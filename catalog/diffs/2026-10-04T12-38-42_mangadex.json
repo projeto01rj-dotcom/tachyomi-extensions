@@ -1,0 +1,61 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-04T12:38:42Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "39b4e02a-f2f2-4ff0-bf2c-f87cf54ab178",
+      "title": "Chronicles of an Aristocrat Reborn in Another World: The Apostle of the Gods Who Know No Self-Restraint",
+      "url": "https://mangadex.org/title/39b4e02a-f2f2-4ff0-bf2c-f87cf54ab178"
+    },
+    {
+      "source": "mangadex",
+      "key": "5d36e164-32de-4de7-a5db-8d53f4662af8",
+      "title": "Even If I Become a Girl with Tiger Ears",
+      "url": "https://mangadex.org/title/5d36e164-32de-4de7-a5db-8d53f4662af8"
+    },
+    {
+      "source": "mangadex",
+      "key": "c8b3d40c-86b8-41cd-a793-c280d5b9da10",
+      "title": "Death Frenzy",
+      "url": "https://mangadex.org/title/c8b3d40c-86b8-41cd-a793-c280d5b9da10"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "647c6480-a877-4899-9382-5757fcfba1d3",
+      "title": "The Sweet Sixty Princess",
+      "url": "https://mangadex.org/title/647c6480-a877-4899-9382-5757fcfba1d3",
+      "removed_at": "2026-10-04T12:38:42Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "0eaadf3a-34c8-49b4-94a1-01cb8cdf8d07",
+      "title": "TS-Reincarnated Beauty Netora Reiko Wants to Be NTR'd",
+      "url": "https://mangadex.org/title/0eaadf3a-34c8-49b4-94a1-01cb8cdf8d07",
+      "removed_at": "2026-10-04T12:38:42Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "441e03e9-800a-4739-b656-966d0660c168",
+      "title": "A Toxic 20-Year-Old Game Streamer Accidentally Reveals His Nice Personality Because He Forgot to End the Stream",
+      "url": "https://mangadex.org/title/441e03e9-800a-4739-b656-966d0660c168",
+      "removed_at": "2026-10-04T12:38:42Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "a41b5a2b-9dc5-4e9c-bafd-f614eeeaae3b",
+      "title": "Sem título",
+      "url": "https://mangadex.org/title/a41b5a2b-9dc5-4e9c-bafd-f614eeeaae3b",
+      "removed_at": "2026-10-04T12:38:42Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "ff360116-6df6-4bd3-817c-795f651c5b75",
+      "title": "Prison!",
+      "url": "https://mangadex.org/title/ff360116-6df6-4bd3-817c-795f651c5b75",
+      "removed_at": "2026-10-04T12:38:42Z"
+    }
+  ]
+}
