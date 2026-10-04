@@ -1,0 +1,94 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-04T06:06:54Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "3f28c47a-bf8d-4e79-83ca-2e64fe906372",
+      "title": "Dropkick on My Devil!",
+      "url": "https://mangadex.org/title/3f28c47a-bf8d-4e79-83ca-2e64fe906372"
+    },
+    {
+      "source": "mangadex",
+      "key": "8972b661-13b4-49da-a32b-1450cf9ac31d",
+      "title": "Centaur no Nayami",
+      "url": "https://mangadex.org/title/8972b661-13b4-49da-a32b-1450cf9ac31d"
+    },
+    {
+      "source": "mangadex",
+      "key": "8dbe9bf3-aaba-4dae-9cb0-23de57f7744b",
+      "title": "Thus Spoke Rohan Kishibe (Official Colored)",
+      "url": "https://mangadex.org/title/8dbe9bf3-aaba-4dae-9cb0-23de57f7744b"
+    },
+    {
+      "source": "mangadex",
+      "key": "d080f85f-a6ef-4e0a-9569-c0709b60d8c0",
+      "title": "ST✰R: Strike it Rich",
+      "url": "https://mangadex.org/title/d080f85f-a6ef-4e0a-9569-c0709b60d8c0"
+    },
+    {
+      "source": "mangadex",
+      "key": "ef473f14-8c4d-435e-9015-b714512e69eb",
+      "title": "Japan Summoning",
+      "url": "https://mangadex.org/title/ef473f14-8c4d-435e-9015-b714512e69eb"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "2c9c3fdd-a4b6-4736-9fa7-441035790873",
+      "title": "My Friend's Sister Is Scary but Nice",
+      "url": "https://mangadex.org/title/2c9c3fdd-a4b6-4736-9fa7-441035790873",
+      "removed_at": "2026-10-04T06:06:54Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "bc70eee3-5668-4a89-bc57-4ec3af33e8ed",
+      "title": "Starting Today, You are the Snake Goddess' Son",
+      "url": "https://mangadex.org/title/bc70eee3-5668-4a89-bc57-4ec3af33e8ed",
+      "removed_at": "2026-10-04T06:06:54Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "191c5909-354c-4f15-b3f7-e28bf56dc6a8",
+      "title": "Weather Child",
+      "url": "https://mangadex.org/title/191c5909-354c-4f15-b3f7-e28bf56dc6a8",
+      "removed_at": "2026-10-04T06:06:54Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "719e707d-e2ad-4877-bc12-27f224d162b3",
+      "title": "I Want to Live the Harem Life of My Dreams with the Hypnosis App I Got",
+      "url": "https://mangadex.org/title/719e707d-e2ad-4877-bc12-27f224d162b3",
+      "removed_at": "2026-10-04T06:06:54Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "87ed0cea-cd84-40fe-ad94-71e9257536f8",
+      "title": "Princess Reincarnation: The Legendary Arch Mage (♂) Becomes a Princess Knight and Creates a Legendary Order of Lady Knights and Becomes Unrivaled",
+      "url": "https://mangadex.org/title/87ed0cea-cd84-40fe-ad94-71e9257536f8",
+      "removed_at": "2026-10-04T06:06:54Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "d042e605-a07a-4cd2-87d5-ebe53c0b135f",
+      "title": "The Monster Girl I Saved.",
+      "url": "https://mangadex.org/title/d042e605-a07a-4cd2-87d5-ebe53c0b135f",
+      "removed_at": "2026-10-04T06:06:54Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "d16f92a6-6f5f-442c-b011-b68abc986209",
+      "title": "Everyone's Darling has a Secret",
+      "url": "https://mangadex.org/title/d16f92a6-6f5f-442c-b011-b68abc986209",
+      "removed_at": "2026-10-04T06:06:54Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "e05dd982-6d09-4f3d-8e8e-6c9ae65b5857",
+      "title": "The Color of the End: Mission in the Apocalypse",
+      "url": "https://mangadex.org/title/e05dd982-6d09-4f3d-8e8e-6c9ae65b5857",
+      "removed_at": "2026-10-04T06:06:54Z"
+    }
+  ]
+}
