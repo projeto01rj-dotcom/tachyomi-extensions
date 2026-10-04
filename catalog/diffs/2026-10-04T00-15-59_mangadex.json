@@ -1,0 +1,63 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-04T00:15:59Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "6f8509aa-dec9-4b92-aa20-014b14fa4d7f",
+      "title": "I Reincarnated as the Childhood Friend of the Final Boss Villainess Who Falls into Darkness. If I Die, It's a Guaranteed Bad End, so I Became the Strongest, but Hasn't She Already Fallen into Darkness (and Turned Yandere)?",
+      "url": "https://mangadex.org/title/6f8509aa-dec9-4b92-aa20-014b14fa4d7f"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "be35df55-adc2-46e6-83cf-0e9f0356ea39",
+      "title": "Catenaccio",
+      "url": "https://mangadex.org/title/be35df55-adc2-46e6-83cf-0e9f0356ea39",
+      "removed_at": "2026-10-04T00:15:59Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "53c12cd2-f7ff-4976-b16a-c83efdeedb6f",
+      "title": "Elqueeness",
+      "url": "https://mangadex.org/title/53c12cd2-f7ff-4976-b16a-c83efdeedb6f",
+      "removed_at": "2026-10-04T00:15:59Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "658b9adf-33c5-439d-9df3-9650c0649bf9",
+      "title": "Nomadic Life with the Elves' Terrible Food",
+      "url": "https://mangadex.org/title/658b9adf-33c5-439d-9df3-9650c0649bf9",
+      "removed_at": "2026-10-04T00:15:59Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "72231b89-3934-439b-9d83-0f82e45f01d6",
+      "title": "The Unaware Atelier Meister",
+      "url": "https://mangadex.org/title/72231b89-3934-439b-9d83-0f82e45f01d6",
+      "removed_at": "2026-10-04T00:15:59Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "ae3736bf-dc58-40cc-b1cb-928269edf62b",
+      "title": "No, Miyahara, Not You!",
+      "url": "https://mangadex.org/title/ae3736bf-dc58-40cc-b1cb-928269edf62b",
+      "removed_at": "2026-10-04T00:15:59Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "d89cfcf7-dcb4-4af7-8c95-330c2c6167d0",
+      "title": "The Return of the Corpse King: I, a Former Hero, Have Been Summoned Back to Isekai to Stop the CHUUNI Secret Society Organized by Me",
+      "url": "https://mangadex.org/title/d89cfcf7-dcb4-4af7-8c95-330c2c6167d0",
+      "removed_at": "2026-10-04T00:15:59Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "fe9b4485-550a-4823-84eb-8680283b5d9f",
+      "title": "Amusement Park: Baki Side Story",
+      "url": "https://mangadex.org/title/fe9b4485-550a-4823-84eb-8680283b5d9f",
+      "removed_at": "2026-10-04T00:15:59Z"
+    }
+  ]
+}

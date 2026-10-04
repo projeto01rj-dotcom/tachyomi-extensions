@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-03T21:35:52Z",
+  "updated_at": "2026-10-04T00:15:59Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -7924,9 +7924,10 @@
       "title": "Catenaccio",
       "url": "https://mangadex.org/title/be35df55-adc2-46e6-83cf-0e9f0356ea39",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-27T07:23:09Z",
-      "removed_at": null
+      "removed_at": "2026-10-04T00:15:59Z",
+      "removed_by_source": true
     },
     "d4f95ca5-10be-4173-ba77-f70b7cd82f5b": {
       "title": "Confession",
@@ -8295,33 +8296,37 @@
       "title": "Elqueeness",
       "url": "https://mangadex.org/title/53c12cd2-f7ff-4976-b16a-c83efdeedb6f",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-28T09:10:45Z",
-      "removed_at": null
+      "removed_at": "2026-10-04T00:15:59Z",
+      "removed_by_source": true
     },
     "658b9adf-33c5-439d-9df3-9650c0649bf9": {
       "title": "Nomadic Life with the Elves' Terrible Food",
       "url": "https://mangadex.org/title/658b9adf-33c5-439d-9df3-9650c0649bf9",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-28T09:10:45Z",
-      "removed_at": null
+      "removed_at": "2026-10-04T00:15:59Z",
+      "removed_by_source": true
     },
     "72231b89-3934-439b-9d83-0f82e45f01d6": {
       "title": "The Unaware Atelier Meister",
       "url": "https://mangadex.org/title/72231b89-3934-439b-9d83-0f82e45f01d6",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-28T09:10:45Z",
-      "removed_at": null
+      "removed_at": "2026-10-04T00:15:59Z",
+      "removed_by_source": true
     },
     "ae3736bf-dc58-40cc-b1cb-928269edf62b": {
       "title": "No, Miyahara, Not You!",
       "url": "https://mangadex.org/title/ae3736bf-dc58-40cc-b1cb-928269edf62b",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-28T09:10:45Z",
-      "removed_at": null
+      "removed_at": "2026-10-04T00:15:59Z",
+      "removed_by_source": true
     },
     "bda927f7-df67-4842-b830-19c931159e41": {
       "title": "Never-Ending",
@@ -8336,9 +8341,10 @@
       "title": "The Return of the Corpse King: I, a Former Hero, Have Been Summoned Back to Isekai to Stop the CHUUNI Secret Society Organized by Me",
       "url": "https://mangadex.org/title/d89cfcf7-dcb4-4af7-8c95-330c2c6167d0",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-28T09:10:45Z",
-      "removed_at": null
+      "removed_at": "2026-10-04T00:15:59Z",
+      "removed_by_source": true
     },
     "e63fc981-7fd2-469d-9d89-a1bbb0b609b4": {
       "title": "Wife",
@@ -8361,9 +8367,10 @@
       "title": "Amusement Park: Baki Side Story",
       "url": "https://mangadex.org/title/fe9b4485-550a-4823-84eb-8680283b5d9f",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-28T09:10:45Z",
-      "removed_at": null
+      "removed_at": "2026-10-04T00:15:59Z",
+      "removed_by_source": true
     },
     "0eaadf3a-34c8-49b4-94a1-01cb8cdf8d07": {
       "title": "TS-Reincarnated Beauty Netora Reiko Wants to Be NTR'd",
@@ -9507,6 +9514,14 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-03T21:35:52Z",
+      "removed_at": null
+    },
+    "6f8509aa-dec9-4b92-aa20-014b14fa4d7f": {
+      "title": "I Reincarnated as the Childhood Friend of the Final Boss Villainess Who Falls into Darkness. If I Die, It's a Guaranteed Bad End, so I Became the Strongest, but Hasn't She Already Fallen into Darkness (and Turned Yandere)?",
+      "url": "https://mangadex.org/title/6f8509aa-dec9-4b92-aa20-014b14fa4d7f",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-04T00:15:59Z",
       "removed_at": null
     }
   }
