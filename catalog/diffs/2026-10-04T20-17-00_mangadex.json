@@ -1,0 +1,48 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-04T20:17:00Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "58167656-a065-4b49-b499-bd73d00555d5",
+      "title": "Pick Me Up, Infinite Gacha",
+      "url": "https://mangadex.org/title/58167656-a065-4b49-b499-bd73d00555d5"
+    },
+    {
+      "source": "mangadex",
+      "key": "964d8e8a-7bcb-42f1-9651-20b1871eecac",
+      "title": "The Ice Princess Wants to be Melted by a Small Patch of Sunlight",
+      "url": "https://mangadex.org/title/964d8e8a-7bcb-42f1-9651-20b1871eecac"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "9aa3ca66-b1d0-4cc5-aec7-66990f026b78",
+      "title": "Detective Xeno and the Seven Locked Murder Rooms",
+      "url": "https://mangadex.org/title/9aa3ca66-b1d0-4cc5-aec7-66990f026b78",
+      "removed_at": "2026-10-04T20:17:00Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "a0c817d7-3cd5-4f29-abd1-1baa6c225817",
+      "title": "b(a)dtime stories",
+      "url": "https://mangadex.org/title/a0c817d7-3cd5-4f29-abd1-1baa6c225817",
+      "removed_at": "2026-10-04T20:17:00Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "b2aab7a6-59be-4270-b942-5d7965ebcb19",
+      "title": "The Cat in Quarantine",
+      "url": "https://mangadex.org/title/b2aab7a6-59be-4270-b942-5d7965ebcb19",
+      "removed_at": "2026-10-04T20:17:00Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "ce89adb4-63fc-422e-9fbc-40ea6af4525c",
+      "title": "Terra ForMars",
+      "url": "https://mangadex.org/title/ce89adb4-63fc-422e-9fbc-40ea6af4525c",
+      "removed_at": "2026-10-04T20:17:00Z"
+    }
+  ]
+}
