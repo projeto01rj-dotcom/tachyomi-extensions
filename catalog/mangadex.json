@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-05T02:11:33Z",
+  "updated_at": "2026-10-05T09:20:27Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -3963,9 +3963,10 @@
       "title": "Silver Mountain",
       "url": "https://mangadex.org/title/e585c858-fce4-403d-b82e-39b943d33103",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-05T09:20:27Z",
+      "removed_by_source": true
     },
     "e5c45705-779d-44ae-8efb-16d5cb602cdb": {
       "title": "Don't Dress Up My Sweet Sweet Love",
@@ -6732,9 +6733,10 @@
       "title": "The Orphanage's Tamer",
       "url": "https://mangadex.org/title/05c2917a-e0a4-4c55-abac-8be0f8b213e4",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-23T15:08:12Z",
-      "removed_at": null
+      "removed_at": "2026-10-05T09:20:27Z",
+      "removed_by_source": true
     },
     "bc70eee3-5668-4a89-bc57-4ec3af33e8ed": {
       "title": "Starting Today, You are the Snake Goddess' Son",
@@ -6946,9 +6948,10 @@
       "title": "Lilim Holic",
       "url": "https://mangadex.org/title/a4807f27-d96e-4069-9705-88056e81a555",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-24T05:41:00Z",
-      "removed_at": null
+      "removed_at": "2026-10-05T09:20:27Z",
+      "removed_by_source": true
     },
     "a972aebe-50fb-4dfe-8f61-0150f3659467": {
       "title": "The Little Lady Behind the Scenes",
@@ -8705,9 +8708,10 @@
       "title": "NoTR",
       "url": "https://mangadex.org/title/03346265-8076-4b14-8c80-78c2f04511be",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-29T20:05:21Z",
-      "removed_at": null
+      "removed_at": "2026-10-05T09:20:27Z",
+      "removed_by_source": true
     },
     "29ca9de0-b633-4756-b4f3-c3bef1ee4f9e": {
       "title": "Seasons of Lovesome",
@@ -8740,9 +8744,10 @@
       "title": "Metaphor: ReFantazio",
       "url": "https://mangadex.org/title/1834ead6-82fd-4a79-a998-c5ab0c8edeef",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-29T23:50:35Z",
-      "removed_at": null
+      "removed_at": "2026-10-05T09:20:27Z",
+      "removed_by_source": true
     },
     "3486c56e-47db-4d62-a9b4-71ea44acbaec": {
       "title": "Centuria",
@@ -8765,9 +8770,10 @@
       "title": "Petals of Reincarnation",
       "url": "https://mangadex.org/title/3b5c0def-79ae-44e8-9d71-9aa2e83f9a9f",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-30T03:12:27Z",
-      "removed_at": null
+      "removed_at": "2026-10-05T09:20:27Z",
+      "removed_by_source": true
     },
     "44bb6cb5-7c19-4fc0-8e83-b895c41b12a5": {
       "title": "Reader",
@@ -8817,9 +8823,10 @@
       "title": "Hiiragi-san Is a Little Careless",
       "url": "https://mangadex.org/title/d6643b6b-5a2e-4f94-8f30-13d4f5e4299a",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-30T03:12:27Z",
-      "removed_at": null
+      "removed_at": "2026-10-05T09:20:27Z",
+      "removed_by_source": true
     },
     "f25669f5-d886-49c5-bbac-d3b4c5ff3d02": {
       "title": "Ultimate Exorcist Kiyoshi",
@@ -9799,6 +9806,70 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-05T02:11:33Z",
+      "removed_at": null
+    },
+    "0a0cee31-d434-4b58-9aed-cc633036b9eb": {
+      "title": "Because Janitor-san Is Not A Hero",
+      "url": "https://mangadex.org/title/0a0cee31-d434-4b58-9aed-cc633036b9eb",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-05T09:20:27Z",
+      "removed_at": null
+    },
+    "31d5534e-4a74-4952-8f37-2701d6353c98": {
+      "title": "The guild receptionist, Lilina, is cold only toward me",
+      "url": "https://mangadex.org/title/31d5534e-4a74-4952-8f37-2701d6353c98",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-05T09:20:27Z",
+      "removed_at": null
+    },
+    "46596dea-95de-40e8-b2b8-4e63aa6acd1a": {
+      "title": "The Magical Revolution of the Reincarnated Princess and the Genius Young Lady",
+      "url": "https://mangadex.org/title/46596dea-95de-40e8-b2b8-4e63aa6acd1a",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-05T09:20:27Z",
+      "removed_at": null
+    },
+    "4a30061a-bc66-4efd-9c4b-87daf8313381": {
+      "title": "Citrus Plus",
+      "url": "https://mangadex.org/title/4a30061a-bc66-4efd-9c4b-87daf8313381",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-05T09:20:27Z",
+      "removed_at": null
+    },
+    "7df2d2d6-34b2-4ff7-8a3a-f6b5a9d546ed": {
+      "title": "When I Started Streaming in Another World, I Ended Up Creating a Large Number of Yandere Followers",
+      "url": "https://mangadex.org/title/7df2d2d6-34b2-4ff7-8a3a-f6b5a9d546ed",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-05T09:20:27Z",
+      "removed_at": null
+    },
+    "a1620de1-6eb6-4948-b228-b232f910155a": {
+      "title": "Adachi and Shimamura",
+      "url": "https://mangadex.org/title/a1620de1-6eb6-4948-b228-b232f910155a",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-05T09:20:27Z",
+      "removed_at": null
+    },
+    "b7d069cb-4ab9-4c21-a20b-38f7c269be4e": {
+      "title": "One-Punch Man (Webcomic)",
+      "url": "https://mangadex.org/title/b7d069cb-4ab9-4c21-a20b-38f7c269be4e",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-05T09:20:27Z",
+      "removed_at": null
+    },
+    "f0bbac64-efe5-4403-9fcf-5454db36467a": {
+      "title": "Virgin Knight: I Became the Frontier Lord in a World Ruled by Women",
+      "url": "https://mangadex.org/title/f0bbac64-efe5-4403-9fcf-5454db36467a",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-05T09:20:27Z",
       "removed_at": null
     }
   }

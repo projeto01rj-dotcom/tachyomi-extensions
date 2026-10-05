@@ -1,0 +1,105 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-05T09:20:27Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "0a0cee31-d434-4b58-9aed-cc633036b9eb",
+      "title": "Because Janitor-san Is Not A Hero",
+      "url": "https://mangadex.org/title/0a0cee31-d434-4b58-9aed-cc633036b9eb"
+    },
+    {
+      "source": "mangadex",
+      "key": "31d5534e-4a74-4952-8f37-2701d6353c98",
+      "title": "The guild receptionist, Lilina, is cold only toward me",
+      "url": "https://mangadex.org/title/31d5534e-4a74-4952-8f37-2701d6353c98"
+    },
+    {
+      "source": "mangadex",
+      "key": "46596dea-95de-40e8-b2b8-4e63aa6acd1a",
+      "title": "The Magical Revolution of the Reincarnated Princess and the Genius Young Lady",
+      "url": "https://mangadex.org/title/46596dea-95de-40e8-b2b8-4e63aa6acd1a"
+    },
+    {
+      "source": "mangadex",
+      "key": "4a30061a-bc66-4efd-9c4b-87daf8313381",
+      "title": "Citrus Plus",
+      "url": "https://mangadex.org/title/4a30061a-bc66-4efd-9c4b-87daf8313381"
+    },
+    {
+      "source": "mangadex",
+      "key": "7df2d2d6-34b2-4ff7-8a3a-f6b5a9d546ed",
+      "title": "When I Started Streaming in Another World, I Ended Up Creating a Large Number of Yandere Followers",
+      "url": "https://mangadex.org/title/7df2d2d6-34b2-4ff7-8a3a-f6b5a9d546ed"
+    },
+    {
+      "source": "mangadex",
+      "key": "a1620de1-6eb6-4948-b228-b232f910155a",
+      "title": "Adachi and Shimamura",
+      "url": "https://mangadex.org/title/a1620de1-6eb6-4948-b228-b232f910155a"
+    },
+    {
+      "source": "mangadex",
+      "key": "b7d069cb-4ab9-4c21-a20b-38f7c269be4e",
+      "title": "One-Punch Man (Webcomic)",
+      "url": "https://mangadex.org/title/b7d069cb-4ab9-4c21-a20b-38f7c269be4e"
+    },
+    {
+      "source": "mangadex",
+      "key": "f0bbac64-efe5-4403-9fcf-5454db36467a",
+      "title": "Virgin Knight: I Became the Frontier Lord in a World Ruled by Women",
+      "url": "https://mangadex.org/title/f0bbac64-efe5-4403-9fcf-5454db36467a"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "e585c858-fce4-403d-b82e-39b943d33103",
+      "title": "Silver Mountain",
+      "url": "https://mangadex.org/title/e585c858-fce4-403d-b82e-39b943d33103",
+      "removed_at": "2026-10-05T09:20:27Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "05c2917a-e0a4-4c55-abac-8be0f8b213e4",
+      "title": "The Orphanage's Tamer",
+      "url": "https://mangadex.org/title/05c2917a-e0a4-4c55-abac-8be0f8b213e4",
+      "removed_at": "2026-10-05T09:20:27Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "a4807f27-d96e-4069-9705-88056e81a555",
+      "title": "Lilim Holic",
+      "url": "https://mangadex.org/title/a4807f27-d96e-4069-9705-88056e81a555",
+      "removed_at": "2026-10-05T09:20:27Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "03346265-8076-4b14-8c80-78c2f04511be",
+      "title": "NoTR",
+      "url": "https://mangadex.org/title/03346265-8076-4b14-8c80-78c2f04511be",
+      "removed_at": "2026-10-05T09:20:27Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "1834ead6-82fd-4a79-a998-c5ab0c8edeef",
+      "title": "Metaphor: ReFantazio",
+      "url": "https://mangadex.org/title/1834ead6-82fd-4a79-a998-c5ab0c8edeef",
+      "removed_at": "2026-10-05T09:20:27Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "3b5c0def-79ae-44e8-9d71-9aa2e83f9a9f",
+      "title": "Petals of Reincarnation",
+      "url": "https://mangadex.org/title/3b5c0def-79ae-44e8-9d71-9aa2e83f9a9f",
+      "removed_at": "2026-10-05T09:20:27Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "d6643b6b-5a2e-4f94-8f30-13d4f5e4299a",
+      "title": "Hiiragi-san Is a Little Careless",
+      "url": "https://mangadex.org/title/d6643b6b-5a2e-4f94-8f30-13d4f5e4299a",
+      "removed_at": "2026-10-05T09:20:27Z"
+    }
+  ]
+}
