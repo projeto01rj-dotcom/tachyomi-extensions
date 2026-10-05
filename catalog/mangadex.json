@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-05T09:20:27Z",
+  "updated_at": "2026-10-05T18:39:52Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -4916,9 +4916,10 @@
       "title": "A Ninja and an Assassin Under One Roof",
       "url": "https://mangadex.org/title/d964361f-042a-4c1b-907d-3c907dd50060",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-19T07:27:30Z",
-      "removed_at": null
+      "removed_at": "2026-10-05T18:39:52Z",
+      "removed_by_source": true
     },
     "29a0218e-8aac-4f92-887f-5940cb86f136": {
       "title": "Assassin's Pride",
@@ -6260,9 +6261,10 @@
       "title": "Tune In to the Midnight Heart",
       "url": "https://mangadex.org/title/0a4bdf95-dc11-4011-937e-7bdc4dd6e786",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-22T05:12:36Z",
-      "removed_at": null
+      "removed_at": "2026-10-05T18:39:52Z",
+      "removed_by_source": true
     },
     "16970351-67d8-4c8b-9b5d-4c9380f108cc": {
       "title": "The Chronicles of a Thousand Immortals",
@@ -7223,9 +7225,10 @@
       "title": "Middle-Aged Bachelor's Isekai Life",
       "url": "https://mangadex.org/title/0da324ee-2ec5-4fd4-9221-c203c3867ec1",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-25T06:17:35Z",
-      "removed_at": null
+      "removed_at": "2026-10-05T18:39:52Z",
+      "removed_by_source": true
     },
     "590666db-1beb-4830-8732-dc11dfbe0148": {
       "title": "Code Geass: Lelouch The Private Home Tutor",
@@ -7258,9 +7261,10 @@
       "title": "How About R15?",
       "url": "https://mangadex.org/title/cb98bd40-a903-4416-bdd0-dab93d8f36ad",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-25T06:17:35Z",
-      "removed_at": null
+      "removed_at": "2026-10-05T18:39:52Z",
+      "removed_by_source": true
     },
     "e4453a00-7a95-4c65-bec9-b612fd32d2cb": {
       "title": "A 3 panel Romcom Manga which ends in a page",
@@ -7638,9 +7642,10 @@
       "title": "Akebi-chan's Sailor Uniform",
       "url": "https://mangadex.org/title/770c61b9-0ef2-460b-8c25-c10ab23349ce",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-26T13:16:27Z",
-      "removed_at": null
+      "removed_at": "2026-10-05T18:39:52Z",
+      "removed_by_source": true
     },
     "77bee52c-d2d6-44ad-a33a-1734c1fe696a": {
       "title": "The Eminence in Shadow",
@@ -7770,9 +7775,10 @@
       "title": "Thighs-san Next to Me",
       "url": "https://mangadex.org/title/f60a8cd7-a8a0-45a9-a142-7da8f9da1184",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-26T17:18:39Z",
-      "removed_at": null
+      "removed_at": "2026-10-05T18:39:52Z",
+      "removed_by_source": true
     },
     "14504f0c-3d05-417c-b38e-417f20d080b8": {
       "title": "A Comic/Manga About A Girl Who Lets Me Do Whatever I Want",
@@ -8640,9 +8646,10 @@
       "title": "Mashiro-chan Wants to Do It Even If It's with a Fake Boyfriend",
       "url": "https://mangadex.org/title/1760bde8-b369-4072-943d-1d99a521d75c",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-29T08:49:30Z",
-      "removed_at": null
+      "removed_at": "2026-10-05T18:39:52Z",
+      "removed_by_source": true
     },
     "6ee24b3e-5a71-480f-abe0-5c9791402fc8": {
       "title": "Otoko Ippiki Gaki Daisho",
@@ -8858,9 +8865,10 @@
       "title": "Bungo Stray Dogs: Wan!",
       "url": "https://mangadex.org/title/569963c5-6b0b-4f92-b561-e1304b78b0dc",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-30T16:11:08Z",
-      "removed_at": null
+      "removed_at": "2026-10-05T18:39:52Z",
+      "removed_by_source": true
     },
     "9422a147-c0c8-400d-9106-57cb8ece3dba": {
       "title": "You are Ms. servant",
@@ -8874,41 +8882,46 @@
       "title": "The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat",
       "url": "https://mangadex.org/title/b49fd121-19bf-4344-a8e1-d1be7ca04e08",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-30T16:11:08Z",
-      "removed_at": null
+      "removed_at": "2026-10-05T18:39:52Z",
+      "removed_by_source": true
     },
     "d0fef7be-d7e7-4b1d-a30f-23702599bd05": {
       "title": "Scarlet Star",
       "url": "https://mangadex.org/title/d0fef7be-d7e7-4b1d-a30f-23702599bd05",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-30T16:11:08Z",
-      "removed_at": null
+      "removed_at": "2026-10-05T18:39:52Z",
+      "removed_by_source": true
     },
     "ef63deb7-88bc-4942-85bb-2f32cfc72ea5": {
       "title": "Debby the Corsifa is Emulous",
       "url": "https://mangadex.org/title/ef63deb7-88bc-4942-85bb-2f32cfc72ea5",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-30T16:11:08Z",
-      "removed_at": null
+      "removed_at": "2026-10-05T18:39:52Z",
+      "removed_by_source": true
     },
     "fbe1d7d2-f4b5-415a-9cb7-b4e9c819e8b8": {
       "title": "Kyou mo Veranda de",
       "url": "https://mangadex.org/title/fbe1d7d2-f4b5-415a-9cb7-b4e9c819e8b8",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-30T16:11:08Z",
-      "removed_at": null
+      "removed_at": "2026-10-05T18:39:52Z",
+      "removed_by_source": true
     },
     "12571b60-3b83-4a14-99c5-6c7c3a717d5d": {
       "title": "I'm Working at the Church as a Priest, but I Want to Be Cut Some Slack from the Mutilated Bodies of the Heroes that Keep Getting Sent to Me",
       "url": "https://mangadex.org/title/12571b60-3b83-4a14-99c5-6c7c3a717d5d",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-30T20:54:49Z",
-      "removed_at": null
+      "removed_at": "2026-10-05T18:39:52Z",
+      "removed_by_source": true
     },
     "69dc2fa5-9b39-48c3-bea5-5f6bf4bf4038": {
       "title": "Tensei Shitara Ore ga Heroine de Aitsu ga Yuusha Datta",
@@ -9380,9 +9393,10 @@
       "title": "Kindergarten WARS",
       "url": "https://mangadex.org/title/f8f3f045-01b5-4216-8f41-d947d8b448b0",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-02T20:01:26Z",
-      "removed_at": null
+      "removed_at": "2026-10-05T18:39:52Z",
+      "removed_by_source": true
     },
     "0e4eb6ee-84e7-492a-8431-7586ef900239": {
       "title": "Beyblade X & Detective Conan",
@@ -9870,6 +9884,94 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-05T09:20:27Z",
+      "removed_at": null
+    },
+    "02e37f0b-b85d-4c24-adc0-fb4effffa746": {
+      "title": "Sem título",
+      "url": "https://mangadex.org/title/02e37f0b-b85d-4c24-adc0-fb4effffa746",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-05T18:39:52Z",
+      "removed_at": null
+    },
+    "21a87164-3268-48ca-8c48-7737c647eb96": {
+      "title": "Umamusume: Radiant Flight",
+      "url": "https://mangadex.org/title/21a87164-3268-48ca-8c48-7737c647eb96",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-05T18:39:52Z",
+      "removed_at": null
+    },
+    "26d2e5bb-e69b-4165-a03c-855a3765bbbb": {
+      "title": "Looks Can Be Deceiving",
+      "url": "https://mangadex.org/title/26d2e5bb-e69b-4165-a03c-855a3765bbbb",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-05T18:39:52Z",
+      "removed_at": null
+    },
+    "30c8bf1c-9063-4a22-a845-e2cead50adea": {
+      "title": "Love and Dreams Don't Mix",
+      "url": "https://mangadex.org/title/30c8bf1c-9063-4a22-a845-e2cead50adea",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-05T18:39:52Z",
+      "removed_at": null
+    },
+    "39aa3af8-490b-4642-be07-669251a0a06b": {
+      "title": "The Patchwork Hero",
+      "url": "https://mangadex.org/title/39aa3af8-490b-4642-be07-669251a0a06b",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-05T18:39:52Z",
+      "removed_at": null
+    },
+    "5cd8edbe-8e41-4af1-b7ae-4a29e85d53c5": {
+      "title": "Ultraman",
+      "url": "https://mangadex.org/title/5cd8edbe-8e41-4af1-b7ae-4a29e85d53c5",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-05T18:39:52Z",
+      "removed_at": null
+    },
+    "6ccbcdcd-9717-4994-bbbf-381e949b705b": {
+      "title": "My Childhood Friend Is So Cute, It's Frustrating!",
+      "url": "https://mangadex.org/title/6ccbcdcd-9717-4994-bbbf-381e949b705b",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-05T18:39:52Z",
+      "removed_at": null
+    },
+    "769a5e79-0670-4188-8582-035f0a3cc051": {
+      "title": "Precarious Woman Executive Miss Black General",
+      "url": "https://mangadex.org/title/769a5e79-0670-4188-8582-035f0a3cc051",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-05T18:39:52Z",
+      "removed_at": null
+    },
+    "812f9696-048f-496d-9ed4-84c99345d1fb": {
+      "title": "Tales of Demons and Gods",
+      "url": "https://mangadex.org/title/812f9696-048f-496d-9ed4-84c99345d1fb",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-05T18:39:52Z",
+      "removed_at": null
+    },
+    "da669866-22ff-4bb7-887b-bddc2cf1d0c9": {
+      "title": "Toudou-kun Chi no Maid Shota",
+      "url": "https://mangadex.org/title/da669866-22ff-4bb7-887b-bddc2cf1d0c9",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-05T18:39:52Z",
+      "removed_at": null
+    },
+    "df64232c-cc30-4e9c-92e1-7ccba2b743b0": {
+      "title": "Ayako",
+      "url": "https://mangadex.org/title/df64232c-cc30-4e9c-92e1-7ccba2b743b0",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-05T18:39:52Z",
       "removed_at": null
     }
   }
