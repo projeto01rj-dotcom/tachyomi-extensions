@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-04T23:22:05Z",
+  "updated_at": "2026-10-05T02:11:33Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -6775,9 +6775,10 @@
       "title": "From Eroica with Love",
       "url": "https://mangadex.org/title/576d59fb-1885-4642-81ad-93b58dd5e57f",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-23T19:08:35Z",
-      "removed_at": null
+      "removed_at": "2026-10-05T02:11:33Z",
+      "removed_by_source": true
     },
     "6274fcab-df09-4ac5-b516-14152bd031c7": {
       "title": "The Dangers in My Heart: The Romantic Comedy Won't Start",
@@ -7801,9 +7802,10 @@
       "title": "Spica of Sin and Punishment",
       "url": "https://mangadex.org/title/e4351665-25f3-4edd-8546-10e5122e721d",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-26T20:00:58Z",
-      "removed_at": null
+      "removed_at": "2026-10-05T02:11:33Z",
+      "removed_by_source": true
     },
     "45e75d8f-4b93-4211-a648-6696cd39d578": {
       "title": "My Childhood Friend Has Grown Too Much",
@@ -8026,9 +8028,10 @@
       "title": "The Girl Who Gets In The Way of My One True Love",
       "url": "https://mangadex.org/title/7f6ee9cf-c706-4f74-80bd-2467fd02aeab",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-27T13:11:02Z",
-      "removed_at": null
+      "removed_at": "2026-10-05T02:11:33Z",
+      "removed_by_source": true
     },
     "9aa3ca66-b1d0-4cc5-aec7-66990f026b78": {
       "title": "Detective Xeno and the Seven Locked Murder Rooms",
@@ -8102,9 +8105,10 @@
       "title": "The 8th Son? Are You Kidding Me?",
       "url": "https://mangadex.org/title/5a46590b-14df-43f6-8450-5813cbf482e7",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-27T17:52:20Z",
-      "removed_at": null
+      "removed_at": "2026-10-05T02:11:33Z",
+      "removed_by_source": true
     },
     "8bc61f6d-5b33-4c6b-bfdc-589daa4a4d78": {
       "title": "In Another World with My Smartphone",
@@ -8718,9 +8722,10 @@
       "title": "The Angel Next Door Spoils Me Rotten",
       "url": "https://mangadex.org/title/2fec6641-beb1-4ae9-a32f-204dd06688ac",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-29T20:05:21Z",
-      "removed_at": null
+      "removed_at": "2026-10-05T02:11:33Z",
+      "removed_by_source": true
     },
     "8513b78c-cd7e-4efa-90d4-cab852430fd6": {
       "title": "That Farthest, Closest Guy. ~I Was Supposed To Never Fall In Love With You~",
@@ -8768,9 +8773,10 @@
       "title": "Reader",
       "url": "https://mangadex.org/title/44bb6cb5-7c19-4fc0-8e83-b895c41b12a5",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-30T03:12:27Z",
-      "removed_at": null
+      "removed_at": "2026-10-05T02:11:33Z",
+      "removed_by_source": true
     },
     "84fe5a6a-6414-48f3-9d87-175c3b4c6089": {
       "title": "Me & Roboco",
@@ -9777,6 +9783,22 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-04T23:22:05Z",
+      "removed_at": null
+    },
+    "10e98722-874d-48b2-a715-90bb8af93598": {
+      "title": "The Death Mage The Manga Companion",
+      "url": "https://mangadex.org/title/10e98722-874d-48b2-a715-90bb8af93598",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-05T02:11:33Z",
+      "removed_at": null
+    },
+    "8145f3de-efb1-42ba-973d-f248d6665402": {
+      "title": "Dragon Ball - New Hope",
+      "url": "https://mangadex.org/title/8145f3de-efb1-42ba-973d-f248d6665402",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-05T02:11:33Z",
       "removed_at": null
     }
   }

@@ -1,0 +1,62 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-05T02:11:33Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "10e98722-874d-48b2-a715-90bb8af93598",
+      "title": "The Death Mage The Manga Companion",
+      "url": "https://mangadex.org/title/10e98722-874d-48b2-a715-90bb8af93598"
+    },
+    {
+      "source": "mangadex",
+      "key": "8145f3de-efb1-42ba-973d-f248d6665402",
+      "title": "Dragon Ball - New Hope",
+      "url": "https://mangadex.org/title/8145f3de-efb1-42ba-973d-f248d6665402"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "576d59fb-1885-4642-81ad-93b58dd5e57f",
+      "title": "From Eroica with Love",
+      "url": "https://mangadex.org/title/576d59fb-1885-4642-81ad-93b58dd5e57f",
+      "removed_at": "2026-10-05T02:11:33Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "e4351665-25f3-4edd-8546-10e5122e721d",
+      "title": "Spica of Sin and Punishment",
+      "url": "https://mangadex.org/title/e4351665-25f3-4edd-8546-10e5122e721d",
+      "removed_at": "2026-10-05T02:11:33Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "7f6ee9cf-c706-4f74-80bd-2467fd02aeab",
+      "title": "The Girl Who Gets In The Way of My One True Love",
+      "url": "https://mangadex.org/title/7f6ee9cf-c706-4f74-80bd-2467fd02aeab",
+      "removed_at": "2026-10-05T02:11:33Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "5a46590b-14df-43f6-8450-5813cbf482e7",
+      "title": "The 8th Son? Are You Kidding Me?",
+      "url": "https://mangadex.org/title/5a46590b-14df-43f6-8450-5813cbf482e7",
+      "removed_at": "2026-10-05T02:11:33Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "2fec6641-beb1-4ae9-a32f-204dd06688ac",
+      "title": "The Angel Next Door Spoils Me Rotten",
+      "url": "https://mangadex.org/title/2fec6641-beb1-4ae9-a32f-204dd06688ac",
+      "removed_at": "2026-10-05T02:11:33Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "44bb6cb5-7c19-4fc0-8e83-b895c41b12a5",
+      "title": "Reader",
+      "url": "https://mangadex.org/title/44bb6cb5-7c19-4fc0-8e83-b895c41b12a5",
+      "removed_at": "2026-10-05T02:11:33Z"
+    }
+  ]
+}
