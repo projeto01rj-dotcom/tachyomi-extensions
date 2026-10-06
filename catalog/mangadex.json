@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-06T14:18:26Z",
+  "updated_at": "2026-10-06T19:37:21Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -1353,9 +1353,10 @@
       "title": "A Hidden Side to my Crush",
       "url": "https://mangadex.org/title/57fe3f00-8626-462b-8f75-fce0e6faa6be",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-06T19:37:21Z",
+      "removed_by_source": true
     },
     "5a547d1d-576b-477f-8cb3-70a3b4187f8a": {
       "title": "JoJo's Bizarre Adventure Part 1: Jonathan Joestar: His Youth",
@@ -7086,9 +7087,10 @@
       "title": "My Cute Cousin Always Gets Her Way",
       "url": "https://mangadex.org/title/8cd657d2-fa8c-4927-b884-44952fe5fbd1",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-24T19:39:02Z",
-      "removed_at": null
+      "removed_at": "2026-10-06T19:37:21Z",
+      "removed_by_source": true
     },
     "960e28fa-31de-4de0-bd62-a91c0243ed0e": {
       "title": "Dead Mount Death Play",
@@ -8291,9 +8293,10 @@
       "title": "Death's Daughter and the Black Blade",
       "url": "https://mangadex.org/title/12e28a8a-cbfe-4e12-bab8-b6fb0b9a59b4",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-28T09:10:45Z",
-      "removed_at": null
+      "removed_at": "2026-10-06T19:37:21Z",
+      "removed_by_source": true
     },
     "2b390cec-b461-485a-ad70-d900469f862b": {
       "title": "I Faked a Pregnancy, but My Husband Returned",
@@ -8767,9 +8770,10 @@
       "title": "Centuria",
       "url": "https://mangadex.org/title/3486c56e-47db-4d62-a9b4-71ea44acbaec",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-30T03:12:27Z",
-      "removed_at": null
+      "removed_at": "2026-10-06T19:37:21Z",
+      "removed_by_source": true
     },
     "35131be6-d68d-4141-b756-930361172eba": {
       "title": "Kurumizawa's Folly",
@@ -8881,9 +8885,10 @@
       "title": "You are Ms. servant",
       "url": "https://mangadex.org/title/9422a147-c0c8-400d-9106-57cb8ece3dba",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-30T16:11:08Z",
-      "removed_at": null
+      "removed_at": "2026-10-06T19:37:21Z",
+      "removed_by_source": true
     },
     "b49fd121-19bf-4344-a8e1-d1be7ca04e08": {
       "title": "The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat",
@@ -9134,33 +9139,37 @@
       "title": "I Have Nine Quadrillion Simp Gold Coins",
       "url": "https://mangadex.org/title/0948937b-682c-4fe2-90bb-4c552c6818c4",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-01T19:10:25Z",
-      "removed_at": null
+      "removed_at": "2026-10-06T19:37:21Z",
+      "removed_by_source": true
     },
     "0c8abbe9-ae3b-4591-a378-9eaaf9ddec18": {
       "title": "Straight Girl Trap",
       "url": "https://mangadex.org/title/0c8abbe9-ae3b-4591-a378-9eaaf9ddec18",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-01T19:10:25Z",
-      "removed_at": null
+      "removed_at": "2026-10-06T19:37:21Z",
+      "removed_by_source": true
     },
     "a4c0c579-f0a6-4ff7-bc2e-1c0d3f614d03": {
       "title": "To a New You",
       "url": "https://mangadex.org/title/a4c0c579-f0a6-4ff7-bc2e-1c0d3f614d03",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-01T19:10:25Z",
-      "removed_at": null
+      "removed_at": "2026-10-06T19:37:21Z",
+      "removed_by_source": true
     },
     "a742b777-8f13-47ea-89d8-01e47615107d": {
       "title": "The Legend of Ranran",
       "url": "https://mangadex.org/title/a742b777-8f13-47ea-89d8-01e47615107d",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-01T19:10:25Z",
-      "removed_at": null
+      "removed_at": "2026-10-06T19:37:21Z",
+      "removed_by_source": true
     },
     "cab91d47-c2d0-46d4-ba81-51dd530b13d1": {
       "title": "Sem título",
@@ -9174,17 +9183,19 @@
       "title": "Demon King of the Royal Class",
       "url": "https://mangadex.org/title/d2a01e38-1c0d-4e4b-a9ae-21d119e8b326",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-01T19:10:25Z",
-      "removed_at": null
+      "removed_at": "2026-10-06T19:37:21Z",
+      "removed_by_source": true
     },
     "46c44d71-f114-4776-a0de-b4179d65c0e6": {
       "title": "The Villainess Is Shy in Receiving Affection",
       "url": "https://mangadex.org/title/46c44d71-f114-4776-a0de-b4179d65c0e6",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-01T23:17:37Z",
-      "removed_at": null
+      "removed_at": "2026-10-06T19:37:21Z",
+      "removed_by_source": true
     },
     "a3c8ffd0-902f-4c5e-b1c4-96ba66aaa740": {
       "title": "Citrus",
@@ -9198,9 +9209,10 @@
       "title": "Dragon Ball Kakumei (Doujinshi)",
       "url": "https://mangadex.org/title/c62b73e5-0cfb-4aef-9425-60393477ab6c",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-01T23:17:37Z",
-      "removed_at": null
+      "removed_at": "2026-10-06T19:37:21Z",
+      "removed_by_source": true
     },
     "cc150159-b379-43c9-9b7a-6e0ee0420568": {
       "title": "Mobile Suit Gundam Eight",
@@ -9222,9 +9234,10 @@
       "title": "Taming the Marquess",
       "url": "https://mangadex.org/title/eeda43f1-cdca-4f0f-bc7a-ed1bc5308451",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-01T23:17:37Z",
-      "removed_at": null
+      "removed_at": "2026-10-06T19:37:21Z",
+      "removed_by_source": true
     },
     "fef2e4da-36f9-48e9-8317-2516f4b6ab14": {
       "title": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World: I Inherited a Weak Territory, and If I Increase the Number of Capable Personnel, It Will Become the Strongest Territory",
@@ -9391,9 +9404,10 @@
       "title": "Phantom Busters",
       "url": "https://mangadex.org/title/b700777b-b007-436a-8830-951cd5e1df97",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-02T20:01:26Z",
-      "removed_at": null
+      "removed_at": "2026-10-06T19:37:21Z",
+      "removed_by_source": true
     },
     "cdded836-5be4-425b-9c7f-2b98663ca80f": {
       "title": "Tried Watching the Cursed Video",
@@ -10162,6 +10176,30 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-06T14:18:26Z",
+      "removed_at": null
+    },
+    "99b8eaeb-9041-4bfd-8eb7-d72addc88eb7": {
+      "title": "The Café Terrace and Its Goddesses",
+      "url": "https://mangadex.org/title/99b8eaeb-9041-4bfd-8eb7-d72addc88eb7",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-06T19:37:21Z",
+      "removed_at": null
+    },
+    "ada153d5-db0d-40a0-920c-f76f1e1437dd": {
+      "title": "Boundary Labyrinth and the Foreign Magician",
+      "url": "https://mangadex.org/title/ada153d5-db0d-40a0-920c-f76f1e1437dd",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-06T19:37:21Z",
+      "removed_at": null
+    },
+    "d63bd2fc-5356-4064-8057-25bbe0134dc7": {
+      "title": "Let's Establish a Sand Kingdom with the Magic of Sand",
+      "url": "https://mangadex.org/title/d63bd2fc-5356-4064-8057-25bbe0134dc7",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-06T19:37:21Z",
       "removed_at": null
     }
   }
