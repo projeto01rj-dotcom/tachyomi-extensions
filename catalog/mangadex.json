@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-06T19:37:21Z",
+  "updated_at": "2026-10-06T23:28:26Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -2377,9 +2377,10 @@
       "title": "Fragments of the Layered City",
       "url": "https://mangadex.org/title/8e95570e-93a7-494d-8e83-bd755e3b631d",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-06T23:28:26Z",
+      "removed_by_source": true
     },
     "8ee7d7b1-1f85-4b8e-9861-66c8b7b53929": {
       "title": "Comic Girls",
@@ -3626,9 +3627,10 @@
       "title": "Shut Up, Malevolent Dragon! I Don’t Want to Have Any More Children With You",
       "url": "https://mangadex.org/title/d41fe947-2e33-4b26-ac29-abc70fb08edb",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-06T23:28:26Z",
+      "removed_by_source": true
     },
     "d43a0e7c-248d-438f-ac4e-862f614b33d9": {
       "title": "Nevermore",
@@ -6963,9 +6965,10 @@
       "title": "The Little Lady Behind the Scenes",
       "url": "https://mangadex.org/title/a972aebe-50fb-4dfe-8f61-0150f3659467",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-24T05:41:00Z",
-      "removed_at": null
+      "removed_at": "2026-10-06T23:28:26Z",
+      "removed_by_source": true
     },
     "e30a22f9-352c-4e23-a6e9-95807620baaf": {
       "title": "Why You Shouldn't Enter a Haunted House",
@@ -8105,9 +8108,10 @@
       "title": "The Great Jahy Will Not Be Defeated!",
       "url": "https://mangadex.org/title/2f4e5f5b-d930-4266-8c8a-c4cf9a81e51f",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-27T17:52:20Z",
-      "removed_at": null
+      "removed_at": "2026-10-06T23:28:26Z",
+      "removed_by_source": true
     },
     "485a777b-e395-4ab1-b262-2a87f53e23c0": {
       "title": "Blow that Flute! Jaguar",
@@ -9218,17 +9222,19 @@
       "title": "Mobile Suit Gundam Eight",
       "url": "https://mangadex.org/title/cc150159-b379-43c9-9b7a-6e0ee0420568",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-01T23:17:37Z",
-      "removed_at": null
+      "removed_at": "2026-10-06T23:28:26Z",
+      "removed_by_source": true
     },
     "e61168d7-c73a-4c45-994d-55062a6e53e6": {
       "title": "Embers and Petals",
       "url": "https://mangadex.org/title/e61168d7-c73a-4c45-994d-55062a6e53e6",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-01T23:17:37Z",
-      "removed_at": null
+      "removed_at": "2026-10-06T23:28:26Z",
+      "removed_by_source": true
     },
     "eeda43f1-cdca-4f0f-bc7a-ed1bc5308451": {
       "title": "Taming the Marquess",
@@ -9243,17 +9249,19 @@
       "title": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World: I Inherited a Weak Territory, and If I Increase the Number of Capable Personnel, It Will Become the Strongest Territory",
       "url": "https://mangadex.org/title/fef2e4da-36f9-48e9-8317-2516f4b6ab14",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-01T23:17:37Z",
-      "removed_at": null
+      "removed_at": "2026-10-06T23:28:26Z",
+      "removed_by_source": true
     },
     "8d2e9520-4127-4bf2-94a3-b2571029562d": {
       "title": "Make the Exorcist Fall in Love",
       "url": "https://mangadex.org/title/8d2e9520-4127-4bf2-94a3-b2571029562d",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-02T02:22:42Z",
-      "removed_at": null
+      "removed_at": "2026-10-06T23:28:26Z",
+      "removed_by_source": true
     },
     "9c7f72dd-3d2f-4753-9d6e-aefc7ae65665": {
       "title": "Captive Hero: A Disposable Swordsman Rises to Power in the Enemy Country",
@@ -9267,9 +9275,10 @@
       "title": "The Grimoire of Usami - Hifuu Kurabu Ikai Satsuei Kiroku",
       "url": "https://mangadex.org/title/a2a738f4-0fe4-4968-95a8-5ebcb7f86f72",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-02T02:22:42Z",
-      "removed_at": null
+      "removed_at": "2026-10-06T23:28:26Z",
+      "removed_by_source": true
     },
     "0951feea-ba41-4ad0-9cb0-edadc77eae73": {
       "title": "Kakegurui - Compulsive Gambler -",
@@ -10200,6 +10209,30 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-06T19:37:21Z",
+      "removed_at": null
+    },
+    "8e904201-718a-45f6-ae44-0e6d7f8c4aa3": {
+      "title": "Ex-girlfriend Teachers Want to Nurture Love by Making Slightly Naughty Visits to Your Home",
+      "url": "https://mangadex.org/title/8e904201-718a-45f6-ae44-0e6d7f8c4aa3",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-06T23:28:26Z",
+      "removed_at": null
+    },
+    "a949eb3c-3a93-4ce7-a4aa-447e6b20e76f": {
+      "title": "Welcome to Pyramid Café!",
+      "url": "https://mangadex.org/title/a949eb3c-3a93-4ce7-a4aa-447e6b20e76f",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-06T23:28:26Z",
+      "removed_at": null
+    },
+    "e25a28d8-ec62-4341-8119-3ad4925fbb06": {
+      "title": "Getter Robo Go",
+      "url": "https://mangadex.org/title/e25a28d8-ec62-4341-8119-3ad4925fbb06",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-06T23:28:26Z",
       "removed_at": null
     }
   }
