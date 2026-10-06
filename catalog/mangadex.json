@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-06T07:02:35Z",
+  "updated_at": "2026-10-06T14:18:26Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -987,9 +987,10 @@
       "title": "Sem título",
       "url": "https://mangadex.org/title/423aefd6-f63d-4d3b-9a70-ba8ec9ad2c37",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-06T14:18:26Z",
+      "removed_by_source": true
     },
     "4242c6d3-4ee4-4b0b-9ca0-23bd57952805": {
       "title": "Not Quite Love",
@@ -5724,9 +5725,10 @@
       "title": "Parallel World Pharmacy",
       "url": "https://mangadex.org/title/da7bb886-7e6b-4174-83a9-2c478475b846",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-20T17:32:57Z",
-      "removed_at": null
+      "removed_at": "2026-10-06T14:18:26Z",
+      "removed_by_source": true
     },
     "db1f4c31-f92f-4f4f-a8c6-fc898e432888": {
       "title": "Absolute Regression",
@@ -7520,9 +7522,10 @@
       "title": "The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible",
       "url": "https://mangadex.org/title/a2320293-f00e-43a0-8d08-1110cf26a894",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-25T23:43:13Z",
-      "removed_at": null
+      "removed_at": "2026-10-06T14:18:26Z",
+      "removed_by_source": true
     },
     "bb06e098-79c4-4cca-8cd4-ad6fec2d6d7d": {
       "title": "Today's Urabe-san with…",
@@ -9089,9 +9092,10 @@
       "title": "Wakfu - The Great Wave",
       "url": "https://mangadex.org/title/ca118f66-a81e-4049-8200-031a72e0ae99",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-01T13:38:29Z",
-      "removed_at": null
+      "removed_at": "2026-10-06T14:18:26Z",
+      "removed_by_source": true
     },
     "e2098259-eb5d-4781-b220-63e3c26a55e5": {
       "title": "Funtime Phobia",
@@ -10134,6 +10138,30 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-06T07:02:35Z",
+      "removed_at": null
+    },
+    "cfef125c-7ca2-4c58-a5e8-e695a1ec9226": {
+      "title": "No Taste for Gyaru and Vegetables",
+      "url": "https://mangadex.org/title/cfef125c-7ca2-4c58-a5e8-e695a1ec9226",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-06T14:18:26Z",
+      "removed_at": null
+    },
+    "d1277965-6bd9-457a-9a33-2879832b6d32": {
+      "title": "New Sisters, Eating Together",
+      "url": "https://mangadex.org/title/d1277965-6bd9-457a-9a33-2879832b6d32",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-06T14:18:26Z",
+      "removed_at": null
+    },
+    "d8aa410e-a169-4af2-a49c-ac161e2efc7f": {
+      "title": "All, All Because of You",
+      "url": "https://mangadex.org/title/d8aa410e-a169-4af2-a49c-ac161e2efc7f",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-06T14:18:26Z",
       "removed_at": null
     }
   }

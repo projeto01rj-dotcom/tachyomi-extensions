@@ -1,0 +1,54 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-06T14:18:26Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "cfef125c-7ca2-4c58-a5e8-e695a1ec9226",
+      "title": "No Taste for Gyaru and Vegetables",
+      "url": "https://mangadex.org/title/cfef125c-7ca2-4c58-a5e8-e695a1ec9226"
+    },
+    {
+      "source": "mangadex",
+      "key": "d1277965-6bd9-457a-9a33-2879832b6d32",
+      "title": "New Sisters, Eating Together",
+      "url": "https://mangadex.org/title/d1277965-6bd9-457a-9a33-2879832b6d32"
+    },
+    {
+      "source": "mangadex",
+      "key": "d8aa410e-a169-4af2-a49c-ac161e2efc7f",
+      "title": "All, All Because of You",
+      "url": "https://mangadex.org/title/d8aa410e-a169-4af2-a49c-ac161e2efc7f"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "423aefd6-f63d-4d3b-9a70-ba8ec9ad2c37",
+      "title": "Sem título",
+      "url": "https://mangadex.org/title/423aefd6-f63d-4d3b-9a70-ba8ec9ad2c37",
+      "removed_at": "2026-10-06T14:18:26Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "da7bb886-7e6b-4174-83a9-2c478475b846",
+      "title": "Parallel World Pharmacy",
+      "url": "https://mangadex.org/title/da7bb886-7e6b-4174-83a9-2c478475b846",
+      "removed_at": "2026-10-06T14:18:26Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "a2320293-f00e-43a0-8d08-1110cf26a894",
+      "title": "The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible",
+      "url": "https://mangadex.org/title/a2320293-f00e-43a0-8d08-1110cf26a894",
+      "removed_at": "2026-10-06T14:18:26Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "ca118f66-a81e-4049-8200-031a72e0ae99",
+      "title": "Wakfu - The Great Wave",
+      "url": "https://mangadex.org/title/ca118f66-a81e-4049-8200-031a72e0ae99",
+      "removed_at": "2026-10-06T14:18:26Z"
+    }
+  ]
+}
