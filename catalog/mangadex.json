@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-06T00:30:38Z",
+  "updated_at": "2026-10-06T07:02:35Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -2009,9 +2009,10 @@
       "title": "Eleceed",
       "url": "https://mangadex.org/title/7e544761-7d3d-4fce-8137-719814d7d138",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-06T07:02:35Z",
+      "removed_by_source": true
     },
     "7e5916f3-e271-4041-805a-23b932bb5b91": {
       "title": "I Spoiled \"Kuderella\" Next Door and I'm Going to Give Her a Key to My House",
@@ -8947,17 +8948,19 @@
       "title": "Stained in Crimson",
       "url": "https://mangadex.org/title/979836c0-171e-4c88-9a8a-1de8d156b136",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-30T20:54:49Z",
-      "removed_at": null
+      "removed_at": "2026-10-06T07:02:35Z",
+      "removed_by_source": true
     },
     "99a896d1-2b13-4638-8f5a-96dbcc70ab93": {
       "title": "A Cozy Life in the Woods with the White Witch",
       "url": "https://mangadex.org/title/99a896d1-2b13-4638-8f5a-96dbcc70ab93",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-30T20:54:49Z",
-      "removed_at": null
+      "removed_at": "2026-10-06T07:02:35Z",
+      "removed_by_source": true
     },
     "aec5b821-ca9d-4273-bece-cd3385a9cc8c": {
       "title": "Kagetora-kun Can't Return",
@@ -8997,9 +9000,10 @@
       "title": "The Monporte Royal Family's Scandal",
       "url": "https://mangadex.org/title/402c2e75-ea1b-432e-9e65-77c0627e55eb",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-01T00:17:09Z",
-      "removed_at": null
+      "removed_at": "2026-10-06T07:02:35Z",
+      "removed_by_source": true
     },
     "8f3c24d3-6e15-4fea-a60f-f80cef482853": {
       "title": "Ahiru no Sora",
@@ -9014,25 +9018,28 @@
       "title": "Pale Blue-green Color Saudade",
       "url": "https://mangadex.org/title/a1526a66-5dbf-4fef-9e7b-5f8f48b2ca93",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-01T00:17:09Z",
-      "removed_at": null
+      "removed_at": "2026-10-06T07:02:35Z",
+      "removed_by_source": true
     },
     "be902d25-2427-4d9a-a8e5-3fc5a7c26dd4": {
       "title": "Summoned Along with a Home Center, I'll Bring About a Dungeon Renovation!",
       "url": "https://mangadex.org/title/be902d25-2427-4d9a-a8e5-3fc5a7c26dd4",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-01T00:17:09Z",
-      "removed_at": null
+      "removed_at": "2026-10-06T07:02:35Z",
+      "removed_by_source": true
     },
     "cbbee977-a4ff-4106-b57f-cdcc9d006ed8": {
       "title": "I Picked up an Attribute",
       "url": "https://mangadex.org/title/cbbee977-a4ff-4106-b57f-cdcc9d006ed8",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-01T00:17:09Z",
-      "removed_at": null
+      "removed_at": "2026-10-06T07:02:35Z",
+      "removed_by_source": true
     },
     "daf070c3-4398-4beb-8dae-4c8d21376cec": {
       "title": "I Become A Villain In My Novel",
@@ -9046,33 +9053,37 @@
       "title": "Shadow Skill: Dawn",
       "url": "https://mangadex.org/title/4e46ebce-c851-4854-ab50-47775739d129",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-01T06:15:33Z",
-      "removed_at": null
+      "removed_at": "2026-10-06T07:02:35Z",
+      "removed_by_source": true
     },
     "7215b1e8-bac1-49a2-83d9-ed62335dd849": {
       "title": "Please Marry Me with Divorce in Mind",
       "url": "https://mangadex.org/title/7215b1e8-bac1-49a2-83d9-ed62335dd849",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-01T06:15:33Z",
-      "removed_at": null
+      "removed_at": "2026-10-06T07:02:35Z",
+      "removed_by_source": true
     },
     "b8a3be2d-a2be-4e9a-b1c2-8a46aacc9aba": {
       "title": "Sleepy Barmaid",
       "url": "https://mangadex.org/title/b8a3be2d-a2be-4e9a-b1c2-8a46aacc9aba",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-01T06:15:33Z",
-      "removed_at": null
+      "removed_at": "2026-10-06T07:02:35Z",
+      "removed_by_source": true
     },
     "bed2ef5e-99b1-4809-8f65-5866391f839b": {
       "title": "The Gender of Mona Lisa",
       "url": "https://mangadex.org/title/bed2ef5e-99b1-4809-8f65-5866391f839b",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-01T13:38:29Z",
-      "removed_at": null
+      "removed_at": "2026-10-06T07:02:35Z",
+      "removed_by_source": true
     },
     "ca118f66-a81e-4049-8200-031a72e0ae99": {
       "title": "Wakfu - The Great Wave",
@@ -10059,6 +10070,70 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-06T00:30:38Z",
+      "removed_at": null
+    },
+    "027df837-7a15-4893-9dc3-e2ae11b94717": {
+      "title": "Onii-chan is Done For! Official Anthology Comic",
+      "url": "https://mangadex.org/title/027df837-7a15-4893-9dc3-e2ae11b94717",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-06T07:02:35Z",
+      "removed_at": null
+    },
+    "13df5a6e-1cee-466c-9f06-09f38fb012b7": {
+      "title": "Love Lesson",
+      "url": "https://mangadex.org/title/13df5a6e-1cee-466c-9f06-09f38fb012b7",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-06T07:02:35Z",
+      "removed_at": null
+    },
+    "409f0737-3269-47c4-981c-dde617920ba1": {
+      "title": "Unfamiliar",
+      "url": "https://mangadex.org/title/409f0737-3269-47c4-981c-dde617920ba1",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-06T07:02:35Z",
+      "removed_at": null
+    },
+    "49650a04-d0d7-4526-b460-8203ae223586": {
+      "title": "Fight Class 3",
+      "url": "https://mangadex.org/title/49650a04-d0d7-4526-b460-8203ae223586",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-06T07:02:35Z",
+      "removed_at": null
+    },
+    "84cf55e0-b497-4455-8b40-4c5a880de96b": {
+      "title": "Even the Introverted Gals Wanna Get Out There!",
+      "url": "https://mangadex.org/title/84cf55e0-b497-4455-8b40-4c5a880de96b",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-06T07:02:35Z",
+      "removed_at": null
+    },
+    "8576a58c-a3ee-4206-beb9-b371169f8d8c": {
+      "title": "Kiichi!!",
+      "url": "https://mangadex.org/title/8576a58c-a3ee-4206-beb9-b371169f8d8c",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-06T07:02:35Z",
+      "removed_at": null
+    },
+    "c466ced0-ec48-47c1-a8cf-d5ff1fe9d0d2": {
+      "title": "The Executed Sage Who was Reincarnated as a Lich Started an All-Out War",
+      "url": "https://mangadex.org/title/c466ced0-ec48-47c1-a8cf-d5ff1fe9d0d2",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-06T07:02:35Z",
+      "removed_at": null
+    },
+    "caa65535-c09a-4a46-9ac7-30947b815020": {
+      "title": "After I Let The Small And Cute Intellectual Senior Of The Literature Club Sit On My Lap, She Started Sitting There Every Day",
+      "url": "https://mangadex.org/title/caa65535-c09a-4a46-9ac7-30947b815020",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-06T07:02:35Z",
       "removed_at": null
     }
   }
