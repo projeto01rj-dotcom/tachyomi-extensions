@@ -1,0 +1,80 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-07T09:34:46Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "142cd3cb-73c5-4f42-a604-62c68bf28f49",
+      "title": "Vocalize",
+      "url": "https://mangadex.org/title/142cd3cb-73c5-4f42-a604-62c68bf28f49"
+    },
+    {
+      "source": "mangadex",
+      "key": "2505ceca-d841-4ed4-9004-2344e8477bd9",
+      "title": "A Hungry Mother and Daughter and Her Ex-Boyfriend Landlord",
+      "url": "https://mangadex.org/title/2505ceca-d841-4ed4-9004-2344e8477bd9"
+    },
+    {
+      "source": "mangadex",
+      "key": "2b0744d4-bcbf-448e-996f-3ac6f2ec6634",
+      "title": "Athena-san Who Demands Something in Return",
+      "url": "https://mangadex.org/title/2b0744d4-bcbf-448e-996f-3ac6f2ec6634"
+    },
+    {
+      "source": "mangadex",
+      "key": "5924767b-2288-40c7-8304-0d5879c353b3",
+      "title": "Please Look After the Dragon",
+      "url": "https://mangadex.org/title/5924767b-2288-40c7-8304-0d5879c353b3"
+    },
+    {
+      "source": "mangadex",
+      "key": "fe6ed2f3-30af-4ebc-98c8-1fc39a0d0ac1",
+      "title": "Living In The Moment",
+      "url": "https://mangadex.org/title/fe6ed2f3-30af-4ebc-98c8-1fc39a0d0ac1"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "c679bf28-e054-4bb7-93e6-18c089ee79f1",
+      "title": "Two People Who Are Too Close",
+      "url": "https://mangadex.org/title/c679bf28-e054-4bb7-93e6-18c089ee79f1",
+      "removed_at": "2026-10-07T09:34:46Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "6676aef9-cf30-4950-9a20-e0382b5e7447",
+      "title": "Record of Ragnarok Forbidden Side-Story: Gods' Apocalypse",
+      "url": "https://mangadex.org/title/6676aef9-cf30-4950-9a20-e0382b5e7447",
+      "removed_at": "2026-10-07T09:34:46Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "6f8f4894-44fd-4047-b973-fa2c7cfac893",
+      "title": "William of the Wardrobe",
+      "url": "https://mangadex.org/title/6f8f4894-44fd-4047-b973-fa2c7cfac893",
+      "removed_at": "2026-10-07T09:34:46Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "6ee24b3e-5a71-480f-abe0-5c9791402fc8",
+      "title": "Otoko Ippiki Gaki Daisho",
+      "url": "https://mangadex.org/title/6ee24b3e-5a71-480f-abe0-5c9791402fc8",
+      "removed_at": "2026-10-07T09:34:46Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "0951feea-ba41-4ad0-9cb0-edadc77eae73",
+      "title": "Kakegurui - Compulsive Gambler -",
+      "url": "https://mangadex.org/title/0951feea-ba41-4ad0-9cb0-edadc77eae73",
+      "removed_at": "2026-10-07T09:34:46Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "5af50da5-c3f6-4f67-9888-89df886757f6",
+      "title": "The Hachioji Specialty: Tengu's Love",
+      "url": "https://mangadex.org/title/5af50da5-c3f6-4f67-9888-89df886757f6",
+      "removed_at": "2026-10-07T09:34:46Z"
+    }
+  ]
+}
