@@ -1,0 +1,94 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-07T22:08:13Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "267db3f7-fd9c-4395-ac36-9ffacd772473",
+      "title": "Star Martial God Technique",
+      "url": "https://mangadex.org/title/267db3f7-fd9c-4395-ac36-9ffacd772473"
+    },
+    {
+      "source": "mangadex",
+      "key": "5c78dcc5-0393-457d-9e4f-3fde40ef1014",
+      "title": "Unlimited Bacteria Magician",
+      "url": "https://mangadex.org/title/5c78dcc5-0393-457d-9e4f-3fde40ef1014"
+    },
+    {
+      "source": "mangadex",
+      "key": "601f23b5-1078-4bf2-8cb9-17bec9589e67",
+      "title": "Mushoku Tensei ~4-koma ni Natte mo Honki Dasu~",
+      "url": "https://mangadex.org/title/601f23b5-1078-4bf2-8cb9-17bec9589e67"
+    },
+    {
+      "source": "mangadex",
+      "key": "8556c131-23ed-42d6-98ba-5f2aa5037843",
+      "title": "I Thought I'd Be Popular in a World Where Chastity is Reversed.",
+      "url": "https://mangadex.org/title/8556c131-23ed-42d6-98ba-5f2aa5037843"
+    },
+    {
+      "source": "mangadex",
+      "key": "a08cd14f-68d4-4942-9305-2fe9d7d0339e",
+      "title": "The Apothecary Is Gonna Make This Ragged Elf Happy",
+      "url": "https://mangadex.org/title/a08cd14f-68d4-4942-9305-2fe9d7d0339e"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "e3fa25bc-23eb-46c3-af17-36ec9200456e",
+      "title": "Contract Sisters",
+      "url": "https://mangadex.org/title/e3fa25bc-23eb-46c3-af17-36ec9200456e",
+      "removed_at": "2026-10-07T22:08:13Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "b5b21ca1-bba5-4b9a-8cd1-6248f731650b",
+      "title": "Record of Ragnarok",
+      "url": "https://mangadex.org/title/b5b21ca1-bba5-4b9a-8cd1-6248f731650b",
+      "removed_at": "2026-10-07T22:08:13Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "6233aed2-2f42-4308-a2b9-7d37b836cc33",
+      "title": "Kusunoki's Flunking Her High School Glow-Up",
+      "url": "https://mangadex.org/title/6233aed2-2f42-4308-a2b9-7d37b836cc33",
+      "removed_at": "2026-10-07T22:08:13Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "b5e3b32e-5d96-4ebd-b37e-3caa0b258824",
+      "title": "The Path of the Perfect Evasion Healer",
+      "url": "https://mangadex.org/title/b5e3b32e-5d96-4ebd-b37e-3caa0b258824",
+      "removed_at": "2026-10-07T22:08:13Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "e531c6ca-0b07-4878-8ae8-87357375acd9",
+      "title": "LV999 Villager",
+      "url": "https://mangadex.org/title/e531c6ca-0b07-4878-8ae8-87357375acd9",
+      "removed_at": "2026-10-07T22:08:13Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "0e4eb6ee-84e7-492a-8431-7586ef900239",
+      "title": "Beyblade X & Detective Conan",
+      "url": "https://mangadex.org/title/0e4eb6ee-84e7-492a-8431-7586ef900239",
+      "removed_at": "2026-10-07T22:08:13Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "a967d6e2-e269-4ab8-9306-04ffc4c2cb52",
+      "title": "The Tiger Won't Eat the Dragon Yet",
+      "url": "https://mangadex.org/title/a967d6e2-e269-4ab8-9306-04ffc4c2cb52",
+      "removed_at": "2026-10-07T22:08:13Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "d38db441-104b-451f-a611-c9dbf7822efc",
+      "title": "Kamen Rider My-th",
+      "url": "https://mangadex.org/title/d38db441-104b-451f-a611-c9dbf7822efc",
+      "removed_at": "2026-10-07T22:08:13Z"
+    }
+  ]
+}

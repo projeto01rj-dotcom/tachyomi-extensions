@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-07T17:07:18Z",
+  "updated_at": "2026-10-07T22:08:13Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -7398,9 +7398,10 @@
       "title": "Contract Sisters",
       "url": "https://mangadex.org/title/e3fa25bc-23eb-46c3-af17-36ec9200456e",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-25T17:24:00Z",
-      "removed_at": null
+      "removed_at": "2026-10-07T22:08:13Z",
+      "removed_by_source": true
     },
     "e78a489b-6632-4d61-b00b-5206f5b8b22b": {
       "title": "That Time I Got Reincarnated as a Slime",
@@ -7604,9 +7605,10 @@
       "title": "Record of Ragnarok",
       "url": "https://mangadex.org/title/b5b21ca1-bba5-4b9a-8cd1-6248f731650b",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-26T08:09:47Z",
-      "removed_at": null
+      "removed_at": "2026-10-07T22:08:13Z",
+      "removed_by_source": true
     },
     "bf16d046-cea1-401b-89bf-5cf898824c3a": {
       "title": "Olympia of Infidelity",
@@ -9330,9 +9332,10 @@
       "title": "Kusunoki's Flunking Her High School Glow-Up",
       "url": "https://mangadex.org/title/6233aed2-2f42-4308-a2b9-7d37b836cc33",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-02T08:45:10Z",
-      "removed_at": null
+      "removed_at": "2026-10-07T22:08:13Z",
+      "removed_by_source": true
     },
     "7f7678c7-0d32-4d36-a99a-1bfe32483584": {
       "title": "Supervillain Boy",
@@ -9425,9 +9428,10 @@
       "title": "The Path of the Perfect Evasion Healer",
       "url": "https://mangadex.org/title/b5e3b32e-5d96-4ebd-b37e-3caa0b258824",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-02T20:01:26Z",
-      "removed_at": null
+      "removed_at": "2026-10-07T22:08:13Z",
+      "removed_by_source": true
     },
     "b700777b-b007-436a-8830-951cd5e1df97": {
       "title": "Phantom Busters",
@@ -9451,9 +9455,10 @@
       "title": "LV999 Villager",
       "url": "https://mangadex.org/title/e531c6ca-0b07-4878-8ae8-87357375acd9",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-02T20:01:26Z",
-      "removed_at": null
+      "removed_at": "2026-10-07T22:08:13Z",
+      "removed_by_source": true
     },
     "f8f3f045-01b5-4216-8f41-d947d8b448b0": {
       "title": "Kindergarten WARS",
@@ -9468,25 +9473,28 @@
       "title": "Beyblade X & Detective Conan",
       "url": "https://mangadex.org/title/0e4eb6ee-84e7-492a-8431-7586ef900239",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-02T23:54:05Z",
-      "removed_at": null
+      "removed_at": "2026-10-07T22:08:13Z",
+      "removed_by_source": true
     },
     "a967d6e2-e269-4ab8-9306-04ffc4c2cb52": {
       "title": "The Tiger Won't Eat the Dragon Yet",
       "url": "https://mangadex.org/title/a967d6e2-e269-4ab8-9306-04ffc4c2cb52",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-02T23:54:05Z",
-      "removed_at": null
+      "removed_at": "2026-10-07T22:08:13Z",
+      "removed_by_source": true
     },
     "d38db441-104b-451f-a611-c9dbf7822efc": {
       "title": "Kamen Rider My-th",
       "url": "https://mangadex.org/title/d38db441-104b-451f-a611-c9dbf7822efc",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-02T23:54:05Z",
-      "removed_at": null
+      "removed_at": "2026-10-07T22:08:13Z",
+      "removed_by_source": true
     },
     "15dcfe9e-371f-4fff-b99a-0c182935bf49": {
       "title": "No. 6",
@@ -10390,6 +10398,46 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-07T17:07:18Z",
+      "removed_at": null
+    },
+    "267db3f7-fd9c-4395-ac36-9ffacd772473": {
+      "title": "Star Martial God Technique",
+      "url": "https://mangadex.org/title/267db3f7-fd9c-4395-ac36-9ffacd772473",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-07T22:08:13Z",
+      "removed_at": null
+    },
+    "5c78dcc5-0393-457d-9e4f-3fde40ef1014": {
+      "title": "Unlimited Bacteria Magician",
+      "url": "https://mangadex.org/title/5c78dcc5-0393-457d-9e4f-3fde40ef1014",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-07T22:08:13Z",
+      "removed_at": null
+    },
+    "601f23b5-1078-4bf2-8cb9-17bec9589e67": {
+      "title": "Mushoku Tensei ~4-koma ni Natte mo Honki Dasu~",
+      "url": "https://mangadex.org/title/601f23b5-1078-4bf2-8cb9-17bec9589e67",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-07T22:08:13Z",
+      "removed_at": null
+    },
+    "8556c131-23ed-42d6-98ba-5f2aa5037843": {
+      "title": "I Thought I'd Be Popular in a World Where Chastity is Reversed.",
+      "url": "https://mangadex.org/title/8556c131-23ed-42d6-98ba-5f2aa5037843",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-07T22:08:13Z",
+      "removed_at": null
+    },
+    "a08cd14f-68d4-4942-9305-2fe9d7d0339e": {
+      "title": "The Apothecary Is Gonna Make This Ragged Elf Happy",
+      "url": "https://mangadex.org/title/a08cd14f-68d4-4942-9305-2fe9d7d0339e",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-07T22:08:13Z",
       "removed_at": null
     }
   }
