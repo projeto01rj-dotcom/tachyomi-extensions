@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-06T23:28:26Z",
+  "updated_at": "2026-10-07T02:37:05Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -9118,9 +9118,10 @@
       "title": "When I Repaired a Gal's Bicycle, She Became Attached to Me",
       "url": "https://mangadex.org/title/f678b24d-f1fd-4717-8824-4138845390eb",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-01T13:38:29Z",
-      "removed_at": null
+      "removed_at": "2026-10-07T02:37:05Z",
+      "removed_by_source": true
     },
     "f90df7aa-c8cd-4ca7-842c-b3dbe38b8b2a": {
       "title": "Schoolboy vs The World",
@@ -9205,9 +9206,10 @@
       "title": "Citrus",
       "url": "https://mangadex.org/title/a3c8ffd0-902f-4c5e-b1c4-96ba66aaa740",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-01T23:17:37Z",
-      "removed_at": null
+      "removed_at": "2026-10-07T02:37:05Z",
+      "removed_by_source": true
     },
     "c62b73e5-0cfb-4aef-9425-60393477ab6c": {
       "title": "Dragon Ball Kakumei (Doujinshi)",
@@ -9292,9 +9294,10 @@
       "title": "Arpeggio of Blue Steel",
       "url": "https://mangadex.org/title/4c20ff54-3dfe-4433-a1e3-274492cdb2fc",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-02T08:45:10Z",
-      "removed_at": null
+      "removed_at": "2026-10-07T02:37:05Z",
+      "removed_by_source": true
     },
     "4e0ab019-afcb-4fd9-98eb-fcb28cf7fc81": {
       "title": "A Certain Scientific Mental Out",
@@ -9324,17 +9327,19 @@
       "title": "Supervillain Boy",
       "url": "https://mangadex.org/title/7f7678c7-0d32-4d36-a99a-1bfe32483584",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-02T08:45:10Z",
-      "removed_at": null
+      "removed_at": "2026-10-07T02:37:05Z",
+      "removed_by_source": true
     },
     "c2989387-6b0e-49df-90bc-0385fefbcda5": {
       "title": "Murim Psychopath",
       "url": "https://mangadex.org/title/c2989387-6b0e-49df-90bc-0385fefbcda5",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-02T08:45:10Z",
-      "removed_at": null
+      "removed_at": "2026-10-07T02:37:05Z",
+      "removed_by_source": true
     },
     "5af50da5-c3f6-4f67-9888-89df886757f6": {
       "title": "The Hachioji Specialty: Tengu's Love",
@@ -10233,6 +10238,38 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-06T23:28:26Z",
+      "removed_at": null
+    },
+    "41c60ded-ce8b-45dc-a9b3-fe0e74ac5fe6": {
+      "title": "Jobless Reincarnation ~I'll Try Seriously If I Go To Another World~ Anthology",
+      "url": "https://mangadex.org/title/41c60ded-ce8b-45dc-a9b3-fe0e74ac5fe6",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-07T02:37:05Z",
+      "removed_at": null
+    },
+    "58be6aa6-06cb-4ca5-bd20-f1392ce451fb": {
+      "title": "Yotsuba&!",
+      "url": "https://mangadex.org/title/58be6aa6-06cb-4ca5-bd20-f1392ce451fb",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-07T02:37:05Z",
+      "removed_at": null
+    },
+    "96e1ddf1-55f8-4089-ac9c-92fd6837affc": {
+      "title": "Super Cub",
+      "url": "https://mangadex.org/title/96e1ddf1-55f8-4089-ac9c-92fd6837affc",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-07T02:37:05Z",
+      "removed_at": null
+    },
+    "f4a5bb4f-440d-485a-94c3-8f5882e65a62": {
+      "title": "Otome Holic",
+      "url": "https://mangadex.org/title/f4a5bb4f-440d-485a-94c3-8f5882e65a62",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-07T02:37:05Z",
       "removed_at": null
     }
   }

@@ -1,0 +1,67 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-07T02:37:05Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "41c60ded-ce8b-45dc-a9b3-fe0e74ac5fe6",
+      "title": "Jobless Reincarnation ~I'll Try Seriously If I Go To Another World~ Anthology",
+      "url": "https://mangadex.org/title/41c60ded-ce8b-45dc-a9b3-fe0e74ac5fe6"
+    },
+    {
+      "source": "mangadex",
+      "key": "58be6aa6-06cb-4ca5-bd20-f1392ce451fb",
+      "title": "Yotsuba&!",
+      "url": "https://mangadex.org/title/58be6aa6-06cb-4ca5-bd20-f1392ce451fb"
+    },
+    {
+      "source": "mangadex",
+      "key": "96e1ddf1-55f8-4089-ac9c-92fd6837affc",
+      "title": "Super Cub",
+      "url": "https://mangadex.org/title/96e1ddf1-55f8-4089-ac9c-92fd6837affc"
+    },
+    {
+      "source": "mangadex",
+      "key": "f4a5bb4f-440d-485a-94c3-8f5882e65a62",
+      "title": "Otome Holic",
+      "url": "https://mangadex.org/title/f4a5bb4f-440d-485a-94c3-8f5882e65a62"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "f678b24d-f1fd-4717-8824-4138845390eb",
+      "title": "When I Repaired a Gal's Bicycle, She Became Attached to Me",
+      "url": "https://mangadex.org/title/f678b24d-f1fd-4717-8824-4138845390eb",
+      "removed_at": "2026-10-07T02:37:05Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "a3c8ffd0-902f-4c5e-b1c4-96ba66aaa740",
+      "title": "Citrus",
+      "url": "https://mangadex.org/title/a3c8ffd0-902f-4c5e-b1c4-96ba66aaa740",
+      "removed_at": "2026-10-07T02:37:05Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "4c20ff54-3dfe-4433-a1e3-274492cdb2fc",
+      "title": "Arpeggio of Blue Steel",
+      "url": "https://mangadex.org/title/4c20ff54-3dfe-4433-a1e3-274492cdb2fc",
+      "removed_at": "2026-10-07T02:37:05Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "7f7678c7-0d32-4d36-a99a-1bfe32483584",
+      "title": "Supervillain Boy",
+      "url": "https://mangadex.org/title/7f7678c7-0d32-4d36-a99a-1bfe32483584",
+      "removed_at": "2026-10-07T02:37:05Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "c2989387-6b0e-49df-90bc-0385fefbcda5",
+      "title": "Murim Psychopath",
+      "url": "https://mangadex.org/title/c2989387-6b0e-49df-90bc-0385fefbcda5",
+      "removed_at": "2026-10-07T02:37:05Z"
+    }
+  ]
+}
