@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-07T09:34:46Z",
+  "updated_at": "2026-10-07T17:07:18Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -3763,9 +3763,10 @@
       "title": "I'm Really Not the Evil God's Lackey",
       "url": "https://mangadex.org/title/dbbca2b5-bdd1-4f2b-8b2e-d72bf7fd89a0",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-07T17:07:18Z",
+      "removed_by_source": true
     },
     "dbcc54b8-0a76-4508-a3a8-eca0a8f5492d": {
       "title": "I Married the Head of My Archenemy’s Household: My Wife Is Cute, Fragile, Kind, Smart, Adorable, and Simply the Best",
@@ -6340,9 +6341,10 @@
       "title": "Hiroin-kun",
       "url": "https://mangadex.org/title/e6909948-0a4a-4577-9e64-125837045dec",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-22T10:09:00Z",
-      "removed_at": null
+      "removed_at": "2026-10-07T17:07:18Z",
+      "removed_by_source": true
     },
     "2c9c3fdd-a4b6-4736-9fa7-441035790873": {
       "title": "My Friend's Sister Is Scary but Nice",
@@ -7315,9 +7317,10 @@
       "title": "Wakaba Won't Give Up!",
       "url": "https://mangadex.org/title/45b8d08e-b3ca-4aa7-bb14-120a1ed3c72f",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-25T12:02:19Z",
-      "removed_at": null
+      "removed_at": "2026-10-07T17:07:18Z",
+      "removed_by_source": true
     },
     "5018f2b1-65ee-4a76-a7f3-4bb851e1ade5": {
       "title": "High Score Girl: Dash",
@@ -7386,9 +7389,10 @@
       "title": "Miss Regular Customer Wants to Enjoy",
       "url": "https://mangadex.org/title/e06e6024-9688-4a38-a8b4-6facd3fe1d80",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-25T17:24:00Z",
-      "removed_at": null
+      "removed_at": "2026-10-07T17:07:18Z",
+      "removed_by_source": true
     },
     "e3fa25bc-23eb-46c3-af17-36ec9200456e": {
       "title": "Contract Sisters",
@@ -7928,9 +7932,10 @@
       "title": "Hidden Reincarnation",
       "url": "https://mangadex.org/title/07dcd201-fe35-46cd-8931-e1445efbe469",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-27T07:23:09Z",
-      "removed_at": null
+      "removed_at": "2026-10-07T17:07:18Z",
+      "removed_by_source": true
     },
     "61d81be6-2759-4cc4-9815-7952a3449149": {
       "title": "Tensei Shitara Slime Datta Ken - Clayman Revenge",
@@ -8016,9 +8021,10 @@
       "title": "Sword Art Online: Unital Ring",
       "url": "https://mangadex.org/title/512cd78f-cbb8-460a-bafd-e8840c0f7c31",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-27T13:11:02Z",
-      "removed_at": null
+      "removed_at": "2026-10-07T17:07:18Z",
+      "removed_by_source": true
     },
     "56dec7d4-9d44-4689-a748-1434c6dfd17f": {
       "title": "Genderswapped Medic's Battlefield Diary",
@@ -9367,9 +9373,10 @@
       "title": "Sometimes Even Reality Is a Lie!",
       "url": "https://mangadex.org/title/de9e3b62-eac5-4c0a-917d-ffccad694381",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-02T15:13:23Z",
-      "removed_at": null
+      "removed_at": "2026-10-07T17:07:18Z",
+      "removed_by_source": true
     },
     "0b171f64-89a5-4c37-b5f9-75cca57e8787": {
       "title": "Failure Frame: I Became the Strongest and Annihilated Everything With Low-Level Spells",
@@ -9391,9 +9398,10 @@
       "title": "Shadows House (Official Colored)",
       "url": "https://mangadex.org/title/733fc3ac-deca-444e-bb79-14186e00ccf1",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-02T20:01:26Z",
-      "removed_at": null
+      "removed_at": "2026-10-07T17:07:18Z",
+      "removed_by_source": true
     },
     "95aa6275-3a71-460b-af9f-33ee9b93bebc": {
       "title": "Nue's Exorcist",
@@ -9408,9 +9416,10 @@
       "title": "The State of a Certain Wife",
       "url": "https://mangadex.org/title/af6f72d6-af16-4974-ac72-c8ca8cb6db58",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-02T20:01:26Z",
-      "removed_at": null
+      "removed_at": "2026-10-07T17:07:18Z",
+      "removed_by_source": true
     },
     "b5e3b32e-5d96-4ebd-b37e-3caa0b258824": {
       "title": "The Path of the Perfect Evasion Healer",
@@ -9433,9 +9442,10 @@
       "title": "Tried Watching the Cursed Video",
       "url": "https://mangadex.org/title/cdded836-5be4-425b-9c7f-2b98663ca80f",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-02T20:01:26Z",
-      "removed_at": null
+      "removed_at": "2026-10-07T17:07:18Z",
+      "removed_by_source": true
     },
     "e531c6ca-0b07-4878-8ae8-87357375acd9": {
       "title": "LV999 Villager",
@@ -10316,6 +10326,70 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-07T09:34:46Z",
+      "removed_at": null
+    },
+    "02c40e5c-3f5c-483f-b8a0-4abbbeb815f1": {
+      "title": "The Counselor Through the Years and Stars",
+      "url": "https://mangadex.org/title/02c40e5c-3f5c-483f-b8a0-4abbbeb815f1",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-07T17:07:18Z",
+      "removed_at": null
+    },
+    "36bd3ec2-b2a0-4131-8412-82e3e0588134": {
+      "title": "Pinky Candy Kiss",
+      "url": "https://mangadex.org/title/36bd3ec2-b2a0-4131-8412-82e3e0588134",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-07T17:07:18Z",
+      "removed_at": null
+    },
+    "6498ec2a-bb90-4693-974e-c7835a3a0ffe": {
+      "title": "When You Put on Loafers",
+      "url": "https://mangadex.org/title/6498ec2a-bb90-4693-974e-c7835a3a0ffe",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-07T17:07:18Z",
+      "removed_at": null
+    },
+    "81d75b43-c7bf-4102-86ae-d07b93cf074a": {
+      "title": "What Happens When You Save Two Beautiful Sisters Who Hate Men Without Telling Them Your Name?",
+      "url": "https://mangadex.org/title/81d75b43-c7bf-4102-86ae-d07b93cf074a",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-07T17:07:18Z",
+      "removed_at": null
+    },
+    "b61247ba-cfa3-452a-a897-d5cbac864e0a": {
+      "title": "Even Though You Lost Your Virginity to Me",
+      "url": "https://mangadex.org/title/b61247ba-cfa3-452a-a897-d5cbac864e0a",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-07T17:07:18Z",
+      "removed_at": null
+    },
+    "c101b7dd-1e3f-4563-8ef9-be69cf367129": {
+      "title": "Seirei Gensouki: Spirit Chronicles",
+      "url": "https://mangadex.org/title/c101b7dd-1e3f-4563-8ef9-be69cf367129",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-07T17:07:18Z",
+      "removed_at": null
+    },
+    "f30a2fd3-cf2c-4f77-9910-51a908459a82": {
+      "title": "The Otome Heroine's Fight for Survival",
+      "url": "https://mangadex.org/title/f30a2fd3-cf2c-4f77-9910-51a908459a82",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-07T17:07:18Z",
+      "removed_at": null
+    },
+    "f6aae3a6-536f-4cdc-94b4-deccbedda939": {
+      "title": "Kamoi-san, Are You Showing It on Purpose?",
+      "url": "https://mangadex.org/title/f6aae3a6-536f-4cdc-94b4-deccbedda939",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-07T17:07:18Z",
       "removed_at": null
     }
   }
