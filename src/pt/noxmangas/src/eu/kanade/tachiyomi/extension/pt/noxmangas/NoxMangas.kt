@@ -118,21 +118,25 @@ abstract class NoxMangas : HttpSource() {
             .build()
     }
 
-    private fun apiRequest(endpoint: String, path: String, htmlFallback: String? = null): Request {
-        return try {
-            GET("$apiUrl/api/v1$path", getApiHeaders(endpoint).newBuilder().apply {
+    private fun apiRequest(endpoint: String, path: String, htmlFallback: String? = null): Request = try {
+        GET(
+            "$apiUrl/api/v1$path",
+            getApiHeaders(endpoint).newBuilder().apply {
                 htmlFallback?.let { add(HTML_FALLBACK_HEADER, it) }
-            }.build())
-        } catch (_: Exception) {
-            // signer.js can itself be blocked with 403, before OkHttp gets an
-            // opportunity to run the API interceptor. Use only the public page
-            // supplied by this source as the fallback; never bypass a challenge.
-            if (htmlFallback == null) throw IllegalStateException("NoxMangas API authentication failed", _)
-            GET(htmlFallback, headersBuilder()
+            }.build(),
+        )
+    } catch (_: Exception) {
+        // signer.js can itself be blocked with 403, before OkHttp gets an
+        // opportunity to run the API interceptor. Use only the public page
+        // supplied by this source as the fallback; never bypass a challenge.
+        if (htmlFallback == null) throw IllegalStateException("NoxMangas API authentication failed", _)
+        GET(
+            htmlFallback,
+            headersBuilder()
                 .add("Accept", "text/html,application/xhtml+xml")
                 .add("Referer", "$baseUrl/")
-                .build())
-        }
+                .build(),
+        )
     }
 
     // ============================== Popular ==============================
