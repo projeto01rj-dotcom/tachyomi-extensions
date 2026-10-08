@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-07T22:08:13Z",
+  "updated_at": "2026-10-08T02:08:04Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -9281,9 +9281,10 @@
       "title": "Captive Hero: A Disposable Swordsman Rises to Power in the Enemy Country",
       "url": "https://mangadex.org/title/9c7f72dd-3d2f-4753-9d6e-aefc7ae65665",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-02T02:22:42Z",
-      "removed_at": null
+      "removed_at": "2026-10-08T02:08:04Z",
+      "removed_by_source": true
     },
     "a2a738f4-0fe4-4968-95a8-5ebcb7f86f72": {
       "title": "The Grimoire of Usami - Hifuu Kurabu Ikai Satsuei Kiroku",
@@ -9508,9 +9509,10 @@
       "title": "Maria's Judgement",
       "url": "https://mangadex.org/title/3ad8d2f2-1afe-43da-a88b-0a790c64939e",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-03T03:05:29Z",
-      "removed_at": null
+      "removed_at": "2026-10-08T02:08:04Z",
+      "removed_by_source": true
     },
     "7477bdb7-c146-41f7-a8de-29c7b7b5034c": {
       "title": "Don't XX Ms. Tsukimine",
@@ -10438,6 +10440,30 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-07T22:08:13Z",
+      "removed_at": null
+    },
+    "30eb9ee7-4cfe-4036-95f9-4aac5e05b505": {
+      "title": "A NEET’s Guide to the Parallel World: Healer, the Strongest Cheat?",
+      "url": "https://mangadex.org/title/30eb9ee7-4cfe-4036-95f9-4aac5e05b505",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-08T02:08:04Z",
+      "removed_at": null
+    },
+    "472960b1-369b-4fd4-8e5f-21feecebb6c3": {
+      "title": "Her Relationship with Him",
+      "url": "https://mangadex.org/title/472960b1-369b-4fd4-8e5f-21feecebb6c3",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-08T02:08:04Z",
+      "removed_at": null
+    },
+    "491bdbe0-0c83-42d5-8b20-3a651e65f70b": {
+      "title": "If My Favourite Idol Made it to The Budoukan, I Would Die",
+      "url": "https://mangadex.org/title/491bdbe0-0c83-42d5-8b20-3a651e65f70b",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-08T02:08:04Z",
       "removed_at": null
     }
   }

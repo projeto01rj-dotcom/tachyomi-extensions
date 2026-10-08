@@ -1,0 +1,40 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-08T02:08:04Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "30eb9ee7-4cfe-4036-95f9-4aac5e05b505",
+      "title": "A NEET’s Guide to the Parallel World: Healer, the Strongest Cheat?",
+      "url": "https://mangadex.org/title/30eb9ee7-4cfe-4036-95f9-4aac5e05b505"
+    },
+    {
+      "source": "mangadex",
+      "key": "472960b1-369b-4fd4-8e5f-21feecebb6c3",
+      "title": "Her Relationship with Him",
+      "url": "https://mangadex.org/title/472960b1-369b-4fd4-8e5f-21feecebb6c3"
+    },
+    {
+      "source": "mangadex",
+      "key": "491bdbe0-0c83-42d5-8b20-3a651e65f70b",
+      "title": "If My Favourite Idol Made it to The Budoukan, I Would Die",
+      "url": "https://mangadex.org/title/491bdbe0-0c83-42d5-8b20-3a651e65f70b"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "9c7f72dd-3d2f-4753-9d6e-aefc7ae65665",
+      "title": "Captive Hero: A Disposable Swordsman Rises to Power in the Enemy Country",
+      "url": "https://mangadex.org/title/9c7f72dd-3d2f-4753-9d6e-aefc7ae65665",
+      "removed_at": "2026-10-08T02:08:04Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "3ad8d2f2-1afe-43da-a88b-0a790c64939e",
+      "title": "Maria's Judgement",
+      "url": "https://mangadex.org/title/3ad8d2f2-1afe-43da-a88b-0a790c64939e",
+      "removed_at": "2026-10-08T02:08:04Z"
+    }
+  ]
+}
