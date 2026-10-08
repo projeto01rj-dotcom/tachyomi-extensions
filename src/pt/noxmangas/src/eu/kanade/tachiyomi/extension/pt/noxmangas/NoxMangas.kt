@@ -125,11 +125,11 @@ abstract class NoxMangas : HttpSource() {
                 htmlFallback?.let { add(HTML_FALLBACK_HEADER, it) }
             }.build(),
         )
-    } catch (_: Exception) {
+    } catch (error: Exception) {
         // signer.js can itself be blocked with 403, before OkHttp gets an
         // opportunity to run the API interceptor. Use only the public page
         // supplied by this source as the fallback; never bypass a challenge.
-        if (htmlFallback == null) throw IllegalStateException("NoxMangas API authentication failed", _)
+        if (htmlFallback == null) throw IllegalStateException("NoxMangas API authentication failed", error)
         GET(
             htmlFallback,
             headersBuilder()
