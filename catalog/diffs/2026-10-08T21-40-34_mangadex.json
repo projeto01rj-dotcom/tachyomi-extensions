@@ -1,0 +1,61 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-08T21:40:34Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "3d6ccd3e-f430-4eed-b0bc-59f91803b83f",
+      "title": "“Welcome Back, Papa”",
+      "url": "https://mangadex.org/title/3d6ccd3e-f430-4eed-b0bc-59f91803b83f"
+    },
+    {
+      "source": "mangadex",
+      "key": "af6667a4-ae4c-4baa-9283-a01f56d7f489",
+      "title": "Since I'm Interested In Your Hair",
+      "url": "https://mangadex.org/title/af6667a4-ae4c-4baa-9283-a01f56d7f489"
+    },
+    {
+      "source": "mangadex",
+      "key": "e881168f-ef99-41ff-88cf-1cf21c152635",
+      "title": "I've Become Able to Do Anything with My Growth Cheat, but I Can't Seem to Get out of Being Jobless",
+      "url": "https://mangadex.org/title/e881168f-ef99-41ff-88cf-1cf21c152635"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "c93b96e9-29bb-419c-b756-f098b05a4b65",
+      "title": "Money Forest",
+      "url": "https://mangadex.org/title/c93b96e9-29bb-419c-b756-f098b05a4b65",
+      "removed_at": "2026-10-08T21:40:34Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "518c6492-b720-476e-b3dd-f33470d38662",
+      "title": "Tapioca",
+      "url": "https://mangadex.org/title/518c6492-b720-476e-b3dd-f33470d38662",
+      "removed_at": "2026-10-08T21:40:34Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "eff87780-93d9-412e-b831-c731787e9bea",
+      "title": "The Foolish Angel Dances with the Devil",
+      "url": "https://mangadex.org/title/eff87780-93d9-412e-b831-c731787e9bea",
+      "removed_at": "2026-10-08T21:40:34Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "f6f3fe1c-c086-4f50-a8cf-3ec48fa3f3a8",
+      "title": "Record of Ragnarok: The Jack the Ripper Case Files",
+      "url": "https://mangadex.org/title/f6f3fe1c-c086-4f50-a8cf-3ec48fa3f3a8",
+      "removed_at": "2026-10-08T21:40:34Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "ff548fb5-0f54-4e61-927b-2bf985e7b033",
+      "title": "Umareru Seibetsu wo Machigaeta!",
+      "url": "https://mangadex.org/title/ff548fb5-0f54-4e61-927b-2bf985e7b033",
+      "removed_at": "2026-10-08T21:40:34Z"
+    }
+  ]
+}

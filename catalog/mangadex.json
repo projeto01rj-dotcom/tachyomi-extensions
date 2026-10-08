@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-08T16:41:43Z",
+  "updated_at": "2026-10-08T21:40:34Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -8888,9 +8888,10 @@
       "title": "Money Forest",
       "url": "https://mangadex.org/title/c93b96e9-29bb-419c-b756-f098b05a4b65",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-30T09:53:00Z",
-      "removed_at": null
+      "removed_at": "2026-10-08T21:40:34Z",
+      "removed_by_source": true
     },
     "569963c5-6b0b-4f92-b561-e1304b78b0dc": {
       "title": "Bungo Stray Dogs: Wan!",
@@ -9568,33 +9569,37 @@
       "title": "Tapioca",
       "url": "https://mangadex.org/title/518c6492-b720-476e-b3dd-f33470d38662",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-03T14:21:43Z",
-      "removed_at": null
+      "removed_at": "2026-10-08T21:40:34Z",
+      "removed_by_source": true
     },
     "eff87780-93d9-412e-b831-c731787e9bea": {
       "title": "The Foolish Angel Dances with the Devil",
       "url": "https://mangadex.org/title/eff87780-93d9-412e-b831-c731787e9bea",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-03T14:21:43Z",
-      "removed_at": null
+      "removed_at": "2026-10-08T21:40:34Z",
+      "removed_by_source": true
     },
     "f6f3fe1c-c086-4f50-a8cf-3ec48fa3f3a8": {
       "title": "Record of Ragnarok: The Jack the Ripper Case Files",
       "url": "https://mangadex.org/title/f6f3fe1c-c086-4f50-a8cf-3ec48fa3f3a8",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-03T14:21:43Z",
-      "removed_at": null
+      "removed_at": "2026-10-08T21:40:34Z",
+      "removed_by_source": true
     },
     "ff548fb5-0f54-4e61-927b-2bf985e7b033": {
       "title": "Umareru Seibetsu wo Machigaeta!",
       "url": "https://mangadex.org/title/ff548fb5-0f54-4e61-927b-2bf985e7b033",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-03T14:21:43Z",
-      "removed_at": null
+      "removed_at": "2026-10-08T21:40:34Z",
+      "removed_by_source": true
     },
     "0a522e70-37c7-476e-8b2c-ddc1050ccc2a": {
       "title": "The Higa Sisters",
@@ -10548,6 +10553,30 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-08T16:41:43Z",
+      "removed_at": null
+    },
+    "3d6ccd3e-f430-4eed-b0bc-59f91803b83f": {
+      "title": "“Welcome Back, Papa”",
+      "url": "https://mangadex.org/title/3d6ccd3e-f430-4eed-b0bc-59f91803b83f",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-08T21:40:34Z",
+      "removed_at": null
+    },
+    "af6667a4-ae4c-4baa-9283-a01f56d7f489": {
+      "title": "Since I'm Interested In Your Hair",
+      "url": "https://mangadex.org/title/af6667a4-ae4c-4baa-9283-a01f56d7f489",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-08T21:40:34Z",
+      "removed_at": null
+    },
+    "e881168f-ef99-41ff-88cf-1cf21c152635": {
+      "title": "I've Become Able to Do Anything with My Growth Cheat, but I Can't Seem to Get out of Being Jobless",
+      "url": "https://mangadex.org/title/e881168f-ef99-41ff-88cf-1cf21c152635",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-08T21:40:34Z",
       "removed_at": null
     }
   }
