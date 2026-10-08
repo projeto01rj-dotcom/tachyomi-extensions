@@ -4,6 +4,7 @@ import re
 import time
 
 import requests
+from bs4 import BeautifulSoup
 
 NAME = "noxmangas"
 BASE_URL = "https://noxmangas.org"
@@ -65,6 +66,39 @@ class NixClient:
         r.raise_for_status()
         return r.json()
 
+    def get_comics(self, sort, page):
+        """Use the signed API first, then the site's public catalog HTML."""
+        path = f"/api/v1/comics?page={page}&per_page=100&sort={sort}"
+        try:
+            return self.get_json(path)
+        except (requests.RequestException, AttributeError, IndexError, ValueError):
+            public_path = "/new" if sort == "newest" else "/popular"
+            response = self.session.get(
+                BASE_URL + f"{public_path}?page={page}",
+                headers={"User-Agent": UA, "Accept": "text/html,application/xhtml+xml", "Referer": BASE_URL + "/"},
+                timeout=25,
+            )
+            response.raise_for_status()
+            soup = BeautifulSoup(response.text, "html.parser")
+            comics = []
+            seen = set()
+            for link in soup.select('a[href^="/manga/"]'):
+                href = link.get("href", "").split("?", 1)[0].rstrip("/")
+                slug = href.removeprefix("/manga/")
+                if not slug or slug in seen:
+                    continue
+                image = link.select_one("img")
+                title = (image.get("alt") if image else None) or link.get_text(" ", strip=True)
+                if not title:
+                    continue
+                seen.add(slug)
+                comics.append({
+                    "slug": slug,
+                    "title": title.strip(),
+                    "cover": image.get("src") if image else None,
+                })
+            return {"comics": comics, "total_pages": 1}
+
 
 def fetch(max_pages=50):
     client = NixClient()
@@ -73,7 +107,7 @@ def fetch(max_pages=50):
     for sort in ("newest", "popular"):
         page = 1
         while page <= max_pages:
-            data = client.get_json(f"/api/v1/comics?page={page}&per_page=100&sort={sort}")
+            data = client.get_comics(sort, page)
             comics = data.get("comics") or []
             total_pages = int(data.get("total_pages") or 1)
             new = 0

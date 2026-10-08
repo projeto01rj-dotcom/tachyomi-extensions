@@ -16,6 +16,8 @@ import okhttp3.Headers
 import okhttp3.HttpUrl.Companion.toHttpUrl
 import okhttp3.Request
 import okhttp3.Response
+import org.jsoup.Jsoup
+import java.net.URLEncoder
 
 @Source
 abstract class NoxMangas : HttpSource() {
@@ -38,6 +40,22 @@ abstract class NoxMangas : HttpSource() {
                         headers(getApiHeaders(req.url.encodedPath, refresh = true))
                     }.build()
                     response = chain.proceed(newReq)
+                }
+
+                // Keep the signed API as the primary path. If the site blocks
+                // only the API, retry the corresponding public HTML page.
+                if (response.code == 403) {
+                    val fallbackUrl = req.header(HTML_FALLBACK_HEADER)
+                    if (fallbackUrl != null) {
+                        response.close()
+                        return@addInterceptor chain.proceed(
+                            req.newBuilder()
+                                .removeHeader(HTML_FALLBACK_HEADER)
+                                .url(fallbackUrl)
+                                .header("Accept", "text/html,application/xhtml+xml")
+                                .build(),
+                        )
+                    }
                 }
                 return@addInterceptor response
             }
@@ -100,17 +118,33 @@ abstract class NoxMangas : HttpSource() {
             .build()
     }
 
-    private fun apiRequest(endpoint: String, path: String): Request = GET("$apiUrl/api/v1$path", getApiHeaders(endpoint))
+    private fun apiRequest(endpoint: String, path: String, htmlFallback: String? = null): Request {
+        return try {
+            GET("$apiUrl/api/v1$path", getApiHeaders(endpoint).newBuilder().apply {
+                htmlFallback?.let { add(HTML_FALLBACK_HEADER, it) }
+            }.build())
+        } catch (_: Exception) {
+            // signer.js can itself be blocked with 403, before OkHttp gets an
+            // opportunity to run the API interceptor. Use only the public page
+            // supplied by this source as the fallback; never bypass a challenge.
+            if (htmlFallback == null) throw IllegalStateException("NoxMangas API authentication failed", _)
+            GET(htmlFallback, headersBuilder()
+                .add("Accept", "text/html,application/xhtml+xml")
+                .add("Referer", "$baseUrl/")
+                .build())
+        }
+    }
 
     // ============================== Popular ==============================
 
     override fun popularMangaRequest(page: Int): Request {
         val endpoint = "/api/v1/comics"
         val url = "/comics?page=$page&per_page=24&sort=popular"
-        return apiRequest(endpoint, url)
+        return apiRequest(endpoint, url, "$baseUrl/popular?page=$page")
     }
 
     override fun popularMangaParse(response: Response): MangasPage {
+        if (response.isHtml()) return response.parseHtmlMangas()
         val dto = response.parseAs<PaginatedComicsDto>()
         return MangasPage(dto.comics.map { it.toSManga() }, dto.hasNextPage)
     }
@@ -120,7 +154,7 @@ abstract class NoxMangas : HttpSource() {
     override fun latestUpdatesRequest(page: Int): Request {
         val endpoint = "/api/v1/comics"
         val url = "/comics?page=$page&per_page=24&sort=latest"
-        return apiRequest(endpoint, url)
+        return apiRequest(endpoint, url, "$baseUrl/new?page=$page")
     }
 
     override fun latestUpdatesParse(response: Response): MangasPage = popularMangaParse(response)
@@ -131,7 +165,7 @@ abstract class NoxMangas : HttpSource() {
         if (query.isNotEmpty()) {
             val endpoint = "/api/v1/comics/search"
             val url = "/comics/search?q=$query&page=$page"
-            return apiRequest(endpoint, url)
+            return apiRequest(endpoint, url, "$baseUrl/search?query=${URLEncoder.encode(query, "UTF-8")}&page=$page")
         }
 
         val endpoint = "/api/v1/comics"
@@ -158,7 +192,7 @@ abstract class NoxMangas : HttpSource() {
             filters.firstInstanceOrNull<YearFilter>()?.state?.takeIf { it.isNotEmpty() }?.let { addQueryParameter("year", it) }
         }.build().toString()
 
-        return apiRequest(endpoint, url)
+        return apiRequest(endpoint, url, "$baseUrl/search")
     }
 
     override fun searchMangaParse(response: Response): MangasPage = popularMangaParse(response)
@@ -171,10 +205,11 @@ abstract class NoxMangas : HttpSource() {
         val slug = manga.url
         val endpoint = "/api/v1/comics/slug/$slug"
         val url = "/comics/slug/$slug"
-        return apiRequest(endpoint, url)
+        return apiRequest(endpoint, url, "$baseUrl/manga/$slug")
     }
 
     override fun mangaDetailsParse(response: Response): SManga {
+        if (response.isHtml()) return response.parseHtmlMangaDetails()
         val root = response.parseAs<JsonElement>()
         val objectRoot = root.jsonObject
         val payload = objectRoot["comic"] ?: objectRoot["data"] ?: root
@@ -193,10 +228,11 @@ abstract class NoxMangas : HttpSource() {
     private fun chapterListRequestPaginated(slug: String, page: Int): Request {
         val endpoint = "/api/v1/comics/slug/$slug/chapters"
         val url = "/comics/slug/$slug/chapters?page=$page&per_page=100&sort=newest"
-        return apiRequest(endpoint, url)
+        return apiRequest(endpoint, url, "$baseUrl/manga/$slug")
     }
 
     override fun chapterListParse(response: Response): List<SChapter> {
+        if (response.isHtml()) return response.parseHtmlChapters()
         var res = response
         var dto = res.parseAs<PaginatedChaptersDto>()
         val chapters = mutableListOf<SChapter>()
@@ -225,10 +261,15 @@ abstract class NoxMangas : HttpSource() {
         val id = chapter.url.substringAfterLast("#")
         val endpoint = "/api/v1/chapters/$id"
         val url = "/chapters/$id?skip_view=true"
-        return apiRequest(endpoint, url)
+        val htmlFallback = chapter.url.substringBefore("#").let { "$baseUrl$it" }
+        return apiRequest(endpoint, url, htmlFallback)
     }
 
-    override fun pageListParse(response: Response): List<Page> = response.parseAs<PagesDto>().toPageList()
+    override fun pageListParse(response: Response): List<Page> = if (response.isHtml()) {
+        response.parseHtmlPages()
+    } else {
+        response.parseAs<PagesDto>().toPageList()
+    }
 
     override fun imageUrlParse(response: Response): String = throw UnsupportedOperationException()
 
@@ -244,5 +285,63 @@ abstract class NoxMangas : HttpSource() {
 
     companion object {
         private const val SITE_ID = "00000000-0000-0000-0000-000000000003"
+        private const val HTML_FALLBACK_HEADER = "X-Nox-HTML-Fallback"
     }
+}
+
+private fun Response.isHtml(): Boolean = header("Content-Type")?.contains("html", ignoreCase = true) == true
+
+private fun Response.parseHtmlMangas(): MangasPage {
+    val document = Jsoup.parse(body!!.string(), request.url.toString())
+    val mangas = document.select("a[href^=/manga/]")
+        .mapNotNull { element ->
+            val url = element.attr("href").substringBefore("?").trimEnd('/')
+            if (url == "/manga" || url.isEmpty()) return@mapNotNull null
+            val title = element.selectFirst("img[alt]")?.attr("alt")?.takeIf { it.isNotBlank() }
+                ?: element.selectFirst("h2, h3, h4")?.text()
+                ?: element.text()
+            if (title.isBlank()) return@mapNotNull null
+            SManga.create().apply {
+                this.url = url
+                this.title = title.trim()
+                thumbnail_url = element.selectFirst("img")?.attr("abs:src")
+            }
+        }
+        .distinctBy(SManga::url)
+    return MangasPage(mangas, false)
+}
+
+private fun Response.parseHtmlMangaDetails(): SManga {
+    val document = Jsoup.parse(body!!.string(), request.url.toString())
+    return SManga.create().apply {
+        url = request.url.pathSegments.lastOrNull().orEmpty()
+        title = document.selectFirst("h1")?.text().orEmpty()
+        description = document.selectFirst("[class*=synopsis], [class*=description], main p")?.text()
+        thumbnail_url = document.selectFirst("main img[src], img[src]")?.attr("abs:src")
+    }
+}
+
+private fun Response.parseHtmlChapters(): List<SChapter> {
+    val document = Jsoup.parse(body!!.string(), request.url.toString())
+    return document.select("a[href^=/read/]")
+        .mapNotNull { element ->
+            val href = element.attr("href").substringBefore("?")
+            if (href.count { it == '/' } < 3) return@mapNotNull null
+            val number = Regex("(?:capitulo|capítulo)[- ]([0-9]+(?:\\.[0-9]+)?)", RegexOption.IGNORE_CASE)
+                .find(href)?.groupValues?.getOrNull(1)?.toFloatOrNull() ?: -1f
+            SChapter.create().apply {
+                url = href
+                name = element.text().trim().ifEmpty { "Capítulo" }
+                chapter_number = number
+            }
+        }
+        .distinctBy(SChapter::url)
+}
+
+private fun Response.parseHtmlPages(): List<Page> {
+    val document = Jsoup.parse(body!!.string(), request.url.toString())
+    return document.select("img[src]")
+        .mapNotNull { it.attr("abs:src").takeIf(String::isNotBlank) }
+        .distinct()
+        .mapIndexed { index, url -> Page(index, imageUrl = url) }
 }
