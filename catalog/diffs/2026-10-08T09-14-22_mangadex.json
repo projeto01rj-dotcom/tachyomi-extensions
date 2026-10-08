@@ -1,0 +1,67 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-08T09:14:22Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "395c5ef0-edad-461b-ba6c-7a5227ad18bb",
+      "title": "Tsuki Tsuki!",
+      "url": "https://mangadex.org/title/395c5ef0-edad-461b-ba6c-7a5227ad18bb"
+    },
+    {
+      "source": "mangadex",
+      "key": "8f047748-9a0b-40b2-9747-dc47d1d83290",
+      "title": "Immature Succubus",
+      "url": "https://mangadex.org/title/8f047748-9a0b-40b2-9747-dc47d1d83290"
+    },
+    {
+      "source": "mangadex",
+      "key": "b0dc2f88-4e89-4e30-8d68-20116db788ff",
+      "title": "Reborn as an Aristocratic Scoundrel, I Broke the Game and Mastered Magic Beyond Limits!",
+      "url": "https://mangadex.org/title/b0dc2f88-4e89-4e30-8d68-20116db788ff"
+    },
+    {
+      "source": "mangadex",
+      "key": "c4e4daf8-f236-4b3f-ad5b-36d91deaafd7",
+      "title": "The Former Strongest Swordsman Strives to Learn Magic in Another World",
+      "url": "https://mangadex.org/title/c4e4daf8-f236-4b3f-ad5b-36d91deaafd7"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "ea0e7020-2b2f-4f17-9251-fee3632dc135",
+      "title": "My Yandere Girlfriend Lurks in the Dungeon and Kills Me Over and Over Again",
+      "url": "https://mangadex.org/title/ea0e7020-2b2f-4f17-9251-fee3632dc135",
+      "removed_at": "2026-10-08T09:14:22Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "15dcfe9e-371f-4fff-b99a-0c182935bf49",
+      "title": "No. 6",
+      "url": "https://mangadex.org/title/15dcfe9e-371f-4fff-b99a-0c182935bf49",
+      "removed_at": "2026-10-08T09:14:22Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "a8c6395b-aa04-426f-aa09-284ae1c3a1e5",
+      "title": "The Final Exorcist: Ender Geister",
+      "url": "https://mangadex.org/title/a8c6395b-aa04-426f-aa09-284ae1c3a1e5",
+      "removed_at": "2026-10-08T09:14:22Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "d7ae4a0f-bb85-48d9-98c2-45144f27374b",
+      "title": "Charlotte",
+      "url": "https://mangadex.org/title/d7ae4a0f-bb85-48d9-98c2-45144f27374b",
+      "removed_at": "2026-10-08T09:14:22Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "bfed99f9-0f35-4173-bc04-f625d340d3f7",
+      "title": "Witches and Cigarettes",
+      "url": "https://mangadex.org/title/bfed99f9-0f35-4173-bc04-f625d340d3f7",
+      "removed_at": "2026-10-08T09:14:22Z"
+    }
+  ]
+}
