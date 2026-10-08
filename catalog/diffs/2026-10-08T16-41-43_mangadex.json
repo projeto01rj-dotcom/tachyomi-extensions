@@ -1,0 +1,87 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-08T16:41:43Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "0ca5bda2-0567-4529-963f-4136a098d4aa",
+      "title": "In My Past Life I Was the Cold-Hearted Emperor, in This Life I'm a Young Girl",
+      "url": "https://mangadex.org/title/0ca5bda2-0567-4529-963f-4136a098d4aa"
+    },
+    {
+      "source": "mangadex",
+      "key": "50ced036-edd9-43e6-aff9-14a691071456",
+      "title": "Kamen Rider Kuuga",
+      "url": "https://mangadex.org/title/50ced036-edd9-43e6-aff9-14a691071456"
+    },
+    {
+      "source": "mangadex",
+      "key": "915223e0-e694-4ce4-a923-72721431a836",
+      "title": "Mangá sem fio",
+      "url": "https://mangadex.org/title/915223e0-e694-4ce4-a923-72721431a836"
+    },
+    {
+      "source": "mangadex",
+      "key": "a4304d3b-191d-471f-8c78-353d403a35d0",
+      "title": "Sengoku Komachi Kurotan",
+      "url": "https://mangadex.org/title/a4304d3b-191d-471f-8c78-353d403a35d0"
+    },
+    {
+      "source": "mangadex",
+      "key": "e31b62b8-68ec-4bb6-bf7e-33db5be5e0b0",
+      "title": "My Crush's Crush",
+      "url": "https://mangadex.org/title/e31b62b8-68ec-4bb6-bf7e-33db5be5e0b0"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "85f599c8-4f2a-4ccc-a2c8-348335bd0a90",
+      "title": "With Regard to My Dear Kudan",
+      "url": "https://mangadex.org/title/85f599c8-4f2a-4ccc-a2c8-348335bd0a90",
+      "removed_at": "2026-10-08T16:41:43Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "5272da37-6c69-4ecc-a1e0-d25db7b3e80f",
+      "title": "The Protagonist's Childhood Friend Is Coming on Strong to Me, a Mob",
+      "url": "https://mangadex.org/title/5272da37-6c69-4ecc-a1e0-d25db7b3e80f",
+      "removed_at": "2026-10-08T16:41:43Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "9b3d1a67-941f-4538-9e75-3797eeb3771f",
+      "title": "How to Treat a Lady Knight Right",
+      "url": "https://mangadex.org/title/9b3d1a67-941f-4538-9e75-3797eeb3771f",
+      "removed_at": "2026-10-08T16:41:43Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "69dc2fa5-9b39-48c3-bea5-5f6bf4bf4038",
+      "title": "Tensei Shitara Ore ga Heroine de Aitsu ga Yuusha Datta",
+      "url": "https://mangadex.org/title/69dc2fa5-9b39-48c3-bea5-5f6bf4bf4038",
+      "removed_at": "2026-10-08T16:41:43Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "8a0e1c19-d214-4263-9172-435867d2a4ee",
+      "title": "Seraph of the End—Guren Ichinose: Catastrophe at Sixteen",
+      "url": "https://mangadex.org/title/8a0e1c19-d214-4263-9172-435867d2a4ee",
+      "removed_at": "2026-10-08T16:41:43Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "b9e40a22-ca9c-4f08-b537-ca6b75d8d720",
+      "title": "Toukyou Cannabis Special Ward: The Guy Called Cannabis King",
+      "url": "https://mangadex.org/title/b9e40a22-ca9c-4f08-b537-ca6b75d8d720",
+      "removed_at": "2026-10-08T16:41:43Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "8685b705-d626-44a0-b449-2ccd5ae5959d",
+      "title": "Jobless Gye Baek-sun",
+      "url": "https://mangadex.org/title/8685b705-d626-44a0-b449-2ccd5ae5959d",
+      "removed_at": "2026-10-08T16:41:43Z"
+    }
+  ]
+}
