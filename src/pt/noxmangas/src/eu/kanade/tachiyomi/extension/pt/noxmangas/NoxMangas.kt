@@ -66,6 +66,7 @@ abstract class NoxMangas : HttpSource() {
     private var cachedSlot: String = ""
     private var cachedToken: String = ""
     private var cachedSignature: String = ""
+    private var cachedEndpoint: String = ""
 
     private val signerJsUrl = "$apiUrl/_nix/signer.js"
     private val signerJsRegex = Regex("const z=\\[(.*?)\\],")
@@ -92,10 +93,11 @@ abstract class NoxMangas : HttpSource() {
         cachedSlot = slot
         cachedToken = token
         cachedSignature = sig
+        cachedEndpoint = endpoint
     }
 
     private fun getApiHeaders(endpoint: String, refresh: Boolean = false): Headers {
-        if (refresh || cachedSlot.isEmpty()) refreshAuthValues(endpoint)
+        if (refresh || cachedSlot.isEmpty() || cachedEndpoint != endpoint) refreshAuthValues(endpoint)
 
         // The API validates the request against real browser fingerprint headers
         // (sec-ch-ua / sec-fetch-*) in addition to the X-Web-* signature.
@@ -144,7 +146,7 @@ abstract class NoxMangas : HttpSource() {
     override fun popularMangaRequest(page: Int): Request {
         val endpoint = "/api/v1/comics"
         val url = "/comics?page=$page&per_page=24&sort=popular"
-        return apiRequest(endpoint, url, "$baseUrl/popular?page=$page")
+        return apiRequest(endpoint, url, "$baseUrl/rankings?page=$page")
     }
 
     override fun popularMangaParse(response: Response): MangasPage {
@@ -158,7 +160,7 @@ abstract class NoxMangas : HttpSource() {
     override fun latestUpdatesRequest(page: Int): Request {
         val endpoint = "/api/v1/comics"
         val url = "/comics?page=$page&per_page=24&sort=latest"
-        return apiRequest(endpoint, url, "$baseUrl/new?page=$page")
+        return apiRequest(endpoint, url, "$baseUrl/releases?page=$page")
     }
 
     override fun latestUpdatesParse(response: Response): MangasPage = popularMangaParse(response)

@@ -30,6 +30,7 @@ class NixClient:
         self.slot = ""
         self.token = ""
         self.sig = ""
+        self.pathname = ""
 
     def _refresh(self, pathname):
         r = self.session.get(BASE_URL + "/_nix/signer.js", headers={"User-Agent": UA}, timeout=20)
@@ -41,10 +42,10 @@ class NixClient:
         k = "".join(x[::-1] for x in z[1:4])
         payload = f"GET|{pathname}|{SITE_ID}|{slot}|{token}|{k}"
         sig = base64.urlsafe_b64encode(hashlib.sha256(payload.encode()).digest()).rstrip(b"=").decode()
-        self.slot, self.token, self.sig = slot, token, sig
+        self.slot, self.token, self.sig, self.pathname = slot, token, sig, pathname
 
     def _headers(self, pathname):
-        if not self.slot:
+        if not self.slot or self.pathname != pathname:
             self._refresh(pathname)
         return {
             "User-Agent": UA,
@@ -72,7 +73,7 @@ class NixClient:
         try:
             return self.get_json(path)
         except (requests.RequestException, AttributeError, IndexError, ValueError):
-            public_path = "/new" if sort == "newest" else "/popular"
+            public_path = "/releases" if sort == "newest" else "/rankings"
             response = self.session.get(
                 BASE_URL + f"{public_path}?page={page}",
                 headers={"User-Agent": UA, "Accept": "text/html,application/xhtml+xml", "Referer": BASE_URL + "/"},
