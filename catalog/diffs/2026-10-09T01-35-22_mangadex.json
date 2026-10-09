@@ -1,0 +1,46 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-09T01:35:22Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "5ec0922a-4869-4e6b-a154-2307945cc406",
+      "title": "The Fed-Up Office Lady Wants to Serve the Villainess",
+      "url": "https://mangadex.org/title/5ec0922a-4869-4e6b-a154-2307945cc406"
+    },
+    {
+      "source": "mangadex",
+      "key": "85fe3829-0d22-46d8-96a7-bb5ed9f555d2",
+      "title": "Love Live! Sunshine!! CYaRon! COMIC ANTHOLOGY",
+      "url": "https://mangadex.org/title/85fe3829-0d22-46d8-96a7-bb5ed9f555d2"
+    },
+    {
+      "source": "mangadex",
+      "key": "d1cf91fe-67cb-4ca0-bbba-8b35d896c649",
+      "title": "Rock Is a Lady’s Modesty",
+      "url": "https://mangadex.org/title/d1cf91fe-67cb-4ca0-bbba-8b35d896c649"
+    },
+    {
+      "source": "mangadex",
+      "key": "e2249870-322e-461f-9704-249d49d8fa89",
+      "title": "The Babe at My Back Has Her Eye on Me. I'm Done For.",
+      "url": "https://mangadex.org/title/e2249870-322e-461f-9704-249d49d8fa89"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "0a522e70-37c7-476e-8b2c-ddc1050ccc2a",
+      "title": "The Higa Sisters",
+      "url": "https://mangadex.org/title/0a522e70-37c7-476e-8b2c-ddc1050ccc2a",
+      "removed_at": "2026-10-09T01:35:22Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "f5b69b9e-c41f-4d12-8f62-fa7eba9d9b6c",
+      "title": "The Home Improvement Store Employee Building an Agricultural Village in Another World",
+      "url": "https://mangadex.org/title/f5b69b9e-c41f-4d12-8f62-fa7eba9d9b6c",
+      "removed_at": "2026-10-09T01:35:22Z"
+    }
+  ]
+}
