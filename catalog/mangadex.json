@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-09T08:48:19Z",
+  "updated_at": "2026-10-09T15:24:59Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -3399,9 +3399,10 @@
       "title": "The Moon on a Rainy Night",
       "url": "https://mangadex.org/title/c8a0426d-539b-4f6a-9537-fbccf4962529",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-09T15:24:59Z",
+      "removed_by_source": true
     },
     "c8ae1a87-fdd9-477f-977f-6d4b2aedcd58": {
       "title": "Expecting to Fall into Ruin, I Aim to Become a Blacksmith",
@@ -9400,9 +9401,10 @@
       "title": "I Have a Dragon in My Body",
       "url": "https://mangadex.org/title/1887bb79-d747-4f35-9f9d-0c08e477f138",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-02T20:01:26Z",
-      "removed_at": null
+      "removed_at": "2026-10-09T15:24:59Z",
+      "removed_by_source": true
     },
     "733fc3ac-deca-444e-bb79-14186e00ccf1": {
       "title": "Shadows House (Official Colored)",
@@ -9632,9 +9634,10 @@
       "title": "My Roommate isn't from this World",
       "url": "https://mangadex.org/title/18d53ae1-88a8-4882-96c7-92432cbbf95c",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-03T21:35:52Z",
-      "removed_at": null
+      "removed_at": "2026-10-09T15:24:59Z",
+      "removed_by_source": true
     },
     "25707e09-1afb-48da-a04e-36b4daa7cce6": {
       "title": "A Chef of Nobunaga",
@@ -9658,9 +9661,10 @@
       "title": "I'm Fine with Being the Second Girlfriend.",
       "url": "https://mangadex.org/title/70015311-3e53-4501-bd6e-7504edd16d08",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-03T21:35:52Z",
-      "removed_at": null
+      "removed_at": "2026-10-09T15:24:59Z",
+      "removed_by_source": true
     },
     "737a846b-2e67-4d63-9f7e-f54b3beebac4": {
       "title": "Please Go Home, Miss Akutsu!",
@@ -9708,9 +9712,10 @@
       "title": "Thus Spoke Rohan Kishibe (Official Colored)",
       "url": "https://mangadex.org/title/8dbe9bf3-aaba-4dae-9cb0-23de57f7744b",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-04T06:06:54Z",
-      "removed_at": null
+      "removed_at": "2026-10-09T15:24:59Z",
+      "removed_by_source": true
     },
     "d080f85f-a6ef-4e0a-9569-c0709b60d8c0": {
       "title": "ST✰R: Strike it Rich",
@@ -10640,6 +10645,54 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-09T08:13:19Z",
+      "removed_at": null
+    },
+    "1765b1d0-ca8b-4e9d-8237-3c6f76e7c9c6": {
+      "title": "Have a Nice Ending",
+      "url": "https://mangadex.org/title/1765b1d0-ca8b-4e9d-8237-3c6f76e7c9c6",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-09T15:24:59Z",
+      "removed_at": null
+    },
+    "3da96505-f8e8-49d5-8c26-fbe4786a897f": {
+      "title": "Too Many Losing Heroines!",
+      "url": "https://mangadex.org/title/3da96505-f8e8-49d5-8c26-fbe4786a897f",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-09T15:24:59Z",
+      "removed_at": null
+    },
+    "9cc3be97-91c6-4ed7-ad28-dd396699ea87": {
+      "title": "5Toubun no Hanayome - KosmosBeta's Nino Doujin",
+      "url": "https://mangadex.org/title/9cc3be97-91c6-4ed7-ad28-dd396699ea87",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-09T15:24:59Z",
+      "removed_at": null
+    },
+    "d5dccaff-1727-4c20-9ab1-1d1b2bf330a2": {
+      "title": "Ayame-san Is Too Kind, But Only To Ota-kun",
+      "url": "https://mangadex.org/title/d5dccaff-1727-4c20-9ab1-1d1b2bf330a2",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-09T15:24:59Z",
+      "removed_at": null
+    },
+    "e3e3f084-6bdc-4ac1-8ec2-4ae3d474a3e5": {
+      "title": "Circle: [Yurika] Yuri Anthology: The Only Plain Way ✕ AND-ONE!!",
+      "url": "https://mangadex.org/title/e3e3f084-6bdc-4ac1-8ec2-4ae3d474a3e5",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-09T15:24:59Z",
+      "removed_at": null
+    },
+    "f349008f-0896-4ec8-bc37-56733525dfc7": {
+      "title": "Girls x Vampire",
+      "url": "https://mangadex.org/title/f349008f-0896-4ec8-bc37-56733525dfc7",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-09T15:24:59Z",
       "removed_at": null
     }
   }

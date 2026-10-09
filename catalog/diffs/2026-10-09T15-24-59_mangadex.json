@@ -1,0 +1,79 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-09T15:24:59Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "1765b1d0-ca8b-4e9d-8237-3c6f76e7c9c6",
+      "title": "Have a Nice Ending",
+      "url": "https://mangadex.org/title/1765b1d0-ca8b-4e9d-8237-3c6f76e7c9c6"
+    },
+    {
+      "source": "mangadex",
+      "key": "3da96505-f8e8-49d5-8c26-fbe4786a897f",
+      "title": "Too Many Losing Heroines!",
+      "url": "https://mangadex.org/title/3da96505-f8e8-49d5-8c26-fbe4786a897f"
+    },
+    {
+      "source": "mangadex",
+      "key": "9cc3be97-91c6-4ed7-ad28-dd396699ea87",
+      "title": "5Toubun no Hanayome - KosmosBeta's Nino Doujin",
+      "url": "https://mangadex.org/title/9cc3be97-91c6-4ed7-ad28-dd396699ea87"
+    },
+    {
+      "source": "mangadex",
+      "key": "d5dccaff-1727-4c20-9ab1-1d1b2bf330a2",
+      "title": "Ayame-san Is Too Kind, But Only To Ota-kun",
+      "url": "https://mangadex.org/title/d5dccaff-1727-4c20-9ab1-1d1b2bf330a2"
+    },
+    {
+      "source": "mangadex",
+      "key": "e3e3f084-6bdc-4ac1-8ec2-4ae3d474a3e5",
+      "title": "Circle: [Yurika] Yuri Anthology: The Only Plain Way ✕ AND-ONE!!",
+      "url": "https://mangadex.org/title/e3e3f084-6bdc-4ac1-8ec2-4ae3d474a3e5"
+    },
+    {
+      "source": "mangadex",
+      "key": "f349008f-0896-4ec8-bc37-56733525dfc7",
+      "title": "Girls x Vampire",
+      "url": "https://mangadex.org/title/f349008f-0896-4ec8-bc37-56733525dfc7"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "c8a0426d-539b-4f6a-9537-fbccf4962529",
+      "title": "The Moon on a Rainy Night",
+      "url": "https://mangadex.org/title/c8a0426d-539b-4f6a-9537-fbccf4962529",
+      "removed_at": "2026-10-09T15:24:59Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "1887bb79-d747-4f35-9f9d-0c08e477f138",
+      "title": "I Have a Dragon in My Body",
+      "url": "https://mangadex.org/title/1887bb79-d747-4f35-9f9d-0c08e477f138",
+      "removed_at": "2026-10-09T15:24:59Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "18d53ae1-88a8-4882-96c7-92432cbbf95c",
+      "title": "My Roommate isn't from this World",
+      "url": "https://mangadex.org/title/18d53ae1-88a8-4882-96c7-92432cbbf95c",
+      "removed_at": "2026-10-09T15:24:59Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "70015311-3e53-4501-bd6e-7504edd16d08",
+      "title": "I'm Fine with Being the Second Girlfriend.",
+      "url": "https://mangadex.org/title/70015311-3e53-4501-bd6e-7504edd16d08",
+      "removed_at": "2026-10-09T15:24:59Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "8dbe9bf3-aaba-4dae-9cb0-23de57f7744b",
+      "title": "Thus Spoke Rohan Kishibe (Official Colored)",
+      "url": "https://mangadex.org/title/8dbe9bf3-aaba-4dae-9cb0-23de57f7744b",
+      "removed_at": "2026-10-09T15:24:59Z"
+    }
+  ]
+}
