@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-09T15:24:59Z",
+  "updated_at": "2026-10-09T20:11:26Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -8845,9 +8845,10 @@
       "title": "Sakamoto Days",
       "url": "https://mangadex.org/title/9d9b04ad-9a83-49f4-8ae4-a9a3780fe9c0",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-30T03:12:27Z",
-      "removed_at": null
+      "removed_at": "2026-10-09T20:11:26Z",
+      "removed_by_source": true
     },
     "ce398cd4-33cf-4717-9e2c-ef98c7a5c578": {
       "title": "Hero Organization",
@@ -9696,17 +9697,19 @@
       "title": "Dropkick on My Devil!",
       "url": "https://mangadex.org/title/3f28c47a-bf8d-4e79-83ca-2e64fe906372",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-04T06:06:54Z",
-      "removed_at": null
+      "removed_at": "2026-10-09T20:11:26Z",
+      "removed_by_source": true
     },
     "8972b661-13b4-49da-a32b-1450cf9ac31d": {
       "title": "Centaur no Nayami",
       "url": "https://mangadex.org/title/8972b661-13b4-49da-a32b-1450cf9ac31d",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-04T06:06:54Z",
-      "removed_at": null
+      "removed_at": "2026-10-09T20:11:26Z",
+      "removed_by_source": true
     },
     "8dbe9bf3-aaba-4dae-9cb0-23de57f7744b": {
       "title": "Thus Spoke Rohan Kishibe (Official Colored)",
@@ -9729,9 +9732,10 @@
       "title": "Japan Summoning",
       "url": "https://mangadex.org/title/ef473f14-8c4d-435e-9015-b714512e69eb",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-04T06:06:54Z",
-      "removed_at": null
+      "removed_at": "2026-10-09T20:11:26Z",
+      "removed_by_source": true
     },
     "39b4e02a-f2f2-4ff0-bf2c-f87cf54ab178": {
       "title": "Chronicles of an Aristocrat Reborn in Another World: The Apostle of the Gods Who Know No Self-Restraint",
@@ -9753,9 +9757,10 @@
       "title": "Death Frenzy",
       "url": "https://mangadex.org/title/c8b3d40c-86b8-41cd-a793-c280d5b9da10",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-04T12:38:42Z",
-      "removed_at": null
+      "removed_at": "2026-10-09T20:11:26Z",
+      "removed_by_source": true
     },
     "027fb975-de7d-491b-b0ad-d91f8faee198": {
       "title": "Saikyou Ansatsusha, Class Ten'i de Isekai e",
@@ -10693,6 +10698,46 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-09T15:24:59Z",
+      "removed_at": null
+    },
+    "02860cdf-1020-40f1-a23f-2025d80f6290": {
+      "title": "GTO: Great Teacher Onizuka",
+      "url": "https://mangadex.org/title/02860cdf-1020-40f1-a23f-2025d80f6290",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-09T20:11:26Z",
+      "removed_at": null
+    },
+    "178d3cd8-4624-4afc-81b0-b2f260a1b28b": {
+      "title": "The Warrior Princess and the Barbaric King",
+      "url": "https://mangadex.org/title/178d3cd8-4624-4afc-81b0-b2f260a1b28b",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-09T20:11:26Z",
+      "removed_at": null
+    },
+    "8a1b2e8c-afd9-4c43-ba96-0eb1507a4ddf": {
+      "title": "Fate/Grand Order -turas réalta-",
+      "url": "https://mangadex.org/title/8a1b2e8c-afd9-4c43-ba96-0eb1507a4ddf",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-09T20:11:26Z",
+      "removed_at": null
+    },
+    "b252e636-0143-42d7-903c-de0c9772d5fb": {
+      "title": "Peddler in Another World: I can Go Back to My World Whenever I Want",
+      "url": "https://mangadex.org/title/b252e636-0143-42d7-903c-de0c9772d5fb",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-09T20:11:26Z",
+      "removed_at": null
+    },
+    "b73371d4-02dd-4db0-b448-d9afa3d698f1": {
+      "title": "Aoashi",
+      "url": "https://mangadex.org/title/b73371d4-02dd-4db0-b448-d9afa3d698f1",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-09T20:11:26Z",
       "removed_at": null
     }
   }

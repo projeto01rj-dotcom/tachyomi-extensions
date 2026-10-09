@@ -1,0 +1,73 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-09T20:11:26Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "02860cdf-1020-40f1-a23f-2025d80f6290",
+      "title": "GTO: Great Teacher Onizuka",
+      "url": "https://mangadex.org/title/02860cdf-1020-40f1-a23f-2025d80f6290"
+    },
+    {
+      "source": "mangadex",
+      "key": "178d3cd8-4624-4afc-81b0-b2f260a1b28b",
+      "title": "The Warrior Princess and the Barbaric King",
+      "url": "https://mangadex.org/title/178d3cd8-4624-4afc-81b0-b2f260a1b28b"
+    },
+    {
+      "source": "mangadex",
+      "key": "8a1b2e8c-afd9-4c43-ba96-0eb1507a4ddf",
+      "title": "Fate/Grand Order -turas réalta-",
+      "url": "https://mangadex.org/title/8a1b2e8c-afd9-4c43-ba96-0eb1507a4ddf"
+    },
+    {
+      "source": "mangadex",
+      "key": "b252e636-0143-42d7-903c-de0c9772d5fb",
+      "title": "Peddler in Another World: I can Go Back to My World Whenever I Want",
+      "url": "https://mangadex.org/title/b252e636-0143-42d7-903c-de0c9772d5fb"
+    },
+    {
+      "source": "mangadex",
+      "key": "b73371d4-02dd-4db0-b448-d9afa3d698f1",
+      "title": "Aoashi",
+      "url": "https://mangadex.org/title/b73371d4-02dd-4db0-b448-d9afa3d698f1"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "9d9b04ad-9a83-49f4-8ae4-a9a3780fe9c0",
+      "title": "Sakamoto Days",
+      "url": "https://mangadex.org/title/9d9b04ad-9a83-49f4-8ae4-a9a3780fe9c0",
+      "removed_at": "2026-10-09T20:11:26Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "3f28c47a-bf8d-4e79-83ca-2e64fe906372",
+      "title": "Dropkick on My Devil!",
+      "url": "https://mangadex.org/title/3f28c47a-bf8d-4e79-83ca-2e64fe906372",
+      "removed_at": "2026-10-09T20:11:26Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "8972b661-13b4-49da-a32b-1450cf9ac31d",
+      "title": "Centaur no Nayami",
+      "url": "https://mangadex.org/title/8972b661-13b4-49da-a32b-1450cf9ac31d",
+      "removed_at": "2026-10-09T20:11:26Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "ef473f14-8c4d-435e-9015-b714512e69eb",
+      "title": "Japan Summoning",
+      "url": "https://mangadex.org/title/ef473f14-8c4d-435e-9015-b714512e69eb",
+      "removed_at": "2026-10-09T20:11:26Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "c8b3d40c-86b8-41cd-a793-c280d5b9da10",
+      "title": "Death Frenzy",
+      "url": "https://mangadex.org/title/c8b3d40c-86b8-41cd-a793-c280d5b9da10",
+      "removed_at": "2026-10-09T20:11:26Z"
+    }
+  ]
+}
