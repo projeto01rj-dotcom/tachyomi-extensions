@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-09T08:13:19Z",
+  "updated_at": "2026-10-09T08:48:19Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -9675,9 +9675,10 @@
       "title": "Howling Blaze: The Funeral Flame Blade & the Immortal Witch",
       "url": "https://mangadex.org/title/f89b2d11-e530-400d-a1bb-2601541b040d",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-03T21:35:52Z",
-      "removed_at": null
+      "removed_at": "2026-10-09T08:48:19Z",
+      "removed_by_source": true
     },
     "6f8509aa-dec9-4b92-aa20-014b14fa4d7f": {
       "title": "I Reincarnated as the Childhood Friend of the Final Boss Villainess Who Falls into Darkness. If I Die, It's a Guaranteed Bad End, so I Became the Strongest, but Hasn't She Already Fallen into Darkness (and Turned Yandere)?",

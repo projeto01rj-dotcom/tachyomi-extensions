@@ -1,0 +1,14 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-09T08:48:19Z",
+  "added": [],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "f89b2d11-e530-400d-a1bb-2601541b040d",
+      "title": "Howling Blaze: The Funeral Flame Blade & the Immortal Witch",
+      "url": "https://mangadex.org/title/f89b2d11-e530-400d-a1bb-2601541b040d",
+      "removed_at": "2026-10-09T08:48:19Z"
+    }
+  ]
+}
