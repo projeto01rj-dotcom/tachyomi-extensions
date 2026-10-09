@@ -17,7 +17,6 @@ import okhttp3.HttpUrl.Companion.toHttpUrl
 import okhttp3.Request
 import okhttp3.Response
 import org.jsoup.Jsoup
-import java.net.URLEncoder
 
 @Source
 abstract class NoxMangas : HttpSource() {
@@ -171,7 +170,7 @@ abstract class NoxMangas : HttpSource() {
         if (query.isNotEmpty()) {
             val endpoint = "/api/v1/comics/search"
             val url = "/comics/search?q=$query&page=$page"
-            return apiRequest(endpoint, url, "$baseUrl/search?query=${URLEncoder.encode(query, "UTF-8")}&page=$page")
+            return apiRequest(endpoint, url, htmlSearchUrl(page, query, filters))
         }
 
         val endpoint = "/api/v1/comics"
@@ -198,7 +197,28 @@ abstract class NoxMangas : HttpSource() {
             filters.firstInstanceOrNull<YearFilter>()?.state?.takeIf { it.isNotEmpty() }?.let { addQueryParameter("year", it) }
         }.build().toString()
 
-        return apiRequest(endpoint, url, "$baseUrl/search")
+        return apiRequest(endpoint, url, htmlSearchUrl(page, "", filters))
+    }
+
+    private fun htmlSearchUrl(page: Int, query: String, filters: FilterList): String {
+        val builder = "$baseUrl/search".toHttpUrl().newBuilder()
+            .addQueryParameter("page", page.toString())
+        if (query.isNotBlank()) {
+            builder.addQueryParameter("query", query)
+            builder.addQueryParameter("q", query)
+        }
+        filters.firstInstanceOrNull<TypeFilter>()?.toUriPart()?.takeIf { it.isNotEmpty() }
+            ?.let { builder.addQueryParameter("type", it) }
+        filters.firstInstanceOrNull<StatusFilter>()?.toUriPart()?.takeIf { it.isNotEmpty() }
+            ?.let { builder.addQueryParameter("status", it) }
+        filters.firstInstanceOrNull<DemographicFilter>()?.toUriPart()?.takeIf { it.isNotEmpty() }
+            ?.let { builder.addQueryParameter("demographic", it) }
+        filters.firstInstanceOrNull<YearFilter>()?.state?.takeIf { it.isNotEmpty() }
+            ?.let { builder.addQueryParameter("year", it) }
+        filters.firstInstanceOrNull<SortFilter>()?.state?.index?.let {
+            builder.addQueryParameter("sort", listOf("latest", "popular", "rating", "name", "chapters", "oldest").getOrElse(it) { "latest" })
+        }
+        return builder.build().toString()
     }
 
     override fun searchMangaParse(response: Response): MangasPage = popularMangaParse(response)
@@ -324,7 +344,33 @@ private fun Response.parseHtmlMangaDetails(): SManga {
         title = document.selectFirst("h1")?.text().orEmpty()
         description = document.selectFirst("[class*=synopsis], [class*=description], main p")?.text()
         thumbnail_url = document.selectFirst("main img[src], img[src]")?.attr("abs:src")
+        author = document.firstLabeledValue("autor", "author")
+        artist = document.firstLabeledValue("artista", "artist")
+        status = document.firstLabeledValue("status", "situação", "situacao")?.toNoxStatus() ?: SManga.UNKNOWN
+        genre = document.select("a[href*=/genre/], a[href*=/genero/], [class*=genre] a, [class*=genero] a")
+            .map { it.text().trim() }
+            .filter { it.isNotEmpty() }
+            .distinct()
+            .joinToString(", ")
     }
+}
+
+private fun org.jsoup.nodes.Document.firstLabeledValue(vararg labels: String): String? {
+    val label = select("dt, th, strong, b, span, p, div")
+        .firstOrNull { element -> labels.any { element.text().trim().equals(it, ignoreCase = true) } }
+    return label?.parent()?.selectFirst("dd, td, a, span, p")?.text()?.trim()
+        ?.takeIf { it.isNotEmpty() }
+        ?: labels.asSequence().mapNotNull { key ->
+            select("[class*=$key], [data-$key], [aria-label*=$key]").firstOrNull()?.text()?.trim()
+        }.firstOrNull { it.isNotEmpty() }
+}
+
+private fun String.toNoxStatus(): Int = when {
+    contains("ongoing", ignoreCase = true) || contains("andamento", ignoreCase = true) -> SManga.ONGOING
+    contains("completed", ignoreCase = true) || contains("completo", ignoreCase = true) -> SManga.COMPLETED
+    contains("hiatus", ignoreCase = true) || contains("hiato", ignoreCase = true) -> SManga.ON_HIATUS
+    contains("cancel", ignoreCase = true) -> SManga.CANCELLED
+    else -> SManga.UNKNOWN
 }
 
 private fun Response.parseHtmlChapters(): List<SChapter> {
