@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-09T01:35:22Z",
+  "updated_at": "2026-10-09T08:13:19Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -9614,9 +9614,10 @@
       "title": "My Childhood Friend Is Always Down Whenever I Make a Move",
       "url": "https://mangadex.org/title/7d425c5c-2bc0-4f50-b3e5-eebb0e222cf0",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-03T18:04:49Z",
-      "removed_at": null
+      "removed_at": "2026-10-09T08:13:19Z",
+      "removed_by_source": true
     },
     "f5b69b9e-c41f-4d12-8f62-fa7eba9d9b6c": {
       "title": "The Home Improvement Store Employee Building an Agricultural Village in Another World",
@@ -9639,17 +9640,19 @@
       "title": "A Chef of Nobunaga",
       "url": "https://mangadex.org/title/25707e09-1afb-48da-a04e-36b4daa7cce6",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-03T21:35:52Z",
-      "removed_at": null
+      "removed_at": "2026-10-09T08:13:19Z",
+      "removed_by_source": true
     },
     "4d97b35d-2d9f-4369-964f-3b0ce2c7fbbc": {
       "title": "The Infinite Mage",
       "url": "https://mangadex.org/title/4d97b35d-2d9f-4369-964f-3b0ce2c7fbbc",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-03T21:35:52Z",
-      "removed_at": null
+      "removed_at": "2026-10-09T08:13:19Z",
+      "removed_by_source": true
     },
     "70015311-3e53-4501-bd6e-7504edd16d08": {
       "title": "I'm Fine with Being the Second Girlfriend.",
@@ -9663,9 +9666,10 @@
       "title": "Please Go Home, Miss Akutsu!",
       "url": "https://mangadex.org/title/737a846b-2e67-4d63-9f7e-f54b3beebac4",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-03T21:35:52Z",
-      "removed_at": null
+      "removed_at": "2026-10-09T08:13:19Z",
+      "removed_by_source": true
     },
     "f89b2d11-e530-400d-a1bb-2601541b040d": {
       "title": "Howling Blaze: The Funeral Flame Blade & the Immortal Witch",
@@ -10611,6 +10615,30 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-09T01:35:22Z",
+      "removed_at": null
+    },
+    "4e6c7ed7-2111-4a3b-b34c-fbf07b1884c4": {
+      "title": "Gangsta",
+      "url": "https://mangadex.org/title/4e6c7ed7-2111-4a3b-b34c-fbf07b1884c4",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-09T08:13:19Z",
+      "removed_at": null
+    },
+    "95801a6e-1e69-4876-b7ed-41d92c9853e3": {
+      "title": "The Story of an Exploration Hero Who has Worked His Way up From Common People",
+      "url": "https://mangadex.org/title/95801a6e-1e69-4876-b7ed-41d92c9853e3",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-09T08:13:19Z",
+      "removed_at": null
+    },
+    "d58abdf4-9268-41d8-9920-f8fe8858a173": {
+      "title": "Shiori Experience: My Plain Self and an Odd Old Man",
+      "url": "https://mangadex.org/title/d58abdf4-9268-41d8-9920-f8fe8858a173",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-09T08:13:19Z",
       "removed_at": null
     }
   }

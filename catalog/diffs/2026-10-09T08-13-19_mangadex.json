@@ -1,0 +1,54 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-09T08:13:19Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "4e6c7ed7-2111-4a3b-b34c-fbf07b1884c4",
+      "title": "Gangsta",
+      "url": "https://mangadex.org/title/4e6c7ed7-2111-4a3b-b34c-fbf07b1884c4"
+    },
+    {
+      "source": "mangadex",
+      "key": "95801a6e-1e69-4876-b7ed-41d92c9853e3",
+      "title": "The Story of an Exploration Hero Who has Worked His Way up From Common People",
+      "url": "https://mangadex.org/title/95801a6e-1e69-4876-b7ed-41d92c9853e3"
+    },
+    {
+      "source": "mangadex",
+      "key": "d58abdf4-9268-41d8-9920-f8fe8858a173",
+      "title": "Shiori Experience: My Plain Self and an Odd Old Man",
+      "url": "https://mangadex.org/title/d58abdf4-9268-41d8-9920-f8fe8858a173"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "7d425c5c-2bc0-4f50-b3e5-eebb0e222cf0",
+      "title": "My Childhood Friend Is Always Down Whenever I Make a Move",
+      "url": "https://mangadex.org/title/7d425c5c-2bc0-4f50-b3e5-eebb0e222cf0",
+      "removed_at": "2026-10-09T08:13:19Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "25707e09-1afb-48da-a04e-36b4daa7cce6",
+      "title": "A Chef of Nobunaga",
+      "url": "https://mangadex.org/title/25707e09-1afb-48da-a04e-36b4daa7cce6",
+      "removed_at": "2026-10-09T08:13:19Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "4d97b35d-2d9f-4369-964f-3b0ce2c7fbbc",
+      "title": "The Infinite Mage",
+      "url": "https://mangadex.org/title/4d97b35d-2d9f-4369-964f-3b0ce2c7fbbc",
+      "removed_at": "2026-10-09T08:13:19Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "737a846b-2e67-4d63-9f7e-f54b3beebac4",
+      "title": "Please Go Home, Miss Akutsu!",
+      "url": "https://mangadex.org/title/737a846b-2e67-4d63-9f7e-f54b3beebac4",
+      "removed_at": "2026-10-09T08:13:19Z"
+    }
+  ]
+}
