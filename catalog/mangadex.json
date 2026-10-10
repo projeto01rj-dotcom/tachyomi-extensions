@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-10T17:33:32Z",
+  "updated_at": "2026-10-10T20:56:15Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -9336,9 +9336,10 @@
       "title": "Uzaki-chan Wants to Hang Out!",
       "url": "https://mangadex.org/title/5a90308a-8b12-4a4d-9c6d-2487028fe319",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-02T08:45:10Z",
-      "removed_at": null
+      "removed_at": "2026-10-10T20:56:15Z",
+      "removed_by_source": true
     },
     "6233aed2-2f42-4308-a2b9-7d37b836cc33": {
       "title": "Kusunoki's Flunking Her High School Glow-Up",
@@ -9532,9 +9533,10 @@
       "title": "Don't XX Ms. Tsukimine",
       "url": "https://mangadex.org/title/7477bdb7-c146-41f7-a8de-29c7b7b5034c",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-03T03:05:29Z",
-      "removed_at": null
+      "removed_at": "2026-10-10T20:56:15Z",
+      "removed_by_source": true
     },
     "a8c6395b-aa04-426f-aa09-284ae1c3a1e5": {
       "title": "The Final Exorcist: Ender Geister",
@@ -9941,9 +9943,10 @@
       "title": "The Death Mage The Manga Companion",
       "url": "https://mangadex.org/title/10e98722-874d-48b2-a715-90bb8af93598",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-05T02:11:33Z",
-      "removed_at": null
+      "removed_at": "2026-10-10T20:56:15Z",
+      "removed_by_source": true
     },
     "8145f3de-efb1-42ba-973d-f248d6665402": {
       "title": "Dragon Ball - New Hope",
@@ -10887,9 +10890,10 @@
       "title": "The Rock 'n Roll Band",
       "url": "https://mangadex.org/title/0f70c48e-7b17-4f46-b81d-608eab57c47c",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-10T17:33:32Z",
-      "removed_at": null
+      "removed_at": "2026-10-10T20:56:15Z",
+      "removed_by_source": true
     },
     "182f72c5-1949-4b22-8335-a64cafd128cb": {
       "title": "Hiragi-san’s House of Vampires",
@@ -10921,6 +10925,38 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-10T17:33:32Z",
+      "removed_at": null
+    },
+    "2862555d-a54b-4ece-92a0-aabfaaa472ae": {
+      "title": "Sensual Sensei",
+      "url": "https://mangadex.org/title/2862555d-a54b-4ece-92a0-aabfaaa472ae",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-10T20:56:15Z",
+      "removed_at": null
+    },
+    "3ee952f1-45c7-4c39-aea2-7df7676606d4": {
+      "title": "Blue Exorcist",
+      "url": "https://mangadex.org/title/3ee952f1-45c7-4c39-aea2-7df7676606d4",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-10T20:56:15Z",
+      "removed_at": null
+    },
+    "857a4d6b-7228-42e1-b49c-bbb50a8befdd": {
+      "title": "Shonan Junai-gumi!",
+      "url": "https://mangadex.org/title/857a4d6b-7228-42e1-b49c-bbb50a8befdd",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-10T20:56:15Z",
+      "removed_at": null
+    },
+    "b68d970e-6be7-461c-82e8-7986ec7c8037": {
+      "title": "Thus Spoke the Rabbit",
+      "url": "https://mangadex.org/title/b68d970e-6be7-461c-82e8-7986ec7c8037",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-10T20:56:15Z",
       "removed_at": null
     }
   }

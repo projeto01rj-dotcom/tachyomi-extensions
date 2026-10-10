@@ -1,0 +1,60 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-10T20:56:15Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "2862555d-a54b-4ece-92a0-aabfaaa472ae",
+      "title": "Sensual Sensei",
+      "url": "https://mangadex.org/title/2862555d-a54b-4ece-92a0-aabfaaa472ae"
+    },
+    {
+      "source": "mangadex",
+      "key": "3ee952f1-45c7-4c39-aea2-7df7676606d4",
+      "title": "Blue Exorcist",
+      "url": "https://mangadex.org/title/3ee952f1-45c7-4c39-aea2-7df7676606d4"
+    },
+    {
+      "source": "mangadex",
+      "key": "857a4d6b-7228-42e1-b49c-bbb50a8befdd",
+      "title": "Shonan Junai-gumi!",
+      "url": "https://mangadex.org/title/857a4d6b-7228-42e1-b49c-bbb50a8befdd"
+    },
+    {
+      "source": "mangadex",
+      "key": "b68d970e-6be7-461c-82e8-7986ec7c8037",
+      "title": "Thus Spoke the Rabbit",
+      "url": "https://mangadex.org/title/b68d970e-6be7-461c-82e8-7986ec7c8037"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "5a90308a-8b12-4a4d-9c6d-2487028fe319",
+      "title": "Uzaki-chan Wants to Hang Out!",
+      "url": "https://mangadex.org/title/5a90308a-8b12-4a4d-9c6d-2487028fe319",
+      "removed_at": "2026-10-10T20:56:15Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "7477bdb7-c146-41f7-a8de-29c7b7b5034c",
+      "title": "Don't XX Ms. Tsukimine",
+      "url": "https://mangadex.org/title/7477bdb7-c146-41f7-a8de-29c7b7b5034c",
+      "removed_at": "2026-10-10T20:56:15Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "10e98722-874d-48b2-a715-90bb8af93598",
+      "title": "The Death Mage The Manga Companion",
+      "url": "https://mangadex.org/title/10e98722-874d-48b2-a715-90bb8af93598",
+      "removed_at": "2026-10-10T20:56:15Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "0f70c48e-7b17-4f46-b81d-608eab57c47c",
+      "title": "The Rock 'n Roll Band",
+      "url": "https://mangadex.org/title/0f70c48e-7b17-4f46-b81d-608eab57c47c",
+      "removed_at": "2026-10-10T20:56:15Z"
+    }
+  ]
+}
