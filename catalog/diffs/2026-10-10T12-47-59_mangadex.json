@@ -1,0 +1,80 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-10T12:47:59Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "ab44f11b-a02c-427e-84ee-cce4bb6e77ef",
+      "title": "Yane Urabeya no Koushaku Fujin",
+      "url": "https://mangadex.org/title/ab44f11b-a02c-427e-84ee-cce4bb6e77ef"
+    },
+    {
+      "source": "mangadex",
+      "key": "b3a9c1f8-93d2-49ba-96e2-84727c1031a6",
+      "title": "Dropped into a New World? Purification is the basics!",
+      "url": "https://mangadex.org/title/b3a9c1f8-93d2-49ba-96e2-84727c1031a6"
+    },
+    {
+      "source": "mangadex",
+      "key": "d88f684f-6cfe-4d31-9605-9e9f73f7ff11",
+      "title": "The Days of Diamond",
+      "url": "https://mangadex.org/title/d88f684f-6cfe-4d31-9605-9e9f73f7ff11"
+    },
+    {
+      "source": "mangadex",
+      "key": "e43a7f5b-6ae7-478d-a4d5-53c8dc3ce52f",
+      "title": "Wistoria: Wand and Sword",
+      "url": "https://mangadex.org/title/e43a7f5b-6ae7-478d-a4d5-53c8dc3ce52f"
+    },
+    {
+      "source": "mangadex",
+      "key": "e6d70578-d6b2-4c60-a2f4-7ab16e515480",
+      "title": "Youth is a Love Triangle Loop",
+      "url": "https://mangadex.org/title/e6d70578-d6b2-4c60-a2f4-7ab16e515480"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "f11d9d5c-bc4c-4552-8ac1-33e158c5a2c2",
+      "title": "Log into the Future",
+      "url": "https://mangadex.org/title/f11d9d5c-bc4c-4552-8ac1-33e158c5a2c2",
+      "removed_at": "2026-10-10T12:47:59Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "bc7ce484-c04c-4a8c-8960-a66714aff01e",
+      "title": "K-ON! College",
+      "url": "https://mangadex.org/title/bc7ce484-c04c-4a8c-8960-a66714aff01e",
+      "removed_at": "2026-10-10T12:47:59Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "5b2c7a03-ca53-43f0-abc8-031c0c136ae6",
+      "title": "Wonder Cat Kyuu-chan",
+      "url": "https://mangadex.org/title/5b2c7a03-ca53-43f0-abc8-031c0c136ae6",
+      "removed_at": "2026-10-10T12:47:59Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "bb8310e4-6050-4a43-984e-f7bbdfce23b1",
+      "title": "The Climber",
+      "url": "https://mangadex.org/title/bb8310e4-6050-4a43-984e-f7bbdfce23b1",
+      "removed_at": "2026-10-10T12:47:59Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "58167656-a065-4b49-b499-bd73d00555d5",
+      "title": "Pick Me Up, Infinite Gacha",
+      "url": "https://mangadex.org/title/58167656-a065-4b49-b499-bd73d00555d5",
+      "removed_at": "2026-10-10T12:47:59Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "964d8e8a-7bcb-42f1-9651-20b1871eecac",
+      "title": "The Ice Princess Wants to be Melted by a Small Patch of Sunlight",
+      "url": "https://mangadex.org/title/964d8e8a-7bcb-42f1-9651-20b1871eecac",
+      "removed_at": "2026-10-10T12:47:59Z"
+    }
+  ]
+}

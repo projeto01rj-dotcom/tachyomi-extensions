@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-10T06:07:20Z",
+  "updated_at": "2026-10-10T12:47:59Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -7929,9 +7929,10 @@
       "title": "Log into the Future",
       "url": "https://mangadex.org/title/f11d9d5c-bc4c-4552-8ac1-33e158c5a2c2",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-27T01:36:53Z",
-      "removed_at": null
+      "removed_at": "2026-10-10T12:47:59Z",
+      "removed_by_source": true
     },
     "07dcd201-fe35-46cd-8931-e1445efbe469": {
       "title": "Hidden Reincarnation",
@@ -8088,9 +8089,10 @@
       "title": "K-ON! College",
       "url": "https://mangadex.org/title/bc7ce484-c04c-4a8c-8960-a66714aff01e",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-27T13:11:02Z",
-      "removed_at": null
+      "removed_at": "2026-10-10T12:47:59Z",
+      "removed_by_source": true
     },
     "c8b7c932-3eaa-4005-81ef-c70f2862b51b": {
       "title": "My Lovely Fox Wife",
@@ -9831,9 +9833,10 @@
       "title": "Wonder Cat Kyuu-chan",
       "url": "https://mangadex.org/title/5b2c7a03-ca53-43f0-abc8-031c0c136ae6",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-04T17:12:55Z",
-      "removed_at": null
+      "removed_at": "2026-10-10T12:47:59Z",
+      "removed_by_source": true
     },
     "9660c79b-0b65-4f13-956c-03364651800b": {
       "title": "Sword Emperor previous life, Prince Trash this life.",
@@ -9874,9 +9877,10 @@
       "title": "The Climber",
       "url": "https://mangadex.org/title/bb8310e4-6050-4a43-984e-f7bbdfce23b1",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-04T17:12:55Z",
-      "removed_at": null
+      "removed_at": "2026-10-10T12:47:59Z",
+      "removed_by_source": true
     },
     "cb114a5d-56ed-4288-a2ab-671a9d9702c4": {
       "title": "Barbarian Quest",
@@ -9891,17 +9895,19 @@
       "title": "Pick Me Up, Infinite Gacha",
       "url": "https://mangadex.org/title/58167656-a065-4b49-b499-bd73d00555d5",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-04T20:17:00Z",
-      "removed_at": null
+      "removed_at": "2026-10-10T12:47:59Z",
+      "removed_by_source": true
     },
     "964d8e8a-7bcb-42f1-9651-20b1871eecac": {
       "title": "The Ice Princess Wants to be Melted by a Small Patch of Sunlight",
       "url": "https://mangadex.org/title/964d8e8a-7bcb-42f1-9651-20b1871eecac",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-04T20:17:00Z",
-      "removed_at": null
+      "removed_at": "2026-10-10T12:47:59Z",
+      "removed_by_source": true
     },
     "baac09cd-6eb9-43ec-a780-980c8da4f066": {
       "title": "Misaki-kun is Unobtainable",
@@ -10823,6 +10829,46 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-10T06:07:20Z",
+      "removed_at": null
+    },
+    "ab44f11b-a02c-427e-84ee-cce4bb6e77ef": {
+      "title": "Yane Urabeya no Koushaku Fujin",
+      "url": "https://mangadex.org/title/ab44f11b-a02c-427e-84ee-cce4bb6e77ef",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-10T12:47:59Z",
+      "removed_at": null
+    },
+    "b3a9c1f8-93d2-49ba-96e2-84727c1031a6": {
+      "title": "Dropped into a New World? Purification is the basics!",
+      "url": "https://mangadex.org/title/b3a9c1f8-93d2-49ba-96e2-84727c1031a6",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-10T12:47:59Z",
+      "removed_at": null
+    },
+    "d88f684f-6cfe-4d31-9605-9e9f73f7ff11": {
+      "title": "The Days of Diamond",
+      "url": "https://mangadex.org/title/d88f684f-6cfe-4d31-9605-9e9f73f7ff11",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-10T12:47:59Z",
+      "removed_at": null
+    },
+    "e43a7f5b-6ae7-478d-a4d5-53c8dc3ce52f": {
+      "title": "Wistoria: Wand and Sword",
+      "url": "https://mangadex.org/title/e43a7f5b-6ae7-478d-a4d5-53c8dc3ce52f",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-10T12:47:59Z",
+      "removed_at": null
+    },
+    "e6d70578-d6b2-4c60-a2f4-7ab16e515480": {
+      "title": "Youth is a Love Triangle Loop",
+      "url": "https://mangadex.org/title/e6d70578-d6b2-4c60-a2f4-7ab16e515480",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-10T12:47:59Z",
       "removed_at": null
     }
   }
