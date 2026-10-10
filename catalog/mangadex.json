@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-10T00:08:35Z",
+  "updated_at": "2026-10-10T06:07:20Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -9394,9 +9394,10 @@
       "title": "Failure Frame: I Became the Strongest and Annihilated Everything With Low-Level Spells",
       "url": "https://mangadex.org/title/0b171f64-89a5-4c37-b5f9-75cca57e8787",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-02T20:01:26Z",
-      "removed_at": null
+      "removed_at": "2026-10-10T06:07:20Z",
+      "removed_by_source": true
     },
     "1887bb79-d747-4f35-9f9d-0c08e477f138": {
       "title": "I Have a Dragon in My Body",
@@ -9767,9 +9768,10 @@
       "title": "Saikyou Ansatsusha, Class Ten'i de Isekai e",
       "url": "https://mangadex.org/title/027fb975-de7d-491b-b0ad-d91f8faee198",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-04T17:12:55Z",
-      "removed_at": null
+      "removed_at": "2026-10-10T06:07:20Z",
+      "removed_by_source": true
     },
     "16836fe6-b330-4924-92f3-87dd5def5ec1": {
       "title": "Melt Away! Mizore-chan",
@@ -9784,33 +9786,37 @@
       "title": "Tsuiraku JK to Haijin Kyoushi",
       "url": "https://mangadex.org/title/29d93e89-8f63-4713-a8be-4ac58ffcd88b",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-04T17:12:55Z",
-      "removed_at": null
+      "removed_at": "2026-10-10T06:07:20Z",
+      "removed_by_source": true
     },
     "2e667660-eeea-45fa-adb1-809a2af98cba": {
       "title": "Burunga the First",
       "url": "https://mangadex.org/title/2e667660-eeea-45fa-adb1-809a2af98cba",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-04T17:12:55Z",
-      "removed_at": null
+      "removed_at": "2026-10-10T06:07:20Z",
+      "removed_by_source": true
     },
     "390835e5-9c27-4a2a-9808-43d95a12e774": {
       "title": "Rebirth of Abandoned Young Master",
       "url": "https://mangadex.org/title/390835e5-9c27-4a2a-9808-43d95a12e774",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-04T17:12:55Z",
-      "removed_at": null
+      "removed_at": "2026-10-10T06:07:20Z",
+      "removed_by_source": true
     },
     "5a3cdf57-ec79-4baa-ada6-31aa2d8bb3a9": {
       "title": "Betrothed to a Fox Demon",
       "url": "https://mangadex.org/title/5a3cdf57-ec79-4baa-ada6-31aa2d8bb3a9",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-04T17:12:55Z",
-      "removed_at": null
+      "removed_at": "2026-10-10T06:07:20Z",
+      "removed_by_source": true
     },
     "5a7e01d5-a31b-4d75-9f50-f31873560a2a": {
       "title": "Love-Eating Girl",
@@ -9842,9 +9848,10 @@
       "title": "An Exiled Blacksmith Uses His Cheat Skills to Forge Legends: His Fiancée Kicked Him Out of His Store, but He's Happier Now that He can Make Things at Will",
       "url": "https://mangadex.org/title/9bfa6f66-174b-4ed1-bb75-2e31a77ef0b6",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-04T17:12:55Z",
-      "removed_at": null
+      "removed_at": "2026-10-10T06:07:20Z",
+      "removed_by_source": true
     },
     "a92bd70d-a716-4e48-90c6-137682742137": {
       "title": "Ron Kamonohashi: Deranged Detective",
@@ -10792,6 +10799,30 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-10T00:08:35Z",
+      "removed_at": null
+    },
+    "a711f7e2-d42e-4026-a2ff-03657d5bc6d2": {
+      "title": "I Will Not Reach You",
+      "url": "https://mangadex.org/title/a711f7e2-d42e-4026-a2ff-03657d5bc6d2",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-10T06:07:20Z",
+      "removed_at": null
+    },
+    "a762620e-3d41-4627-839f-aee3d2cf7758": {
+      "title": "Orion's Board",
+      "url": "https://mangadex.org/title/a762620e-3d41-4627-839f-aee3d2cf7758",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-10T06:07:20Z",
+      "removed_at": null
+    },
+    "f486a183-6660-492b-b94b-aa80960d8326": {
+      "title": "Dragon Ball Super - Digital Colored Comics",
+      "url": "https://mangadex.org/title/f486a183-6660-492b-b94b-aa80960d8326",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-10T06:07:20Z",
       "removed_at": null
     }
   }
