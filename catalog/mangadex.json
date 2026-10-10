@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-10T12:47:59Z",
+  "updated_at": "2026-10-10T17:33:32Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -1185,9 +1185,10 @@
       "title": "Guardian Tales - Kanterbury Days!",
       "url": "https://mangadex.org/title/4df219da-4b5f-48ea-9fac-23641ae8a584",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-10T17:33:32Z",
+      "removed_by_source": true
     },
     "4e7a4a0f-8391-4069-839b-de2352297dab": {
       "title": "A Couple of Cuckoos",
@@ -9913,25 +9914,28 @@
       "title": "Misaki-kun is Unobtainable",
       "url": "https://mangadex.org/title/baac09cd-6eb9-43ec-a780-980c8da4f066",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-04T23:22:05Z",
-      "removed_at": null
+      "removed_at": "2026-10-10T17:33:32Z",
+      "removed_by_source": true
     },
     "d7f6d85c-0d17-40df-9d5b-b78167c4edd2": {
       "title": "Luna Knight",
       "url": "https://mangadex.org/title/d7f6d85c-0d17-40df-9d5b-b78167c4edd2",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-04T23:22:05Z",
-      "removed_at": null
+      "removed_at": "2026-10-10T17:33:32Z",
+      "removed_by_source": true
     },
     "eb2d1a45-d4e7-4e32-a171-b5b029c5b0cb": {
       "title": "So I’m a Spider, So What?",
       "url": "https://mangadex.org/title/eb2d1a45-d4e7-4e32-a171-b5b029c5b0cb",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-04T23:22:05Z",
-      "removed_at": null
+      "removed_at": "2026-10-10T17:33:32Z",
+      "removed_by_source": true
     },
     "10e98722-874d-48b2-a715-90bb8af93598": {
       "title": "The Death Mage The Manga Companion",
@@ -10869,6 +10873,54 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-10T12:47:59Z",
+      "removed_at": null
+    },
+    "0f19ed5a-e496-4416-8d4d-86d338655156": {
+      "title": "Ri-chan",
+      "url": "https://mangadex.org/title/0f19ed5a-e496-4416-8d4d-86d338655156",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-10T17:33:32Z",
+      "removed_at": null
+    },
+    "0f70c48e-7b17-4f46-b81d-608eab57c47c": {
+      "title": "The Rock 'n Roll Band",
+      "url": "https://mangadex.org/title/0f70c48e-7b17-4f46-b81d-608eab57c47c",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-10T17:33:32Z",
+      "removed_at": null
+    },
+    "182f72c5-1949-4b22-8335-a64cafd128cb": {
+      "title": "Hiragi-san’s House of Vampires",
+      "url": "https://mangadex.org/title/182f72c5-1949-4b22-8335-a64cafd128cb",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-10T17:33:32Z",
+      "removed_at": null
+    },
+    "21e185d3-e7a0-4902-8fdb-83f6c340c215": {
+      "title": "Circle 「Yurika」 Yuri Anthology 2: Until You Love My Confession x Kogarashi's Luce",
+      "url": "https://mangadex.org/title/21e185d3-e7a0-4902-8fdb-83f6c340c215",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-10T17:33:32Z",
+      "removed_at": null
+    },
+    "6670ee28-f26d-4b61-b49c-d71149cd5a6e": {
+      "title": "Mieruko-chan",
+      "url": "https://mangadex.org/title/6670ee28-f26d-4b61-b49c-d71149cd5a6e",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-10T17:33:32Z",
+      "removed_at": null
+    },
+    "8e9c0fe2-68d4-4224-9f96-ac51464eb94a": {
+      "title": "Extraordinary Descent Genius",
+      "url": "https://mangadex.org/title/8e9c0fe2-68d4-4224-9f96-ac51464eb94a",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-10T17:33:32Z",
       "removed_at": null
     }
   }
