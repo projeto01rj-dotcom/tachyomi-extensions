@@ -1,0 +1,86 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-10T00:08:35Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "1d9fad4e-b81a-4498-8cce-e5ddfb1e4f03",
+      "title": "Moriarty the Patriot",
+      "url": "https://mangadex.org/title/1d9fad4e-b81a-4498-8cce-e5ddfb1e4f03"
+    },
+    {
+      "source": "mangadex",
+      "key": "5178baad-a2ff-4b9f-9109-4871021445e7",
+      "title": "Name",
+      "url": "https://mangadex.org/title/5178baad-a2ff-4b9f-9109-4871021445e7"
+    },
+    {
+      "source": "mangadex",
+      "key": "77c8cc57-95c1-4f9b-8843-493eb2697566",
+      "title": "A Gatherer's Adventure in Isekai",
+      "url": "https://mangadex.org/title/77c8cc57-95c1-4f9b-8843-493eb2697566"
+    },
+    {
+      "source": "mangadex",
+      "key": "c4b1cb49-46e9-405d-8b48-8104de22e659",
+      "title": "Cosmos",
+      "url": "https://mangadex.org/title/c4b1cb49-46e9-405d-8b48-8104de22e659"
+    },
+    {
+      "source": "mangadex",
+      "key": "d8056135-d944-421d-a603-267b2c486c17",
+      "title": "Getter Robo Arc",
+      "url": "https://mangadex.org/title/d8056135-d944-421d-a603-267b2c486c17"
+    },
+    {
+      "source": "mangadex",
+      "key": "f157eb1e-3468-4abc-9541-472e59633ced",
+      "title": "My Mom's a Superstar",
+      "url": "https://mangadex.org/title/f157eb1e-3468-4abc-9541-472e59633ced"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "d080f85f-a6ef-4e0a-9569-c0709b60d8c0",
+      "title": "ST✰R: Strike it Rich",
+      "url": "https://mangadex.org/title/d080f85f-a6ef-4e0a-9569-c0709b60d8c0",
+      "removed_at": "2026-10-10T00:08:35Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "16836fe6-b330-4924-92f3-87dd5def5ec1",
+      "title": "Melt Away! Mizore-chan",
+      "url": "https://mangadex.org/title/16836fe6-b330-4924-92f3-87dd5def5ec1",
+      "removed_at": "2026-10-10T00:08:35Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "5a7e01d5-a31b-4d75-9f50-f31873560a2a",
+      "title": "Love-Eating Girl",
+      "url": "https://mangadex.org/title/5a7e01d5-a31b-4d75-9f50-f31873560a2a",
+      "removed_at": "2026-10-10T00:08:35Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "9660c79b-0b65-4f13-956c-03364651800b",
+      "title": "Sword Emperor previous life, Prince Trash this life.",
+      "url": "https://mangadex.org/title/9660c79b-0b65-4f13-956c-03364651800b",
+      "removed_at": "2026-10-10T00:08:35Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "a92bd70d-a716-4e48-90c6-137682742137",
+      "title": "Ron Kamonohashi: Deranged Detective",
+      "url": "https://mangadex.org/title/a92bd70d-a716-4e48-90c6-137682742137",
+      "removed_at": "2026-10-10T00:08:35Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "cb114a5d-56ed-4288-a2ab-671a9d9702c4",
+      "title": "Barbarian Quest",
+      "url": "https://mangadex.org/title/cb114a5d-56ed-4288-a2ab-671a9d9702c4",
+      "removed_at": "2026-10-10T00:08:35Z"
+    }
+  ]
+}

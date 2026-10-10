@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-09T20:11:26Z",
+  "updated_at": "2026-10-10T00:08:35Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -9724,9 +9724,10 @@
       "title": "ST✰R: Strike it Rich",
       "url": "https://mangadex.org/title/d080f85f-a6ef-4e0a-9569-c0709b60d8c0",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-04T06:06:54Z",
-      "removed_at": null
+      "removed_at": "2026-10-10T00:08:35Z",
+      "removed_by_source": true
     },
     "ef473f14-8c4d-435e-9015-b714512e69eb": {
       "title": "Japan Summoning",
@@ -9774,9 +9775,10 @@
       "title": "Melt Away! Mizore-chan",
       "url": "https://mangadex.org/title/16836fe6-b330-4924-92f3-87dd5def5ec1",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-04T17:12:55Z",
-      "removed_at": null
+      "removed_at": "2026-10-10T00:08:35Z",
+      "removed_by_source": true
     },
     "29d93e89-8f63-4713-a8be-4ac58ffcd88b": {
       "title": "Tsuiraku JK to Haijin Kyoushi",
@@ -9814,9 +9816,10 @@
       "title": "Love-Eating Girl",
       "url": "https://mangadex.org/title/5a7e01d5-a31b-4d75-9f50-f31873560a2a",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-04T17:12:55Z",
-      "removed_at": null
+      "removed_at": "2026-10-10T00:08:35Z",
+      "removed_by_source": true
     },
     "5b2c7a03-ca53-43f0-abc8-031c0c136ae6": {
       "title": "Wonder Cat Kyuu-chan",
@@ -9830,9 +9833,10 @@
       "title": "Sword Emperor previous life, Prince Trash this life.",
       "url": "https://mangadex.org/title/9660c79b-0b65-4f13-956c-03364651800b",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-04T17:12:55Z",
-      "removed_at": null
+      "removed_at": "2026-10-10T00:08:35Z",
+      "removed_by_source": true
     },
     "9bfa6f66-174b-4ed1-bb75-2e31a77ef0b6": {
       "title": "An Exiled Blacksmith Uses His Cheat Skills to Forge Legends: His Fiancée Kicked Him Out of His Store, but He's Happier Now that He can Make Things at Will",
@@ -9846,9 +9850,10 @@
       "title": "Ron Kamonohashi: Deranged Detective",
       "url": "https://mangadex.org/title/a92bd70d-a716-4e48-90c6-137682742137",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-04T17:12:55Z",
-      "removed_at": null
+      "removed_at": "2026-10-10T00:08:35Z",
+      "removed_by_source": true
     },
     "b4c93297-b32f-4f90-b619-55456a38b0aa": {
       "title": "More than a Married Couple, but Not Lovers",
@@ -9870,9 +9875,10 @@
       "title": "Barbarian Quest",
       "url": "https://mangadex.org/title/cb114a5d-56ed-4288-a2ab-671a9d9702c4",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-04T17:12:55Z",
-      "removed_at": null
+      "removed_at": "2026-10-10T00:08:35Z",
+      "removed_by_source": true
     },
     "58167656-a065-4b49-b499-bd73d00555d5": {
       "title": "Pick Me Up, Infinite Gacha",
@@ -10738,6 +10744,54 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-09T20:11:26Z",
+      "removed_at": null
+    },
+    "1d9fad4e-b81a-4498-8cce-e5ddfb1e4f03": {
+      "title": "Moriarty the Patriot",
+      "url": "https://mangadex.org/title/1d9fad4e-b81a-4498-8cce-e5ddfb1e4f03",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-10T00:08:35Z",
+      "removed_at": null
+    },
+    "5178baad-a2ff-4b9f-9109-4871021445e7": {
+      "title": "Name",
+      "url": "https://mangadex.org/title/5178baad-a2ff-4b9f-9109-4871021445e7",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-10T00:08:35Z",
+      "removed_at": null
+    },
+    "77c8cc57-95c1-4f9b-8843-493eb2697566": {
+      "title": "A Gatherer's Adventure in Isekai",
+      "url": "https://mangadex.org/title/77c8cc57-95c1-4f9b-8843-493eb2697566",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-10T00:08:35Z",
+      "removed_at": null
+    },
+    "c4b1cb49-46e9-405d-8b48-8104de22e659": {
+      "title": "Cosmos",
+      "url": "https://mangadex.org/title/c4b1cb49-46e9-405d-8b48-8104de22e659",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-10T00:08:35Z",
+      "removed_at": null
+    },
+    "d8056135-d944-421d-a603-267b2c486c17": {
+      "title": "Getter Robo Arc",
+      "url": "https://mangadex.org/title/d8056135-d944-421d-a603-267b2c486c17",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-10T00:08:35Z",
+      "removed_at": null
+    },
+    "f157eb1e-3468-4abc-9541-472e59633ced": {
+      "title": "My Mom's a Superstar",
+      "url": "https://mangadex.org/title/f157eb1e-3468-4abc-9541-472e59633ced",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-10T00:08:35Z",
       "removed_at": null
     }
   }
