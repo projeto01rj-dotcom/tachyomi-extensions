@@ -1,0 +1,60 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-11T00:03:48Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "0a817d8e-6458-4332-bdf1-63318e2dc740",
+      "title": "I'm Standing on a Million Lives",
+      "url": "https://mangadex.org/title/0a817d8e-6458-4332-bdf1-63318e2dc740"
+    },
+    {
+      "source": "mangadex",
+      "key": "711b18fe-064f-4bdd-aa1c-c3757b3e83be",
+      "title": "Getter and I",
+      "url": "https://mangadex.org/title/711b18fe-064f-4bdd-aa1c-c3757b3e83be"
+    },
+    {
+      "source": "mangadex",
+      "key": "76baa138-ad6c-4d25-8084-fe6a24a45273",
+      "title": "Oniyuri-san and Himeyuri-san",
+      "url": "https://mangadex.org/title/76baa138-ad6c-4d25-8084-fe6a24a45273"
+    },
+    {
+      "source": "mangadex",
+      "key": "d1a3a8a0-a2e8-484a-9f06-dbe146b53e26",
+      "title": "There's No Way We'd Make a Watanare Doujinshi! (Unless...)",
+      "url": "https://mangadex.org/title/d1a3a8a0-a2e8-484a-9f06-dbe146b53e26"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "077812bd-6ee9-4756-a508-9148b254661e",
+      "title": "I Reincarnated as a Mob Villain in a Game and Decided to Become the Final Boss. But for Some Reason, Everyone Thinks I'm the Best King Ever - Can Someone Please Tell Me Why?!",
+      "url": "https://mangadex.org/title/077812bd-6ee9-4756-a508-9148b254661e",
+      "removed_at": "2026-10-11T00:03:48Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "6f8509aa-dec9-4b92-aa20-014b14fa4d7f",
+      "title": "I Reincarnated as the Childhood Friend of the Final Boss Villainess Who Falls into Darkness. If I Die, It's a Guaranteed Bad End, so I Became the Strongest, but Hasn't She Already Fallen into Darkness (and Turned Yandere)?",
+      "url": "https://mangadex.org/title/6f8509aa-dec9-4b92-aa20-014b14fa4d7f",
+      "removed_at": "2026-10-11T00:03:48Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "8145f3de-efb1-42ba-973d-f248d6665402",
+      "title": "Dragon Ball - New Hope",
+      "url": "https://mangadex.org/title/8145f3de-efb1-42ba-973d-f248d6665402",
+      "removed_at": "2026-10-11T00:03:48Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "0a0cee31-d434-4b58-9aed-cc633036b9eb",
+      "title": "Because Janitor-san Is Not A Hero",
+      "url": "https://mangadex.org/title/0a0cee31-d434-4b58-9aed-cc633036b9eb",
+      "removed_at": "2026-10-11T00:03:48Z"
+    }
+  ]
+}

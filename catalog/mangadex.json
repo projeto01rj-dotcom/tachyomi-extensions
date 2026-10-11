@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-10T20:56:15Z",
+  "updated_at": "2026-10-11T00:03:48Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -9027,9 +9027,10 @@
       "title": "I Reincarnated as a Mob Villain in a Game and Decided to Become the Final Boss. But for Some Reason, Everyone Thinks I'm the Best King Ever - Can Someone Please Tell Me Why?!",
       "url": "https://mangadex.org/title/077812bd-6ee9-4756-a508-9148b254661e",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-01T00:17:09Z",
-      "removed_at": null
+      "removed_at": "2026-10-11T00:03:48Z",
+      "removed_by_source": true
     },
     "402c2e75-ea1b-432e-9e65-77c0627e55eb": {
       "title": "The Monporte Royal Family's Scandal",
@@ -9695,9 +9696,10 @@
       "title": "I Reincarnated as the Childhood Friend of the Final Boss Villainess Who Falls into Darkness. If I Die, It's a Guaranteed Bad End, so I Became the Strongest, but Hasn't She Already Fallen into Darkness (and Turned Yandere)?",
       "url": "https://mangadex.org/title/6f8509aa-dec9-4b92-aa20-014b14fa4d7f",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-04T00:15:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-11T00:03:48Z",
+      "removed_by_source": true
     },
     "3f28c47a-bf8d-4e79-83ca-2e64fe906372": {
       "title": "Dropkick on My Devil!",
@@ -9952,17 +9954,19 @@
       "title": "Dragon Ball - New Hope",
       "url": "https://mangadex.org/title/8145f3de-efb1-42ba-973d-f248d6665402",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-05T02:11:33Z",
-      "removed_at": null
+      "removed_at": "2026-10-11T00:03:48Z",
+      "removed_by_source": true
     },
     "0a0cee31-d434-4b58-9aed-cc633036b9eb": {
       "title": "Because Janitor-san Is Not A Hero",
       "url": "https://mangadex.org/title/0a0cee31-d434-4b58-9aed-cc633036b9eb",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-05T09:20:27Z",
-      "removed_at": null
+      "removed_at": "2026-10-11T00:03:48Z",
+      "removed_by_source": true
     },
     "31d5534e-4a74-4952-8f37-2701d6353c98": {
       "title": "The guild receptionist, Lilina, is cold only toward me",
@@ -10957,6 +10961,38 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-10T20:56:15Z",
+      "removed_at": null
+    },
+    "0a817d8e-6458-4332-bdf1-63318e2dc740": {
+      "title": "I'm Standing on a Million Lives",
+      "url": "https://mangadex.org/title/0a817d8e-6458-4332-bdf1-63318e2dc740",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-11T00:03:48Z",
+      "removed_at": null
+    },
+    "711b18fe-064f-4bdd-aa1c-c3757b3e83be": {
+      "title": "Getter and I",
+      "url": "https://mangadex.org/title/711b18fe-064f-4bdd-aa1c-c3757b3e83be",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-11T00:03:48Z",
+      "removed_at": null
+    },
+    "76baa138-ad6c-4d25-8084-fe6a24a45273": {
+      "title": "Oniyuri-san and Himeyuri-san",
+      "url": "https://mangadex.org/title/76baa138-ad6c-4d25-8084-fe6a24a45273",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-11T00:03:48Z",
+      "removed_at": null
+    },
+    "d1a3a8a0-a2e8-484a-9f06-dbe146b53e26": {
+      "title": "There's No Way We'd Make a Watanare Doujinshi! (Unless...)",
+      "url": "https://mangadex.org/title/d1a3a8a0-a2e8-484a-9f06-dbe146b53e26",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-11T00:03:48Z",
       "removed_at": null
     }
   }
