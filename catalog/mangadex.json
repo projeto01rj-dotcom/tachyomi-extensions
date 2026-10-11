@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-11T06:05:02Z",
+  "updated_at": "2026-10-11T13:11:21Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -9206,9 +9206,10 @@
       "title": "Sem título",
       "url": "https://mangadex.org/title/cab91d47-c2d0-46d4-ba81-51dd530b13d1",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-01T19:10:25Z",
-      "removed_at": null
+      "removed_at": "2026-10-11T13:11:21Z",
+      "removed_by_source": true
     },
     "d2a01e38-1c0d-4e4b-a9ae-21d119e8b326": {
       "title": "Demon King of the Royal Class",
@@ -10010,9 +10011,10 @@
       "title": "Adachi and Shimamura",
       "url": "https://mangadex.org/title/a1620de1-6eb6-4948-b228-b232f910155a",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-05T09:20:27Z",
-      "removed_at": null
+      "removed_at": "2026-10-11T13:11:21Z",
+      "removed_by_source": true
     },
     "b7d069cb-4ab9-4c21-a20b-38f7c269be4e": {
       "title": "One-Punch Man (Webcomic)",
@@ -10036,9 +10038,10 @@
       "title": "Sem título",
       "url": "https://mangadex.org/title/02e37f0b-b85d-4c24-adc0-fb4effffa746",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-05T18:39:52Z",
-      "removed_at": null
+      "removed_at": "2026-10-11T13:11:21Z",
+      "removed_by_source": true
     },
     "21a87164-3268-48ca-8c48-7737c647eb96": {
       "title": "Umamusume: Radiant Flight",
@@ -10086,17 +10089,19 @@
       "title": "My Childhood Friend Is So Cute, It's Frustrating!",
       "url": "https://mangadex.org/title/6ccbcdcd-9717-4994-bbbf-381e949b705b",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-05T18:39:52Z",
-      "removed_at": null
+      "removed_at": "2026-10-11T13:11:21Z",
+      "removed_by_source": true
     },
     "769a5e79-0670-4188-8582-035f0a3cc051": {
       "title": "Precarious Woman Executive Miss Black General",
       "url": "https://mangadex.org/title/769a5e79-0670-4188-8582-035f0a3cc051",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-05T18:39:52Z",
-      "removed_at": null
+      "removed_at": "2026-10-11T13:11:21Z",
+      "removed_by_source": true
     },
     "812f9696-048f-496d-9ed4-84c99345d1fb": {
       "title": "Tales of Demons and Gods",
@@ -11028,6 +11033,30 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-11T06:05:02Z",
+      "removed_at": null
+    },
+    "32c97209-8341-4714-b2ba-ae0a95d0fbd3": {
+      "title": "They Are Both Succubi",
+      "url": "https://mangadex.org/title/32c97209-8341-4714-b2ba-ae0a95d0fbd3",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-11T13:11:21Z",
+      "removed_at": null
+    },
+    "5ca26e13-c7d4-46de-a035-90c9bc52e06d": {
+      "title": "Star Ginseng Store",
+      "url": "https://mangadex.org/title/5ca26e13-c7d4-46de-a035-90c9bc52e06d",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-11T13:11:21Z",
+      "removed_at": null
+    },
+    "a7b889b3-6fc6-47f7-b436-abd8325728df": {
+      "title": "The Blank Love Letter",
+      "url": "https://mangadex.org/title/a7b889b3-6fc6-47f7-b436-abd8325728df",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-11T13:11:21Z",
       "removed_at": null
     }
   }
