@@ -1,0 +1,103 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-11T06:05:02Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "17d4e6e2-5151-4fa0-a29b-8c22ff3f002d",
+      "title": "Sayonara Piano Sonata",
+      "url": "https://mangadex.org/title/17d4e6e2-5151-4fa0-a29b-8c22ff3f002d"
+    },
+    {
+      "source": "mangadex",
+      "key": "e0ab9365-1174-4090-bbb2-7e3631b6eeeb",
+      "title": "The Tower of Eden: Luluchika, Kunya and the Tower's Labyrinth",
+      "url": "https://mangadex.org/title/e0ab9365-1174-4090-bbb2-7e3631b6eeeb"
+    },
+    {
+      "source": "mangadex",
+      "key": "f40bef93-cb97-439c-b74a-10edb7914834",
+      "title": "Saint Seiya: Saint Mariya",
+      "url": "https://mangadex.org/title/f40bef93-cb97-439c-b74a-10edb7914834"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "b0475326-9f58-4258-8876-d33d4cb1bdc9",
+      "title": "My Maid Looks Like the Girl I Like in My Class",
+      "url": "https://mangadex.org/title/b0475326-9f58-4258-8876-d33d4cb1bdc9",
+      "removed_at": "2026-10-11T06:05:02Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "5dcfebee-5028-420e-bccb-4f55c21a5439",
+      "title": "Otherworld Magical Girl Radical☆Haruna",
+      "url": "https://mangadex.org/title/5dcfebee-5028-420e-bccb-4f55c21a5439",
+      "removed_at": "2026-10-11T06:05:02Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "31d5534e-4a74-4952-8f37-2701d6353c98",
+      "title": "The guild receptionist, Lilina, is cold only toward me",
+      "url": "https://mangadex.org/title/31d5534e-4a74-4952-8f37-2701d6353c98",
+      "removed_at": "2026-10-11T06:05:02Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "46596dea-95de-40e8-b2b8-4e63aa6acd1a",
+      "title": "The Magical Revolution of the Reincarnated Princess and the Genius Young Lady",
+      "url": "https://mangadex.org/title/46596dea-95de-40e8-b2b8-4e63aa6acd1a",
+      "removed_at": "2026-10-11T06:05:02Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "4a30061a-bc66-4efd-9c4b-87daf8313381",
+      "title": "Citrus Plus",
+      "url": "https://mangadex.org/title/4a30061a-bc66-4efd-9c4b-87daf8313381",
+      "removed_at": "2026-10-11T06:05:02Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "7df2d2d6-34b2-4ff7-8a3a-f6b5a9d546ed",
+      "title": "When I Started Streaming in Another World, I Ended Up Creating a Large Number of Yandere Followers",
+      "url": "https://mangadex.org/title/7df2d2d6-34b2-4ff7-8a3a-f6b5a9d546ed",
+      "removed_at": "2026-10-11T06:05:02Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "b7d069cb-4ab9-4c21-a20b-38f7c269be4e",
+      "title": "One-Punch Man (Webcomic)",
+      "url": "https://mangadex.org/title/b7d069cb-4ab9-4c21-a20b-38f7c269be4e",
+      "removed_at": "2026-10-11T06:05:02Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "f0bbac64-efe5-4403-9fcf-5454db36467a",
+      "title": "Virgin Knight: I Became the Frontier Lord in a World Ruled by Women",
+      "url": "https://mangadex.org/title/f0bbac64-efe5-4403-9fcf-5454db36467a",
+      "removed_at": "2026-10-11T06:05:02Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "30c8bf1c-9063-4a22-a845-e2cead50adea",
+      "title": "Love and Dreams Don't Mix",
+      "url": "https://mangadex.org/title/30c8bf1c-9063-4a22-a845-e2cead50adea",
+      "removed_at": "2026-10-11T06:05:02Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "5cd8edbe-8e41-4af1-b7ae-4a29e85d53c5",
+      "title": "Ultraman",
+      "url": "https://mangadex.org/title/5cd8edbe-8e41-4af1-b7ae-4a29e85d53c5",
+      "removed_at": "2026-10-11T06:05:02Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "da669866-22ff-4bb7-887b-bddc2cf1d0c9",
+      "title": "Toudou-kun Chi no Maid Shota",
+      "url": "https://mangadex.org/title/da669866-22ff-4bb7-887b-bddc2cf1d0c9",
+      "removed_at": "2026-10-11T06:05:02Z"
+    }
+  ]
+}

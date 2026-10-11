@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-11T00:03:48Z",
+  "updated_at": "2026-10-11T06:05:02Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -7914,9 +7914,10 @@
       "title": "My Maid Looks Like the Girl I Like in My Class",
       "url": "https://mangadex.org/title/b0475326-9f58-4258-8876-d33d4cb1bdc9",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-27T01:36:53Z",
-      "removed_at": null
+      "removed_at": "2026-10-11T06:05:02Z",
+      "removed_by_source": true
     },
     "c3295871-b930-4ee3-ac0f-ff7102ecec4e": {
       "title": "Sasha-chan and Her Classmate Otaku-kun",
@@ -8474,9 +8475,10 @@
       "title": "Otherworld Magical Girl Radical☆Haruna",
       "url": "https://mangadex.org/title/5dcfebee-5028-420e-bccb-4f55c21a5439",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-28T17:45:14Z",
-      "removed_at": null
+      "removed_at": "2026-10-11T06:05:02Z",
+      "removed_by_source": true
     },
     "6df29d13-2dab-4ca6-a0b5-74070abf3e1d": {
       "title": "The One Within the Villainess",
@@ -9972,33 +9974,37 @@
       "title": "The guild receptionist, Lilina, is cold only toward me",
       "url": "https://mangadex.org/title/31d5534e-4a74-4952-8f37-2701d6353c98",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-05T09:20:27Z",
-      "removed_at": null
+      "removed_at": "2026-10-11T06:05:02Z",
+      "removed_by_source": true
     },
     "46596dea-95de-40e8-b2b8-4e63aa6acd1a": {
       "title": "The Magical Revolution of the Reincarnated Princess and the Genius Young Lady",
       "url": "https://mangadex.org/title/46596dea-95de-40e8-b2b8-4e63aa6acd1a",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-05T09:20:27Z",
-      "removed_at": null
+      "removed_at": "2026-10-11T06:05:02Z",
+      "removed_by_source": true
     },
     "4a30061a-bc66-4efd-9c4b-87daf8313381": {
       "title": "Citrus Plus",
       "url": "https://mangadex.org/title/4a30061a-bc66-4efd-9c4b-87daf8313381",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-05T09:20:27Z",
-      "removed_at": null
+      "removed_at": "2026-10-11T06:05:02Z",
+      "removed_by_source": true
     },
     "7df2d2d6-34b2-4ff7-8a3a-f6b5a9d546ed": {
       "title": "When I Started Streaming in Another World, I Ended Up Creating a Large Number of Yandere Followers",
       "url": "https://mangadex.org/title/7df2d2d6-34b2-4ff7-8a3a-f6b5a9d546ed",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-05T09:20:27Z",
-      "removed_at": null
+      "removed_at": "2026-10-11T06:05:02Z",
+      "removed_by_source": true
     },
     "a1620de1-6eb6-4948-b228-b232f910155a": {
       "title": "Adachi and Shimamura",
@@ -10012,17 +10018,19 @@
       "title": "One-Punch Man (Webcomic)",
       "url": "https://mangadex.org/title/b7d069cb-4ab9-4c21-a20b-38f7c269be4e",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-05T09:20:27Z",
-      "removed_at": null
+      "removed_at": "2026-10-11T06:05:02Z",
+      "removed_by_source": true
     },
     "f0bbac64-efe5-4403-9fcf-5454db36467a": {
       "title": "Virgin Knight: I Became the Frontier Lord in a World Ruled by Women",
       "url": "https://mangadex.org/title/f0bbac64-efe5-4403-9fcf-5454db36467a",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-05T09:20:27Z",
-      "removed_at": null
+      "removed_at": "2026-10-11T06:05:02Z",
+      "removed_by_source": true
     },
     "02e37f0b-b85d-4c24-adc0-fb4effffa746": {
       "title": "Sem título",
@@ -10052,9 +10060,10 @@
       "title": "Love and Dreams Don't Mix",
       "url": "https://mangadex.org/title/30c8bf1c-9063-4a22-a845-e2cead50adea",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-05T18:39:52Z",
-      "removed_at": null
+      "removed_at": "2026-10-11T06:05:02Z",
+      "removed_by_source": true
     },
     "39aa3af8-490b-4642-be07-669251a0a06b": {
       "title": "The Patchwork Hero",
@@ -10068,9 +10077,10 @@
       "title": "Ultraman",
       "url": "https://mangadex.org/title/5cd8edbe-8e41-4af1-b7ae-4a29e85d53c5",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-05T18:39:52Z",
-      "removed_at": null
+      "removed_at": "2026-10-11T06:05:02Z",
+      "removed_by_source": true
     },
     "6ccbcdcd-9717-4994-bbbf-381e949b705b": {
       "title": "My Childhood Friend Is So Cute, It's Frustrating!",
@@ -10100,9 +10110,10 @@
       "title": "Toudou-kun Chi no Maid Shota",
       "url": "https://mangadex.org/title/da669866-22ff-4bb7-887b-bddc2cf1d0c9",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-05T18:39:52Z",
-      "removed_at": null
+      "removed_at": "2026-10-11T06:05:02Z",
+      "removed_by_source": true
     },
     "df64232c-cc30-4e9c-92e1-7ccba2b743b0": {
       "title": "Ayako",
@@ -10993,6 +11004,30 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-11T00:03:48Z",
+      "removed_at": null
+    },
+    "17d4e6e2-5151-4fa0-a29b-8c22ff3f002d": {
+      "title": "Sayonara Piano Sonata",
+      "url": "https://mangadex.org/title/17d4e6e2-5151-4fa0-a29b-8c22ff3f002d",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-11T06:05:02Z",
+      "removed_at": null
+    },
+    "e0ab9365-1174-4090-bbb2-7e3631b6eeeb": {
+      "title": "The Tower of Eden: Luluchika, Kunya and the Tower's Labyrinth",
+      "url": "https://mangadex.org/title/e0ab9365-1174-4090-bbb2-7e3631b6eeeb",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-11T06:05:02Z",
+      "removed_at": null
+    },
+    "f40bef93-cb97-439c-b74a-10edb7914834": {
+      "title": "Saint Seiya: Saint Mariya",
+      "url": "https://mangadex.org/title/f40bef93-cb97-439c-b74a-10edb7914834",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-11T06:05:02Z",
       "removed_at": null
     }
   }
