@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-11T18:13:04Z",
+  "updated_at": "2026-10-11T22:11:24Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -756,9 +756,10 @@
       "title": "Noa-Senpai is My Friend.",
       "url": "https://mangadex.org/title/3169544f-4b87-4a14-917b-f73600941f55",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-11T22:11:24Z",
+      "removed_by_source": true
     },
     "316d3d09-bb83-49da-9d90-11dc7ce40967": {
       "title": "Ascendance of a Bookworm: I’ll do anything to become a librarian!—Part 3: Let’s spread books through the duchy!",
@@ -2074,9 +2075,10 @@
       "title": "Though I am an Inept Villainess: Tale of the Butterfly-Rat Swap in the Maiden Court",
       "url": "https://mangadex.org/title/818d037d-2629-40ad-bdcc-09cf19f510d3",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-11T22:11:24Z",
+      "removed_by_source": true
     },
     "81eaaace-c7c4-491c-95cd-f931268dca7c": {
       "title": "Cool Boyish Onee-san",
@@ -6740,9 +6742,10 @@
       "title": "Baki Side Story: Gaia & Sikorsky - Sometimes Nomura—Two yet Three People Living Together",
       "url": "https://mangadex.org/title/e4148575-6572-425f-9a60-50d94d423b58",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-23T10:10:52Z",
-      "removed_at": null
+      "removed_at": "2026-10-11T22:11:24Z",
+      "removed_by_source": true
     },
     "05c2917a-e0a4-4c55-abac-8be0f8b213e4": {
       "title": "The Orphanage's Tamer",
@@ -10261,9 +10264,10 @@
       "title": "Even the Introverted Gals Wanna Get Out There!",
       "url": "https://mangadex.org/title/84cf55e0-b497-4455-8b40-4c5a880de96b",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-06T07:02:35Z",
-      "removed_at": null
+      "removed_at": "2026-10-11T22:11:24Z",
+      "removed_by_source": true
     },
     "8576a58c-a3ee-4206-beb9-b371169f8d8c": {
       "title": "Kiichi!!",
@@ -11130,6 +11134,46 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-11T18:13:04Z",
+      "removed_at": null
+    },
+    "1ca15538-36cf-4103-82f3-aadab1cc5b5e": {
+      "title": "Flaming Fightball Girl Dodge Danko",
+      "url": "https://mangadex.org/title/1ca15538-36cf-4103-82f3-aadab1cc5b5e",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-11T22:11:24Z",
+      "removed_at": null
+    },
+    "58eae7d5-79a7-4340-9241-58cd45313d2c": {
+      "title": "Dolls Frontline: The Works of Hiroji Mishma",
+      "url": "https://mangadex.org/title/58eae7d5-79a7-4340-9241-58cd45313d2c",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-11T22:11:24Z",
+      "removed_at": null
+    },
+    "7bae4d21-b237-4bfd-9960-65e6e6314b10": {
+      "title": "The Duke’s Daughter's Mission to Seduce the Demon King, Humanity's Final Gambit: A Political Marriage with the Demon King! ...Hang On, But What am I Supposed to Do If the Demon King is a Girl!?",
+      "url": "https://mangadex.org/title/7bae4d21-b237-4bfd-9960-65e6e6314b10",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-11T22:11:24Z",
+      "removed_at": null
+    },
+    "8352a9ca-22e0-4a1c-bf1f-89f23d95262a": {
+      "title": "Campfire Cooking in Another World with My Absurd Skill",
+      "url": "https://mangadex.org/title/8352a9ca-22e0-4a1c-bf1f-89f23d95262a",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-11T22:11:24Z",
+      "removed_at": null
+    },
+    "ed5dddc0-999d-4fd2-a702-9fef1ec2c955": {
+      "title": "Blue Box",
+      "url": "https://mangadex.org/title/ed5dddc0-999d-4fd2-a702-9fef1ec2c955",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-11T22:11:24Z",
       "removed_at": null
     }
   }

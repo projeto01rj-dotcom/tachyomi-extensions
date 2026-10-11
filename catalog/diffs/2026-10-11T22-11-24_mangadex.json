@@ -1,0 +1,66 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-11T22:11:24Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "1ca15538-36cf-4103-82f3-aadab1cc5b5e",
+      "title": "Flaming Fightball Girl Dodge Danko",
+      "url": "https://mangadex.org/title/1ca15538-36cf-4103-82f3-aadab1cc5b5e"
+    },
+    {
+      "source": "mangadex",
+      "key": "58eae7d5-79a7-4340-9241-58cd45313d2c",
+      "title": "Dolls Frontline: The Works of Hiroji Mishma",
+      "url": "https://mangadex.org/title/58eae7d5-79a7-4340-9241-58cd45313d2c"
+    },
+    {
+      "source": "mangadex",
+      "key": "7bae4d21-b237-4bfd-9960-65e6e6314b10",
+      "title": "The Duke’s Daughter's Mission to Seduce the Demon King, Humanity's Final Gambit: A Political Marriage with the Demon King! ...Hang On, But What am I Supposed to Do If the Demon King is a Girl!?",
+      "url": "https://mangadex.org/title/7bae4d21-b237-4bfd-9960-65e6e6314b10"
+    },
+    {
+      "source": "mangadex",
+      "key": "8352a9ca-22e0-4a1c-bf1f-89f23d95262a",
+      "title": "Campfire Cooking in Another World with My Absurd Skill",
+      "url": "https://mangadex.org/title/8352a9ca-22e0-4a1c-bf1f-89f23d95262a"
+    },
+    {
+      "source": "mangadex",
+      "key": "ed5dddc0-999d-4fd2-a702-9fef1ec2c955",
+      "title": "Blue Box",
+      "url": "https://mangadex.org/title/ed5dddc0-999d-4fd2-a702-9fef1ec2c955"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "3169544f-4b87-4a14-917b-f73600941f55",
+      "title": "Noa-Senpai is My Friend.",
+      "url": "https://mangadex.org/title/3169544f-4b87-4a14-917b-f73600941f55",
+      "removed_at": "2026-10-11T22:11:24Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "818d037d-2629-40ad-bdcc-09cf19f510d3",
+      "title": "Though I am an Inept Villainess: Tale of the Butterfly-Rat Swap in the Maiden Court",
+      "url": "https://mangadex.org/title/818d037d-2629-40ad-bdcc-09cf19f510d3",
+      "removed_at": "2026-10-11T22:11:24Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "e4148575-6572-425f-9a60-50d94d423b58",
+      "title": "Baki Side Story: Gaia & Sikorsky - Sometimes Nomura—Two yet Three People Living Together",
+      "url": "https://mangadex.org/title/e4148575-6572-425f-9a60-50d94d423b58",
+      "removed_at": "2026-10-11T22:11:24Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "84cf55e0-b497-4455-8b40-4c5a880de96b",
+      "title": "Even the Introverted Gals Wanna Get Out There!",
+      "url": "https://mangadex.org/title/84cf55e0-b497-4455-8b40-4c5a880de96b",
+      "removed_at": "2026-10-11T22:11:24Z"
+    }
+  ]
+}
