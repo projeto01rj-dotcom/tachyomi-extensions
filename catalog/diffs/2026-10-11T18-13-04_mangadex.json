@@ -1,0 +1,169 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-11T18:13:04Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "3c710e15-7fea-4635-9c58-db0410695b70",
+      "title": "My Wife Is a Half-Dragon",
+      "url": "https://mangadex.org/title/3c710e15-7fea-4635-9c58-db0410695b70"
+    },
+    {
+      "source": "mangadex",
+      "key": "5eb2c6fa-4dc4-4fba-974f-ae44bd8ce2ff",
+      "title": "Ao Ashi Brotherfoot",
+      "url": "https://mangadex.org/title/5eb2c6fa-4dc4-4fba-974f-ae44bd8ce2ff"
+    },
+    {
+      "source": "mangadex",
+      "key": "8211bac6-a392-4e37-b3b6-dac0f4512d24",
+      "title": "Re:ZERO -Starting Life in Another World-, Chapter 4: The Sanctuary and the Witch of Greed",
+      "url": "https://mangadex.org/title/8211bac6-a392-4e37-b3b6-dac0f4512d24"
+    },
+    {
+      "source": "mangadex",
+      "key": "8d5e4567-dc46-4ef3-8af1-0fcf3b6c5e63",
+      "title": "The Summit of the Gods",
+      "url": "https://mangadex.org/title/8d5e4567-dc46-4ef3-8af1-0fcf3b6c5e63"
+    },
+    {
+      "source": "mangadex",
+      "key": "c8a7bb0f-a6ae-4060-9b0e-8ad5f5d13cc9",
+      "title": "Isekai Craftsman: A Relaxing Tale of Chilling and Building from Scratch",
+      "url": "https://mangadex.org/title/c8a7bb0f-a6ae-4060-9b0e-8ad5f5d13cc9"
+    },
+    {
+      "source": "mangadex",
+      "key": "cbce49c7-6311-4955-8b10-1005775d5cee",
+      "title": "The Insipid Prince's Furtive Grab for the Throne",
+      "url": "https://mangadex.org/title/cbce49c7-6311-4955-8b10-1005775d5cee"
+    },
+    {
+      "source": "mangadex",
+      "key": "d362fd89-f15c-481f-8bf1-17e59e125d03",
+      "title": "Mix",
+      "url": "https://mangadex.org/title/d362fd89-f15c-481f-8bf1-17e59e125d03"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "77bee52c-d2d6-44ad-a33a-1734c1fe696a",
+      "title": "The Eminence in Shadow",
+      "url": "https://mangadex.org/title/77bee52c-d2d6-44ad-a33a-1734c1fe696a",
+      "removed_at": "2026-10-11T18:13:04Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "c3295871-b930-4ee3-ac0f-ff7102ecec4e",
+      "title": "Sasha-chan and Her Classmate Otaku-kun",
+      "url": "https://mangadex.org/title/c3295871-b930-4ee3-ac0f-ff7102ecec4e",
+      "removed_at": "2026-10-11T18:13:04Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "61d81be6-2759-4cc4-9815-7952a3449149",
+      "title": "Tensei Shitara Slime Datta Ken - Clayman Revenge",
+      "url": "https://mangadex.org/title/61d81be6-2759-4cc4-9815-7952a3449149",
+      "removed_at": "2026-10-11T18:13:04Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "1ef6ddce-7930-45ae-a335-9a45604b99f7",
+      "title": "How a Realist Hero Rebuilt the Kingdom",
+      "url": "https://mangadex.org/title/1ef6ddce-7930-45ae-a335-9a45604b99f7",
+      "removed_at": "2026-10-11T18:13:04Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "78a664a7-2f4e-464b-b925-92984012f00c",
+      "title": "Even If You Don't Do It",
+      "url": "https://mangadex.org/title/78a664a7-2f4e-464b-b925-92984012f00c",
+      "removed_at": "2026-10-11T18:13:04Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "21a87164-3268-48ca-8c48-7737c647eb96",
+      "title": "Umamusume: Radiant Flight",
+      "url": "https://mangadex.org/title/21a87164-3268-48ca-8c48-7737c647eb96",
+      "removed_at": "2026-10-11T18:13:04Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "812f9696-048f-496d-9ed4-84c99345d1fb",
+      "title": "Tales of Demons and Gods",
+      "url": "https://mangadex.org/title/812f9696-048f-496d-9ed4-84c99345d1fb",
+      "removed_at": "2026-10-11T18:13:04Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "2c4b353f-d968-461b-be49-4f2599189a79",
+      "title": "Pokemon: Festival of Kings",
+      "url": "https://mangadex.org/title/2c4b353f-d968-461b-be49-4f2599189a79",
+      "removed_at": "2026-10-11T18:13:04Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "52ed62f8-2baf-4d7d-8948-dad4041fbab6",
+      "title": "Spirit Fingers!",
+      "url": "https://mangadex.org/title/52ed62f8-2baf-4d7d-8948-dad4041fbab6",
+      "removed_at": "2026-10-11T18:13:04Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "5c0c432b-9d71-47aa-8534-f26149b967e0",
+      "title": "Like You",
+      "url": "https://mangadex.org/title/5c0c432b-9d71-47aa-8534-f26149b967e0",
+      "removed_at": "2026-10-11T18:13:04Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "67a7dfd1-a39d-46c8-8ff2-9a24a9abaeb6",
+      "title": "Goblin Slayer",
+      "url": "https://mangadex.org/title/67a7dfd1-a39d-46c8-8ff2-9a24a9abaeb6",
+      "removed_at": "2026-10-11T18:13:04Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "027df837-7a15-4893-9dc3-e2ae11b94717",
+      "title": "Onii-chan is Done For! Official Anthology Comic",
+      "url": "https://mangadex.org/title/027df837-7a15-4893-9dc3-e2ae11b94717",
+      "removed_at": "2026-10-11T18:13:04Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "13df5a6e-1cee-466c-9f06-09f38fb012b7",
+      "title": "Love Lesson",
+      "url": "https://mangadex.org/title/13df5a6e-1cee-466c-9f06-09f38fb012b7",
+      "removed_at": "2026-10-11T18:13:04Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "409f0737-3269-47c4-981c-dde617920ba1",
+      "title": "Unfamiliar",
+      "url": "https://mangadex.org/title/409f0737-3269-47c4-981c-dde617920ba1",
+      "removed_at": "2026-10-11T18:13:04Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "49650a04-d0d7-4526-b460-8203ae223586",
+      "title": "Fight Class 3",
+      "url": "https://mangadex.org/title/49650a04-d0d7-4526-b460-8203ae223586",
+      "removed_at": "2026-10-11T18:13:04Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "c466ced0-ec48-47c1-a8cf-d5ff1fe9d0d2",
+      "title": "The Executed Sage Who was Reincarnated as a Lich Started an All-Out War",
+      "url": "https://mangadex.org/title/c466ced0-ec48-47c1-a8cf-d5ff1fe9d0d2",
+      "removed_at": "2026-10-11T18:13:04Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "caa65535-c09a-4a46-9ac7-30947b815020",
+      "title": "After I Let The Small And Cute Intellectual Senior Of The Literature Club Sit On My Lap, She Started Sitting There Every Day",
+      "url": "https://mangadex.org/title/caa65535-c09a-4a46-9ac7-30947b815020",
+      "removed_at": "2026-10-11T18:13:04Z"
+    }
+  ]
+}
