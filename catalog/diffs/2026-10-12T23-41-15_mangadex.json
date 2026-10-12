@@ -1,0 +1,81 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-12T23:41:15Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "4e54f039-7cc2-4748-b814-51336d68e821",
+      "title": "My Seatmate Wakao-san's Face is Almost Visible but It's Not",
+      "url": "https://mangadex.org/title/4e54f039-7cc2-4748-b814-51336d68e821"
+    },
+    {
+      "source": "mangadex",
+      "key": "a368a42e-3cf5-45bd-a1f6-e2337ebc1d7f",
+      "title": "By Chance, I Arrived With the Spring",
+      "url": "https://mangadex.org/title/a368a42e-3cf5-45bd-a1f6-e2337ebc1d7f"
+    },
+    {
+      "source": "mangadex",
+      "key": "d773c8be-8e82-4ff1-a4e9-46171395319b",
+      "title": "The Saga of Tanya the Evil",
+      "url": "https://mangadex.org/title/d773c8be-8e82-4ff1-a4e9-46171395319b"
+    },
+    {
+      "source": "mangadex",
+      "key": "d7d6829b-ceab-4346-a033-22387aeff297",
+      "title": "Summoned to Another World... Again!?",
+      "url": "https://mangadex.org/title/d7d6829b-ceab-4346-a033-22387aeff297"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "7a9d76c3-42b9-4bcf-81d7-ad307d2ea971",
+      "title": "JoJo's Bizarre Adventure, Part 8: JoJolion - Digital Colored Comics",
+      "url": "https://mangadex.org/title/7a9d76c3-42b9-4bcf-81d7-ad307d2ea971",
+      "removed_at": "2026-10-12T23:41:15Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "daf070c3-4398-4beb-8dae-4c8d21376cec",
+      "title": "I Become A Villain In My Novel",
+      "url": "https://mangadex.org/title/daf070c3-4398-4beb-8dae-4c8d21376cec",
+      "removed_at": "2026-10-12T23:41:15Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "2b0744d4-bcbf-448e-996f-3ac6f2ec6634",
+      "title": "Athena-san Who Demands Something in Return",
+      "url": "https://mangadex.org/title/2b0744d4-bcbf-448e-996f-3ac6f2ec6634",
+      "removed_at": "2026-10-12T23:41:15Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "36bd3ec2-b2a0-4131-8412-82e3e0588134",
+      "title": "Pinky Candy Kiss",
+      "url": "https://mangadex.org/title/36bd3ec2-b2a0-4131-8412-82e3e0588134",
+      "removed_at": "2026-10-12T23:41:15Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "6498ec2a-bb90-4693-974e-c7835a3a0ffe",
+      "title": "When You Put on Loafers",
+      "url": "https://mangadex.org/title/6498ec2a-bb90-4693-974e-c7835a3a0ffe",
+      "removed_at": "2026-10-12T23:41:15Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "c101b7dd-1e3f-4563-8ef9-be69cf367129",
+      "title": "Seirei Gensouki: Spirit Chronicles",
+      "url": "https://mangadex.org/title/c101b7dd-1e3f-4563-8ef9-be69cf367129",
+      "removed_at": "2026-10-12T23:41:15Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "f6aae3a6-536f-4cdc-94b4-deccbedda939",
+      "title": "Kamoi-san, Are You Showing It on Purpose?",
+      "url": "https://mangadex.org/title/f6aae3a6-536f-4cdc-94b4-deccbedda939",
+      "removed_at": "2026-10-12T23:41:15Z"
+    }
+  ]
+}

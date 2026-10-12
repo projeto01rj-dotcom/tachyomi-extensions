@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-12T17:10:34Z",
+  "updated_at": "2026-10-12T23:41:15Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -4975,9 +4975,10 @@
       "title": "JoJo's Bizarre Adventure, Part 8: JoJolion - Digital Colored Comics",
       "url": "https://mangadex.org/title/7a9d76c3-42b9-4bcf-81d7-ad307d2ea971",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-19T11:59:53Z",
-      "removed_at": null
+      "removed_at": "2026-10-12T23:41:15Z",
+      "removed_by_source": true
     },
     "8589d1a7-01a3-469e-a1ae-8a682f8c987a": {
       "title": "Kaibutsu Oujo",
@@ -9094,9 +9095,10 @@
       "title": "I Become A Villain In My Novel",
       "url": "https://mangadex.org/title/daf070c3-4398-4beb-8dae-4c8d21376cec",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-01T00:17:09Z",
-      "removed_at": null
+      "removed_at": "2026-10-12T23:41:15Z",
+      "removed_by_source": true
     },
     "4e46ebce-c851-4854-ab50-47775739d129": {
       "title": "Shadow Skill: Dawn",
@@ -10431,9 +10433,10 @@
       "title": "Athena-san Who Demands Something in Return",
       "url": "https://mangadex.org/title/2b0744d4-bcbf-448e-996f-3ac6f2ec6634",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-07T09:34:46Z",
-      "removed_at": null
+      "removed_at": "2026-10-12T23:41:15Z",
+      "removed_by_source": true
     },
     "5924767b-2288-40c7-8304-0d5879c353b3": {
       "title": "Please Look After the Dragon",
@@ -10464,17 +10467,19 @@
       "title": "Pinky Candy Kiss",
       "url": "https://mangadex.org/title/36bd3ec2-b2a0-4131-8412-82e3e0588134",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-07T17:07:18Z",
-      "removed_at": null
+      "removed_at": "2026-10-12T23:41:15Z",
+      "removed_by_source": true
     },
     "6498ec2a-bb90-4693-974e-c7835a3a0ffe": {
       "title": "When You Put on Loafers",
       "url": "https://mangadex.org/title/6498ec2a-bb90-4693-974e-c7835a3a0ffe",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-07T17:07:18Z",
-      "removed_at": null
+      "removed_at": "2026-10-12T23:41:15Z",
+      "removed_by_source": true
     },
     "81d75b43-c7bf-4102-86ae-d07b93cf074a": {
       "title": "What Happens When You Save Two Beautiful Sisters Who Hate Men Without Telling Them Your Name?",
@@ -10496,9 +10501,10 @@
       "title": "Seirei Gensouki: Spirit Chronicles",
       "url": "https://mangadex.org/title/c101b7dd-1e3f-4563-8ef9-be69cf367129",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-07T17:07:18Z",
-      "removed_at": null
+      "removed_at": "2026-10-12T23:41:15Z",
+      "removed_by_source": true
     },
     "f30a2fd3-cf2c-4f77-9910-51a908459a82": {
       "title": "The Otome Heroine's Fight for Survival",
@@ -10512,9 +10518,10 @@
       "title": "Kamoi-san, Are You Showing It on Purpose?",
       "url": "https://mangadex.org/title/f6aae3a6-536f-4cdc-94b4-deccbedda939",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-07T17:07:18Z",
-      "removed_at": null
+      "removed_at": "2026-10-12T23:41:15Z",
+      "removed_by_source": true
     },
     "267db3f7-fd9c-4395-ac36-9ffacd772473": {
       "title": "Star Martial God Technique",
@@ -11267,6 +11274,38 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-12T17:10:34Z",
+      "removed_at": null
+    },
+    "4e54f039-7cc2-4748-b814-51336d68e821": {
+      "title": "My Seatmate Wakao-san's Face is Almost Visible but It's Not",
+      "url": "https://mangadex.org/title/4e54f039-7cc2-4748-b814-51336d68e821",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-12T23:41:15Z",
+      "removed_at": null
+    },
+    "a368a42e-3cf5-45bd-a1f6-e2337ebc1d7f": {
+      "title": "By Chance, I Arrived With the Spring",
+      "url": "https://mangadex.org/title/a368a42e-3cf5-45bd-a1f6-e2337ebc1d7f",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-12T23:41:15Z",
+      "removed_at": null
+    },
+    "d773c8be-8e82-4ff1-a4e9-46171395319b": {
+      "title": "The Saga of Tanya the Evil",
+      "url": "https://mangadex.org/title/d773c8be-8e82-4ff1-a4e9-46171395319b",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-12T23:41:15Z",
+      "removed_at": null
+    },
+    "d7d6829b-ceab-4346-a033-22387aeff297": {
+      "title": "Summoned to Another World... Again!?",
+      "url": "https://mangadex.org/title/d7d6829b-ceab-4346-a033-22387aeff297",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-12T23:41:15Z",
       "removed_at": null
     }
   }
