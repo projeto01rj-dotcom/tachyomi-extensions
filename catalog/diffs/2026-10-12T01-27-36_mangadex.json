@@ -1,0 +1,40 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-12T01:27:36Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "64aecfbb-672d-42b7-b21f-793de6e24f41",
+      "title": "GATE SEASON 2: Thus The JSDF Fought In Those Seas",
+      "url": "https://mangadex.org/title/64aecfbb-672d-42b7-b21f-793de6e24f41"
+    },
+    {
+      "source": "mangadex",
+      "key": "83b2fefd-3595-4a9d-9df3-72918194a9a3",
+      "title": "Dragons Rioting",
+      "url": "https://mangadex.org/title/83b2fefd-3595-4a9d-9df3-72918194a9a3"
+    },
+    {
+      "source": "mangadex",
+      "key": "b9745d18-8556-48ea-a5c7-d43abdc5ab62",
+      "title": "Little Witch Academia",
+      "url": "https://mangadex.org/title/b9745d18-8556-48ea-a5c7-d43abdc5ab62"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "7066efc8-b73f-4b17-8b8d-6060a5412590",
+      "title": "Kill Blue",
+      "url": "https://mangadex.org/title/7066efc8-b73f-4b17-8b8d-6060a5412590",
+      "removed_at": "2026-10-12T01:27:36Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "39b4e02a-f2f2-4ff0-bf2c-f87cf54ab178",
+      "title": "Chronicles of an Aristocrat Reborn in Another World: The Apostle of the Gods Who Know No Self-Restraint",
+      "url": "https://mangadex.org/title/39b4e02a-f2f2-4ff0-bf2c-f87cf54ab178",
+      "removed_at": "2026-10-12T01:27:36Z"
+    }
+  ]
+}

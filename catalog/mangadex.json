@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-11T22:11:24Z",
+  "updated_at": "2026-10-12T01:27:36Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -9393,9 +9393,10 @@
       "title": "Kill Blue",
       "url": "https://mangadex.org/title/7066efc8-b73f-4b17-8b8d-6060a5412590",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-02T15:13:23Z",
-      "removed_at": null
+      "removed_at": "2026-10-12T01:27:36Z",
+      "removed_by_source": true
     },
     "de9e3b62-eac5-4c0a-917d-ffccad694381": {
       "title": "Sometimes Even Reality Is a Lie!",
@@ -9761,9 +9762,10 @@
       "title": "Chronicles of an Aristocrat Reborn in Another World: The Apostle of the Gods Who Know No Self-Restraint",
       "url": "https://mangadex.org/title/39b4e02a-f2f2-4ff0-bf2c-f87cf54ab178",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-04T12:38:42Z",
-      "removed_at": null
+      "removed_at": "2026-10-12T01:27:36Z",
+      "removed_by_source": true
     },
     "5d36e164-32de-4de7-a5db-8d53f4662af8": {
       "title": "Even If I Become a Girl with Tiger Ears",
@@ -11174,6 +11176,30 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-11T22:11:24Z",
+      "removed_at": null
+    },
+    "64aecfbb-672d-42b7-b21f-793de6e24f41": {
+      "title": "GATE SEASON 2: Thus The JSDF Fought In Those Seas",
+      "url": "https://mangadex.org/title/64aecfbb-672d-42b7-b21f-793de6e24f41",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-12T01:27:36Z",
+      "removed_at": null
+    },
+    "83b2fefd-3595-4a9d-9df3-72918194a9a3": {
+      "title": "Dragons Rioting",
+      "url": "https://mangadex.org/title/83b2fefd-3595-4a9d-9df3-72918194a9a3",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-12T01:27:36Z",
+      "removed_at": null
+    },
+    "b9745d18-8556-48ea-a5c7-d43abdc5ab62": {
+      "title": "Little Witch Academia",
+      "url": "https://mangadex.org/title/b9745d18-8556-48ea-a5c7-d43abdc5ab62",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-12T01:27:36Z",
       "removed_at": null
     }
   }
