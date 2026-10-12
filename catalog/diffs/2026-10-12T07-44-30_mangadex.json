@@ -1,0 +1,28 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-12T07:44:30Z",
+  "added": [],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "99b8eaeb-9041-4bfd-8eb7-d72addc88eb7",
+      "title": "The Café Terrace and Its Goddesses",
+      "url": "https://mangadex.org/title/99b8eaeb-9041-4bfd-8eb7-d72addc88eb7",
+      "removed_at": "2026-10-12T07:44:30Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "ada153d5-db0d-40a0-920c-f76f1e1437dd",
+      "title": "Boundary Labyrinth and the Foreign Magician",
+      "url": "https://mangadex.org/title/ada153d5-db0d-40a0-920c-f76f1e1437dd",
+      "removed_at": "2026-10-12T07:44:30Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "d63bd2fc-5356-4064-8057-25bbe0134dc7",
+      "title": "Let's Establish a Sand Kingdom with the Magic of Sand",
+      "url": "https://mangadex.org/title/d63bd2fc-5356-4064-8057-25bbe0134dc7",
+      "removed_at": "2026-10-12T07:44:30Z"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-12T01:27:36Z",
+  "updated_at": "2026-10-12T07:44:30Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -10325,25 +10325,28 @@
       "title": "The Café Terrace and Its Goddesses",
       "url": "https://mangadex.org/title/99b8eaeb-9041-4bfd-8eb7-d72addc88eb7",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-06T19:37:21Z",
-      "removed_at": null
+      "removed_at": "2026-10-12T07:44:30Z",
+      "removed_by_source": true
     },
     "ada153d5-db0d-40a0-920c-f76f1e1437dd": {
       "title": "Boundary Labyrinth and the Foreign Magician",
       "url": "https://mangadex.org/title/ada153d5-db0d-40a0-920c-f76f1e1437dd",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-06T19:37:21Z",
-      "removed_at": null
+      "removed_at": "2026-10-12T07:44:30Z",
+      "removed_by_source": true
     },
     "d63bd2fc-5356-4064-8057-25bbe0134dc7": {
       "title": "Let's Establish a Sand Kingdom with the Magic of Sand",
       "url": "https://mangadex.org/title/d63bd2fc-5356-4064-8057-25bbe0134dc7",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-06T19:37:21Z",
-      "removed_at": null
+      "removed_at": "2026-10-12T07:44:30Z",
+      "removed_by_source": true
     },
     "8e904201-718a-45f6-ae44-0e6d7f8c4aa3": {
       "title": "Ex-girlfriend Teachers Want to Nurture Love by Making Slightly Naughty Visits to Your Home",
