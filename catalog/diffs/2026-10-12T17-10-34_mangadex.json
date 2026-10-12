@@ -1,0 +1,106 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-12T17:10:34Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "26074407-7b3b-4fc9-8c4b-03747e9380c0",
+      "title": "Alcohol and Ogre-girls",
+      "url": "https://mangadex.org/title/26074407-7b3b-4fc9-8c4b-03747e9380c0"
+    },
+    {
+      "source": "mangadex",
+      "key": "2ea8f5bc-31a7-472e-9c60-705d586f0c83",
+      "title": "The Dark History of the Reincarnated Villainess",
+      "url": "https://mangadex.org/title/2ea8f5bc-31a7-472e-9c60-705d586f0c83"
+    },
+    {
+      "source": "mangadex",
+      "key": "9607da06-6e14-4d2c-805d-b0b792b44bd9",
+      "title": "No Cooldown: Undead Catastrophe",
+      "url": "https://mangadex.org/title/9607da06-6e14-4d2c-805d-b0b792b44bd9"
+    },
+    {
+      "source": "mangadex",
+      "key": "9d9c3006-915b-4f7e-8636-9eea6da12ec3",
+      "title": "Daily Life of Sa-chan, a Drugstore Clerk",
+      "url": "https://mangadex.org/title/9d9c3006-915b-4f7e-8636-9eea6da12ec3"
+    },
+    {
+      "source": "mangadex",
+      "key": "ade2f85e-7bb4-4c55-a9e5-b782765ba0ad",
+      "title": "Encore of the World's End",
+      "url": "https://mangadex.org/title/ade2f85e-7bb4-4c55-a9e5-b782765ba0ad"
+    },
+    {
+      "source": "mangadex",
+      "key": "e0c6cde1-232e-45de-8e0d-b6902c1453d0",
+      "title": "Let this Grieving Soul Retire: Woe is the Weakling Who Leads the Strongest Party",
+      "url": "https://mangadex.org/title/e0c6cde1-232e-45de-8e0d-b6902c1453d0"
+    },
+    {
+      "source": "mangadex",
+      "key": "fd688252-561c-48f1-909a-9b2c1e614cc7",
+      "title": "Hibernation",
+      "url": "https://mangadex.org/title/fd688252-561c-48f1-909a-9b2c1e614cc7"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "7e51aec5-7df3-4961-aa8f-5645d34f8944",
+      "title": "Thank You, Isekai!",
+      "url": "https://mangadex.org/title/7e51aec5-7df3-4961-aa8f-5645d34f8944",
+      "removed_at": "2026-10-12T17:10:34Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "7f30dfc3-0b80-4dcc-a3b9-0cd746fac005",
+      "title": "Detective Conan",
+      "url": "https://mangadex.org/title/7f30dfc3-0b80-4dcc-a3b9-0cd746fac005",
+      "removed_at": "2026-10-12T17:10:34Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "b129c748-5fb9-4fce-aa3d-f6a016a4fe6b",
+      "title": "Chiikawa, Something Small and Cute",
+      "url": "https://mangadex.org/title/b129c748-5fb9-4fce-aa3d-f6a016a4fe6b",
+      "removed_at": "2026-10-12T17:10:34Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "a949eb3c-3a93-4ce7-a4aa-447e6b20e76f",
+      "title": "Welcome to Pyramid Café!",
+      "url": "https://mangadex.org/title/a949eb3c-3a93-4ce7-a4aa-447e6b20e76f",
+      "removed_at": "2026-10-12T17:10:34Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "e25a28d8-ec62-4341-8119-3ad4925fbb06",
+      "title": "Getter Robo Go",
+      "url": "https://mangadex.org/title/e25a28d8-ec62-4341-8119-3ad4925fbb06",
+      "removed_at": "2026-10-12T17:10:34Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "58be6aa6-06cb-4ca5-bd20-f1392ce451fb",
+      "title": "Yotsuba&!",
+      "url": "https://mangadex.org/title/58be6aa6-06cb-4ca5-bd20-f1392ce451fb",
+      "removed_at": "2026-10-12T17:10:34Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "f4a5bb4f-440d-485a-94c3-8f5882e65a62",
+      "title": "Otome Holic",
+      "url": "https://mangadex.org/title/f4a5bb4f-440d-485a-94c3-8f5882e65a62",
+      "removed_at": "2026-10-12T17:10:34Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "fe6ed2f3-30af-4ebc-98c8-1fc39a0d0ac1",
+      "title": "Living In The Moment",
+      "url": "https://mangadex.org/title/fe6ed2f3-30af-4ebc-98c8-1fc39a0d0ac1",
+      "removed_at": "2026-10-12T17:10:34Z"
+    }
+  ]
+}
