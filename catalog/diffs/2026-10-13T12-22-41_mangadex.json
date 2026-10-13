@@ -1,0 +1,46 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-13T12:22:41Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "3476bab3-adca-4d5a-9c01-3467445a7ebb",
+      "title": "New Vampire Princess Miyu",
+      "url": "https://mangadex.org/title/3476bab3-adca-4d5a-9c01-3467445a7ebb"
+    },
+    {
+      "source": "mangadex",
+      "key": "878b109c-f92a-4df4-a644-53d08e77080f",
+      "title": "Vampire Princess Miyu",
+      "url": "https://mangadex.org/title/878b109c-f92a-4df4-a644-53d08e77080f"
+    },
+    {
+      "source": "mangadex",
+      "key": "9d351a80-5037-4334-a020-6985899f5b1f",
+      "title": "Now I'm a Demon Lord! Happily Ever After with Monster Girls in My Dungeon",
+      "url": "https://mangadex.org/title/9d351a80-5037-4334-a020-6985899f5b1f"
+    },
+    {
+      "source": "mangadex",
+      "key": "ba189608-3851-414c-a700-6a163ba94b49",
+      "title": "When I Tried to Conquer the School Princesses, It Turned Into Romantic Mayhem",
+      "url": "https://mangadex.org/title/ba189608-3851-414c-a700-6a163ba94b49"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "5c78dcc5-0393-457d-9e4f-3fde40ef1014",
+      "title": "Unlimited Bacteria Magician",
+      "url": "https://mangadex.org/title/5c78dcc5-0393-457d-9e4f-3fde40ef1014",
+      "removed_at": "2026-10-13T12:22:41Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "a08cd14f-68d4-4942-9305-2fe9d7d0339e",
+      "title": "The Apothecary Is Gonna Make This Ragged Elf Happy",
+      "url": "https://mangadex.org/title/a08cd14f-68d4-4942-9305-2fe9d7d0339e",
+      "removed_at": "2026-10-13T12:22:41Z"
+    }
+  ]
+}
