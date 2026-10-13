@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-13T12:22:41Z",
+  "updated_at": "2026-10-13T19:24:23Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -43,9 +43,10 @@
       "title": "Worst Gaiden Mr. Zetton",
       "url": "https://mangadex.org/title/05c29e85-71c1-4f78-95cd-a03e68d9523c",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-13T19:24:23Z",
+      "removed_by_source": true
     },
     "061ef842-fc90-49c1-bf1c-9106b8660dfb": {
       "title": "Tayutau Kemuri wa Tsukamenai",
@@ -9017,9 +9018,10 @@
       "title": "Kagetora-kun Can't Return",
       "url": "https://mangadex.org/title/aec5b821-ca9d-4273-bece-cd3385a9cc8c",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-30T20:54:49Z",
-      "removed_at": null
+      "removed_at": "2026-10-13T19:24:23Z",
+      "removed_by_source": true
     },
     "bcf2a791-c789-483a-91b1-12b09d2b38d7": {
       "title": "How to Eat Life",
@@ -10092,9 +10094,10 @@
       "title": "The Patchwork Hero",
       "url": "https://mangadex.org/title/39aa3af8-490b-4642-be07-669251a0a06b",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-05T18:39:52Z",
-      "removed_at": null
+      "removed_at": "2026-10-13T19:24:23Z",
+      "removed_by_source": true
     },
     "5cd8edbe-8e41-4af1-b7ae-4a29e85d53c5": {
       "title": "Ultraman",
@@ -10579,9 +10582,10 @@
       "title": "A NEET’s Guide to the Parallel World: Healer, the Strongest Cheat?",
       "url": "https://mangadex.org/title/30eb9ee7-4cfe-4036-95f9-4aac5e05b505",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-08T02:08:04Z",
-      "removed_at": null
+      "removed_at": "2026-10-13T19:24:23Z",
+      "removed_by_source": true
     },
     "472960b1-369b-4fd4-8e5f-21feecebb6c3": {
       "title": "Her Relationship with Him",
@@ -10611,9 +10615,10 @@
       "title": "Immature Succubus",
       "url": "https://mangadex.org/title/8f047748-9a0b-40b2-9747-dc47d1d83290",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-08T09:14:22Z",
-      "removed_at": null
+      "removed_at": "2026-10-13T19:24:23Z",
+      "removed_by_source": true
     },
     "b0dc2f88-4e89-4e30-8d68-20116db788ff": {
       "title": "Reborn as an Aristocratic Scoundrel, I Broke the Game and Mastered Magic Beyond Limits!",
@@ -11382,6 +11387,30 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-13T12:22:41Z",
+      "removed_at": null
+    },
+    "17a56d33-9443-433a-9e0d-70459893ed8f": {
+      "title": "My Wife Is From a Thousand Years Ago",
+      "url": "https://mangadex.org/title/17a56d33-9443-433a-9e0d-70459893ed8f",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-13T19:24:23Z",
+      "removed_at": null
+    },
+    "17b3b648-fd89-4a69-9a42-6068ffbfa7a7": {
+      "title": "Even Given the Worthless 'Blacksmith' Class, I'm Still the Strongest",
+      "url": "https://mangadex.org/title/17b3b648-fd89-4a69-9a42-6068ffbfa7a7",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-13T19:24:23Z",
+      "removed_at": null
+    },
+    "48e7a509-9321-474a-8299-3bb3fe89239c": {
+      "title": "My Husband Is Sleeping in the Freezer",
+      "url": "https://mangadex.org/title/48e7a509-9321-474a-8299-3bb3fe89239c",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-13T19:24:23Z",
       "removed_at": null
     }
   }

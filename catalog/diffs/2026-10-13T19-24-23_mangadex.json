@@ -1,0 +1,61 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-13T19:24:23Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "17a56d33-9443-433a-9e0d-70459893ed8f",
+      "title": "My Wife Is From a Thousand Years Ago",
+      "url": "https://mangadex.org/title/17a56d33-9443-433a-9e0d-70459893ed8f"
+    },
+    {
+      "source": "mangadex",
+      "key": "17b3b648-fd89-4a69-9a42-6068ffbfa7a7",
+      "title": "Even Given the Worthless 'Blacksmith' Class, I'm Still the Strongest",
+      "url": "https://mangadex.org/title/17b3b648-fd89-4a69-9a42-6068ffbfa7a7"
+    },
+    {
+      "source": "mangadex",
+      "key": "48e7a509-9321-474a-8299-3bb3fe89239c",
+      "title": "My Husband Is Sleeping in the Freezer",
+      "url": "https://mangadex.org/title/48e7a509-9321-474a-8299-3bb3fe89239c"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "05c29e85-71c1-4f78-95cd-a03e68d9523c",
+      "title": "Worst Gaiden Mr. Zetton",
+      "url": "https://mangadex.org/title/05c29e85-71c1-4f78-95cd-a03e68d9523c",
+      "removed_at": "2026-10-13T19:24:23Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "aec5b821-ca9d-4273-bece-cd3385a9cc8c",
+      "title": "Kagetora-kun Can't Return",
+      "url": "https://mangadex.org/title/aec5b821-ca9d-4273-bece-cd3385a9cc8c",
+      "removed_at": "2026-10-13T19:24:23Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "39aa3af8-490b-4642-be07-669251a0a06b",
+      "title": "The Patchwork Hero",
+      "url": "https://mangadex.org/title/39aa3af8-490b-4642-be07-669251a0a06b",
+      "removed_at": "2026-10-13T19:24:23Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "30eb9ee7-4cfe-4036-95f9-4aac5e05b505",
+      "title": "A NEET’s Guide to the Parallel World: Healer, the Strongest Cheat?",
+      "url": "https://mangadex.org/title/30eb9ee7-4cfe-4036-95f9-4aac5e05b505",
+      "removed_at": "2026-10-13T19:24:23Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "8f047748-9a0b-40b2-9747-dc47d1d83290",
+      "title": "Immature Succubus",
+      "url": "https://mangadex.org/title/8f047748-9a0b-40b2-9747-dc47d1d83290",
+      "removed_at": "2026-10-13T19:24:23Z"
+    }
+  ]
+}
