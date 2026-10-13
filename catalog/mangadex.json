@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-13T19:24:23Z",
+  "updated_at": "2026-10-13T23:21:09Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -8463,9 +8463,10 @@
       "title": "The Solitary Girl, and What We Do in Her Room",
       "url": "https://mangadex.org/title/32db4174-7944-40c4-9f76-4c322177bc04",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-28T17:45:14Z",
-      "removed_at": null
+      "removed_at": "2026-10-13T23:21:09Z",
+      "removed_by_source": true
     },
     "441e03e9-800a-4739-b656-966d0660c168": {
       "title": "A Toxic 20-Year-Old Game Streamer Accidentally Reveals His Nice Personality Because He Forgot to End the Stream",
@@ -10656,25 +10657,28 @@
       "title": "Mangá sem fio",
       "url": "https://mangadex.org/title/915223e0-e694-4ce4-a923-72721431a836",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-08T16:41:43Z",
-      "removed_at": null
+      "removed_at": "2026-10-13T23:21:09Z",
+      "removed_by_source": true
     },
     "a4304d3b-191d-471f-8c78-353d403a35d0": {
       "title": "Sengoku Komachi Kurotan",
       "url": "https://mangadex.org/title/a4304d3b-191d-471f-8c78-353d403a35d0",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-08T16:41:43Z",
-      "removed_at": null
+      "removed_at": "2026-10-13T23:21:09Z",
+      "removed_by_source": true
     },
     "e31b62b8-68ec-4bb6-bf7e-33db5be5e0b0": {
       "title": "My Crush's Crush",
       "url": "https://mangadex.org/title/e31b62b8-68ec-4bb6-bf7e-33db5be5e0b0",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-08T16:41:43Z",
-      "removed_at": null
+      "removed_at": "2026-10-13T23:21:09Z",
+      "removed_by_source": true
     },
     "3d6ccd3e-f430-4eed-b0bc-59f91803b83f": {
       "title": "“Welcome Back, Papa”",
@@ -10696,9 +10700,10 @@
       "title": "I've Become Able to Do Anything with My Growth Cheat, but I Can't Seem to Get out of Being Jobless",
       "url": "https://mangadex.org/title/e881168f-ef99-41ff-88cf-1cf21c152635",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-08T21:40:34Z",
-      "removed_at": null
+      "removed_at": "2026-10-13T23:21:09Z",
+      "removed_by_source": true
     },
     "5ec0922a-4869-4e6b-a154-2307945cc406": {
       "title": "The Fed-Up Office Lady Wants to Serve the Villainess",
@@ -11411,6 +11416,30 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-13T19:24:23Z",
+      "removed_at": null
+    },
+    "a781de8e-0935-45bd-bc33-cbc76ea8c6f9": {
+      "title": "Until I (M) Become Me (F)",
+      "url": "https://mangadex.org/title/a781de8e-0935-45bd-bc33-cbc76ea8c6f9",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-13T23:21:09Z",
+      "removed_at": null
+    },
+    "efaae0a6-0b38-4b9c-88bf-1059b8be6244": {
+      "title": "WORST 816",
+      "url": "https://mangadex.org/title/efaae0a6-0b38-4b9c-88bf-1059b8be6244",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-13T23:21:09Z",
+      "removed_at": null
+    },
+    "f6fe221d-5e3c-488f-99c8-e18f5444b253": {
+      "title": "Anaerobic Love",
+      "url": "https://mangadex.org/title/f6fe221d-5e3c-488f-99c8-e18f5444b253",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-13T23:21:09Z",
       "removed_at": null
     }
   }

@@ -1,0 +1,61 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-13T23:21:09Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "a781de8e-0935-45bd-bc33-cbc76ea8c6f9",
+      "title": "Until I (M) Become Me (F)",
+      "url": "https://mangadex.org/title/a781de8e-0935-45bd-bc33-cbc76ea8c6f9"
+    },
+    {
+      "source": "mangadex",
+      "key": "efaae0a6-0b38-4b9c-88bf-1059b8be6244",
+      "title": "WORST 816",
+      "url": "https://mangadex.org/title/efaae0a6-0b38-4b9c-88bf-1059b8be6244"
+    },
+    {
+      "source": "mangadex",
+      "key": "f6fe221d-5e3c-488f-99c8-e18f5444b253",
+      "title": "Anaerobic Love",
+      "url": "https://mangadex.org/title/f6fe221d-5e3c-488f-99c8-e18f5444b253"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "32db4174-7944-40c4-9f76-4c322177bc04",
+      "title": "The Solitary Girl, and What We Do in Her Room",
+      "url": "https://mangadex.org/title/32db4174-7944-40c4-9f76-4c322177bc04",
+      "removed_at": "2026-10-13T23:21:09Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "915223e0-e694-4ce4-a923-72721431a836",
+      "title": "Mangá sem fio",
+      "url": "https://mangadex.org/title/915223e0-e694-4ce4-a923-72721431a836",
+      "removed_at": "2026-10-13T23:21:09Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "a4304d3b-191d-471f-8c78-353d403a35d0",
+      "title": "Sengoku Komachi Kurotan",
+      "url": "https://mangadex.org/title/a4304d3b-191d-471f-8c78-353d403a35d0",
+      "removed_at": "2026-10-13T23:21:09Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "e31b62b8-68ec-4bb6-bf7e-33db5be5e0b0",
+      "title": "My Crush's Crush",
+      "url": "https://mangadex.org/title/e31b62b8-68ec-4bb6-bf7e-33db5be5e0b0",
+      "removed_at": "2026-10-13T23:21:09Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "e881168f-ef99-41ff-88cf-1cf21c152635",
+      "title": "I've Become Able to Do Anything with My Growth Cheat, but I Can't Seem to Get out of Being Jobless",
+      "url": "https://mangadex.org/title/e881168f-ef99-41ff-88cf-1cf21c152635",
+      "removed_at": "2026-10-13T23:21:09Z"
+    }
+  ]
+}
