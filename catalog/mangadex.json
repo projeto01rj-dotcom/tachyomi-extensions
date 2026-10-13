@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-12T23:41:15Z",
+  "updated_at": "2026-10-13T04:44:38Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -5873,9 +5873,10 @@
       "title": "Baki Side Story: Retsu Kaioh Doesn't Mind Even If It's in Another World",
       "url": "https://mangadex.org/title/843c31ff-d390-4199-bc3b-94b0dfc63632",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-20T22:34:40Z",
-      "removed_at": null
+      "removed_at": "2026-10-13T04:44:38Z",
+      "removed_by_source": true
     },
     "b264d819-6ac4-4444-b4d6-9129b9111dd3": {
       "title": "Chronos Ruler",
@@ -7059,9 +7060,10 @@
       "title": "Erio & the Electric Doll",
       "url": "https://mangadex.org/title/21699dbf-c427-41d8-bbcf-c7cbd1755615",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-24T15:37:18Z",
-      "removed_at": null
+      "removed_at": "2026-10-13T04:44:38Z",
+      "removed_by_source": true
     },
     "a72994fd-f1c5-4df2-b7b0-423356408958": {
       "title": "The Black Create Summoner: Revenge of the Reincarnater",
@@ -9175,9 +9177,10 @@
       "title": "The Lotus Eaters, Drunk and Sober",
       "url": "https://mangadex.org/title/0483d2ef-557e-43ae-9761-2f2f0677625a",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-01T19:10:25Z",
-      "removed_at": null
+      "removed_at": "2026-10-13T04:44:38Z",
+      "removed_by_source": true
     },
     "0948937b-682c-4fe2-90bb-4c552c6818c4": {
       "title": "I Have Nine Quadrillion Simp Gold Coins",
@@ -9345,9 +9348,10 @@
       "title": "A Certain Scientific Mental Out",
       "url": "https://mangadex.org/title/4e0ab019-afcb-4fd9-98eb-fcb28cf7fc81",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-02T08:45:10Z",
-      "removed_at": null
+      "removed_at": "2026-10-13T04:44:38Z",
+      "removed_by_source": true
     },
     "5a90308a-8b12-4a4d-9c6d-2487028fe319": {
       "title": "Uzaki-chan Wants to Hang Out!",
@@ -10314,9 +10318,10 @@
       "title": "New Sisters, Eating Together",
       "url": "https://mangadex.org/title/d1277965-6bd9-457a-9a33-2879832b6d32",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-06T14:18:26Z",
-      "removed_at": null
+      "removed_at": "2026-10-13T04:44:38Z",
+      "removed_by_source": true
     },
     "d8aa410e-a169-4af2-a49c-ac161e2efc7f": {
       "title": "All, All Because of You",
@@ -10459,9 +10464,10 @@
       "title": "The Counselor Through the Years and Stars",
       "url": "https://mangadex.org/title/02c40e5c-3f5c-483f-b8a0-4abbbeb815f1",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-07T17:07:18Z",
-      "removed_at": null
+      "removed_at": "2026-10-13T04:44:38Z",
+      "removed_by_source": true
     },
     "36bd3ec2-b2a0-4131-8412-82e3e0588134": {
       "title": "Pinky Candy Kiss",
@@ -10485,17 +10491,19 @@
       "title": "What Happens When You Save Two Beautiful Sisters Who Hate Men Without Telling Them Your Name?",
       "url": "https://mangadex.org/title/81d75b43-c7bf-4102-86ae-d07b93cf074a",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-07T17:07:18Z",
-      "removed_at": null
+      "removed_at": "2026-10-13T04:44:38Z",
+      "removed_by_source": true
     },
     "b61247ba-cfa3-452a-a897-d5cbac864e0a": {
       "title": "Even Though You Lost Your Virginity to Me",
       "url": "https://mangadex.org/title/b61247ba-cfa3-452a-a897-d5cbac864e0a",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-07T17:07:18Z",
-      "removed_at": null
+      "removed_at": "2026-10-13T04:44:38Z",
+      "removed_by_source": true
     },
     "c101b7dd-1e3f-4563-8ef9-be69cf367129": {
       "title": "Seirei Gensouki: Spirit Chronicles",
@@ -10510,9 +10518,10 @@
       "title": "The Otome Heroine's Fight for Survival",
       "url": "https://mangadex.org/title/f30a2fd3-cf2c-4f77-9910-51a908459a82",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-07T17:07:18Z",
-      "removed_at": null
+      "removed_at": "2026-10-13T04:44:38Z",
+      "removed_by_source": true
     },
     "f6aae3a6-536f-4cdc-94b4-deccbedda939": {
       "title": "Kamoi-san, Are You Showing It on Purpose?",
@@ -10543,9 +10552,10 @@
       "title": "Mushoku Tensei ~4-koma ni Natte mo Honki Dasu~",
       "url": "https://mangadex.org/title/601f23b5-1078-4bf2-8cb9-17bec9589e67",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-07T22:08:13Z",
-      "removed_at": null
+      "removed_at": "2026-10-13T04:44:38Z",
+      "removed_by_source": true
     },
     "8556c131-23ed-42d6-98ba-5f2aa5037843": {
       "title": "I Thought I'd Be Popular in a World Where Chastity is Reversed.",
@@ -11306,6 +11316,38 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-12T23:41:15Z",
+      "removed_at": null
+    },
+    "83067b19-bdfb-4ba1-8178-7052e68b41bf": {
+      "title": "Survival in Another World with My Mistress!",
+      "url": "https://mangadex.org/title/83067b19-bdfb-4ba1-8178-7052e68b41bf",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-13T04:44:38Z",
+      "removed_at": null
+    },
+    "93704d83-322c-4214-99bc-6984cf536795": {
+      "title": "Kirara Hoshikita Wants to Shine!",
+      "url": "https://mangadex.org/title/93704d83-322c-4214-99bc-6984cf536795",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-13T04:44:38Z",
+      "removed_at": null
+    },
+    "a9581a49-b888-4c17-979c-5abdff6a9b00": {
+      "title": "Rappa - Yankee Ninpuuchou",
+      "url": "https://mangadex.org/title/a9581a49-b888-4c17-979c-5abdff6a9b00",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-13T04:44:38Z",
+      "removed_at": null
+    },
+    "f52455a6-d697-4d1d-b783-4512e590ade9": {
+      "title": "Hiding My Identity From My Husband",
+      "url": "https://mangadex.org/title/f52455a6-d697-4d1d-b783-4512e590ade9",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-13T04:44:38Z",
       "removed_at": null
     }
   }
