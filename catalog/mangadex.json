@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-14T02:01:45Z",
+  "updated_at": "2026-10-14T07:51:07Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -10157,9 +10157,10 @@
       "title": "Miyu-chan Will Always Be Your Friend",
       "url": "https://mangadex.org/title/0965353b-0e10-4c89-ad94-53e641db573a",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-06T00:30:38Z",
-      "removed_at": null
+      "removed_at": "2026-10-14T07:51:07Z",
+      "removed_by_source": true
     },
     "1259b4af-266a-4980-83b0-e24f4b3b5658": {
       "title": "Marrying a Goddess and Living as Newlyweds in Another World",
@@ -10604,9 +10605,10 @@
       "title": "If My Favourite Idol Made it to The Budoukan, I Would Die",
       "url": "https://mangadex.org/title/491bdbe0-0c83-42d5-8b20-3a651e65f70b",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-08T02:08:04Z",
-      "removed_at": null
+      "removed_at": "2026-10-14T07:51:07Z",
+      "removed_by_source": true
     },
     "395c5ef0-edad-461b-ba6c-7a5227ad18bb": {
       "title": "Tsuki Tsuki!",
@@ -10713,33 +10715,37 @@
       "title": "The Fed-Up Office Lady Wants to Serve the Villainess",
       "url": "https://mangadex.org/title/5ec0922a-4869-4e6b-a154-2307945cc406",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-09T01:35:22Z",
-      "removed_at": null
+      "removed_at": "2026-10-14T07:51:07Z",
+      "removed_by_source": true
     },
     "85fe3829-0d22-46d8-96a7-bb5ed9f555d2": {
       "title": "Love Live! Sunshine!! CYaRon! COMIC ANTHOLOGY",
       "url": "https://mangadex.org/title/85fe3829-0d22-46d8-96a7-bb5ed9f555d2",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-09T01:35:22Z",
-      "removed_at": null
+      "removed_at": "2026-10-14T07:51:07Z",
+      "removed_by_source": true
     },
     "d1cf91fe-67cb-4ca0-bbba-8b35d896c649": {
       "title": "Rock Is a Lady’s Modesty",
       "url": "https://mangadex.org/title/d1cf91fe-67cb-4ca0-bbba-8b35d896c649",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-09T01:35:22Z",
-      "removed_at": null
+      "removed_at": "2026-10-14T07:51:07Z",
+      "removed_by_source": true
     },
     "e2249870-322e-461f-9704-249d49d8fa89": {
       "title": "The Babe at My Back Has Her Eye on Me. I'm Done For.",
       "url": "https://mangadex.org/title/e2249870-322e-461f-9704-249d49d8fa89",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-09T01:35:22Z",
-      "removed_at": null
+      "removed_at": "2026-10-14T07:51:07Z",
+      "removed_by_source": true
     },
     "4e6c7ed7-2111-4a3b-b34c-fbf07b1884c4": {
       "title": "Gangsta",
@@ -11460,6 +11466,22 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-14T02:01:45Z",
+      "removed_at": null
+    },
+    "635fc6fd-3759-41dc-90d0-3b41cd6eb18d": {
+      "title": "Haruka Reset",
+      "url": "https://mangadex.org/title/635fc6fd-3759-41dc-90d0-3b41cd6eb18d",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-14T07:51:07Z",
+      "removed_at": null
+    },
+    "f31f1c67-13b4-4432-a67d-f1c8f21958a7": {
+      "title": "The Cool Older Sister Wants To Be Seen In That Way",
+      "url": "https://mangadex.org/title/f31f1c67-13b4-4432-a67d-f1c8f21958a7",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-14T07:51:07Z",
       "removed_at": null
     }
   }
