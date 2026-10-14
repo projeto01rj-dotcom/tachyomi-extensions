@@ -1,0 +1,48 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-14T02:01:45Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "270f205c-e9a6-4b24-b940-59d5c07829d1",
+      "title": "Otaku x Gal",
+      "url": "https://mangadex.org/title/270f205c-e9a6-4b24-b940-59d5c07829d1"
+    },
+    {
+      "source": "mangadex",
+      "key": "42289724-53ab-4016-9812-cdb6a7d7ea0a",
+      "title": "Scavengers: Another Sky",
+      "url": "https://mangadex.org/title/42289724-53ab-4016-9812-cdb6a7d7ea0a"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "8576a58c-a3ee-4206-beb9-b371169f8d8c",
+      "title": "Kiichi!!",
+      "url": "https://mangadex.org/title/8576a58c-a3ee-4206-beb9-b371169f8d8c",
+      "removed_at": "2026-10-14T02:01:45Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "d8aa410e-a169-4af2-a49c-ac161e2efc7f",
+      "title": "All, All Because of You",
+      "url": "https://mangadex.org/title/d8aa410e-a169-4af2-a49c-ac161e2efc7f",
+      "removed_at": "2026-10-14T02:01:45Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "2505ceca-d841-4ed4-9004-2344e8477bd9",
+      "title": "A Hungry Mother and Daughter and Her Ex-Boyfriend Landlord",
+      "url": "https://mangadex.org/title/2505ceca-d841-4ed4-9004-2344e8477bd9",
+      "removed_at": "2026-10-14T02:01:45Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "472960b1-369b-4fd4-8e5f-21feecebb6c3",
+      "title": "Her Relationship with Him",
+      "url": "https://mangadex.org/title/472960b1-369b-4fd4-8e5f-21feecebb6c3",
+      "removed_at": "2026-10-14T02:01:45Z"
+    }
+  ]
+}

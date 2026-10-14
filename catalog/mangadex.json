@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-13T23:21:09Z",
+  "updated_at": "2026-10-14T02:01:45Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -10288,9 +10288,10 @@
       "title": "Kiichi!!",
       "url": "https://mangadex.org/title/8576a58c-a3ee-4206-beb9-b371169f8d8c",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-06T07:02:35Z",
-      "removed_at": null
+      "removed_at": "2026-10-14T02:01:45Z",
+      "removed_by_source": true
     },
     "c466ced0-ec48-47c1-a8cf-d5ff1fe9d0d2": {
       "title": "The Executed Sage Who was Reincarnated as a Lich Started an All-Out War",
@@ -10331,9 +10332,10 @@
       "title": "All, All Because of You",
       "url": "https://mangadex.org/title/d8aa410e-a169-4af2-a49c-ac161e2efc7f",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-06T14:18:26Z",
-      "removed_at": null
+      "removed_at": "2026-10-14T02:01:45Z",
+      "removed_by_source": true
     },
     "99b8eaeb-9041-4bfd-8eb7-d72addc88eb7": {
       "title": "The Café Terrace and Its Goddesses",
@@ -10434,9 +10436,10 @@
       "title": "A Hungry Mother and Daughter and Her Ex-Boyfriend Landlord",
       "url": "https://mangadex.org/title/2505ceca-d841-4ed4-9004-2344e8477bd9",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-07T09:34:46Z",
-      "removed_at": null
+      "removed_at": "2026-10-14T02:01:45Z",
+      "removed_by_source": true
     },
     "2b0744d4-bcbf-448e-996f-3ac6f2ec6634": {
       "title": "Athena-san Who Demands Something in Return",
@@ -10592,9 +10595,10 @@
       "title": "Her Relationship with Him",
       "url": "https://mangadex.org/title/472960b1-369b-4fd4-8e5f-21feecebb6c3",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-08T02:08:04Z",
-      "removed_at": null
+      "removed_at": "2026-10-14T02:01:45Z",
+      "removed_by_source": true
     },
     "491bdbe0-0c83-42d5-8b20-3a651e65f70b": {
       "title": "If My Favourite Idol Made it to The Budoukan, I Would Die",
@@ -11440,6 +11444,22 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-13T23:21:09Z",
+      "removed_at": null
+    },
+    "270f205c-e9a6-4b24-b940-59d5c07829d1": {
+      "title": "Otaku x Gal",
+      "url": "https://mangadex.org/title/270f205c-e9a6-4b24-b940-59d5c07829d1",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-14T02:01:45Z",
+      "removed_at": null
+    },
+    "42289724-53ab-4016-9812-cdb6a7d7ea0a": {
+      "title": "Scavengers: Another Sky",
+      "url": "https://mangadex.org/title/42289724-53ab-4016-9812-cdb6a7d7ea0a",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-14T02:01:45Z",
       "removed_at": null
     }
   }
