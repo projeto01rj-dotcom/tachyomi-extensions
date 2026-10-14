@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-14T07:51:07Z",
+  "updated_at": "2026-10-14T13:12:07Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -10759,9 +10759,10 @@
       "title": "The Story of an Exploration Hero Who has Worked His Way up From Common People",
       "url": "https://mangadex.org/title/95801a6e-1e69-4876-b7ed-41d92c9853e3",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-09T08:13:19Z",
-      "removed_at": null
+      "removed_at": "2026-10-14T13:12:07Z",
+      "removed_by_source": true
     },
     "d58abdf4-9268-41d8-9920-f8fe8858a173": {
       "title": "Shiori Experience: My Plain Self and an Odd Old Man",
@@ -11482,6 +11483,30 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-14T07:51:07Z",
+      "removed_at": null
+    },
+    "acdbf57f-bf54-41b4-8d92-b3f3d14c852e": {
+      "title": "I Want to End This Love Game",
+      "url": "https://mangadex.org/title/acdbf57f-bf54-41b4-8d92-b3f3d14c852e",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-14T13:12:07Z",
+      "removed_at": null
+    },
+    "b40483ce-e448-4671-a84e-b2ea8fef938a": {
+      "title": "The Virgin Hero Who Fought in the Dungeon for 20 Years Returned to the Surface Only to Find the Population of the World Has Dropped Drastically, with a Male-to-Female Ratio of 1:1000",
+      "url": "https://mangadex.org/title/b40483ce-e448-4671-a84e-b2ea8fef938a",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-14T13:12:07Z",
+      "removed_at": null
+    },
+    "b787bfae-7b1c-4964-a910-718529bbd377": {
+      "title": "My Daughter Left the Nest and Returned an S-Rank Adventurer: The Black-Haired Valkyrie",
+      "url": "https://mangadex.org/title/b787bfae-7b1c-4964-a910-718529bbd377",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-14T13:12:07Z",
       "removed_at": null
     }
   }

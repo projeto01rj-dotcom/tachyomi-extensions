@@ -1,0 +1,33 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-14T13:12:07Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "acdbf57f-bf54-41b4-8d92-b3f3d14c852e",
+      "title": "I Want to End This Love Game",
+      "url": "https://mangadex.org/title/acdbf57f-bf54-41b4-8d92-b3f3d14c852e"
+    },
+    {
+      "source": "mangadex",
+      "key": "b40483ce-e448-4671-a84e-b2ea8fef938a",
+      "title": "The Virgin Hero Who Fought in the Dungeon for 20 Years Returned to the Surface Only to Find the Population of the World Has Dropped Drastically, with a Male-to-Female Ratio of 1:1000",
+      "url": "https://mangadex.org/title/b40483ce-e448-4671-a84e-b2ea8fef938a"
+    },
+    {
+      "source": "mangadex",
+      "key": "b787bfae-7b1c-4964-a910-718529bbd377",
+      "title": "My Daughter Left the Nest and Returned an S-Rank Adventurer: The Black-Haired Valkyrie",
+      "url": "https://mangadex.org/title/b787bfae-7b1c-4964-a910-718529bbd377"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "95801a6e-1e69-4876-b7ed-41d92c9853e3",
+      "title": "The Story of an Exploration Hero Who has Worked His Way up From Common People",
+      "url": "https://mangadex.org/title/95801a6e-1e69-4876-b7ed-41d92c9853e3",
+      "removed_at": "2026-10-14T13:12:07Z"
+    }
+  ]
+}
