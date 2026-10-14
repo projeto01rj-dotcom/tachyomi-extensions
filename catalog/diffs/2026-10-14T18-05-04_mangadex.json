@@ -1,0 +1,81 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-14T18:05:04Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "315ec564-9f0f-4390-8e4f-9eade5b1943b",
+      "title": "I'm the Dying Emperor's Doctor",
+      "url": "https://mangadex.org/title/315ec564-9f0f-4390-8e4f-9eade5b1943b"
+    },
+    {
+      "source": "mangadex",
+      "key": "3bc7236f-4eb0-43f1-bd4f-16085e98805a",
+      "title": "The Lazy Villainous Noble Married the Villainous Young Lady and Became the Most Fearsome Couple",
+      "url": "https://mangadex.org/title/3bc7236f-4eb0-43f1-bd4f-16085e98805a"
+    },
+    {
+      "source": "mangadex",
+      "key": "dd9ceeae-a03b-4c16-8206-7365d5aacac9",
+      "title": "Haimiya-senpai is Scary and Cute",
+      "url": "https://mangadex.org/title/dd9ceeae-a03b-4c16-8206-7365d5aacac9"
+    },
+    {
+      "source": "mangadex",
+      "key": "e900135b-8eba-4d29-85c9-db3d5ae885c7",
+      "title": "The Ghostly Doctor",
+      "url": "https://mangadex.org/title/e900135b-8eba-4d29-85c9-db3d5ae885c7"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "c4e4daf8-f236-4b3f-ad5b-36d91deaafd7",
+      "title": "The Former Strongest Swordsman Strives to Learn Magic in Another World",
+      "url": "https://mangadex.org/title/c4e4daf8-f236-4b3f-ad5b-36d91deaafd7",
+      "removed_at": "2026-10-14T18:05:04Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "1765b1d0-ca8b-4e9d-8237-3c6f76e7c9c6",
+      "title": "Have a Nice Ending",
+      "url": "https://mangadex.org/title/1765b1d0-ca8b-4e9d-8237-3c6f76e7c9c6",
+      "removed_at": "2026-10-14T18:05:04Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "3da96505-f8e8-49d5-8c26-fbe4786a897f",
+      "title": "Too Many Losing Heroines!",
+      "url": "https://mangadex.org/title/3da96505-f8e8-49d5-8c26-fbe4786a897f",
+      "removed_at": "2026-10-14T18:05:04Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "9cc3be97-91c6-4ed7-ad28-dd396699ea87",
+      "title": "5Toubun no Hanayome - KosmosBeta's Nino Doujin",
+      "url": "https://mangadex.org/title/9cc3be97-91c6-4ed7-ad28-dd396699ea87",
+      "removed_at": "2026-10-14T18:05:04Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "d5dccaff-1727-4c20-9ab1-1d1b2bf330a2",
+      "title": "Ayame-san Is Too Kind, But Only To Ota-kun",
+      "url": "https://mangadex.org/title/d5dccaff-1727-4c20-9ab1-1d1b2bf330a2",
+      "removed_at": "2026-10-14T18:05:04Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "e3e3f084-6bdc-4ac1-8ec2-4ae3d474a3e5",
+      "title": "Circle: [Yurika] Yuri Anthology: The Only Plain Way ✕ AND-ONE!!",
+      "url": "https://mangadex.org/title/e3e3f084-6bdc-4ac1-8ec2-4ae3d474a3e5",
+      "removed_at": "2026-10-14T18:05:04Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "f349008f-0896-4ec8-bc37-56733525dfc7",
+      "title": "Girls x Vampire",
+      "url": "https://mangadex.org/title/f349008f-0896-4ec8-bc37-56733525dfc7",
+      "removed_at": "2026-10-14T18:05:04Z"
+    }
+  ]
+}
