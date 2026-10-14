@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-14T18:05:04Z",
+  "updated_at": "2026-10-14T21:50:43Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -10429,9 +10429,10 @@
       "title": "Vocalize",
       "url": "https://mangadex.org/title/142cd3cb-73c5-4f42-a604-62c68bf28f49",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-07T09:34:46Z",
-      "removed_at": null
+      "removed_at": "2026-10-14T21:50:43Z",
+      "removed_by_source": true
     },
     "2505ceca-d841-4ed4-9004-2344e8477bd9": {
       "title": "A Hungry Mother and Daughter and Her Ex-Boyfriend Landlord",
@@ -10831,9 +10832,10 @@
       "title": "GTO: Great Teacher Onizuka",
       "url": "https://mangadex.org/title/02860cdf-1020-40f1-a23f-2025d80f6290",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-09T20:11:26Z",
-      "removed_at": null
+      "removed_at": "2026-10-14T21:50:43Z",
+      "removed_by_source": true
     },
     "178d3cd8-4624-4afc-81b0-b2f260a1b28b": {
       "title": "The Warrior Princess and the Barbaric King",
@@ -10863,9 +10865,10 @@
       "title": "Aoashi",
       "url": "https://mangadex.org/title/b73371d4-02dd-4db0-b448-d9afa3d698f1",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-09T20:11:26Z",
-      "removed_at": null
+      "removed_at": "2026-10-14T21:50:43Z",
+      "removed_by_source": true
     },
     "1d9fad4e-b81a-4498-8cce-e5ddfb1e4f03": {
       "title": "Moriarty the Patriot",
@@ -11546,6 +11549,14 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-14T18:05:04Z",
+      "removed_at": null
+    },
+    "d587a5c2-842a-4fc5-a323-cddb5e41a2cb": {
+      "title": "Scooped up by an S-Rank Adventurer! This White Mage Is One Heck of a Healer",
+      "url": "https://mangadex.org/title/d587a5c2-842a-4fc5-a323-cddb5e41a2cb",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-14T21:50:43Z",
       "removed_at": null
     }
   }

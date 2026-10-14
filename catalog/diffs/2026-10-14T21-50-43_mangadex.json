@@ -1,0 +1,35 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-14T21:50:43Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "d587a5c2-842a-4fc5-a323-cddb5e41a2cb",
+      "title": "Scooped up by an S-Rank Adventurer! This White Mage Is One Heck of a Healer",
+      "url": "https://mangadex.org/title/d587a5c2-842a-4fc5-a323-cddb5e41a2cb"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "142cd3cb-73c5-4f42-a604-62c68bf28f49",
+      "title": "Vocalize",
+      "url": "https://mangadex.org/title/142cd3cb-73c5-4f42-a604-62c68bf28f49",
+      "removed_at": "2026-10-14T21:50:43Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "02860cdf-1020-40f1-a23f-2025d80f6290",
+      "title": "GTO: Great Teacher Onizuka",
+      "url": "https://mangadex.org/title/02860cdf-1020-40f1-a23f-2025d80f6290",
+      "removed_at": "2026-10-14T21:50:43Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "b73371d4-02dd-4db0-b448-d9afa3d698f1",
+      "title": "Aoashi",
+      "url": "https://mangadex.org/title/b73371d4-02dd-4db0-b448-d9afa3d698f1",
+      "removed_at": "2026-10-14T21:50:43Z"
+    }
+  ]
+}
