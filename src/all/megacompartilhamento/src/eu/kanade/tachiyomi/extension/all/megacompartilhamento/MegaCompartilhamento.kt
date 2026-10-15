@@ -10,12 +10,12 @@ import eu.kanade.tachiyomi.source.model.SManga
 import eu.kanade.tachiyomi.source.online.HttpSource
 import keiyoushi.annotation.Source
 import kotlinx.serialization.json.Json
+import kotlinx.serialization.json.JsonArray
 import kotlinx.serialization.json.JsonObject
 import kotlinx.serialization.json.JsonPrimitive
 import kotlinx.serialization.json.buildJsonArray
 import kotlinx.serialization.json.buildJsonObject
 import kotlinx.serialization.json.int
-import kotlinx.serialization.json.jsonArray
 import kotlinx.serialization.json.jsonObject
 import kotlinx.serialization.json.jsonPrimitive
 import okhttp3.MediaType.Companion.toMediaType
@@ -41,7 +41,9 @@ abstract class MegaCompartilhamento : HttpSource() {
             val rawKey = request.header(KEY_HEADER)
             val response = chain.proceed(request)
             if (rawKey == null || response.request.url.host != "g.api.mega.co.nz") return@addInterceptor response
-            val api = json.parseToJsonElement(response.body!!.string()).jsonArray.first().jsonObject
+            val api = runCatching {
+                (json.parseToJsonElement(response.body!!.string()) as JsonArray).first().jsonObject
+            }.getOrNull() ?: return@addInterceptor response
             response.close()
             val downloadUrl = api["g"]?.jsonPrimitive?.content ?: return@addInterceptor response
             val download = network.client.newCall(Request.Builder().url(downloadUrl).get().build()).execute()
@@ -61,7 +63,8 @@ abstract class MegaCompartilhamento : HttpSource() {
     private fun parseRoot(response: Response): MangasPage {
         val nodes = parseNodes(response)
         val nodeIds = nodes.mapTo(mutableSetOf()) { it.id }
-        val mangas = nodes.filter { it.type == 1 && it.parent !in nodeIds }.map { it.toManga() }
+        val rootFolders = nodes.filter { it.type == 1 && it.parent !in nodeIds }.mapTo(mutableSetOf()) { it.id }
+        val mangas = nodes.filter { it.type == 1 && it.parent in rootFolders }.map { it.toManga() }
         return MangasPage(mangas, false)
     }
 
@@ -127,11 +130,13 @@ abstract class MegaCompartilhamento : HttpSource() {
     }
 
     private fun parseNodes(response: Response): List<Node> {
-        val root = json.parseToJsonElement(response.body!!.string()).jsonArray.first().jsonObject
+        val payload = runCatching { json.parseToJsonElement(response.body!!.string()) }.getOrNull()
+        val root = (payload as? JsonArray)?.firstOrNull() as? JsonObject ?: return emptyList()
         val shareKey = shareKey()
         val folderKeys = mutableMapOf<String, ByteArray>()
-        return root["f"]?.jsonArray.orEmpty().mapNotNull { element ->
-            val obj = element.jsonObject
+        val nodeArray = root["f"] as? JsonArray ?: return emptyList()
+        return nodeArray.mapNotNull { element ->
+            val obj = element as? JsonObject ?: return@mapNotNull null
             val id = obj["h"]?.jsonPrimitive?.content ?: return@mapNotNull null
             val type = obj["t"]?.jsonPrimitive?.int ?: return@mapNotNull null
             val parent = obj["p"]?.jsonPrimitive?.content ?: ""
