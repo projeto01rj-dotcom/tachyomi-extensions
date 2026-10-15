@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-15T09:34:15Z",
+  "updated_at": "2026-10-15T14:34:15Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -10413,9 +10413,10 @@
       "title": "Super Cub",
       "url": "https://mangadex.org/title/96e1ddf1-55f8-4089-ac9c-92fd6837affc",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-07T02:37:05Z",
-      "removed_at": null
+      "removed_at": "2026-10-15T14:34:15Z",
+      "removed_by_source": true
     },
     "f4a5bb4f-440d-485a-94c3-8f5882e65a62": {
       "title": "Otome Holic",
@@ -10878,9 +10879,10 @@
       "title": "Moriarty the Patriot",
       "url": "https://mangadex.org/title/1d9fad4e-b81a-4498-8cce-e5ddfb1e4f03",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-10T00:08:35Z",
-      "removed_at": null
+      "removed_at": "2026-10-15T14:34:15Z",
+      "removed_by_source": true
     },
     "5178baad-a2ff-4b9f-9109-4871021445e7": {
       "title": "Name",
@@ -10895,17 +10897,19 @@
       "title": "A Gatherer's Adventure in Isekai",
       "url": "https://mangadex.org/title/77c8cc57-95c1-4f9b-8843-493eb2697566",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-10T00:08:35Z",
-      "removed_at": null
+      "removed_at": "2026-10-15T14:34:15Z",
+      "removed_by_source": true
     },
     "c4b1cb49-46e9-405d-8b48-8104de22e659": {
       "title": "Cosmos",
       "url": "https://mangadex.org/title/c4b1cb49-46e9-405d-8b48-8104de22e659",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-10T00:08:35Z",
-      "removed_at": null
+      "removed_at": "2026-10-15T14:34:15Z",
+      "removed_by_source": true
     },
     "d8056135-d944-421d-a603-267b2c486c17": {
       "title": "Getter Robo Arc",
@@ -10919,9 +10923,10 @@
       "title": "My Mom's a Superstar",
       "url": "https://mangadex.org/title/f157eb1e-3468-4abc-9541-472e59633ced",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-10T00:08:35Z",
-      "removed_at": null
+      "removed_at": "2026-10-15T14:34:15Z",
+      "removed_by_source": true
     },
     "a711f7e2-d42e-4026-a2ff-03657d5bc6d2": {
       "title": "I Will Not Reach You",
@@ -11594,6 +11599,22 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-15T09:34:15Z",
+      "removed_at": null
+    },
+    "983c0d0a-8cad-4b1b-b054-d1c0463527ac": {
+      "title": "Tenken 4koma Gekijou ~Fran to Shishou no Nichijou~",
+      "url": "https://mangadex.org/title/983c0d0a-8cad-4b1b-b054-d1c0463527ac",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-15T14:34:15Z",
+      "removed_at": null
+    },
+    "db90d832-59a6-4f1a-97cc-84226bdd5d12": {
+      "title": "Sem título",
+      "url": "https://mangadex.org/title/db90d832-59a6-4f1a-97cc-84226bdd5d12",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-15T14:34:15Z",
       "removed_at": null
     }
   }

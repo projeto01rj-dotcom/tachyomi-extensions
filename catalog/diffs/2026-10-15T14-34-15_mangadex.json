@@ -1,0 +1,55 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-15T14:34:15Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "983c0d0a-8cad-4b1b-b054-d1c0463527ac",
+      "title": "Tenken 4koma Gekijou ~Fran to Shishou no Nichijou~",
+      "url": "https://mangadex.org/title/983c0d0a-8cad-4b1b-b054-d1c0463527ac"
+    },
+    {
+      "source": "mangadex",
+      "key": "db90d832-59a6-4f1a-97cc-84226bdd5d12",
+      "title": "Sem título",
+      "url": "https://mangadex.org/title/db90d832-59a6-4f1a-97cc-84226bdd5d12"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "96e1ddf1-55f8-4089-ac9c-92fd6837affc",
+      "title": "Super Cub",
+      "url": "https://mangadex.org/title/96e1ddf1-55f8-4089-ac9c-92fd6837affc",
+      "removed_at": "2026-10-15T14:34:15Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "1d9fad4e-b81a-4498-8cce-e5ddfb1e4f03",
+      "title": "Moriarty the Patriot",
+      "url": "https://mangadex.org/title/1d9fad4e-b81a-4498-8cce-e5ddfb1e4f03",
+      "removed_at": "2026-10-15T14:34:15Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "77c8cc57-95c1-4f9b-8843-493eb2697566",
+      "title": "A Gatherer's Adventure in Isekai",
+      "url": "https://mangadex.org/title/77c8cc57-95c1-4f9b-8843-493eb2697566",
+      "removed_at": "2026-10-15T14:34:15Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "c4b1cb49-46e9-405d-8b48-8104de22e659",
+      "title": "Cosmos",
+      "url": "https://mangadex.org/title/c4b1cb49-46e9-405d-8b48-8104de22e659",
+      "removed_at": "2026-10-15T14:34:15Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "f157eb1e-3468-4abc-9541-472e59633ced",
+      "title": "My Mom's a Superstar",
+      "url": "https://mangadex.org/title/f157eb1e-3468-4abc-9541-472e59633ced",
+      "removed_at": "2026-10-15T14:34:15Z"
+    }
+  ]
+}
