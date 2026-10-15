@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-15T00:12:07Z",
+  "updated_at": "2026-10-15T04:56:14Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -10850,9 +10850,10 @@
       "title": "Fate/Grand Order -turas réalta-",
       "url": "https://mangadex.org/title/8a1b2e8c-afd9-4c43-ba96-0eb1507a4ddf",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-09T20:11:26Z",
-      "removed_at": null
+      "removed_at": "2026-10-15T04:56:14Z",
+      "removed_by_source": true
     },
     "b252e636-0143-42d7-903c-de0c9772d5fb": {
       "title": "Peddler in Another World: I can Go Back to My World Whenever I Want",
@@ -11567,6 +11568,22 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-15T00:12:07Z",
+      "removed_at": null
+    },
+    "79dba6c7-cc1e-475c-971b-82898375d27b": {
+      "title": "Fox-Faced Husband And Wife",
+      "url": "https://mangadex.org/title/79dba6c7-cc1e-475c-971b-82898375d27b",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-15T04:56:14Z",
+      "removed_at": null
+    },
+    "9bc96d35-29f4-4c91-9f8d-069267fb7aa9": {
+      "title": "The 11th Cat is Nene",
+      "url": "https://mangadex.org/title/9bc96d35-29f4-4c91-9f8d-069267fb7aa9",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-15T04:56:14Z",
       "removed_at": null
     }
   }

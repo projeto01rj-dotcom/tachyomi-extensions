@@ -1,0 +1,27 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-15T04:56:14Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "79dba6c7-cc1e-475c-971b-82898375d27b",
+      "title": "Fox-Faced Husband And Wife",
+      "url": "https://mangadex.org/title/79dba6c7-cc1e-475c-971b-82898375d27b"
+    },
+    {
+      "source": "mangadex",
+      "key": "9bc96d35-29f4-4c91-9f8d-069267fb7aa9",
+      "title": "The 11th Cat is Nene",
+      "url": "https://mangadex.org/title/9bc96d35-29f4-4c91-9f8d-069267fb7aa9"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "8a1b2e8c-afd9-4c43-ba96-0eb1507a4ddf",
+      "title": "Fate/Grand Order -turas réalta-",
+      "url": "https://mangadex.org/title/8a1b2e8c-afd9-4c43-ba96-0eb1507a4ddf",
+      "removed_at": "2026-10-15T04:56:14Z"
+    }
+  ]
+}
