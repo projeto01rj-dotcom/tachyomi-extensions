@@ -1,0 +1,97 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-15T18:47:37Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "38c6f934-7558-4d1b-80d1-91114e0419eb",
+      "title": "The Invincible Summoner Who Crawled up from Level 1",
+      "url": "https://mangadex.org/title/38c6f934-7558-4d1b-80d1-91114e0419eb"
+    },
+    {
+      "source": "mangadex",
+      "key": "3c8ddbf0-7807-493b-960d-c1e508f12c46",
+      "title": "The Marshal King",
+      "url": "https://mangadex.org/title/3c8ddbf0-7807-493b-960d-c1e508f12c46"
+    },
+    {
+      "source": "mangadex",
+      "key": "45777a73-98a6-47ba-b7df-e879365cb1cb",
+      "title": "Evergreen",
+      "url": "https://mangadex.org/title/45777a73-98a6-47ba-b7df-e879365cb1cb"
+    },
+    {
+      "source": "mangadex",
+      "key": "5fc26352-350e-4c09-9c58-f2c041cd430d",
+      "title": "Dungeons That Surely Slaughter Adventurers",
+      "url": "https://mangadex.org/title/5fc26352-350e-4c09-9c58-f2c041cd430d"
+    },
+    {
+      "source": "mangadex",
+      "key": "68236d5a-329c-4fb4-9ebb-7f7264fe28a9",
+      "title": "What's with the Bag, Kamiyama-san?",
+      "url": "https://mangadex.org/title/68236d5a-329c-4fb4-9ebb-7f7264fe28a9"
+    },
+    {
+      "source": "mangadex",
+      "key": "6b9bd81a-ae0f-4495-bde9-9ba20ee00981",
+      "title": "It's So Sweet When I Marry My Organization's Nemesis",
+      "url": "https://mangadex.org/title/6b9bd81a-ae0f-4495-bde9-9ba20ee00981"
+    },
+    {
+      "source": "mangadex",
+      "key": "b6b87e4d-c1cc-4d0b-8588-df715dd98624",
+      "title": "In the Land of Leadale",
+      "url": "https://mangadex.org/title/b6b87e4d-c1cc-4d0b-8588-df715dd98624"
+    },
+    {
+      "source": "mangadex",
+      "key": "ec8f26f4-bc9f-43b6-93ec-60a05638fca0",
+      "title": "Different World Foundation",
+      "url": "https://mangadex.org/title/ec8f26f4-bc9f-43b6-93ec-60a05638fca0"
+    },
+    {
+      "source": "mangadex",
+      "key": "ef25dabb-969e-4a87-b854-b15a53b9209f",
+      "title": "Farewell Mr. Despair",
+      "url": "https://mangadex.org/title/ef25dabb-969e-4a87-b854-b15a53b9209f"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "db692d58-4b13-4174-ae8c-30c515c0689c",
+      "title": "Hunter x Hunter",
+      "url": "https://mangadex.org/title/db692d58-4b13-4174-ae8c-30c515c0689c",
+      "removed_at": "2026-10-15T18:47:37Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "d8056135-d944-421d-a603-267b2c486c17",
+      "title": "Getter Robo Arc",
+      "url": "https://mangadex.org/title/d8056135-d944-421d-a603-267b2c486c17",
+      "removed_at": "2026-10-15T18:47:37Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "a711f7e2-d42e-4026-a2ff-03657d5bc6d2",
+      "title": "I Will Not Reach You",
+      "url": "https://mangadex.org/title/a711f7e2-d42e-4026-a2ff-03657d5bc6d2",
+      "removed_at": "2026-10-15T18:47:37Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "a762620e-3d41-4627-839f-aee3d2cf7758",
+      "title": "Orion's Board",
+      "url": "https://mangadex.org/title/a762620e-3d41-4627-839f-aee3d2cf7758",
+      "removed_at": "2026-10-15T18:47:37Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "b3a9c1f8-93d2-49ba-96e2-84727c1031a6",
+      "title": "Dropped into a New World? Purification is the basics!",
+      "url": "https://mangadex.org/title/b3a9c1f8-93d2-49ba-96e2-84727c1031a6",
+      "removed_at": "2026-10-15T18:47:37Z"
+    }
+  ]
+}

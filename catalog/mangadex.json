@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-15T14:34:15Z",
+  "updated_at": "2026-10-15T18:47:37Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -6774,9 +6774,10 @@
       "title": "Hunter x Hunter",
       "url": "https://mangadex.org/title/db692d58-4b13-4174-ae8c-30c515c0689c",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-23T15:08:12Z",
-      "removed_at": null
+      "removed_at": "2026-10-15T18:47:37Z",
+      "removed_by_source": true
     },
     "1aca5c7d-f9db-4b8f-90a3-d56bf357ecb9": {
       "title": "Burning Kabaddi",
@@ -10915,9 +10916,10 @@
       "title": "Getter Robo Arc",
       "url": "https://mangadex.org/title/d8056135-d944-421d-a603-267b2c486c17",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-10T00:08:35Z",
-      "removed_at": null
+      "removed_at": "2026-10-15T18:47:37Z",
+      "removed_by_source": true
     },
     "f157eb1e-3468-4abc-9541-472e59633ced": {
       "title": "My Mom's a Superstar",
@@ -10932,17 +10934,19 @@
       "title": "I Will Not Reach You",
       "url": "https://mangadex.org/title/a711f7e2-d42e-4026-a2ff-03657d5bc6d2",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-10T06:07:20Z",
-      "removed_at": null
+      "removed_at": "2026-10-15T18:47:37Z",
+      "removed_by_source": true
     },
     "a762620e-3d41-4627-839f-aee3d2cf7758": {
       "title": "Orion's Board",
       "url": "https://mangadex.org/title/a762620e-3d41-4627-839f-aee3d2cf7758",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-10T06:07:20Z",
-      "removed_at": null
+      "removed_at": "2026-10-15T18:47:37Z",
+      "removed_by_source": true
     },
     "f486a183-6660-492b-b94b-aa80960d8326": {
       "title": "Dragon Ball Super - Digital Colored Comics",
@@ -10964,9 +10968,10 @@
       "title": "Dropped into a New World? Purification is the basics!",
       "url": "https://mangadex.org/title/b3a9c1f8-93d2-49ba-96e2-84727c1031a6",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-10T12:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-15T18:47:37Z",
+      "removed_by_source": true
     },
     "d88f684f-6cfe-4d31-9605-9e9f73f7ff11": {
       "title": "The Days of Diamond",
@@ -11615,6 +11620,78 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-15T14:34:15Z",
+      "removed_at": null
+    },
+    "38c6f934-7558-4d1b-80d1-91114e0419eb": {
+      "title": "The Invincible Summoner Who Crawled up from Level 1",
+      "url": "https://mangadex.org/title/38c6f934-7558-4d1b-80d1-91114e0419eb",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-15T18:47:37Z",
+      "removed_at": null
+    },
+    "3c8ddbf0-7807-493b-960d-c1e508f12c46": {
+      "title": "The Marshal King",
+      "url": "https://mangadex.org/title/3c8ddbf0-7807-493b-960d-c1e508f12c46",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-15T18:47:37Z",
+      "removed_at": null
+    },
+    "45777a73-98a6-47ba-b7df-e879365cb1cb": {
+      "title": "Evergreen",
+      "url": "https://mangadex.org/title/45777a73-98a6-47ba-b7df-e879365cb1cb",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-15T18:47:37Z",
+      "removed_at": null
+    },
+    "5fc26352-350e-4c09-9c58-f2c041cd430d": {
+      "title": "Dungeons That Surely Slaughter Adventurers",
+      "url": "https://mangadex.org/title/5fc26352-350e-4c09-9c58-f2c041cd430d",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-15T18:47:37Z",
+      "removed_at": null
+    },
+    "68236d5a-329c-4fb4-9ebb-7f7264fe28a9": {
+      "title": "What's with the Bag, Kamiyama-san?",
+      "url": "https://mangadex.org/title/68236d5a-329c-4fb4-9ebb-7f7264fe28a9",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-15T18:47:37Z",
+      "removed_at": null
+    },
+    "6b9bd81a-ae0f-4495-bde9-9ba20ee00981": {
+      "title": "It's So Sweet When I Marry My Organization's Nemesis",
+      "url": "https://mangadex.org/title/6b9bd81a-ae0f-4495-bde9-9ba20ee00981",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-15T18:47:37Z",
+      "removed_at": null
+    },
+    "b6b87e4d-c1cc-4d0b-8588-df715dd98624": {
+      "title": "In the Land of Leadale",
+      "url": "https://mangadex.org/title/b6b87e4d-c1cc-4d0b-8588-df715dd98624",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-15T18:47:37Z",
+      "removed_at": null
+    },
+    "ec8f26f4-bc9f-43b6-93ec-60a05638fca0": {
+      "title": "Different World Foundation",
+      "url": "https://mangadex.org/title/ec8f26f4-bc9f-43b6-93ec-60a05638fca0",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-15T18:47:37Z",
+      "removed_at": null
+    },
+    "ef25dabb-969e-4a87-b854-b15a53b9209f": {
+      "title": "Farewell Mr. Despair",
+      "url": "https://mangadex.org/title/ef25dabb-969e-4a87-b854-b15a53b9209f",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-15T18:47:37Z",
       "removed_at": null
     }
   }
