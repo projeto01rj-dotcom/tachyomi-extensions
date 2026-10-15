@@ -1,0 +1,28 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-15T09:34:15Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "936771f7-eec8-45bd-b1fa-d5802a9cfd06",
+      "title": "APOSIMZ",
+      "url": "https://mangadex.org/title/936771f7-eec8-45bd-b1fa-d5802a9cfd06"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "69edf637-4258-4540-9fd2-6fa6e53ca68c",
+      "title": "Stalker x Stalker",
+      "url": "https://mangadex.org/title/69edf637-4258-4540-9fd2-6fa6e53ca68c",
+      "removed_at": "2026-10-15T09:34:15Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "5178baad-a2ff-4b9f-9109-4871021445e7",
+      "title": "Name",
+      "url": "https://mangadex.org/title/5178baad-a2ff-4b9f-9109-4871021445e7",
+      "removed_at": "2026-10-15T09:34:15Z"
+    }
+  ]
+}
