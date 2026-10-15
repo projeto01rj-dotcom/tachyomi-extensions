@@ -1,0 +1,28 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-15T00:12:07Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "1ee97895-4796-4bcf-bcd1-5ef99c011f8b",
+      "title": "Laid-Back Camp",
+      "url": "https://mangadex.org/title/1ee97895-4796-4bcf-bcd1-5ef99c011f8b"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "178d3cd8-4624-4afc-81b0-b2f260a1b28b",
+      "title": "The Warrior Princess and the Barbaric King",
+      "url": "https://mangadex.org/title/178d3cd8-4624-4afc-81b0-b2f260a1b28b",
+      "removed_at": "2026-10-15T00:12:07Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "b252e636-0143-42d7-903c-de0c9772d5fb",
+      "title": "Peddler in Another World: I can Go Back to My World Whenever I Want",
+      "url": "https://mangadex.org/title/b252e636-0143-42d7-903c-de0c9772d5fb",
+      "removed_at": "2026-10-15T00:12:07Z"
+    }
+  ]
+}

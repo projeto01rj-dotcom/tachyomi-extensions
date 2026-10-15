@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-14T21:50:43Z",
+  "updated_at": "2026-10-15T00:12:07Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -10841,9 +10841,10 @@
       "title": "The Warrior Princess and the Barbaric King",
       "url": "https://mangadex.org/title/178d3cd8-4624-4afc-81b0-b2f260a1b28b",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-09T20:11:26Z",
-      "removed_at": null
+      "removed_at": "2026-10-15T00:12:07Z",
+      "removed_by_source": true
     },
     "8a1b2e8c-afd9-4c43-ba96-0eb1507a4ddf": {
       "title": "Fate/Grand Order -turas réalta-",
@@ -10857,9 +10858,10 @@
       "title": "Peddler in Another World: I can Go Back to My World Whenever I Want",
       "url": "https://mangadex.org/title/b252e636-0143-42d7-903c-de0c9772d5fb",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-09T20:11:26Z",
-      "removed_at": null
+      "removed_at": "2026-10-15T00:12:07Z",
+      "removed_by_source": true
     },
     "b73371d4-02dd-4db0-b448-d9afa3d698f1": {
       "title": "Aoashi",
@@ -11557,6 +11559,14 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-14T21:50:43Z",
+      "removed_at": null
+    },
+    "1ee97895-4796-4bcf-bcd1-5ef99c011f8b": {
+      "title": "Laid-Back Camp",
+      "url": "https://mangadex.org/title/1ee97895-4796-4bcf-bcd1-5ef99c011f8b",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-15T00:12:07Z",
       "removed_at": null
     }
   }
