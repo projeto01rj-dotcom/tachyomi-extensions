@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-15T18:47:37Z",
+  "updated_at": "2026-10-15T21:53:01Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -88,9 +88,10 @@
       "title": "Kuzu!! - Another Crows: Kuzugami Tatsuo",
       "url": "https://mangadex.org/title/081d25db-d663-4eed-9899-fba7cb246ba3",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-15T21:53:01Z",
+      "removed_by_source": true
     },
     "08a25bd7-ce34-4630-8552-b93fe16852d9": {
       "title": "Time Stop Hero",
@@ -10960,9 +10961,10 @@
       "title": "Yane Urabeya no Koushaku Fujin",
       "url": "https://mangadex.org/title/ab44f11b-a02c-427e-84ee-cce4bb6e77ef",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-10T12:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-15T21:53:01Z",
+      "removed_by_source": true
     },
     "b3a9c1f8-93d2-49ba-96e2-84727c1031a6": {
       "title": "Dropped into a New World? Purification is the basics!",
@@ -10985,17 +10987,19 @@
       "title": "Wistoria: Wand and Sword",
       "url": "https://mangadex.org/title/e43a7f5b-6ae7-478d-a4d5-53c8dc3ce52f",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-10T12:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-15T21:53:01Z",
+      "removed_by_source": true
     },
     "e6d70578-d6b2-4c60-a2f4-7ab16e515480": {
       "title": "Youth is a Love Triangle Loop",
       "url": "https://mangadex.org/title/e6d70578-d6b2-4c60-a2f4-7ab16e515480",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-10T12:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-15T21:53:01Z",
+      "removed_by_source": true
     },
     "0f19ed5a-e496-4416-8d4d-86d338655156": {
       "title": "Ri-chan",
@@ -11692,6 +11696,14 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-15T18:47:37Z",
+      "removed_at": null
+    },
+    "1dcc48ba-e371-4028-8ac3-fd90b882edfa": {
+      "title": "Shadow Skill",
+      "url": "https://mangadex.org/title/1dcc48ba-e371-4028-8ac3-fd90b882edfa",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-15T21:53:01Z",
       "removed_at": null
     }
   }

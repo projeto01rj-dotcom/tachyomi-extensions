@@ -1,0 +1,42 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-15T21:53:01Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "1dcc48ba-e371-4028-8ac3-fd90b882edfa",
+      "title": "Shadow Skill",
+      "url": "https://mangadex.org/title/1dcc48ba-e371-4028-8ac3-fd90b882edfa"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "081d25db-d663-4eed-9899-fba7cb246ba3",
+      "title": "Kuzu!! - Another Crows: Kuzugami Tatsuo",
+      "url": "https://mangadex.org/title/081d25db-d663-4eed-9899-fba7cb246ba3",
+      "removed_at": "2026-10-15T21:53:01Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "ab44f11b-a02c-427e-84ee-cce4bb6e77ef",
+      "title": "Yane Urabeya no Koushaku Fujin",
+      "url": "https://mangadex.org/title/ab44f11b-a02c-427e-84ee-cce4bb6e77ef",
+      "removed_at": "2026-10-15T21:53:01Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "e43a7f5b-6ae7-478d-a4d5-53c8dc3ce52f",
+      "title": "Wistoria: Wand and Sword",
+      "url": "https://mangadex.org/title/e43a7f5b-6ae7-478d-a4d5-53c8dc3ce52f",
+      "removed_at": "2026-10-15T21:53:01Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "e6d70578-d6b2-4c60-a2f4-7ab16e515480",
+      "title": "Youth is a Love Triangle Loop",
+      "url": "https://mangadex.org/title/e6d70578-d6b2-4c60-a2f4-7ab16e515480",
+      "removed_at": "2026-10-15T21:53:01Z"
+    }
+  ]
+}
