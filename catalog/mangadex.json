@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-15T21:53:01Z",
+  "updated_at": "2026-10-15T23:59:24Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -11046,9 +11046,10 @@
       "title": "Extraordinary Descent Genius",
       "url": "https://mangadex.org/title/8e9c0fe2-68d4-4224-9f96-ac51464eb94a",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-10T17:33:32Z",
-      "removed_at": null
+      "removed_at": "2026-10-15T23:59:24Z",
+      "removed_by_source": true
     },
     "2862555d-a54b-4ece-92a0-aabfaaa472ae": {
       "title": "Sensual Sensei",
@@ -11704,6 +11705,14 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-15T21:53:01Z",
+      "removed_at": null
+    },
+    "192aa767-2479-42c1-9780-8d65a2efd36a": {
+      "title": "Gachiakuta",
+      "url": "https://mangadex.org/title/192aa767-2479-42c1-9780-8d65a2efd36a",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-15T23:59:24Z",
       "removed_at": null
     }
   }

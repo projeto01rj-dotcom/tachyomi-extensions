@@ -1,0 +1,21 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-15T23:59:24Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "192aa767-2479-42c1-9780-8d65a2efd36a",
+      "title": "Gachiakuta",
+      "url": "https://mangadex.org/title/192aa767-2479-42c1-9780-8d65a2efd36a"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "8e9c0fe2-68d4-4224-9f96-ac51464eb94a",
+      "title": "Extraordinary Descent Genius",
+      "url": "https://mangadex.org/title/8e9c0fe2-68d4-4224-9f96-ac51464eb94a",
+      "removed_at": "2026-10-15T23:59:24Z"
+    }
+  ]
+}
