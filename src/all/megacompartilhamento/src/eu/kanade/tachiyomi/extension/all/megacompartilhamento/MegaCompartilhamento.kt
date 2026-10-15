@@ -1,8 +1,6 @@
 package eu.kanade.tachiyomi.extension.all.megacompartilhamento
 
 import android.util.Base64
-import androidx.preference.EditTextPreference
-import androidx.preference.PreferenceScreen
 import eu.kanade.tachiyomi.network.POST
 import eu.kanade.tachiyomi.source.model.FilterList
 import eu.kanade.tachiyomi.source.model.MangasPage
@@ -13,10 +11,12 @@ import eu.kanade.tachiyomi.source.online.HttpSource
 import keiyoushi.annotation.Source
 import kotlinx.serialization.json.Json
 import kotlinx.serialization.json.JsonObject
+import kotlinx.serialization.json.JsonPrimitive
 import kotlinx.serialization.json.buildJsonArray
 import kotlinx.serialization.json.buildJsonObject
 import kotlinx.serialization.json.int
 import kotlinx.serialization.json.jsonArray
+import kotlinx.serialization.json.jsonObject
 import kotlinx.serialization.json.jsonPrimitive
 import okhttp3.MediaType.Companion.toMediaType
 import okhttp3.OkHttpClient
@@ -30,9 +30,9 @@ import javax.crypto.spec.SecretKeySpec
 
 @Source
 abstract class MegaCompartilhamento : HttpSource() {
+    override val supportsLatest = true
     private val json = Json { ignoreUnknownKeys = true }
-    private val preferences by lazy { keiyoushi.utils.getPreferences(id) }
-    private val shareUrl get() = preferences.getString(PREF_LINK, DEFAULT_LINK).orEmpty()
+    private val shareUrl = DEFAULT_LINK
     private val apiHost = "https://g.api.mega.co.nz"
 
     override val client: OkHttpClient = network.client.newBuilder()
@@ -51,16 +51,6 @@ abstract class MegaCompartilhamento : HttpSource() {
         }
         .build()
 
-    override fun setupPreferenceScreen(screen: PreferenceScreen) {
-        EditTextPreference(screen.context).apply {
-            key = PREF_LINK
-            title = "Link da pasta pública MEGA"
-            dialogTitle = "Link da pasta pública MEGA"
-            summary = "Sem login; somente leitura"
-            setDefaultValue(DEFAULT_LINK)
-        }.also(screen::addPreference)
-    }
-
     override fun popularMangaRequest(page: Int): Request = megaRequest(listRequest())
     override fun popularMangaParse(response: Response): MangasPage = parseRoot(response)
     override fun latestUpdatesRequest(page: Int): Request = megaRequest(listRequest())
@@ -70,8 +60,8 @@ abstract class MegaCompartilhamento : HttpSource() {
 
     private fun parseRoot(response: Response): MangasPage {
         val nodes = parseNodes(response)
-        val root = shareParts().first
-        val mangas = nodes.filter { it.parent == root && it.type == 1 }.map { it.toManga() }
+        val nodeIds = nodes.mapTo(mutableSetOf()) { it.id }
+        val mangas = nodes.filter { it.type == 1 && it.parent !in nodeIds }.map { it.toManga() }
         return MangasPage(mangas, false)
     }
 
@@ -101,7 +91,7 @@ abstract class MegaCompartilhamento : HttpSource() {
         val id = response.request.url.queryParameter("manga") ?: return emptyList()
         val nodes = parseNodes(response)
         return nodes.filter { it.parent == id && it.type == 0 }
-            .sortedWith(compareBy({ naturalKey(it.name) }, { it.name }))
+            .sortedBy { it.name.lowercase().padStart(12, '0') }
             .mapIndexed { index, node -> Page(index, imageUrl = "mega://${node.id}!${encode(node.key)}") }
     }
 
@@ -115,10 +105,17 @@ abstract class MegaCompartilhamento : HttpSource() {
     override fun imageUrlParse(response: Response): String = response.request.url.toString()
 
     private fun listRequest(): JsonObject = buildJsonObject {
-        put("a", "f"); put("c", 1); put("ca", 1); put("r", 1)
+        put("a", JsonPrimitive("f"))
+        put("c", JsonPrimitive(1))
+        put("ca", JsonPrimitive(1))
+        put("r", JsonPrimitive(1))
     }
 
-    private fun downloadRequest(id: String): JsonObject = buildJsonObject { put("a", "g"); put("g", 1); put("p", id) }
+    private fun downloadRequest(id: String): JsonObject = buildJsonObject {
+        put("a", JsonPrimitive("g"))
+        put("g", JsonPrimitive(1))
+        put("n", JsonPrimitive(id))
+    }
 
     private fun megaRequest(payload: JsonObject, parent: String? = null, host: String = apiHost): Request {
         val body = buildJsonArray { add(payload) }.toString().toRequestBody("application/json".toMediaType())
@@ -132,15 +129,23 @@ abstract class MegaCompartilhamento : HttpSource() {
     private fun parseNodes(response: Response): List<Node> {
         val root = json.parseToJsonElement(response.body!!.string()).jsonArray.first().jsonObject
         val shareKey = shareKey()
+        val folderKeys = mutableMapOf<String, ByteArray>()
         return root["f"]?.jsonArray.orEmpty().mapNotNull { element ->
             val obj = element.jsonObject
             val id = obj["h"]?.jsonPrimitive?.content ?: return@mapNotNull null
             val type = obj["t"]?.jsonPrimitive?.int ?: return@mapNotNull null
             val parent = obj["p"]?.jsonPrimitive?.content ?: ""
-            val encryptedNodeKey = obj["k"]?.jsonPrimitive?.content?.substringAfterLast(':') ?: return@mapNotNull null
-            val rawKey = decryptKey(decode(encryptedNodeKey), shareKey)
+            val keyParts = obj["k"]?.jsonPrimitive?.content
+                ?.split('/')
+                ?.mapNotNull { part -> part.split(':', limit = 2).takeIf { it.size == 2 } }
+                ?: return@mapNotNull null
+            val encryptedNodeKey = keyParts.firstOrNull { it[0] == parent }?.get(1)
+                ?: keyParts.lastOrNull()?.get(1)
+                ?: return@mapNotNull null
+            val rawKey = decryptKey(decode(encryptedNodeKey), folderKeys[parent] ?: shareKey)
             val attributes = obj["a"]?.jsonPrimitive?.content ?: return@mapNotNull null
             val name = decryptAttributes(decode(attributes), if (type == 0) xorKey(rawKey) else rawKey) ?: return@mapNotNull null
+            if (type == 1) folderKeys[id] = rawKey
             Node(id, parent, type, name, rawKey)
         }
     }
@@ -155,7 +160,7 @@ abstract class MegaCompartilhamento : HttpSource() {
 
     private fun shareKey(): ByteArray = shareParts().second
 
-    private fun decryptKey(data: ByteArray, key: ByteArray): ByteArray = aesCbc(data, key, Cipher.DECRYPT_MODE)
+    private fun decryptKey(data: ByteArray, key: ByteArray): ByteArray = data.asList().chunked(16).flatMap { aesCbc(it.toByteArray(), key, Cipher.DECRYPT_MODE).asList() }.toByteArray()
     private fun decryptAttributes(data: ByteArray, key: ByteArray): String? = runCatching {
         val plain = aesCbc(data, key, Cipher.DECRYPT_MODE).toString(Charsets.UTF_8).trimEnd('\u0000')
         if (!plain.startsWith("MEGA{")) null else Json.parseToJsonElement(plain.substring(4)).jsonObject["n"]?.jsonPrimitive?.content
@@ -177,7 +182,7 @@ abstract class MegaCompartilhamento : HttpSource() {
 
     private fun xorKey(key: ByteArray): ByteArray {
         if (key.size < 32) return key
-        return ByteArray(16) { key[it] xor key[it + 16] }
+        return ByteArray(16) { key[it].toInt().xor(key[it + 16].toInt()).toByte() }
     }
 
     private fun decode(value: String): ByteArray = Base64.decode(value.replace('-', '+').replace('_', '/').padEnd((value.length + 3) / 4 * 4, '='), Base64.DEFAULT)
@@ -186,11 +191,13 @@ abstract class MegaCompartilhamento : HttpSource() {
     private fun naturalKey(value: String): List<String> = Regex("\\d+|\\D+").findAll(value.lowercase()).map { it.value }.toList()
 
     private data class Node(val id: String, val parent: String, val type: Int, val name: String, val key: ByteArray) {
-        fun toManga() = SManga.create().apply { url = "manga:$id"; title = name }
+        fun toManga() = SManga.create().apply {
+            url = "manga:$id"
+            title = name
+        }
     }
 
     companion object {
-        private const val PREF_LINK = "mega_public_link"
         private const val DEFAULT_LINK = "https://mega.nz/folder/cFdglQSR#hDL6wCQQhEzDtJxykk55Vg"
         private const val KEY_HEADER = "X-Mega-File-Key"
     }

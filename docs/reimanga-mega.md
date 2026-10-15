@@ -18,7 +18,7 @@ pasta compartilhada/
         └── 001.png
 ```
 
-A fonte MEGA usa a pasta pública configurada nas preferências. O padrão é o link compartilhado fornecido para este projeto. A chave do link fica no fragmento da URL e é usada somente no aparelho; não há e-mail, senha ou token de conta no código.
+A fonte MEGA usa o link público compartilhado fornecido para este projeto. A chave do link fica no fragmento da URL e é usada somente no aparelho; não há e-mail, senha ou token de conta no código.
 
 ## O que fica fora do APK
 
@@ -41,7 +41,7 @@ Esse agente externo deve receber a conta MEGA por variável de ambiente ou cofre
 - Mangás e capítulos que já estejam em português no Reimanga permanecem sem alteração.
 - Capítulos traduzidos aparecem na fonte **MEGA compartilhamento (PT-BR)** depois que a pasta pública for atualizada e a fonte for recarregada no Mihon.
 - A integração não altera arquivos das fontes existentes do repositório.
-- O build local desta sessão não pôde ser concluído porque o sandbox não possui Android SDK instalado; o JDK foi instalado e o Gradle parou antes da compilação ao procurar o SDK. A validação final deve ser executada em CI ou em um ambiente Android configurado.
+- O build direcionado das duas fontes foi executado com sucesso no sandbox após a instalação do Android SDK. O workflow oficial também foi atualizado para compilá-las.
 
 ## Privacidade e segurança
 

@@ -5,6 +5,9 @@ on:
     branches:
       - main
       - master
+  pull_request:
+    branches:
+      - main
   workflow_dispatch:
 
 permissions:
@@ -46,6 +49,8 @@ jobs:
         run: |
           ./gradlew \
             :src:all:mangadex:assembleRelease \
+            :src:all:megacompartilhamento:assembleRelease \
+            :src:en:reimanga:assembleRelease \
             :src:pt:mangaonline:assembleRelease \
             :src:pt:noxmangas:assembleRelease \
             :src:pt:saikaiscan:assembleRelease \
@@ -64,6 +69,7 @@ jobs:
           if-no-files-found: error
 
       - name: Preparar e publicar branch repo
+        if: github.event_name != 'pull_request'
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
