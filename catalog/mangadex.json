@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-16T20:19:14Z",
+  "updated_at": "2026-10-16T22:55:39Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -10656,9 +10656,10 @@
       "title": "In My Past Life I Was the Cold-Hearted Emperor, in This Life I'm a Young Girl",
       "url": "https://mangadex.org/title/0ca5bda2-0567-4529-963f-4136a098d4aa",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-08T16:41:43Z",
-      "removed_at": null
+      "removed_at": "2026-10-16T22:55:39Z",
+      "removed_by_source": true
     },
     "50ced036-edd9-43e6-aff9-14a691071456": {
       "title": "Kamen Rider Kuuga",
@@ -11161,9 +11162,10 @@
       "title": "They Are Both Succubi",
       "url": "https://mangadex.org/title/32c97209-8341-4714-b2ba-ae0a95d0fbd3",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-11T13:11:21Z",
-      "removed_at": null
+      "removed_at": "2026-10-16T22:55:39Z",
+      "removed_by_source": true
     },
     "5ca26e13-c7d4-46de-a035-90c9bc52e06d": {
       "title": "Star Ginseng Store",
@@ -11177,9 +11179,10 @@
       "title": "The Blank Love Letter",
       "url": "https://mangadex.org/title/a7b889b3-6fc6-47f7-b436-abd8325728df",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-11T13:11:21Z",
-      "removed_at": null
+      "removed_at": "2026-10-16T22:55:39Z",
+      "removed_by_source": true
     },
     "3c710e15-7fea-4635-9c58-db0410695b70": {
       "title": "My Wife Is a Half-Dragon",
@@ -11851,6 +11854,22 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-16T20:19:14Z",
+      "removed_at": null
+    },
+    "245f2aac-1aee-4983-b2d5-34ea5dab460e": {
+      "title": "xxxHOLiC: Return",
+      "url": "https://mangadex.org/title/245f2aac-1aee-4983-b2d5-34ea5dab460e",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-16T22:55:39Z",
+      "removed_at": null
+    },
+    "84703c86-eb83-45ec-8fc5-f34a25115893": {
+      "title": "Dai Dark",
+      "url": "https://mangadex.org/title/84703c86-eb83-45ec-8fc5-f34a25115893",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-16T22:55:39Z",
       "removed_at": null
     }
   }

@@ -1,0 +1,41 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-16T22:55:39Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "245f2aac-1aee-4983-b2d5-34ea5dab460e",
+      "title": "xxxHOLiC: Return",
+      "url": "https://mangadex.org/title/245f2aac-1aee-4983-b2d5-34ea5dab460e"
+    },
+    {
+      "source": "mangadex",
+      "key": "84703c86-eb83-45ec-8fc5-f34a25115893",
+      "title": "Dai Dark",
+      "url": "https://mangadex.org/title/84703c86-eb83-45ec-8fc5-f34a25115893"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "0ca5bda2-0567-4529-963f-4136a098d4aa",
+      "title": "In My Past Life I Was the Cold-Hearted Emperor, in This Life I'm a Young Girl",
+      "url": "https://mangadex.org/title/0ca5bda2-0567-4529-963f-4136a098d4aa",
+      "removed_at": "2026-10-16T22:55:39Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "32c97209-8341-4714-b2ba-ae0a95d0fbd3",
+      "title": "They Are Both Succubi",
+      "url": "https://mangadex.org/title/32c97209-8341-4714-b2ba-ae0a95d0fbd3",
+      "removed_at": "2026-10-16T22:55:39Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "a7b889b3-6fc6-47f7-b436-abd8325728df",
+      "title": "The Blank Love Letter",
+      "url": "https://mangadex.org/title/a7b889b3-6fc6-47f7-b436-abd8325728df",
+      "removed_at": "2026-10-16T22:55:39Z"
+    }
+  ]
+}
