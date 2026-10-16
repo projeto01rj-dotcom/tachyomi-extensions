@@ -1,0 +1,33 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-16T08:37:51Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "16c34950-954c-4f0d-808e-d8278a546339",
+      "title": "I Can Now See a Few Minutes Into the Future, but I Still Can’t Understand a Woman’s Heart.",
+      "url": "https://mangadex.org/title/16c34950-954c-4f0d-808e-d8278a546339"
+    },
+    {
+      "source": "mangadex",
+      "key": "733d95ce-4dc2-4c02-a177-6cb772b18317",
+      "title": "The Girl I Saved on the Train Turned out to Be My Childhood Friend",
+      "url": "https://mangadex.org/title/733d95ce-4dc2-4c02-a177-6cb772b18317"
+    },
+    {
+      "source": "mangadex",
+      "key": "99182618-ae92-4aec-a5df-518659b7b613",
+      "title": "Rebuild World",
+      "url": "https://mangadex.org/title/99182618-ae92-4aec-a5df-518659b7b613"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "0f19ed5a-e496-4416-8d4d-86d338655156",
+      "title": "Ri-chan",
+      "url": "https://mangadex.org/title/0f19ed5a-e496-4416-8d4d-86d338655156",
+      "removed_at": "2026-10-16T08:37:51Z"
+    }
+  ]
+}

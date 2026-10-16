@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-16T03:46:24Z",
+  "updated_at": "2026-10-16T08:37:51Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -11006,9 +11006,10 @@
       "title": "Ri-chan",
       "url": "https://mangadex.org/title/0f19ed5a-e496-4416-8d4d-86d338655156",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-10T17:33:32Z",
-      "removed_at": null
+      "removed_at": "2026-10-16T08:37:51Z",
+      "removed_by_source": true
     },
     "0f70c48e-7b17-4f46-b81d-608eab57c47c": {
       "title": "The Rock 'n Roll Band",
@@ -11732,6 +11733,30 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-16T03:46:24Z",
+      "removed_at": null
+    },
+    "16c34950-954c-4f0d-808e-d8278a546339": {
+      "title": "I Can Now See a Few Minutes Into the Future, but I Still Can’t Understand a Woman’s Heart.",
+      "url": "https://mangadex.org/title/16c34950-954c-4f0d-808e-d8278a546339",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-16T08:37:51Z",
+      "removed_at": null
+    },
+    "733d95ce-4dc2-4c02-a177-6cb772b18317": {
+      "title": "The Girl I Saved on the Train Turned out to Be My Childhood Friend",
+      "url": "https://mangadex.org/title/733d95ce-4dc2-4c02-a177-6cb772b18317",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-16T08:37:51Z",
+      "removed_at": null
+    },
+    "99182618-ae92-4aec-a5df-518659b7b613": {
+      "title": "Rebuild World",
+      "url": "https://mangadex.org/title/99182618-ae92-4aec-a5df-518659b7b613",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-16T08:37:51Z",
       "removed_at": null
     }
   }
