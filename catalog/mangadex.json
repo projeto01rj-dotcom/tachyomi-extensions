@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-16T08:37:51Z",
+  "updated_at": "2026-10-16T13:38:56Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -10169,9 +10169,10 @@
       "title": "Marrying a Goddess and Living as Newlyweds in Another World",
       "url": "https://mangadex.org/title/1259b4af-266a-4980-83b0-e24f4b3b5658",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-06T00:30:38Z",
-      "removed_at": null
+      "removed_at": "2026-10-16T13:38:56Z",
+      "removed_by_source": true
     },
     "2c4b353f-d968-461b-be49-4f2599189a79": {
       "title": "Pokemon: Festival of Kings",
@@ -11059,33 +11060,37 @@
       "title": "Sensual Sensei",
       "url": "https://mangadex.org/title/2862555d-a54b-4ece-92a0-aabfaaa472ae",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-10T20:56:15Z",
-      "removed_at": null
+      "removed_at": "2026-10-16T13:38:56Z",
+      "removed_by_source": true
     },
     "3ee952f1-45c7-4c39-aea2-7df7676606d4": {
       "title": "Blue Exorcist",
       "url": "https://mangadex.org/title/3ee952f1-45c7-4c39-aea2-7df7676606d4",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-10T20:56:15Z",
-      "removed_at": null
+      "removed_at": "2026-10-16T13:38:56Z",
+      "removed_by_source": true
     },
     "857a4d6b-7228-42e1-b49c-bbb50a8befdd": {
       "title": "Shonan Junai-gumi!",
       "url": "https://mangadex.org/title/857a4d6b-7228-42e1-b49c-bbb50a8befdd",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-10T20:56:15Z",
-      "removed_at": null
+      "removed_at": "2026-10-16T13:38:56Z",
+      "removed_by_source": true
     },
     "b68d970e-6be7-461c-82e8-7986ec7c8037": {
       "title": "Thus Spoke the Rabbit",
       "url": "https://mangadex.org/title/b68d970e-6be7-461c-82e8-7986ec7c8037",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-10T20:56:15Z",
-      "removed_at": null
+      "removed_at": "2026-10-16T13:38:56Z",
+      "removed_by_source": true
     },
     "0a817d8e-6458-4332-bdf1-63318e2dc740": {
       "title": "I'm Standing on a Million Lives",
@@ -11099,17 +11104,19 @@
       "title": "Getter and I",
       "url": "https://mangadex.org/title/711b18fe-064f-4bdd-aa1c-c3757b3e83be",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-11T00:03:48Z",
-      "removed_at": null
+      "removed_at": "2026-10-16T13:38:56Z",
+      "removed_by_source": true
     },
     "76baa138-ad6c-4d25-8084-fe6a24a45273": {
       "title": "Oniyuri-san and Himeyuri-san",
       "url": "https://mangadex.org/title/76baa138-ad6c-4d25-8084-fe6a24a45273",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-11T00:03:48Z",
-      "removed_at": null
+      "removed_at": "2026-10-16T13:38:56Z",
+      "removed_by_source": true
     },
     "d1a3a8a0-a2e8-484a-9f06-dbe146b53e26": {
       "title": "There's No Way We'd Make a Watanare Doujinshi! (Unless...)",
@@ -11757,6 +11764,30 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-16T08:37:51Z",
+      "removed_at": null
+    },
+    "9e954c6b-7a02-4fd7-986d-6331c0ba95d4": {
+      "title": "The Summer Hikaru Died",
+      "url": "https://mangadex.org/title/9e954c6b-7a02-4fd7-986d-6331c0ba95d4",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-16T13:38:56Z",
+      "removed_at": null
+    },
+    "b29da26e-39f2-4e64-b96f-62818b209d73": {
+      "title": "When I Brought a Lost Girl Home, the Most Beautiful Girl in My Grade Came Out the Front Door",
+      "url": "https://mangadex.org/title/b29da26e-39f2-4e64-b96f-62818b209d73",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-16T13:38:56Z",
+      "removed_at": null
+    },
+    "d4b793e6-ebcf-4619-a3b1-bf2b16026b23": {
+      "title": "This Gender-Bent Girl Lost Everything Within Ten Days",
+      "url": "https://mangadex.org/title/d4b793e6-ebcf-4619-a3b1-bf2b16026b23",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-16T13:38:56Z",
       "removed_at": null
     }
   }
