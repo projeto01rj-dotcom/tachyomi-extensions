@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-15T23:59:24Z",
+  "updated_at": "2026-10-16T03:46:24Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -1241,9 +1241,10 @@
       "title": "We're Newlyweds but I Still Can’t Sleep With Her, because she's the Team Captain",
       "url": "https://mangadex.org/title/51f96647-89e6-430a-a96a-f45e72543f8c",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-16T03:46:24Z",
+      "removed_by_source": true
     },
     "52d4ad1e-d02c-4fef-81d6-1e758e699d31": {
       "title": "The Jobless Siblings",
@@ -11022,17 +11023,19 @@
       "title": "Hiragi-san’s House of Vampires",
       "url": "https://mangadex.org/title/182f72c5-1949-4b22-8335-a64cafd128cb",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-10T17:33:32Z",
-      "removed_at": null
+      "removed_at": "2026-10-16T03:46:24Z",
+      "removed_by_source": true
     },
     "21e185d3-e7a0-4902-8fdb-83f6c340c215": {
       "title": "Circle 「Yurika」 Yuri Anthology 2: Until You Love My Confession x Kogarashi's Luce",
       "url": "https://mangadex.org/title/21e185d3-e7a0-4902-8fdb-83f6c340c215",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-10T17:33:32Z",
-      "removed_at": null
+      "removed_at": "2026-10-16T03:46:24Z",
+      "removed_by_source": true
     },
     "6670ee28-f26d-4b61-b49c-d71149cd5a6e": {
       "title": "Mieruko-chan",
@@ -11713,6 +11716,22 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-15T23:59:24Z",
+      "removed_at": null
+    },
+    "3b33635c-e74b-4a22-8933-4d9483f560ce": {
+      "title": "Victoria of Many Faces",
+      "url": "https://mangadex.org/title/3b33635c-e74b-4a22-8933-4d9483f560ce",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-16T03:46:24Z",
+      "removed_at": null
+    },
+    "af0527c1-8734-4498-b128-7090340bc10d": {
+      "title": "Dragon Ball (Official Colored)",
+      "url": "https://mangadex.org/title/af0527c1-8734-4498-b128-7090340bc10d",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-16T03:46:24Z",
       "removed_at": null
     }
   }

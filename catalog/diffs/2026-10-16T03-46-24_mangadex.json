@@ -1,0 +1,41 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-16T03:46:24Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "3b33635c-e74b-4a22-8933-4d9483f560ce",
+      "title": "Victoria of Many Faces",
+      "url": "https://mangadex.org/title/3b33635c-e74b-4a22-8933-4d9483f560ce"
+    },
+    {
+      "source": "mangadex",
+      "key": "af0527c1-8734-4498-b128-7090340bc10d",
+      "title": "Dragon Ball (Official Colored)",
+      "url": "https://mangadex.org/title/af0527c1-8734-4498-b128-7090340bc10d"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "51f96647-89e6-430a-a96a-f45e72543f8c",
+      "title": "We're Newlyweds but I Still Can’t Sleep With Her, because she's the Team Captain",
+      "url": "https://mangadex.org/title/51f96647-89e6-430a-a96a-f45e72543f8c",
+      "removed_at": "2026-10-16T03:46:24Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "182f72c5-1949-4b22-8335-a64cafd128cb",
+      "title": "Hiragi-san’s House of Vampires",
+      "url": "https://mangadex.org/title/182f72c5-1949-4b22-8335-a64cafd128cb",
+      "removed_at": "2026-10-16T03:46:24Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "21e185d3-e7a0-4902-8fdb-83f6c340c215",
+      "title": "Circle 「Yurika」 Yuri Anthology 2: Until You Love My Confession x Kogarashi's Luce",
+      "url": "https://mangadex.org/title/21e185d3-e7a0-4902-8fdb-83f6c340c215",
+      "removed_at": "2026-10-16T03:46:24Z"
+    }
+  ]
+}
