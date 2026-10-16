@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-16T13:38:56Z",
+  "updated_at": "2026-10-16T17:45:15Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -10698,9 +10698,10 @@
       "title": "“Welcome Back, Papa”",
       "url": "https://mangadex.org/title/3d6ccd3e-f430-4eed-b0bc-59f91803b83f",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-08T21:40:34Z",
-      "removed_at": null
+      "removed_at": "2026-10-16T17:45:15Z",
+      "removed_by_source": true
     },
     "af6667a4-ae4c-4baa-9283-a01f56d7f489": {
       "title": "Since I'm Interested In Your Hair",
@@ -11096,9 +11097,10 @@
       "title": "I'm Standing on a Million Lives",
       "url": "https://mangadex.org/title/0a817d8e-6458-4332-bdf1-63318e2dc740",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-11T00:03:48Z",
-      "removed_at": null
+      "removed_at": "2026-10-16T17:45:15Z",
+      "removed_by_source": true
     },
     "711b18fe-064f-4bdd-aa1c-c3757b3e83be": {
       "title": "Getter and I",
@@ -11122,9 +11124,10 @@
       "title": "There's No Way We'd Make a Watanare Doujinshi! (Unless...)",
       "url": "https://mangadex.org/title/d1a3a8a0-a2e8-484a-9f06-dbe146b53e26",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-11T00:03:48Z",
-      "removed_at": null
+      "removed_at": "2026-10-16T17:45:15Z",
+      "removed_by_source": true
     },
     "17d4e6e2-5151-4fa0-a29b-8c22ff3f002d": {
       "title": "Sayonara Piano Sonata",
@@ -11788,6 +11791,38 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-16T13:38:56Z",
+      "removed_at": null
+    },
+    "33af412e-8d17-4ce5-90a5-a0857b8cb0ed": {
+      "title": "Yoru no Kurage wa Oyogenai",
+      "url": "https://mangadex.org/title/33af412e-8d17-4ce5-90a5-a0857b8cb0ed",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-16T17:45:15Z",
+      "removed_at": null
+    },
+    "7fb957e4-a94b-496d-be91-b7d75fad7b21": {
+      "title": "You can't Be in a Rom-Com with Your Childhood Friends!",
+      "url": "https://mangadex.org/title/7fb957e4-a94b-496d-be91-b7d75fad7b21",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-16T17:45:15Z",
+      "removed_at": null
+    },
+    "e1a23218-096e-4a51-afe9-e27177bd9eed": {
+      "title": "A Temporary Contract Marriage That Turned Into a Real Family",
+      "url": "https://mangadex.org/title/e1a23218-096e-4a51-afe9-e27177bd9eed",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-16T17:45:15Z",
+      "removed_at": null
+    },
+    "e39eb61f-f538-46fe-b8bf-db115ec51d1d": {
+      "title": "Sem título",
+      "url": "https://mangadex.org/title/e39eb61f-f538-46fe-b8bf-db115ec51d1d",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-16T17:45:15Z",
       "removed_at": null
     }
   }
