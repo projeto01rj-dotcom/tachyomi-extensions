@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-16T17:45:15Z",
+  "updated_at": "2026-10-16T20:19:14Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -10621,9 +10621,10 @@
       "title": "Tsuki Tsuki!",
       "url": "https://mangadex.org/title/395c5ef0-edad-461b-ba6c-7a5227ad18bb",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-08T09:14:22Z",
-      "removed_at": null
+      "removed_at": "2026-10-16T20:19:14Z",
+      "removed_by_source": true
     },
     "8f047748-9a0b-40b2-9747-dc47d1d83290": {
       "title": "Immature Succubus",
@@ -10956,9 +10957,10 @@
       "title": "Dragon Ball Super - Digital Colored Comics",
       "url": "https://mangadex.org/title/f486a183-6660-492b-b94b-aa80960d8326",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-10T06:07:20Z",
-      "removed_at": null
+      "removed_at": "2026-10-16T20:19:14Z",
+      "removed_by_source": true
     },
     "ab44f11b-a02c-427e-84ee-cce4bb6e77ef": {
       "title": "Yane Urabeya no Koushaku Fujin",
@@ -11133,9 +11135,10 @@
       "title": "Sayonara Piano Sonata",
       "url": "https://mangadex.org/title/17d4e6e2-5151-4fa0-a29b-8c22ff3f002d",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-11T06:05:02Z",
-      "removed_at": null
+      "removed_at": "2026-10-16T20:19:14Z",
+      "removed_by_source": true
     },
     "e0ab9365-1174-4090-bbb2-7e3631b6eeeb": {
       "title": "The Tower of Eden: Luluchika, Kunya and the Tower's Labyrinth",
@@ -11149,9 +11152,10 @@
       "title": "Saint Seiya: Saint Mariya",
       "url": "https://mangadex.org/title/f40bef93-cb97-439c-b74a-10edb7914834",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-11T06:05:02Z",
-      "removed_at": null
+      "removed_at": "2026-10-16T20:19:14Z",
+      "removed_by_source": true
     },
     "32c97209-8341-4714-b2ba-ae0a95d0fbd3": {
       "title": "They Are Both Succubi",
@@ -11823,6 +11827,30 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-16T17:45:15Z",
+      "removed_at": null
+    },
+    "0b2beaa6-08df-44e5-a404-ecee109744fc": {
+      "title": "Candy♥Candy",
+      "url": "https://mangadex.org/title/0b2beaa6-08df-44e5-a404-ecee109744fc",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-16T20:19:14Z",
+      "removed_at": null
+    },
+    "175be589-d357-4704-85ec-aeeacb2f416f": {
+      "title": "The Fake Alchemist",
+      "url": "https://mangadex.org/title/175be589-d357-4704-85ec-aeeacb2f416f",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-16T20:19:14Z",
+      "removed_at": null
+    },
+    "b7af9467-a5d3-470a-86e9-b5ae4a82e0cd": {
+      "title": "JoJo's Bizarre Adventure, Part 4: Diamond Is Unbreakable - Digital Colored Comics",
+      "url": "https://mangadex.org/title/b7af9467-a5d3-470a-86e9-b5ae4a82e0cd",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-16T20:19:14Z",
       "removed_at": null
     }
   }

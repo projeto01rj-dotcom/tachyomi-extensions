@@ -1,0 +1,54 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-16T20:19:14Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "0b2beaa6-08df-44e5-a404-ecee109744fc",
+      "title": "Candy♥Candy",
+      "url": "https://mangadex.org/title/0b2beaa6-08df-44e5-a404-ecee109744fc"
+    },
+    {
+      "source": "mangadex",
+      "key": "175be589-d357-4704-85ec-aeeacb2f416f",
+      "title": "The Fake Alchemist",
+      "url": "https://mangadex.org/title/175be589-d357-4704-85ec-aeeacb2f416f"
+    },
+    {
+      "source": "mangadex",
+      "key": "b7af9467-a5d3-470a-86e9-b5ae4a82e0cd",
+      "title": "JoJo's Bizarre Adventure, Part 4: Diamond Is Unbreakable - Digital Colored Comics",
+      "url": "https://mangadex.org/title/b7af9467-a5d3-470a-86e9-b5ae4a82e0cd"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "395c5ef0-edad-461b-ba6c-7a5227ad18bb",
+      "title": "Tsuki Tsuki!",
+      "url": "https://mangadex.org/title/395c5ef0-edad-461b-ba6c-7a5227ad18bb",
+      "removed_at": "2026-10-16T20:19:14Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "f486a183-6660-492b-b94b-aa80960d8326",
+      "title": "Dragon Ball Super - Digital Colored Comics",
+      "url": "https://mangadex.org/title/f486a183-6660-492b-b94b-aa80960d8326",
+      "removed_at": "2026-10-16T20:19:14Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "17d4e6e2-5151-4fa0-a29b-8c22ff3f002d",
+      "title": "Sayonara Piano Sonata",
+      "url": "https://mangadex.org/title/17d4e6e2-5151-4fa0-a29b-8c22ff3f002d",
+      "removed_at": "2026-10-16T20:19:14Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "f40bef93-cb97-439c-b74a-10edb7914834",
+      "title": "Saint Seiya: Saint Mariya",
+      "url": "https://mangadex.org/title/f40bef93-cb97-439c-b74a-10edb7914834",
+      "removed_at": "2026-10-16T20:19:14Z"
+    }
+  ]
+}
