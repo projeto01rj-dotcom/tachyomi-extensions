@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-17T09:32:20Z",
+  "updated_at": "2026-10-17T13:22:47Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -11230,9 +11230,10 @@
       "title": "The Insipid Prince's Furtive Grab for the Throne",
       "url": "https://mangadex.org/title/cbce49c7-6311-4955-8b10-1005775d5cee",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-11T18:13:04Z",
-      "removed_at": null
+      "removed_at": "2026-10-17T13:22:47Z",
+      "removed_by_source": true
     },
     "d362fd89-f15c-481f-8bf1-17e59e125d03": {
       "title": "Mix",
@@ -11896,6 +11897,22 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-17T09:32:20Z",
+      "removed_at": null
+    },
+    "4c3e41c6-da40-4df1-9978-1c26f7130166": {
+      "title": "DBVS",
+      "url": "https://mangadex.org/title/4c3e41c6-da40-4df1-9978-1c26f7130166",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-17T13:22:47Z",
+      "removed_at": null
+    },
+    "c82a466d-34dd-420a-b068-29f639d1380e": {
+      "title": "Propeller Heaven",
+      "url": "https://mangadex.org/title/c82a466d-34dd-420a-b068-29f639d1380e",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-17T13:22:47Z",
       "removed_at": null
     }
   }

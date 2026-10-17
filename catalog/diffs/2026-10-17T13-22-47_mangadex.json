@@ -1,0 +1,27 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-17T13:22:47Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "4c3e41c6-da40-4df1-9978-1c26f7130166",
+      "title": "DBVS",
+      "url": "https://mangadex.org/title/4c3e41c6-da40-4df1-9978-1c26f7130166"
+    },
+    {
+      "source": "mangadex",
+      "key": "c82a466d-34dd-420a-b068-29f639d1380e",
+      "title": "Propeller Heaven",
+      "url": "https://mangadex.org/title/c82a466d-34dd-420a-b068-29f639d1380e"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "cbce49c7-6311-4955-8b10-1005775d5cee",
+      "title": "The Insipid Prince's Furtive Grab for the Throne",
+      "url": "https://mangadex.org/title/cbce49c7-6311-4955-8b10-1005775d5cee",
+      "removed_at": "2026-10-17T13:22:47Z"
+    }
+  ]
+}
