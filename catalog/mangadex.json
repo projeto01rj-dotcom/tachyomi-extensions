@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-17T18:57:42Z",
+  "updated_at": "2026-10-17T21:14:02Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -10188,9 +10188,10 @@
       "title": "The Trash Lady Who Stole the Duke's First Night",
       "url": "https://mangadex.org/title/3e5b8986-e4e3-4544-ba45-7b4420395a46",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-06T00:30:38Z",
-      "removed_at": null
+      "removed_at": "2026-10-17T21:14:02Z",
+      "removed_by_source": true
     },
     "52ed62f8-2baf-4d7d-8948-dad4041fbab6": {
       "title": "Spirit Fingers!",
@@ -11284,9 +11285,10 @@
       "title": "Blue Box",
       "url": "https://mangadex.org/title/ed5dddc0-999d-4fd2-a702-9fef1ec2c955",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-11T22:11:24Z",
-      "removed_at": null
+      "removed_at": "2026-10-17T21:14:02Z",
+      "removed_by_source": true
     },
     "64aecfbb-672d-42b7-b21f-793de6e24f41": {
       "title": "GATE SEASON 2: Thus The JSDF Fought In Those Seas",
@@ -11943,6 +11945,22 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-17T18:57:42Z",
+      "removed_at": null
+    },
+    "9695225f-0dbf-46e9-bf9f-2605c2d561d9": {
+      "title": "Kurosagi: The Black Swindler",
+      "url": "https://mangadex.org/title/9695225f-0dbf-46e9-bf9f-2605c2d561d9",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-17T21:14:02Z",
+      "removed_at": null
+    },
+    "df9316fb-f900-49b4-96ac-8dbca96d2fac": {
+      "title": "Mikazuki no Carte",
+      "url": "https://mangadex.org/title/df9316fb-f900-49b4-96ac-8dbca96d2fac",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-17T21:14:02Z",
       "removed_at": null
     }
   }

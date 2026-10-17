@@ -1,0 +1,34 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-17T21:14:02Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "9695225f-0dbf-46e9-bf9f-2605c2d561d9",
+      "title": "Kurosagi: The Black Swindler",
+      "url": "https://mangadex.org/title/9695225f-0dbf-46e9-bf9f-2605c2d561d9"
+    },
+    {
+      "source": "mangadex",
+      "key": "df9316fb-f900-49b4-96ac-8dbca96d2fac",
+      "title": "Mikazuki no Carte",
+      "url": "https://mangadex.org/title/df9316fb-f900-49b4-96ac-8dbca96d2fac"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "3e5b8986-e4e3-4544-ba45-7b4420395a46",
+      "title": "The Trash Lady Who Stole the Duke's First Night",
+      "url": "https://mangadex.org/title/3e5b8986-e4e3-4544-ba45-7b4420395a46",
+      "removed_at": "2026-10-17T21:14:02Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "ed5dddc0-999d-4fd2-a702-9fef1ec2c955",
+      "title": "Blue Box",
+      "url": "https://mangadex.org/title/ed5dddc0-999d-4fd2-a702-9fef1ec2c955",
+      "removed_at": "2026-10-17T21:14:02Z"
+    }
+  ]
+}
