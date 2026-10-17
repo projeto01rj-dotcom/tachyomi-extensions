@@ -1,0 +1,19 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-17T09:32:20Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "bc86a871-ddc5-4e42-812a-ccd38101d82e",
+      "title": "Rainbows After Storms",
+      "url": "https://mangadex.org/title/bc86a871-ddc5-4e42-812a-ccd38101d82e"
+    },
+    {
+      "source": "mangadex",
+      "key": "e5e48e54-9844-4f57-8f93-df82205bad2e",
+      "title": "The Elf Sisters Can't Wait for the Night",
+      "url": "https://mangadex.org/title/e5e48e54-9844-4f57-8f93-df82205bad2e"
+    }
+  ],
+  "removed": []
+}

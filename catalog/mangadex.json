@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-17T05:13:48Z",
+  "updated_at": "2026-10-17T09:32:20Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -11880,6 +11880,22 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-17T05:13:48Z",
+      "removed_at": null
+    },
+    "bc86a871-ddc5-4e42-812a-ccd38101d82e": {
+      "title": "Rainbows After Storms",
+      "url": "https://mangadex.org/title/bc86a871-ddc5-4e42-812a-ccd38101d82e",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-17T09:32:20Z",
+      "removed_at": null
+    },
+    "e5e48e54-9844-4f57-8f93-df82205bad2e": {
+      "title": "The Elf Sisters Can't Wait for the Night",
+      "url": "https://mangadex.org/title/e5e48e54-9844-4f57-8f93-df82205bad2e",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-17T09:32:20Z",
       "removed_at": null
     }
   }
