@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-17T13:22:47Z",
+  "updated_at": "2026-10-17T16:33:00Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -11214,17 +11214,19 @@
       "title": "The Summit of the Gods",
       "url": "https://mangadex.org/title/8d5e4567-dc46-4ef3-8af1-0fcf3b6c5e63",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-11T18:13:04Z",
-      "removed_at": null
+      "removed_at": "2026-10-17T16:33:00Z",
+      "removed_by_source": true
     },
     "c8a7bb0f-a6ae-4060-9b0e-8ad5f5d13cc9": {
       "title": "Isekai Craftsman: A Relaxing Tale of Chilling and Building from Scratch",
       "url": "https://mangadex.org/title/c8a7bb0f-a6ae-4060-9b0e-8ad5f5d13cc9",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-11T18:13:04Z",
-      "removed_at": null
+      "removed_at": "2026-10-17T16:33:00Z",
+      "removed_by_source": true
     },
     "cbce49c7-6311-4955-8b10-1005775d5cee": {
       "title": "The Insipid Prince's Furtive Grab for the Throne",
@@ -11913,6 +11915,22 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-17T13:22:47Z",
+      "removed_at": null
+    },
+    "84a16155-afda-47d5-9aec-606e46307231": {
+      "title": "Your SSS-Rank Afterlife is Confirmed, Virtuous Old Man",
+      "url": "https://mangadex.org/title/84a16155-afda-47d5-9aec-606e46307231",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-17T16:33:00Z",
+      "removed_at": null
+    },
+    "ecbb0ff6-8a80-4897-a13f-5305f6c181db": {
+      "title": "My Status Window Went on Strike",
+      "url": "https://mangadex.org/title/ecbb0ff6-8a80-4897-a13f-5305f6c181db",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-17T16:33:00Z",
       "removed_at": null
     }
   }

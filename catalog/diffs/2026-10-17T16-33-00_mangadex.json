@@ -1,0 +1,34 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-17T16:33:00Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "84a16155-afda-47d5-9aec-606e46307231",
+      "title": "Your SSS-Rank Afterlife is Confirmed, Virtuous Old Man",
+      "url": "https://mangadex.org/title/84a16155-afda-47d5-9aec-606e46307231"
+    },
+    {
+      "source": "mangadex",
+      "key": "ecbb0ff6-8a80-4897-a13f-5305f6c181db",
+      "title": "My Status Window Went on Strike",
+      "url": "https://mangadex.org/title/ecbb0ff6-8a80-4897-a13f-5305f6c181db"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "8d5e4567-dc46-4ef3-8af1-0fcf3b6c5e63",
+      "title": "The Summit of the Gods",
+      "url": "https://mangadex.org/title/8d5e4567-dc46-4ef3-8af1-0fcf3b6c5e63",
+      "removed_at": "2026-10-17T16:33:00Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "c8a7bb0f-a6ae-4060-9b0e-8ad5f5d13cc9",
+      "title": "Isekai Craftsman: A Relaxing Tale of Chilling and Building from Scratch",
+      "url": "https://mangadex.org/title/c8a7bb0f-a6ae-4060-9b0e-8ad5f5d13cc9",
+      "removed_at": "2026-10-17T16:33:00Z"
+    }
+  ]
+}
