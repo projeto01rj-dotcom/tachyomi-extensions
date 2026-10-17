@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-17T00:55:21Z",
+  "updated_at": "2026-10-17T05:13:48Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -10577,9 +10577,10 @@
       "title": "I Thought I'd Be Popular in a World Where Chastity is Reversed.",
       "url": "https://mangadex.org/title/8556c131-23ed-42d6-98ba-5f2aa5037843",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-07T22:08:13Z",
-      "removed_at": null
+      "removed_at": "2026-10-17T05:13:48Z",
+      "removed_by_source": true
     },
     "a08cd14f-68d4-4942-9305-2fe9d7d0339e": {
       "title": "The Apothecary Is Gonna Make This Ragged Elf Happy",
@@ -11871,6 +11872,14 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-16T22:55:39Z",
+      "removed_at": null
+    },
+    "b344c3f0-20b4-4127-bfe9-0d29874e41c6": {
+      "title": "My Harem Consists Entirely of Female Demon Villains",
+      "url": "https://mangadex.org/title/b344c3f0-20b4-4127-bfe9-0d29874e41c6",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-17T05:13:48Z",
       "removed_at": null
     }
   }

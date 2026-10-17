@@ -1,0 +1,21 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-17T05:13:48Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "b344c3f0-20b4-4127-bfe9-0d29874e41c6",
+      "title": "My Harem Consists Entirely of Female Demon Villains",
+      "url": "https://mangadex.org/title/b344c3f0-20b4-4127-bfe9-0d29874e41c6"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "8556c131-23ed-42d6-98ba-5f2aa5037843",
+      "title": "I Thought I'd Be Popular in a World Where Chastity is Reversed.",
+      "url": "https://mangadex.org/title/8556c131-23ed-42d6-98ba-5f2aa5037843",
+      "removed_at": "2026-10-17T05:13:48Z"
+    }
+  ]
+}
