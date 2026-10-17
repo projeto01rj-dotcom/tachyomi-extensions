@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-16T22:55:39Z",
+  "updated_at": "2026-10-17T00:55:21Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -11171,9 +11171,10 @@
       "title": "Star Ginseng Store",
       "url": "https://mangadex.org/title/5ca26e13-c7d4-46de-a035-90c9bc52e06d",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-11T13:11:21Z",
-      "removed_at": null
+      "removed_at": "2026-10-17T00:55:21Z",
+      "removed_by_source": true
     },
     "a7b889b3-6fc6-47f7-b436-abd8325728df": {
       "title": "The Blank Love Letter",

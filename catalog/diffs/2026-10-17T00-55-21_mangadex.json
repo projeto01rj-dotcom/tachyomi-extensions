@@ -1,0 +1,14 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-17T00:55:21Z",
+  "added": [],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "5ca26e13-c7d4-46de-a035-90c9bc52e06d",
+      "title": "Star Ginseng Store",
+      "url": "https://mangadex.org/title/5ca26e13-c7d4-46de-a035-90c9bc52e06d",
+      "removed_at": "2026-10-17T00:55:21Z"
+    }
+  ]
+}
