@@ -1,0 +1,28 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-17T23:15:28Z",
+  "added": [],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "4e6c7ed7-2111-4a3b-b34c-fbf07b1884c4",
+      "title": "Gangsta",
+      "url": "https://mangadex.org/title/4e6c7ed7-2111-4a3b-b34c-fbf07b1884c4",
+      "removed_at": "2026-10-17T23:15:28Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "8352a9ca-22e0-4a1c-bf1f-89f23d95262a",
+      "title": "Campfire Cooking in Another World with My Absurd Skill",
+      "url": "https://mangadex.org/title/8352a9ca-22e0-4a1c-bf1f-89f23d95262a",
+      "removed_at": "2026-10-17T23:15:28Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "e5e48e54-9844-4f57-8f93-df82205bad2e",
+      "title": "The Elf Sisters Can't Wait for the Night",
+      "url": "https://mangadex.org/title/e5e48e54-9844-4f57-8f93-df82205bad2e",
+      "removed_at": "2026-10-17T23:15:28Z"
+    }
+  ]
+}

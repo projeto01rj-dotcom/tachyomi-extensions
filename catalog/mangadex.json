@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-17T21:14:02Z",
+  "updated_at": "2026-10-17T23:15:28Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -10765,9 +10765,10 @@
       "title": "Gangsta",
       "url": "https://mangadex.org/title/4e6c7ed7-2111-4a3b-b34c-fbf07b1884c4",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-09T08:13:19Z",
-      "removed_at": null
+      "removed_at": "2026-10-17T23:15:28Z",
+      "removed_by_source": true
     },
     "95801a6e-1e69-4876-b7ed-41d92c9853e3": {
       "title": "The Story of an Exploration Hero Who has Worked His Way up From Common People",
@@ -11277,9 +11278,10 @@
       "title": "Campfire Cooking in Another World with My Absurd Skill",
       "url": "https://mangadex.org/title/8352a9ca-22e0-4a1c-bf1f-89f23d95262a",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-11T22:11:24Z",
-      "removed_at": null
+      "removed_at": "2026-10-17T23:15:28Z",
+      "removed_by_source": true
     },
     "ed5dddc0-999d-4fd2-a702-9fef1ec2c955": {
       "title": "Blue Box",
@@ -11903,9 +11905,10 @@
       "title": "The Elf Sisters Can't Wait for the Night",
       "url": "https://mangadex.org/title/e5e48e54-9844-4f57-8f93-df82205bad2e",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-17T09:32:20Z",
-      "removed_at": null
+      "removed_at": "2026-10-17T23:15:28Z",
+      "removed_by_source": true
     },
     "4c3e41c6-da40-4df1-9978-1c26f7130166": {
       "title": "DBVS",
