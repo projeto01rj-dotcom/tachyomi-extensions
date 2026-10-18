@@ -1,0 +1,40 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-18T06:12:01Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "59f41b42-db80-41e5-b410-78d4ce2ac735",
+      "title": "Takami-san of the Heights",
+      "url": "https://mangadex.org/title/59f41b42-db80-41e5-b410-78d4ce2ac735"
+    },
+    {
+      "source": "mangadex",
+      "key": "b05825a3-9d8e-45bc-a45a-1fe065186b83",
+      "title": "Secret Girl Through the Filter",
+      "url": "https://mangadex.org/title/b05825a3-9d8e-45bc-a45a-1fe065186b83"
+    },
+    {
+      "source": "mangadex",
+      "key": "ef105a86-4b7e-4ac4-b45c-b7d83b8f5b5e",
+      "title": "Sem título",
+      "url": "https://mangadex.org/title/ef105a86-4b7e-4ac4-b45c-b7d83b8f5b5e"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "e0ab9365-1174-4090-bbb2-7e3631b6eeeb",
+      "title": "The Tower of Eden: Luluchika, Kunya and the Tower's Labyrinth",
+      "url": "https://mangadex.org/title/e0ab9365-1174-4090-bbb2-7e3631b6eeeb",
+      "removed_at": "2026-10-18T06:12:01Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "58eae7d5-79a7-4340-9241-58cd45313d2c",
+      "title": "Dolls Frontline: The Works of Hiroji Mishma",
+      "url": "https://mangadex.org/title/58eae7d5-79a7-4340-9241-58cd45313d2c",
+      "removed_at": "2026-10-18T06:12:01Z"
+    }
+  ]
+}
