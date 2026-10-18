@@ -53,6 +53,7 @@ jobs:
             :src:en:reimanga:assembleRelease \
             :src:pt:mangaonline:assembleRelease \
             :src:pt:noxmangas:assembleRelease \
+            :src:pt:loobyt:assembleRelease \
             :src:pt:saikaiscan:assembleRelease \
             --stacktrace > gradle-build.log 2>&1 || {
               while IFS= read -r line; do echo "::error::$line"; done < <(tail -n 90 gradle-build.log)
