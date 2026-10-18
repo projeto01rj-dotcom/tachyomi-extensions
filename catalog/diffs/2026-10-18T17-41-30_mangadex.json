@@ -1,0 +1,61 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-18T17:41:30Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "141609b6-cf86-4266-904c-6648f389cdc9",
+      "title": "RuriDragon",
+      "url": "https://mangadex.org/title/141609b6-cf86-4266-904c-6648f389cdc9"
+    },
+    {
+      "source": "mangadex",
+      "key": "39c9c088-3a83-4e61-a129-35fe299bbe3c",
+      "title": "Reincarnated as the Mastermind Behind the Story",
+      "url": "https://mangadex.org/title/39c9c088-3a83-4e61-a129-35fe299bbe3c"
+    },
+    {
+      "source": "mangadex",
+      "key": "690832ed-f81b-49b1-b461-6e4f6a274f41",
+      "title": "MoMo: the blood taker",
+      "url": "https://mangadex.org/title/690832ed-f81b-49b1-b461-6e4f6a274f41"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "2fdf9c63-9ccd-4098-840c-853307075f5f",
+      "title": "Sem título",
+      "url": "https://mangadex.org/title/2fdf9c63-9ccd-4098-840c-853307075f5f",
+      "removed_at": "2026-10-18T17:41:30Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "5d36e164-32de-4de7-a5db-8d53f4662af8",
+      "title": "Even If I Become a Girl with Tiger Ears",
+      "url": "https://mangadex.org/title/5d36e164-32de-4de7-a5db-8d53f4662af8",
+      "removed_at": "2026-10-18T17:41:30Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "2ea8f5bc-31a7-472e-9c60-705d586f0c83",
+      "title": "The Dark History of the Reincarnated Villainess",
+      "url": "https://mangadex.org/title/2ea8f5bc-31a7-472e-9c60-705d586f0c83",
+      "removed_at": "2026-10-18T17:41:30Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "ade2f85e-7bb4-4c55-a9e5-b782765ba0ad",
+      "title": "Encore of the World's End",
+      "url": "https://mangadex.org/title/ade2f85e-7bb4-4c55-a9e5-b782765ba0ad",
+      "removed_at": "2026-10-18T17:41:30Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "e0c6cde1-232e-45de-8e0d-b6902c1453d0",
+      "title": "Let this Grieving Soul Retire: Woe is the Weakling Who Leads the Strongest Party",
+      "url": "https://mangadex.org/title/e0c6cde1-232e-45de-8e0d-b6902c1453d0",
+      "removed_at": "2026-10-18T17:41:30Z"
+    }
+  ]
+}

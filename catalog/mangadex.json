@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-18T14:45:19Z",
+  "updated_at": "2026-10-18T17:41:30Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -5140,9 +5140,10 @@
       "title": "Sem título",
       "url": "https://mangadex.org/title/2fdf9c63-9ccd-4098-840c-853307075f5f",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-19T18:19:04Z",
-      "removed_at": null
+      "removed_at": "2026-10-18T17:41:30Z",
+      "removed_by_source": true
     },
     "5f056699-2250-44e9-bcea-0c8beefb42bf": {
       "title": "The Strongest Old Knight Commander is Celebrated as a Hero in the Countryside After Being Cheated on and Exiled",
@@ -9787,9 +9788,10 @@
       "title": "Even If I Become a Girl with Tiger Ears",
       "url": "https://mangadex.org/title/5d36e164-32de-4de7-a5db-8d53f4662af8",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-04T12:38:42Z",
-      "removed_at": null
+      "removed_at": "2026-10-18T17:41:30Z",
+      "removed_by_source": true
     },
     "c8b3d40c-86b8-41cd-a793-c280d5b9da10": {
       "title": "Death Frenzy",
@@ -11337,9 +11339,10 @@
       "title": "The Dark History of the Reincarnated Villainess",
       "url": "https://mangadex.org/title/2ea8f5bc-31a7-472e-9c60-705d586f0c83",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-12T17:10:34Z",
-      "removed_at": null
+      "removed_at": "2026-10-18T17:41:30Z",
+      "removed_by_source": true
     },
     "9607da06-6e14-4d2c-805d-b0b792b44bd9": {
       "title": "No Cooldown: Undead Catastrophe",
@@ -11361,17 +11364,19 @@
       "title": "Encore of the World's End",
       "url": "https://mangadex.org/title/ade2f85e-7bb4-4c55-a9e5-b782765ba0ad",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-12T17:10:34Z",
-      "removed_at": null
+      "removed_at": "2026-10-18T17:41:30Z",
+      "removed_by_source": true
     },
     "e0c6cde1-232e-45de-8e0d-b6902c1453d0": {
       "title": "Let this Grieving Soul Retire: Woe is the Weakling Who Leads the Strongest Party",
       "url": "https://mangadex.org/title/e0c6cde1-232e-45de-8e0d-b6902c1453d0",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-12T17:10:34Z",
-      "removed_at": null
+      "removed_at": "2026-10-18T17:41:30Z",
+      "removed_by_source": true
     },
     "fd688252-561c-48f1-909a-9b2c1e614cc7": {
       "title": "Hibernation",
@@ -12006,6 +12011,30 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-18T14:45:19Z",
+      "removed_at": null
+    },
+    "141609b6-cf86-4266-904c-6648f389cdc9": {
+      "title": "RuriDragon",
+      "url": "https://mangadex.org/title/141609b6-cf86-4266-904c-6648f389cdc9",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-18T17:41:30Z",
+      "removed_at": null
+    },
+    "39c9c088-3a83-4e61-a129-35fe299bbe3c": {
+      "title": "Reincarnated as the Mastermind Behind the Story",
+      "url": "https://mangadex.org/title/39c9c088-3a83-4e61-a129-35fe299bbe3c",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-18T17:41:30Z",
+      "removed_at": null
+    },
+    "690832ed-f81b-49b1-b461-6e4f6a274f41": {
+      "title": "MoMo: the blood taker",
+      "url": "https://mangadex.org/title/690832ed-f81b-49b1-b461-6e4f6a274f41",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-18T17:41:30Z",
       "removed_at": null
     }
   }
