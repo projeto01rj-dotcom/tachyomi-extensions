@@ -1,0 +1,21 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-18T22:06:14Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "3fba42cf-2ad6-4c30-a7ab-46cb8149208a",
+      "title": "Bungou Stray Dogs",
+      "url": "https://mangadex.org/title/3fba42cf-2ad6-4c30-a7ab-46cb8149208a"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "b4c93297-b32f-4f90-b619-55456a38b0aa",
+      "title": "More than a Married Couple, but Not Lovers",
+      "url": "https://mangadex.org/title/b4c93297-b32f-4f90-b619-55456a38b0aa",
+      "removed_at": "2026-10-18T22:06:14Z"
+    }
+  ]
+}

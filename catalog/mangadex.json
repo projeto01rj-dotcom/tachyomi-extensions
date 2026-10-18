@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-18T19:54:18Z",
+  "updated_at": "2026-10-18T22:06:14Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -9905,9 +9905,10 @@
       "title": "More than a Married Couple, but Not Lovers",
       "url": "https://mangadex.org/title/b4c93297-b32f-4f90-b619-55456a38b0aa",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-04T17:12:55Z",
-      "removed_at": null
+      "removed_at": "2026-10-18T22:06:14Z",
+      "removed_by_source": true
     },
     "bb8310e4-6050-4a43-984e-f7bbdfce23b1": {
       "title": "The Climber",
@@ -12039,6 +12040,14 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-18T17:41:30Z",
+      "removed_at": null
+    },
+    "3fba42cf-2ad6-4c30-a7ab-46cb8149208a": {
+      "title": "Bungou Stray Dogs",
+      "url": "https://mangadex.org/title/3fba42cf-2ad6-4c30-a7ab-46cb8149208a",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-18T22:06:14Z",
       "removed_at": null
     }
   }
