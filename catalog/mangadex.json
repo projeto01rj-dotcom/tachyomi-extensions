@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-18T06:12:01Z",
+  "updated_at": "2026-10-18T11:29:06Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -10402,9 +10402,10 @@
       "title": "Jobless Reincarnation ~I'll Try Seriously If I Go To Another World~ Anthology",
       "url": "https://mangadex.org/title/41c60ded-ce8b-45dc-a9b3-fe0e74ac5fe6",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-07T02:37:05Z",
-      "removed_at": null
+      "removed_at": "2026-10-18T11:29:06Z",
+      "removed_by_source": true
     },
     "58be6aa6-06cb-4ca5-bd20-f1392ce451fb": {
       "title": "Yotsuba&!",
@@ -11203,9 +11204,10 @@
       "title": "Ao Ashi Brotherfoot",
       "url": "https://mangadex.org/title/5eb2c6fa-4dc4-4fba-974f-ae44bd8ce2ff",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-11T18:13:04Z",
-      "removed_at": null
+      "removed_at": "2026-10-18T11:29:06Z",
+      "removed_by_source": true
     },
     "8211bac6-a392-4e37-b3b6-dac0f4512d24": {
       "title": "Re:ZERO -Starting Life in Another World-, Chapter 4: The Sanctuary and the Witch of Greed",
@@ -11308,17 +11310,19 @@
       "title": "Dragons Rioting",
       "url": "https://mangadex.org/title/83b2fefd-3595-4a9d-9df3-72918194a9a3",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-12T01:27:36Z",
-      "removed_at": null
+      "removed_at": "2026-10-18T11:29:06Z",
+      "removed_by_source": true
     },
     "b9745d18-8556-48ea-a5c7-d43abdc5ab62": {
       "title": "Little Witch Academia",
       "url": "https://mangadex.org/title/b9745d18-8556-48ea-a5c7-d43abdc5ab62",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-12T01:27:36Z",
-      "removed_at": null
+      "removed_at": "2026-10-18T11:29:06Z",
+      "removed_by_source": true
     },
     "26074407-7b3b-4fc9-8c4b-03747e9380c0": {
       "title": "Alcohol and Ogre-girls",
@@ -11372,9 +11376,10 @@
       "title": "Hibernation",
       "url": "https://mangadex.org/title/fd688252-561c-48f1-909a-9b2c1e614cc7",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-12T17:10:34Z",
-      "removed_at": null
+      "removed_at": "2026-10-18T11:29:06Z",
+      "removed_by_source": true
     },
     "4e54f039-7cc2-4748-b814-51336d68e821": {
       "title": "My Seatmate Wakao-san's Face is Almost Visible but It's Not",

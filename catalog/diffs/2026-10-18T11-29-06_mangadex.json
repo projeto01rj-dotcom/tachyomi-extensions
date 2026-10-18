@@ -1,0 +1,42 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-18T11:29:06Z",
+  "added": [],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "41c60ded-ce8b-45dc-a9b3-fe0e74ac5fe6",
+      "title": "Jobless Reincarnation ~I'll Try Seriously If I Go To Another World~ Anthology",
+      "url": "https://mangadex.org/title/41c60ded-ce8b-45dc-a9b3-fe0e74ac5fe6",
+      "removed_at": "2026-10-18T11:29:06Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "5eb2c6fa-4dc4-4fba-974f-ae44bd8ce2ff",
+      "title": "Ao Ashi Brotherfoot",
+      "url": "https://mangadex.org/title/5eb2c6fa-4dc4-4fba-974f-ae44bd8ce2ff",
+      "removed_at": "2026-10-18T11:29:06Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "83b2fefd-3595-4a9d-9df3-72918194a9a3",
+      "title": "Dragons Rioting",
+      "url": "https://mangadex.org/title/83b2fefd-3595-4a9d-9df3-72918194a9a3",
+      "removed_at": "2026-10-18T11:29:06Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "b9745d18-8556-48ea-a5c7-d43abdc5ab62",
+      "title": "Little Witch Academia",
+      "url": "https://mangadex.org/title/b9745d18-8556-48ea-a5c7-d43abdc5ab62",
+      "removed_at": "2026-10-18T11:29:06Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "fd688252-561c-48f1-909a-9b2c1e614cc7",
+      "title": "Hibernation",
+      "url": "https://mangadex.org/title/fd688252-561c-48f1-909a-9b2c1e614cc7",
+      "removed_at": "2026-10-18T11:29:06Z"
+    }
+  ]
+}
