@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-18T17:41:30Z",
+  "updated_at": "2026-10-18T19:54:18Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -11331,9 +11331,10 @@
       "title": "Alcohol and Ogre-girls",
       "url": "https://mangadex.org/title/26074407-7b3b-4fc9-8c4b-03747e9380c0",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-12T17:10:34Z",
-      "removed_at": null
+      "removed_at": "2026-10-18T19:54:18Z",
+      "removed_by_source": true
     },
     "2ea8f5bc-31a7-472e-9c60-705d586f0c83": {
       "title": "The Dark History of the Reincarnated Villainess",
@@ -11391,17 +11392,19 @@
       "title": "My Seatmate Wakao-san's Face is Almost Visible but It's Not",
       "url": "https://mangadex.org/title/4e54f039-7cc2-4748-b814-51336d68e821",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-12T23:41:15Z",
-      "removed_at": null
+      "removed_at": "2026-10-18T19:54:18Z",
+      "removed_by_source": true
     },
     "a368a42e-3cf5-45bd-a1f6-e2337ebc1d7f": {
       "title": "By Chance, I Arrived With the Spring",
       "url": "https://mangadex.org/title/a368a42e-3cf5-45bd-a1f6-e2337ebc1d7f",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-12T23:41:15Z",
-      "removed_at": null
+      "removed_at": "2026-10-18T19:54:18Z",
+      "removed_by_source": true
     },
     "d773c8be-8e82-4ff1-a4e9-46171395319b": {
       "title": "The Saga of Tanya the Evil",
@@ -11415,9 +11418,10 @@
       "title": "Summoned to Another World... Again!?",
       "url": "https://mangadex.org/title/d7d6829b-ceab-4346-a033-22387aeff297",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-12T23:41:15Z",
-      "removed_at": null
+      "removed_at": "2026-10-18T19:54:18Z",
+      "removed_by_source": true
     },
     "83067b19-bdfb-4ba1-8178-7052e68b41bf": {
       "title": "Survival in Another World with My Mistress!",
