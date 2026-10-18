@@ -1,0 +1,21 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-18T01:18:37Z",
+  "added": [],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "1ca15538-36cf-4103-82f3-aadab1cc5b5e",
+      "title": "Flaming Fightball Girl Dodge Danko",
+      "url": "https://mangadex.org/title/1ca15538-36cf-4103-82f3-aadab1cc5b5e",
+      "removed_at": "2026-10-18T01:18:37Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "7bae4d21-b237-4bfd-9960-65e6e6314b10",
+      "title": "The Duke’s Daughter's Mission to Seduce the Demon King, Humanity's Final Gambit: A Political Marriage with the Demon King! ...Hang On, But What am I Supposed to Do If the Demon King is a Girl!?",
+      "url": "https://mangadex.org/title/7bae4d21-b237-4bfd-9960-65e6e6314b10",
+      "removed_at": "2026-10-18T01:18:37Z"
+    }
+  ]
+}
