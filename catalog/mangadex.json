@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-18T11:29:06Z",
+  "updated_at": "2026-10-18T14:45:19Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -11213,9 +11213,10 @@
       "title": "Re:ZERO -Starting Life in Another World-, Chapter 4: The Sanctuary and the Witch of Greed",
       "url": "https://mangadex.org/title/8211bac6-a392-4e37-b3b6-dac0f4512d24",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-11T18:13:04Z",
-      "removed_at": null
+      "removed_at": "2026-10-18T14:45:19Z",
+      "removed_by_source": true
     },
     "8d5e4567-dc46-4ef3-8af1-0fcf3b6c5e63": {
       "title": "The Summit of the Gods",
@@ -11997,6 +11998,14 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-18T06:12:01Z",
+      "removed_at": null
+    },
+    "07125c94-dc35-4064-a676-2cea158a55d6": {
+      "title": "Jack-of-All-Trades, Party of None",
+      "url": "https://mangadex.org/title/07125c94-dc35-4064-a676-2cea158a55d6",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-18T14:45:19Z",
       "removed_at": null
     }
   }

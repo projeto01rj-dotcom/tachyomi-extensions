@@ -1,0 +1,21 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-18T14:45:19Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "07125c94-dc35-4064-a676-2cea158a55d6",
+      "title": "Jack-of-All-Trades, Party of None",
+      "url": "https://mangadex.org/title/07125c94-dc35-4064-a676-2cea158a55d6"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "8211bac6-a392-4e37-b3b6-dac0f4512d24",
+      "title": "Re:ZERO -Starting Life in Another World-, Chapter 4: The Sanctuary and the Witch of Greed",
+      "url": "https://mangadex.org/title/8211bac6-a392-4e37-b3b6-dac0f4512d24",
+      "removed_at": "2026-10-18T14:45:19Z"
+    }
+  ]
+}
