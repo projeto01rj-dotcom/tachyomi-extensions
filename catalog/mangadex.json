@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-19T00:18:59Z",
+  "updated_at": "2026-10-19T05:00:14Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -10673,9 +10673,10 @@
       "title": "Kamen Rider Kuuga",
       "url": "https://mangadex.org/title/50ced036-edd9-43e6-aff9-14a691071456",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-08T16:41:43Z",
-      "removed_at": null
+      "removed_at": "2026-10-19T05:00:14Z",
+      "removed_by_source": true
     },
     "915223e0-e694-4ce4-a923-72721431a836": {
       "title": "Mangá sem fio",
@@ -11462,33 +11463,37 @@
       "title": "New Vampire Princess Miyu",
       "url": "https://mangadex.org/title/3476bab3-adca-4d5a-9c01-3467445a7ebb",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-13T12:22:41Z",
-      "removed_at": null
+      "removed_at": "2026-10-19T05:00:14Z",
+      "removed_by_source": true
     },
     "878b109c-f92a-4df4-a644-53d08e77080f": {
       "title": "Vampire Princess Miyu",
       "url": "https://mangadex.org/title/878b109c-f92a-4df4-a644-53d08e77080f",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-13T12:22:41Z",
-      "removed_at": null
+      "removed_at": "2026-10-19T05:00:14Z",
+      "removed_by_source": true
     },
     "9d351a80-5037-4334-a020-6985899f5b1f": {
       "title": "Now I'm a Demon Lord! Happily Ever After with Monster Girls in My Dungeon",
       "url": "https://mangadex.org/title/9d351a80-5037-4334-a020-6985899f5b1f",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-13T12:22:41Z",
-      "removed_at": null
+      "removed_at": "2026-10-19T05:00:14Z",
+      "removed_by_source": true
     },
     "ba189608-3851-414c-a700-6a163ba94b49": {
       "title": "When I Tried to Conquer the School Princesses, It Turned Into Romantic Mayhem",
       "url": "https://mangadex.org/title/ba189608-3851-414c-a700-6a163ba94b49",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-13T12:22:41Z",
-      "removed_at": null
+      "removed_at": "2026-10-19T05:00:14Z",
+      "removed_by_source": true
     },
     "17a56d33-9443-433a-9e0d-70459893ed8f": {
       "title": "My Wife Is From a Thousand Years Ago",
