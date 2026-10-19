@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-18T22:06:14Z",
+  "updated_at": "2026-10-19T00:18:59Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -9159,9 +9159,10 @@
       "title": "Funtime Phobia",
       "url": "https://mangadex.org/title/e2098259-eb5d-4781-b220-63e3c26a55e5",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-01T13:38:29Z",
-      "removed_at": null
+      "removed_at": "2026-10-19T00:18:59Z",
+      "removed_by_source": true
     },
     "f678b24d-f1fd-4717-8824-4138845390eb": {
       "title": "When I Repaired a Gal's Bicycle, She Became Attached to Me",
@@ -11428,9 +11429,10 @@
       "title": "Survival in Another World with My Mistress!",
       "url": "https://mangadex.org/title/83067b19-bdfb-4ba1-8178-7052e68b41bf",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-13T04:44:38Z",
-      "removed_at": null
+      "removed_at": "2026-10-19T00:18:59Z",
+      "removed_by_source": true
     },
     "93704d83-322c-4214-99bc-6984cf536795": {
       "title": "Kirara Hoshikita Wants to Shine!",
@@ -12048,6 +12050,22 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-18T22:06:14Z",
+      "removed_at": null
+    },
+    "18543708-eed6-4b84-b3fd-f67540b4ebbd": {
+      "title": "Yaiba!",
+      "url": "https://mangadex.org/title/18543708-eed6-4b84-b3fd-f67540b4ebbd",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-19T00:18:59Z",
+      "removed_at": null
+    },
+    "48e41a5a-ad7d-4f1f-bd93-776b0db79996": {
+      "title": "A White Rose in Bloom",
+      "url": "https://mangadex.org/title/48e41a5a-ad7d-4f1f-bd93-776b0db79996",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-19T00:18:59Z",
       "removed_at": null
     }
   }

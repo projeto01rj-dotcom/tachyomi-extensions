@@ -1,0 +1,34 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-19T00:18:59Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "18543708-eed6-4b84-b3fd-f67540b4ebbd",
+      "title": "Yaiba!",
+      "url": "https://mangadex.org/title/18543708-eed6-4b84-b3fd-f67540b4ebbd"
+    },
+    {
+      "source": "mangadex",
+      "key": "48e41a5a-ad7d-4f1f-bd93-776b0db79996",
+      "title": "A White Rose in Bloom",
+      "url": "https://mangadex.org/title/48e41a5a-ad7d-4f1f-bd93-776b0db79996"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "e2098259-eb5d-4781-b220-63e3c26a55e5",
+      "title": "Funtime Phobia",
+      "url": "https://mangadex.org/title/e2098259-eb5d-4781-b220-63e3c26a55e5",
+      "removed_at": "2026-10-19T00:18:59Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "83067b19-bdfb-4ba1-8178-7052e68b41bf",
+      "title": "Survival in Another World with My Mistress!",
+      "url": "https://mangadex.org/title/83067b19-bdfb-4ba1-8178-7052e68b41bf",
+      "removed_at": "2026-10-19T00:18:59Z"
+    }
+  ]
+}
