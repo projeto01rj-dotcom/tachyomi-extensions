@@ -1,0 +1,65 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-19T21:52:45Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "03f8725e-40b6-44fb-b5f3-c13a702c2b02",
+      "title": "Forget-me-not",
+      "url": "https://mangadex.org/title/03f8725e-40b6-44fb-b5f3-c13a702c2b02"
+    },
+    {
+      "source": "mangadex",
+      "key": "0c9ec14d-c51f-49aa-b343-2e016c957f83",
+      "title": "A Maiden in Love with a Maiden Boy",
+      "url": "https://mangadex.org/title/0c9ec14d-c51f-49aa-b343-2e016c957f83"
+    },
+    {
+      "source": "mangadex",
+      "key": "25886ab0-17f1-4801-b929-6b36fe4e5214",
+      "title": "The Minami Family",
+      "url": "https://mangadex.org/title/25886ab0-17f1-4801-b929-6b36fe4e5214"
+    },
+    {
+      "source": "mangadex",
+      "key": "706a3219-646d-4fdd-833c-234ca616029e",
+      "title": "Tedama ni Toritai Kurokiya-san",
+      "url": "https://mangadex.org/title/706a3219-646d-4fdd-833c-234ca616029e"
+    },
+    {
+      "source": "mangadex",
+      "key": "d1aefdeb-09d1-4e70-8edc-9ae611ce0da5",
+      "title": "N",
+      "url": "https://mangadex.org/title/d1aefdeb-09d1-4e70-8edc-9ae611ce0da5"
+    },
+    {
+      "source": "mangadex",
+      "key": "e1d8b192-fa28-4651-bdaf-d4e0d4418ea8",
+      "title": "The Case Study of Vanitas",
+      "url": "https://mangadex.org/title/e1d8b192-fa28-4651-bdaf-d4e0d4418ea8"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "acdbf57f-bf54-41b4-8d92-b3f3d14c852e",
+      "title": "I Want to End This Love Game",
+      "url": "https://mangadex.org/title/acdbf57f-bf54-41b4-8d92-b3f3d14c852e",
+      "removed_at": "2026-10-19T21:52:45Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "b787bfae-7b1c-4964-a910-718529bbd377",
+      "title": "My Daughter Left the Nest and Returned an S-Rank Adventurer: The Black-Haired Valkyrie",
+      "url": "https://mangadex.org/title/b787bfae-7b1c-4964-a910-718529bbd377",
+      "removed_at": "2026-10-19T21:52:45Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "f7b62193-bdfb-4953-a6c6-0bd1b9a872f9",
+      "title": "The Bugle Call: Song of War",
+      "url": "https://mangadex.org/title/f7b62193-bdfb-4953-a6c6-0bd1b9a872f9",
+      "removed_at": "2026-10-19T21:52:45Z"
+    }
+  ]
+}

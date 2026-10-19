@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-19T17:37:04Z",
+  "updated_at": "2026-10-19T21:52:45Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -11590,9 +11590,10 @@
       "title": "I Want to End This Love Game",
       "url": "https://mangadex.org/title/acdbf57f-bf54-41b4-8d92-b3f3d14c852e",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-14T13:12:07Z",
-      "removed_at": null
+      "removed_at": "2026-10-19T21:52:45Z",
+      "removed_by_source": true
     },
     "b40483ce-e448-4671-a84e-b2ea8fef938a": {
       "title": "The Virgin Hero Who Fought in the Dungeon for 20 Years Returned to the Surface Only to Find the Population of the World Has Dropped Drastically, with a Male-to-Female Ratio of 1:1000",
@@ -11606,9 +11607,10 @@
       "title": "My Daughter Left the Nest and Returned an S-Rank Adventurer: The Black-Haired Valkyrie",
       "url": "https://mangadex.org/title/b787bfae-7b1c-4964-a910-718529bbd377",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-14T13:12:07Z",
-      "removed_at": null
+      "removed_at": "2026-10-19T21:52:45Z",
+      "removed_by_source": true
     },
     "315ec564-9f0f-4390-8e4f-9eade5b1943b": {
       "title": "I'm the Dying Emperor's Doctor",
@@ -12176,8 +12178,57 @@
       "title": "The Bugle Call: Song of War",
       "url": "https://mangadex.org/title/f7b62193-bdfb-4953-a6c6-0bd1b9a872f9",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-19T17:37:04Z",
+      "removed_at": "2026-10-19T21:52:45Z",
+      "removed_by_source": true
+    },
+    "03f8725e-40b6-44fb-b5f3-c13a702c2b02": {
+      "title": "Forget-me-not",
+      "url": "https://mangadex.org/title/03f8725e-40b6-44fb-b5f3-c13a702c2b02",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-19T21:52:45Z",
+      "removed_at": null
+    },
+    "0c9ec14d-c51f-49aa-b343-2e016c957f83": {
+      "title": "A Maiden in Love with a Maiden Boy",
+      "url": "https://mangadex.org/title/0c9ec14d-c51f-49aa-b343-2e016c957f83",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-19T21:52:45Z",
+      "removed_at": null
+    },
+    "25886ab0-17f1-4801-b929-6b36fe4e5214": {
+      "title": "The Minami Family",
+      "url": "https://mangadex.org/title/25886ab0-17f1-4801-b929-6b36fe4e5214",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-19T21:52:45Z",
+      "removed_at": null
+    },
+    "706a3219-646d-4fdd-833c-234ca616029e": {
+      "title": "Tedama ni Toritai Kurokiya-san",
+      "url": "https://mangadex.org/title/706a3219-646d-4fdd-833c-234ca616029e",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-19T21:52:45Z",
+      "removed_at": null
+    },
+    "d1aefdeb-09d1-4e70-8edc-9ae611ce0da5": {
+      "title": "N",
+      "url": "https://mangadex.org/title/d1aefdeb-09d1-4e70-8edc-9ae611ce0da5",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-19T21:52:45Z",
+      "removed_at": null
+    },
+    "e1d8b192-fa28-4651-bdaf-d4e0d4418ea8": {
+      "title": "The Case Study of Vanitas",
+      "url": "https://mangadex.org/title/e1d8b192-fa28-4651-bdaf-d4e0d4418ea8",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-19T21:52:45Z",
       "removed_at": null
     }
   }
