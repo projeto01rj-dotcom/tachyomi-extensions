@@ -1,0 +1,111 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-19T17:37:04Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "296d616a-ed6b-4b53-b4be-5532543dabb0",
+      "title": "In Clothes Called Fat",
+      "url": "https://mangadex.org/title/296d616a-ed6b-4b53-b4be-5532543dabb0"
+    },
+    {
+      "source": "mangadex",
+      "key": "4028472c-5ee4-4e5a-9d61-6aea6449edd9",
+      "title": "Boyish Girlfriend",
+      "url": "https://mangadex.org/title/4028472c-5ee4-4e5a-9d61-6aea6449edd9"
+    },
+    {
+      "source": "mangadex",
+      "key": "632cabd4-4552-4ba4-aea9-9db96a8b8a9f",
+      "title": "I Don't Know What My Little Sister's Friend Is Thinking",
+      "url": "https://mangadex.org/title/632cabd4-4552-4ba4-aea9-9db96a8b8a9f"
+    },
+    {
+      "source": "mangadex",
+      "key": "908fe918-ee36-4858-b321-4ba7aadbc817",
+      "title": "The Last Manga Classroom",
+      "url": "https://mangadex.org/title/908fe918-ee36-4858-b321-4ba7aadbc817"
+    },
+    {
+      "source": "mangadex",
+      "key": "d3390cac-4827-436b-a9a2-4f317a155117",
+      "title": "Destroy All Humans. They Can't be Regenerated. A Magic: The Gathering Manga",
+      "url": "https://mangadex.org/title/d3390cac-4827-436b-a9a2-4f317a155117"
+    },
+    {
+      "source": "mangadex",
+      "key": "f4904da8-2250-461b-bb29-3ec177c40bb9",
+      "title": "Splatoon",
+      "url": "https://mangadex.org/title/f4904da8-2250-461b-bb29-3ec177c40bb9"
+    },
+    {
+      "source": "mangadex",
+      "key": "f5badc31-60a8-4a47-9ef8-cd40ba62e473",
+      "title": "Stop! I'm Falling for You!",
+      "url": "https://mangadex.org/title/f5badc31-60a8-4a47-9ef8-cd40ba62e473"
+    },
+    {
+      "source": "mangadex",
+      "key": "f6635579-f1e6-4e43-8adf-06b009e1af0c",
+      "title": "Engaged to the Unidentified",
+      "url": "https://mangadex.org/title/f6635579-f1e6-4e43-8adf-06b009e1af0c"
+    },
+    {
+      "source": "mangadex",
+      "key": "f7b62193-bdfb-4953-a6c6-0bd1b9a872f9",
+      "title": "The Bugle Call: Song of War",
+      "url": "https://mangadex.org/title/f7b62193-bdfb-4953-a6c6-0bd1b9a872f9"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "a9581a49-b888-4c17-979c-5abdff6a9b00",
+      "title": "Rappa - Yankee Ninpuuchou",
+      "url": "https://mangadex.org/title/a9581a49-b888-4c17-979c-5abdff6a9b00",
+      "removed_at": "2026-10-19T17:37:04Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "17a56d33-9443-433a-9e0d-70459893ed8f",
+      "title": "My Wife Is From a Thousand Years Ago",
+      "url": "https://mangadex.org/title/17a56d33-9443-433a-9e0d-70459893ed8f",
+      "removed_at": "2026-10-19T17:37:04Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "a781de8e-0935-45bd-bc33-cbc76ea8c6f9",
+      "title": "Until I (M) Become Me (F)",
+      "url": "https://mangadex.org/title/a781de8e-0935-45bd-bc33-cbc76ea8c6f9",
+      "removed_at": "2026-10-19T17:37:04Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "efaae0a6-0b38-4b9c-88bf-1059b8be6244",
+      "title": "WORST 816",
+      "url": "https://mangadex.org/title/efaae0a6-0b38-4b9c-88bf-1059b8be6244",
+      "removed_at": "2026-10-19T17:37:04Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "270f205c-e9a6-4b24-b940-59d5c07829d1",
+      "title": "Otaku x Gal",
+      "url": "https://mangadex.org/title/270f205c-e9a6-4b24-b940-59d5c07829d1",
+      "removed_at": "2026-10-19T17:37:04Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "635fc6fd-3759-41dc-90d0-3b41cd6eb18d",
+      "title": "Haruka Reset",
+      "url": "https://mangadex.org/title/635fc6fd-3759-41dc-90d0-3b41cd6eb18d",
+      "removed_at": "2026-10-19T17:37:04Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "f31f1c67-13b4-4432-a67d-f1c8f21958a7",
+      "title": "The Cool Older Sister Wants To Be Seen In That Way",
+      "url": "https://mangadex.org/title/f31f1c67-13b4-4432-a67d-f1c8f21958a7",
+      "removed_at": "2026-10-19T17:37:04Z"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-19T11:00:56Z",
+  "updated_at": "2026-10-19T17:37:04Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -11449,9 +11449,10 @@
       "title": "Rappa - Yankee Ninpuuchou",
       "url": "https://mangadex.org/title/a9581a49-b888-4c17-979c-5abdff6a9b00",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-13T04:44:38Z",
-      "removed_at": null
+      "removed_at": "2026-10-19T17:37:04Z",
+      "removed_by_source": true
     },
     "f52455a6-d697-4d1d-b783-4512e590ade9": {
       "title": "Hiding My Identity From My Husband",
@@ -11501,9 +11502,10 @@
       "title": "My Wife Is From a Thousand Years Ago",
       "url": "https://mangadex.org/title/17a56d33-9443-433a-9e0d-70459893ed8f",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-13T19:24:23Z",
-      "removed_at": null
+      "removed_at": "2026-10-19T17:37:04Z",
+      "removed_by_source": true
     },
     "17b3b648-fd89-4a69-9a42-6068ffbfa7a7": {
       "title": "Even Given the Worthless 'Blacksmith' Class, I'm Still the Strongest",
@@ -11526,17 +11528,19 @@
       "title": "Until I (M) Become Me (F)",
       "url": "https://mangadex.org/title/a781de8e-0935-45bd-bc33-cbc76ea8c6f9",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-13T23:21:09Z",
-      "removed_at": null
+      "removed_at": "2026-10-19T17:37:04Z",
+      "removed_by_source": true
     },
     "efaae0a6-0b38-4b9c-88bf-1059b8be6244": {
       "title": "WORST 816",
       "url": "https://mangadex.org/title/efaae0a6-0b38-4b9c-88bf-1059b8be6244",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-13T23:21:09Z",
-      "removed_at": null
+      "removed_at": "2026-10-19T17:37:04Z",
+      "removed_by_source": true
     },
     "f6fe221d-5e3c-488f-99c8-e18f5444b253": {
       "title": "Anaerobic Love",
@@ -11551,9 +11555,10 @@
       "title": "Otaku x Gal",
       "url": "https://mangadex.org/title/270f205c-e9a6-4b24-b940-59d5c07829d1",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-14T02:01:45Z",
-      "removed_at": null
+      "removed_at": "2026-10-19T17:37:04Z",
+      "removed_by_source": true
     },
     "42289724-53ab-4016-9812-cdb6a7d7ea0a": {
       "title": "Scavengers: Another Sky",
@@ -11567,17 +11572,19 @@
       "title": "Haruka Reset",
       "url": "https://mangadex.org/title/635fc6fd-3759-41dc-90d0-3b41cd6eb18d",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-14T07:51:07Z",
-      "removed_at": null
+      "removed_at": "2026-10-19T17:37:04Z",
+      "removed_by_source": true
     },
     "f31f1c67-13b4-4432-a67d-f1c8f21958a7": {
       "title": "The Cool Older Sister Wants To Be Seen In That Way",
       "url": "https://mangadex.org/title/f31f1c67-13b4-4432-a67d-f1c8f21958a7",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-14T07:51:07Z",
-      "removed_at": null
+      "removed_at": "2026-10-19T17:37:04Z",
+      "removed_by_source": true
     },
     "acdbf57f-bf54-41b4-8d92-b3f3d14c852e": {
       "title": "I Want to End This Love Game",
@@ -12099,6 +12106,78 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-19T11:00:56Z",
+      "removed_at": null
+    },
+    "296d616a-ed6b-4b53-b4be-5532543dabb0": {
+      "title": "In Clothes Called Fat",
+      "url": "https://mangadex.org/title/296d616a-ed6b-4b53-b4be-5532543dabb0",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-19T17:37:04Z",
+      "removed_at": null
+    },
+    "4028472c-5ee4-4e5a-9d61-6aea6449edd9": {
+      "title": "Boyish Girlfriend",
+      "url": "https://mangadex.org/title/4028472c-5ee4-4e5a-9d61-6aea6449edd9",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-19T17:37:04Z",
+      "removed_at": null
+    },
+    "632cabd4-4552-4ba4-aea9-9db96a8b8a9f": {
+      "title": "I Don't Know What My Little Sister's Friend Is Thinking",
+      "url": "https://mangadex.org/title/632cabd4-4552-4ba4-aea9-9db96a8b8a9f",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-19T17:37:04Z",
+      "removed_at": null
+    },
+    "908fe918-ee36-4858-b321-4ba7aadbc817": {
+      "title": "The Last Manga Classroom",
+      "url": "https://mangadex.org/title/908fe918-ee36-4858-b321-4ba7aadbc817",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-19T17:37:04Z",
+      "removed_at": null
+    },
+    "d3390cac-4827-436b-a9a2-4f317a155117": {
+      "title": "Destroy All Humans. They Can't be Regenerated. A Magic: The Gathering Manga",
+      "url": "https://mangadex.org/title/d3390cac-4827-436b-a9a2-4f317a155117",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-19T17:37:04Z",
+      "removed_at": null
+    },
+    "f4904da8-2250-461b-bb29-3ec177c40bb9": {
+      "title": "Splatoon",
+      "url": "https://mangadex.org/title/f4904da8-2250-461b-bb29-3ec177c40bb9",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-19T17:37:04Z",
+      "removed_at": null
+    },
+    "f5badc31-60a8-4a47-9ef8-cd40ba62e473": {
+      "title": "Stop! I'm Falling for You!",
+      "url": "https://mangadex.org/title/f5badc31-60a8-4a47-9ef8-cd40ba62e473",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-19T17:37:04Z",
+      "removed_at": null
+    },
+    "f6635579-f1e6-4e43-8adf-06b009e1af0c": {
+      "title": "Engaged to the Unidentified",
+      "url": "https://mangadex.org/title/f6635579-f1e6-4e43-8adf-06b009e1af0c",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-19T17:37:04Z",
+      "removed_at": null
+    },
+    "f7b62193-bdfb-4953-a6c6-0bd1b9a872f9": {
+      "title": "The Bugle Call: Song of War",
+      "url": "https://mangadex.org/title/f7b62193-bdfb-4953-a6c6-0bd1b9a872f9",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-19T17:37:04Z",
       "removed_at": null
     }
   }
