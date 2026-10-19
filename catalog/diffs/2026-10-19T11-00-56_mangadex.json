@@ -1,0 +1,54 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-19T11:00:56Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "30f33cd0-a65b-4b13-a660-bee2940bc551",
+      "title": "Henjo: The Strange Female High-Schooler Amaguri Senko",
+      "url": "https://mangadex.org/title/30f33cd0-a65b-4b13-a660-bee2940bc551"
+    },
+    {
+      "source": "mangadex",
+      "key": "6a1d1cb1-ecd5-40d9-89ff-9d88e40b136b",
+      "title": "TOKYO GHOUL",
+      "url": "https://mangadex.org/title/6a1d1cb1-ecd5-40d9-89ff-9d88e40b136b"
+    },
+    {
+      "source": "mangadex",
+      "key": "c9ac4d19-8735-46e2-ae79-195fca78c39e",
+      "title": "Even Repeaters Want to Enjoy Youth",
+      "url": "https://mangadex.org/title/c9ac4d19-8735-46e2-ae79-195fca78c39e"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "df64232c-cc30-4e9c-92e1-7ccba2b743b0",
+      "title": "Ayako",
+      "url": "https://mangadex.org/title/df64232c-cc30-4e9c-92e1-7ccba2b743b0",
+      "removed_at": "2026-10-19T11:00:56Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "6670ee28-f26d-4b61-b49c-d71149cd5a6e",
+      "title": "Mieruko-chan",
+      "url": "https://mangadex.org/title/6670ee28-f26d-4b61-b49c-d71149cd5a6e",
+      "removed_at": "2026-10-19T11:00:56Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "17b3b648-fd89-4a69-9a42-6068ffbfa7a7",
+      "title": "Even Given the Worthless 'Blacksmith' Class, I'm Still the Strongest",
+      "url": "https://mangadex.org/title/17b3b648-fd89-4a69-9a42-6068ffbfa7a7",
+      "removed_at": "2026-10-19T11:00:56Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "f6fe221d-5e3c-488f-99c8-e18f5444b253",
+      "title": "Anaerobic Love",
+      "url": "https://mangadex.org/title/f6fe221d-5e3c-488f-99c8-e18f5444b253",
+      "removed_at": "2026-10-19T11:00:56Z"
+    }
+  ]
+}
