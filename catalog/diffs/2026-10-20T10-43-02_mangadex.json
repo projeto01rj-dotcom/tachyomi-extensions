@@ -1,0 +1,45 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-20T10:43:02Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "2fc6e547-cd3d-4030-a733-defc244df2d5",
+      "title": "TsumaSho",
+      "url": "https://mangadex.org/title/2fc6e547-cd3d-4030-a733-defc244df2d5"
+    },
+    {
+      "source": "mangadex",
+      "key": "567b51cb-ae4c-4a27-af49-92468c5ff4a4",
+      "title": "Kawaii nante Kiitenai!!",
+      "url": "https://mangadex.org/title/567b51cb-ae4c-4a27-af49-92468c5ff4a4"
+    },
+    {
+      "source": "mangadex",
+      "key": "80cda3ff-d08a-4797-8f83-0f6ef538c3a2",
+      "title": "JoJo's Bizarre Adventure - Moscow Calling (Doujinshi)",
+      "url": "https://mangadex.org/title/80cda3ff-d08a-4797-8f83-0f6ef538c3a2"
+    },
+    {
+      "source": "mangadex",
+      "key": "b16f2554-9525-4f2a-bbe4-5b75b6605176",
+      "title": "Clevatess: The King of Dark Beasts, the Baby, and the Undead Hero",
+      "url": "https://mangadex.org/title/b16f2554-9525-4f2a-bbe4-5b75b6605176"
+    },
+    {
+      "source": "mangadex",
+      "key": "c6a17411-0f3f-4b55-adfc-1a9515bae9ea",
+      "title": "Ojou-san to Yobanaide",
+      "url": "https://mangadex.org/title/c6a17411-0f3f-4b55-adfc-1a9515bae9ea"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "79dba6c7-cc1e-475c-971b-82898375d27b",
+      "title": "Fox-Faced Husband And Wife",
+      "url": "https://mangadex.org/title/79dba6c7-cc1e-475c-971b-82898375d27b",
+      "removed_at": "2026-10-20T10:43:02Z"
+    }
+  ]
+}
