@@ -1,0 +1,62 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-20T19:30:43Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "91843e85-5611-4f16-9181-c209265ff112",
+      "title": "Grün Bæla",
+      "url": "https://mangadex.org/title/91843e85-5611-4f16-9181-c209265ff112"
+    },
+    {
+      "source": "mangadex",
+      "key": "e54c384f-5163-4fdb-9909-968b8d0bd86a",
+      "title": "Noble Reincarnation: Born Blessed, So I'll Obtain Ultimate Power",
+      "url": "https://mangadex.org/title/e54c384f-5163-4fdb-9909-968b8d0bd86a"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "547b5366-e71a-400d-b48e-7d4447ac1cf3",
+      "title": "A Parallel World with a 1:39 Male to Female Ratio is Unexpectedly Normal",
+      "url": "https://mangadex.org/title/547b5366-e71a-400d-b48e-7d4447ac1cf3",
+      "removed_at": "2026-10-20T19:30:43Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "d58abdf4-9268-41d8-9920-f8fe8858a173",
+      "title": "Shiori Experience: My Plain Self and an Odd Old Man",
+      "url": "https://mangadex.org/title/d58abdf4-9268-41d8-9920-f8fe8858a173",
+      "removed_at": "2026-10-20T19:30:43Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "9d9c3006-915b-4f7e-8636-9eea6da12ec3",
+      "title": "Daily Life of Sa-chan, a Drugstore Clerk",
+      "url": "https://mangadex.org/title/9d9c3006-915b-4f7e-8636-9eea6da12ec3",
+      "removed_at": "2026-10-20T19:30:43Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "dd9ceeae-a03b-4c16-8206-7365d5aacac9",
+      "title": "Haimiya-senpai is Scary and Cute",
+      "url": "https://mangadex.org/title/dd9ceeae-a03b-4c16-8206-7365d5aacac9",
+      "removed_at": "2026-10-20T19:30:43Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "936771f7-eec8-45bd-b1fa-d5802a9cfd06",
+      "title": "APOSIMZ",
+      "url": "https://mangadex.org/title/936771f7-eec8-45bd-b1fa-d5802a9cfd06",
+      "removed_at": "2026-10-20T19:30:43Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "10fab94e-2227-47e2-b059-f4762eb5ca4e",
+      "title": "Grandpa and Grandma Turn Young Again",
+      "url": "https://mangadex.org/title/10fab94e-2227-47e2-b059-f4762eb5ca4e",
+      "removed_at": "2026-10-20T19:30:43Z"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-20T15:29:51Z",
+  "updated_at": "2026-10-20T19:30:43Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -4880,9 +4880,10 @@
       "title": "A Parallel World with a 1:39 Male to Female Ratio is Unexpectedly Normal",
       "url": "https://mangadex.org/title/547b5366-e71a-400d-b48e-7d4447ac1cf3",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-19T07:27:30Z",
-      "removed_at": null
+      "removed_at": "2026-10-20T19:30:43Z",
+      "removed_by_source": true
     },
     "5c151924-f2b6-4d3e-8dba-3a64adc8e205": {
       "title": "The World's Strongest Butler: I was Banished from a Black Workplace, and I was Picked Up by the Ice Lady",
@@ -10791,9 +10792,10 @@
       "title": "Shiori Experience: My Plain Self and an Odd Old Man",
       "url": "https://mangadex.org/title/d58abdf4-9268-41d8-9920-f8fe8858a173",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-09T08:13:19Z",
-      "removed_at": null
+      "removed_at": "2026-10-20T19:30:43Z",
+      "removed_by_source": true
     },
     "1765b1d0-ca8b-4e9d-8237-3c6f76e7c9c6": {
       "title": "Have a Nice Ending",
@@ -11363,9 +11365,10 @@
       "title": "Daily Life of Sa-chan, a Drugstore Clerk",
       "url": "https://mangadex.org/title/9d9c3006-915b-4f7e-8636-9eea6da12ec3",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-12T17:10:34Z",
-      "removed_at": null
+      "removed_at": "2026-10-20T19:30:43Z",
+      "removed_by_source": true
     },
     "ade2f85e-7bb4-4c55-a9e5-b782765ba0ad": {
       "title": "Encore of the World's End",
@@ -11635,9 +11638,10 @@
       "title": "Haimiya-senpai is Scary and Cute",
       "url": "https://mangadex.org/title/dd9ceeae-a03b-4c16-8206-7365d5aacac9",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-14T18:05:04Z",
-      "removed_at": null
+      "removed_at": "2026-10-20T19:30:43Z",
+      "removed_by_source": true
     },
     "e900135b-8eba-4d29-85c9-db3d5ae885c7": {
       "title": "The Ghostly Doctor",
@@ -11686,9 +11690,10 @@
       "title": "APOSIMZ",
       "url": "https://mangadex.org/title/936771f7-eec8-45bd-b1fa-d5802a9cfd06",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-15T09:34:15Z",
-      "removed_at": null
+      "removed_at": "2026-10-20T19:30:43Z",
+      "removed_by_source": true
     },
     "983c0d0a-8cad-4b1b-b054-d1c0463527ac": {
       "title": "Tenken 4koma Gekijou ~Fran to Shishou no Nichijou~",
@@ -12346,9 +12351,10 @@
       "title": "Grandpa and Grandma Turn Young Again",
       "url": "https://mangadex.org/title/10fab94e-2227-47e2-b059-f4762eb5ca4e",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-20T15:29:51Z",
-      "removed_at": null
+      "removed_at": "2026-10-20T19:30:43Z",
+      "removed_by_source": true
     },
     "88fe360b-68dc-4438-a506-12f6cdf46733": {
       "title": "Kiichi VS",
@@ -12364,6 +12370,22 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-20T15:29:51Z",
+      "removed_at": null
+    },
+    "91843e85-5611-4f16-9181-c209265ff112": {
+      "title": "Grün Bæla",
+      "url": "https://mangadex.org/title/91843e85-5611-4f16-9181-c209265ff112",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-20T19:30:43Z",
+      "removed_at": null
+    },
+    "e54c384f-5163-4fdb-9909-968b8d0bd86a": {
+      "title": "Noble Reincarnation: Born Blessed, So I'll Obtain Ultimate Power",
+      "url": "https://mangadex.org/title/e54c384f-5163-4fdb-9909-968b8d0bd86a",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-20T19:30:43Z",
       "removed_at": null
     }
   }
