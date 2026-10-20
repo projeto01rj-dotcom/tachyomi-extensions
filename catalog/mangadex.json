@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-20T19:30:43Z",
+  "updated_at": "2026-10-20T22:50:48Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -11699,9 +11699,10 @@
       "title": "Tenken 4koma Gekijou ~Fran to Shishou no Nichijou~",
       "url": "https://mangadex.org/title/983c0d0a-8cad-4b1b-b054-d1c0463527ac",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-15T14:34:15Z",
-      "removed_at": null
+      "removed_at": "2026-10-20T22:50:48Z",
+      "removed_by_source": true
     },
     "db90d832-59a6-4f1a-97cc-84226bdd5d12": {
       "title": "Sem título",
@@ -11724,9 +11725,10 @@
       "title": "The Marshal King",
       "url": "https://mangadex.org/title/3c8ddbf0-7807-493b-960d-c1e508f12c46",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-15T18:47:37Z",
-      "removed_at": null
+      "removed_at": "2026-10-20T22:50:48Z",
+      "removed_by_source": true
     },
     "45777a73-98a6-47ba-b7df-e879365cb1cb": {
       "title": "Evergreen",
@@ -11748,9 +11750,10 @@
       "title": "What's with the Bag, Kamiyama-san?",
       "url": "https://mangadex.org/title/68236d5a-329c-4fb4-9ebb-7f7264fe28a9",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-15T18:47:37Z",
-      "removed_at": null
+      "removed_at": "2026-10-20T22:50:48Z",
+      "removed_by_source": true
     },
     "6b9bd81a-ae0f-4495-bde9-9ba20ee00981": {
       "title": "It's So Sweet When I Marry My Organization's Nemesis",

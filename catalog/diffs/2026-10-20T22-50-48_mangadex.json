@@ -1,0 +1,28 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-20T22:50:48Z",
+  "added": [],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "983c0d0a-8cad-4b1b-b054-d1c0463527ac",
+      "title": "Tenken 4koma Gekijou ~Fran to Shishou no Nichijou~",
+      "url": "https://mangadex.org/title/983c0d0a-8cad-4b1b-b054-d1c0463527ac",
+      "removed_at": "2026-10-20T22:50:48Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "3c8ddbf0-7807-493b-960d-c1e508f12c46",
+      "title": "The Marshal King",
+      "url": "https://mangadex.org/title/3c8ddbf0-7807-493b-960d-c1e508f12c46",
+      "removed_at": "2026-10-20T22:50:48Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "68236d5a-329c-4fb4-9ebb-7f7264fe28a9",
+      "title": "What's with the Bag, Kamiyama-san?",
+      "url": "https://mangadex.org/title/68236d5a-329c-4fb4-9ebb-7f7264fe28a9",
+      "removed_at": "2026-10-20T22:50:48Z"
+    }
+  ]
+}
