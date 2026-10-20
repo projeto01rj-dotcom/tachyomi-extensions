@@ -1,0 +1,25 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-20T05:34:51Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "2b5a3b43-effb-4f54-aa9b-d6093d523452",
+      "title": "Secrets of the Silent Witch",
+      "url": "https://mangadex.org/title/2b5a3b43-effb-4f54-aa9b-d6093d523452"
+    },
+    {
+      "source": "mangadex",
+      "key": "348ee001-076b-4a71-a8a6-77ba96158a24",
+      "title": "Steel Jeeg",
+      "url": "https://mangadex.org/title/348ee001-076b-4a71-a8a6-77ba96158a24"
+    },
+    {
+      "source": "mangadex",
+      "key": "5a3e8ea6-7383-4ed5-bcd1-e1cfa0cf8be6",
+      "title": "The Lives of Eccentrics",
+      "url": "https://mangadex.org/title/5a3e8ea6-7383-4ed5-bcd1-e1cfa0cf8be6"
+    }
+  ],
+  "removed": []
+}
