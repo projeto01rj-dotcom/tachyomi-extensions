@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-19T21:52:45Z",
+  "updated_at": "2026-10-20T00:50:22Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -11616,17 +11616,19 @@
       "title": "I'm the Dying Emperor's Doctor",
       "url": "https://mangadex.org/title/315ec564-9f0f-4390-8e4f-9eade5b1943b",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-14T18:05:04Z",
-      "removed_at": null
+      "removed_at": "2026-10-20T00:50:22Z",
+      "removed_by_source": true
     },
     "3bc7236f-4eb0-43f1-bd4f-16085e98805a": {
       "title": "The Lazy Villainous Noble Married the Villainous Young Lady and Became the Most Fearsome Couple",
       "url": "https://mangadex.org/title/3bc7236f-4eb0-43f1-bd4f-16085e98805a",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-14T18:05:04Z",
-      "removed_at": null
+      "removed_at": "2026-10-20T00:50:22Z",
+      "removed_by_source": true
     },
     "dd9ceeae-a03b-4c16-8206-7365d5aacac9": {
       "title": "Haimiya-senpai is Scary and Cute",
@@ -12162,9 +12164,10 @@
       "title": "Stop! I'm Falling for You!",
       "url": "https://mangadex.org/title/f5badc31-60a8-4a47-9ef8-cd40ba62e473",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-19T17:37:04Z",
-      "removed_at": null
+      "removed_at": "2026-10-20T00:50:22Z",
+      "removed_by_source": true
     },
     "f6635579-f1e6-4e43-8adf-06b009e1af0c": {
       "title": "Engaged to the Unidentified",
@@ -12229,6 +12232,46 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-19T21:52:45Z",
+      "removed_at": null
+    },
+    "4b5826de-2b31-4cc1-bf84-b3e4487b703d": {
+      "title": "Leveling up at Super Speed with Only Me Using the Full-Auto Attack Skill: The Lazy Reincarnator's Effortless Otherworld Strategy Guided by a Goddess",
+      "url": "https://mangadex.org/title/4b5826de-2b31-4cc1-bf84-b3e4487b703d",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-20T00:50:22Z",
+      "removed_at": null
+    },
+    "54a1ae14-505f-4459-ace1-24a08ceea8c3": {
+      "title": "Lord of Goblins",
+      "url": "https://mangadex.org/title/54a1ae14-505f-4459-ace1-24a08ceea8c3",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-20T00:50:22Z",
+      "removed_at": null
+    },
+    "82b7feed-f9d9-418e-a162-aadffabc05bf": {
+      "title": "Sem título",
+      "url": "https://mangadex.org/title/82b7feed-f9d9-418e-a162-aadffabc05bf",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-20T00:50:22Z",
+      "removed_at": null
+    },
+    "90d81edd-accb-4c8d-b44c-e38254d77935": {
+      "title": "Until Your Wish Comes True",
+      "url": "https://mangadex.org/title/90d81edd-accb-4c8d-b44c-e38254d77935",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-20T00:50:22Z",
+      "removed_at": null
+    },
+    "f8ee17c0-ea65-4f0d-9666-182406db1e1a": {
+      "title": "Favela Mangaka",
+      "url": "https://mangadex.org/title/f8ee17c0-ea65-4f0d-9666-182406db1e1a",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-20T00:50:22Z",
       "removed_at": null
     }
   }

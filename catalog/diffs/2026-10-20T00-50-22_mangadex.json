@@ -1,0 +1,59 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-20T00:50:22Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "4b5826de-2b31-4cc1-bf84-b3e4487b703d",
+      "title": "Leveling up at Super Speed with Only Me Using the Full-Auto Attack Skill: The Lazy Reincarnator's Effortless Otherworld Strategy Guided by a Goddess",
+      "url": "https://mangadex.org/title/4b5826de-2b31-4cc1-bf84-b3e4487b703d"
+    },
+    {
+      "source": "mangadex",
+      "key": "54a1ae14-505f-4459-ace1-24a08ceea8c3",
+      "title": "Lord of Goblins",
+      "url": "https://mangadex.org/title/54a1ae14-505f-4459-ace1-24a08ceea8c3"
+    },
+    {
+      "source": "mangadex",
+      "key": "82b7feed-f9d9-418e-a162-aadffabc05bf",
+      "title": "Sem título",
+      "url": "https://mangadex.org/title/82b7feed-f9d9-418e-a162-aadffabc05bf"
+    },
+    {
+      "source": "mangadex",
+      "key": "90d81edd-accb-4c8d-b44c-e38254d77935",
+      "title": "Until Your Wish Comes True",
+      "url": "https://mangadex.org/title/90d81edd-accb-4c8d-b44c-e38254d77935"
+    },
+    {
+      "source": "mangadex",
+      "key": "f8ee17c0-ea65-4f0d-9666-182406db1e1a",
+      "title": "Favela Mangaka",
+      "url": "https://mangadex.org/title/f8ee17c0-ea65-4f0d-9666-182406db1e1a"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "315ec564-9f0f-4390-8e4f-9eade5b1943b",
+      "title": "I'm the Dying Emperor's Doctor",
+      "url": "https://mangadex.org/title/315ec564-9f0f-4390-8e4f-9eade5b1943b",
+      "removed_at": "2026-10-20T00:50:22Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "3bc7236f-4eb0-43f1-bd4f-16085e98805a",
+      "title": "The Lazy Villainous Noble Married the Villainous Young Lady and Became the Most Fearsome Couple",
+      "url": "https://mangadex.org/title/3bc7236f-4eb0-43f1-bd4f-16085e98805a",
+      "removed_at": "2026-10-20T00:50:22Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "f5badc31-60a8-4a47-9ef8-cd40ba62e473",
+      "title": "Stop! I'm Falling for You!",
+      "url": "https://mangadex.org/title/f5badc31-60a8-4a47-9ef8-cd40ba62e473",
+      "removed_at": "2026-10-20T00:50:22Z"
+    }
+  ]
+}
