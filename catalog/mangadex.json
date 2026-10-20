@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-20T10:43:02Z",
+  "updated_at": "2026-10-20T15:29:51Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -8433,9 +8433,10 @@
       "title": "Akira Failing in Love",
       "url": "https://mangadex.org/title/f5c25341-d6ff-4585-8548-3a48fc7654d9",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-28T09:10:45Z",
-      "removed_at": null
+      "removed_at": "2026-10-20T15:29:51Z",
+      "removed_by_source": true
     },
     "fe9b4485-550a-4823-84eb-8680283b5d9f": {
       "title": "Amusement Park: Baki Side Story",
@@ -11650,9 +11651,10 @@
       "title": "Scooped up by an S-Rank Adventurer! This White Mage Is One Heck of a Healer",
       "url": "https://mangadex.org/title/d587a5c2-842a-4fc5-a323-cddb5e41a2cb",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-14T21:50:43Z",
-      "removed_at": null
+      "removed_at": "2026-10-20T15:29:51Z",
+      "removed_by_source": true
     },
     "1ee97895-4796-4bcf-bcd1-5ef99c011f8b": {
       "title": "Laid-Back Camp",
@@ -11675,9 +11677,10 @@
       "title": "The 11th Cat is Nene",
       "url": "https://mangadex.org/title/9bc96d35-29f4-4c91-9f8d-069267fb7aa9",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-15T04:56:14Z",
-      "removed_at": null
+      "removed_at": "2026-10-20T15:29:51Z",
+      "removed_by_source": true
     },
     "936771f7-eec8-45bd-b1fa-d5802a9cfd06": {
       "title": "APOSIMZ",
@@ -12337,6 +12340,30 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-20T10:43:02Z",
+      "removed_at": null
+    },
+    "10fab94e-2227-47e2-b059-f4762eb5ca4e": {
+      "title": "Grandpa and Grandma Turn Young Again",
+      "url": "https://mangadex.org/title/10fab94e-2227-47e2-b059-f4762eb5ca4e",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-20T15:29:51Z",
+      "removed_at": null
+    },
+    "88fe360b-68dc-4438-a506-12f6cdf46733": {
+      "title": "Kiichi VS",
+      "url": "https://mangadex.org/title/88fe360b-68dc-4438-a506-12f6cdf46733",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-20T15:29:51Z",
+      "removed_at": null
+    },
+    "9f5a6b1c-92c1-4411-a3a4-5de3eb89e067": {
+      "title": "Fern and Stark's Valentine's",
+      "url": "https://mangadex.org/title/9f5a6b1c-92c1-4411-a3a4-5de3eb89e067",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-20T15:29:51Z",
       "removed_at": null
     }
   }
