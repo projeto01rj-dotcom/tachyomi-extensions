@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-20T22:50:48Z",
+  "updated_at": "2026-10-21T01:09:20Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -11734,9 +11734,10 @@
       "title": "Evergreen",
       "url": "https://mangadex.org/title/45777a73-98a6-47ba-b7df-e879365cb1cb",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-15T18:47:37Z",
-      "removed_at": null
+      "removed_at": "2026-10-21T01:09:20Z",
+      "removed_by_source": true
     },
     "5fc26352-350e-4c09-9c58-f2c041cd430d": {
       "title": "Dungeons That Surely Slaughter Adventurers",
@@ -11759,17 +11760,19 @@
       "title": "It's So Sweet When I Marry My Organization's Nemesis",
       "url": "https://mangadex.org/title/6b9bd81a-ae0f-4495-bde9-9ba20ee00981",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-15T18:47:37Z",
-      "removed_at": null
+      "removed_at": "2026-10-21T01:09:20Z",
+      "removed_by_source": true
     },
     "b6b87e4d-c1cc-4d0b-8588-df715dd98624": {
       "title": "In the Land of Leadale",
       "url": "https://mangadex.org/title/b6b87e4d-c1cc-4d0b-8588-df715dd98624",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-15T18:47:37Z",
-      "removed_at": null
+      "removed_at": "2026-10-21T01:09:20Z",
+      "removed_by_source": true
     },
     "ec8f26f4-bc9f-43b6-93ec-60a05638fca0": {
       "title": "Different World Foundation",
@@ -11783,9 +11786,10 @@
       "title": "Farewell Mr. Despair",
       "url": "https://mangadex.org/title/ef25dabb-969e-4a87-b854-b15a53b9209f",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-15T18:47:37Z",
-      "removed_at": null
+      "removed_at": "2026-10-21T01:09:20Z",
+      "removed_by_source": true
     },
     "1dcc48ba-e371-4028-8ac3-fd90b882edfa": {
       "title": "Shadow Skill",
@@ -12389,6 +12393,22 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-20T19:30:43Z",
+      "removed_at": null
+    },
+    "2bbb5a19-b25f-46fa-b5d3-0ead0f8572fe": {
+      "title": "Major 2nd",
+      "url": "https://mangadex.org/title/2bbb5a19-b25f-46fa-b5d3-0ead0f8572fe",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-21T01:09:20Z",
+      "removed_at": null
+    },
+    "75f8931e-380d-4354-81fc-3f252d104c20": {
+      "title": "I Made the Girl I Liked My Maid, and Now She’s Secretly Doing Something in My Room",
+      "url": "https://mangadex.org/title/75f8931e-380d-4354-81fc-3f252d104c20",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-21T01:09:20Z",
       "removed_at": null
     }
   }

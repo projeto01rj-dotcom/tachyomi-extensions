@@ -1,0 +1,48 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-21T01:09:20Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "2bbb5a19-b25f-46fa-b5d3-0ead0f8572fe",
+      "title": "Major 2nd",
+      "url": "https://mangadex.org/title/2bbb5a19-b25f-46fa-b5d3-0ead0f8572fe"
+    },
+    {
+      "source": "mangadex",
+      "key": "75f8931e-380d-4354-81fc-3f252d104c20",
+      "title": "I Made the Girl I Liked My Maid, and Now She’s Secretly Doing Something in My Room",
+      "url": "https://mangadex.org/title/75f8931e-380d-4354-81fc-3f252d104c20"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "45777a73-98a6-47ba-b7df-e879365cb1cb",
+      "title": "Evergreen",
+      "url": "https://mangadex.org/title/45777a73-98a6-47ba-b7df-e879365cb1cb",
+      "removed_at": "2026-10-21T01:09:20Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "6b9bd81a-ae0f-4495-bde9-9ba20ee00981",
+      "title": "It's So Sweet When I Marry My Organization's Nemesis",
+      "url": "https://mangadex.org/title/6b9bd81a-ae0f-4495-bde9-9ba20ee00981",
+      "removed_at": "2026-10-21T01:09:20Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "b6b87e4d-c1cc-4d0b-8588-df715dd98624",
+      "title": "In the Land of Leadale",
+      "url": "https://mangadex.org/title/b6b87e4d-c1cc-4d0b-8588-df715dd98624",
+      "removed_at": "2026-10-21T01:09:20Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "ef25dabb-969e-4a87-b854-b15a53b9209f",
+      "title": "Farewell Mr. Despair",
+      "url": "https://mangadex.org/title/ef25dabb-969e-4a87-b854-b15a53b9209f",
+      "removed_at": "2026-10-21T01:09:20Z"
+    }
+  ]
+}
