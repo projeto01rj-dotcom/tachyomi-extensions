@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-21T06:13:08Z",
+  "updated_at": "2026-10-21T17:28:06Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -11420,9 +11420,10 @@
       "title": "The Saga of Tanya the Evil",
       "url": "https://mangadex.org/title/d773c8be-8e82-4ff1-a4e9-46171395319b",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-12T23:41:15Z",
-      "removed_at": null
+      "removed_at": "2026-10-21T17:28:06Z",
+      "removed_by_source": true
     },
     "d7d6829b-ceab-4346-a033-22387aeff297": {
       "title": "Summoned to Another World... Again!?",
@@ -11815,41 +11816,46 @@
       "title": "Victoria of Many Faces",
       "url": "https://mangadex.org/title/3b33635c-e74b-4a22-8933-4d9483f560ce",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-16T03:46:24Z",
-      "removed_at": null
+      "removed_at": "2026-10-21T17:28:06Z",
+      "removed_by_source": true
     },
     "af0527c1-8734-4498-b128-7090340bc10d": {
       "title": "Dragon Ball (Official Colored)",
       "url": "https://mangadex.org/title/af0527c1-8734-4498-b128-7090340bc10d",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-16T03:46:24Z",
-      "removed_at": null
+      "removed_at": "2026-10-21T17:28:06Z",
+      "removed_by_source": true
     },
     "16c34950-954c-4f0d-808e-d8278a546339": {
       "title": "I Can Now See a Few Minutes Into the Future, but I Still Can’t Understand a Woman’s Heart.",
       "url": "https://mangadex.org/title/16c34950-954c-4f0d-808e-d8278a546339",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-16T08:37:51Z",
-      "removed_at": null
+      "removed_at": "2026-10-21T17:28:06Z",
+      "removed_by_source": true
     },
     "733d95ce-4dc2-4c02-a177-6cb772b18317": {
       "title": "The Girl I Saved on the Train Turned out to Be My Childhood Friend",
       "url": "https://mangadex.org/title/733d95ce-4dc2-4c02-a177-6cb772b18317",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-16T08:37:51Z",
-      "removed_at": null
+      "removed_at": "2026-10-21T17:28:06Z",
+      "removed_by_source": true
     },
     "99182618-ae92-4aec-a5df-518659b7b613": {
       "title": "Rebuild World",
       "url": "https://mangadex.org/title/99182618-ae92-4aec-a5df-518659b7b613",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-16T08:37:51Z",
-      "removed_at": null
+      "removed_at": "2026-10-21T17:28:06Z",
+      "removed_by_source": true
     },
     "9e954c6b-7a02-4fd7-986d-6331c0ba95d4": {
       "title": "The Summer Hikaru Died",
@@ -11863,9 +11869,10 @@
       "title": "When I Brought a Lost Girl Home, the Most Beautiful Girl in My Grade Came Out the Front Door",
       "url": "https://mangadex.org/title/b29da26e-39f2-4e64-b96f-62818b209d73",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-16T13:38:56Z",
-      "removed_at": null
+      "removed_at": "2026-10-21T17:28:06Z",
+      "removed_by_source": true
     },
     "d4b793e6-ebcf-4619-a3b1-bf2b16026b23": {
       "title": "This Gender-Bent Girl Lost Everything Within Ten Days",
@@ -12421,6 +12428,70 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-21T06:13:08Z",
+      "removed_at": null
+    },
+    "0e526d86-e9ae-46a1-ae5a-f80bc1756660": {
+      "title": "I Like My Little Sister's Breasts",
+      "url": "https://mangadex.org/title/0e526d86-e9ae-46a1-ae5a-f80bc1756660",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-21T17:28:06Z",
+      "removed_at": null
+    },
+    "133ec785-0677-4e22-8186-e15ed0621c36": {
+      "title": "Amano Megumi Is Full of Openings!",
+      "url": "https://mangadex.org/title/133ec785-0677-4e22-8186-e15ed0621c36",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-21T17:28:06Z",
+      "removed_at": null
+    },
+    "1bc97ccd-1e56-4570-a399-162d08414f66": {
+      "title": "UmaYome ~Horse & Trainer Wedded Bliss~",
+      "url": "https://mangadex.org/title/1bc97ccd-1e56-4570-a399-162d08414f66",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-21T17:28:06Z",
+      "removed_at": null
+    },
+    "57f7b8a8-2d36-47af-9db0-22ab21b70baa": {
+      "title": "Red Blood Red Legacy",
+      "url": "https://mangadex.org/title/57f7b8a8-2d36-47af-9db0-22ab21b70baa",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-21T17:28:06Z",
+      "removed_at": null
+    },
+    "718d9146-8c9e-4ff3-9dc4-e4736a1239bb": {
+      "title": "The Warrior Returns",
+      "url": "https://mangadex.org/title/718d9146-8c9e-4ff3-9dc4-e4736a1239bb",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-21T17:28:06Z",
+      "removed_at": null
+    },
+    "96485292-35fc-486b-9835-70433422350e": {
+      "title": "Phony Fortune-Telling Gyaru",
+      "url": "https://mangadex.org/title/96485292-35fc-486b-9835-70433422350e",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-21T17:28:06Z",
+      "removed_at": null
+    },
+    "975f3334-8395-4393-84a2-50fcaccbcdc0": {
+      "title": "Life with an Ordinary Guy Who Reincarnated into a Total Fantasy Knockout",
+      "url": "https://mangadex.org/title/975f3334-8395-4393-84a2-50fcaccbcdc0",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-21T17:28:06Z",
+      "removed_at": null
+    },
+    "ea98b1cc-8900-4f83-8f94-697ced116f32": {
+      "title": "Hamster",
+      "url": "https://mangadex.org/title/ea98b1cc-8900-4f83-8f94-697ced116f32",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-21T17:28:06Z",
       "removed_at": null
     }
   }
