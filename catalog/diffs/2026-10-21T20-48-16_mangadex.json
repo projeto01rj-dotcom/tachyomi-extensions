@@ -1,0 +1,52 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-21T20:48:16Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "438b7cbc-09c3-4464-a491-daf0764c0eb1",
+      "title": "Infinite Apostles and Twelve War Girls",
+      "url": "https://mangadex.org/title/438b7cbc-09c3-4464-a491-daf0764c0eb1"
+    },
+    {
+      "source": "mangadex",
+      "key": "49285542-f829-4f82-90b1-dd9631c72b55",
+      "title": "Kimi no Nukumori Ga",
+      "url": "https://mangadex.org/title/49285542-f829-4f82-90b1-dd9631c72b55"
+    },
+    {
+      "source": "mangadex",
+      "key": "55a96d76-10a2-4c4b-bc60-3a4aa8325e50",
+      "title": "Orient",
+      "url": "https://mangadex.org/title/55a96d76-10a2-4c4b-bc60-3a4aa8325e50"
+    },
+    {
+      "source": "mangadex",
+      "key": "94b85b77-a2a9-4ffb-bb5e-c3bfa6a3c48d",
+      "title": "CHOYOYU!: High School Prodigies Have It Easy Even in Another World!",
+      "url": "https://mangadex.org/title/94b85b77-a2a9-4ffb-bb5e-c3bfa6a3c48d"
+    },
+    {
+      "source": "mangadex",
+      "key": "cc8c6049-aa75-45e7-a7fc-74bc58720ff6",
+      "title": "Miseru, Mitsumeru, Futari Dake",
+      "url": "https://mangadex.org/title/cc8c6049-aa75-45e7-a7fc-74bc58720ff6"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "d4b793e6-ebcf-4619-a3b1-bf2b16026b23",
+      "title": "This Gender-Bent Girl Lost Everything Within Ten Days",
+      "url": "https://mangadex.org/title/d4b793e6-ebcf-4619-a3b1-bf2b16026b23",
+      "removed_at": "2026-10-21T20:48:16Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "7fb957e4-a94b-496d-be91-b7d75fad7b21",
+      "title": "You can't Be in a Rom-Com with Your Childhood Friends!",
+      "url": "https://mangadex.org/title/7fb957e4-a94b-496d-be91-b7d75fad7b21",
+      "removed_at": "2026-10-21T20:48:16Z"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-21T17:28:06Z",
+  "updated_at": "2026-10-21T20:48:16Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -11878,9 +11878,10 @@
       "title": "This Gender-Bent Girl Lost Everything Within Ten Days",
       "url": "https://mangadex.org/title/d4b793e6-ebcf-4619-a3b1-bf2b16026b23",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-16T13:38:56Z",
-      "removed_at": null
+      "removed_at": "2026-10-21T20:48:16Z",
+      "removed_by_source": true
     },
     "33af412e-8d17-4ce5-90a5-a0857b8cb0ed": {
       "title": "Yoru no Kurage wa Oyogenai",
@@ -11894,9 +11895,10 @@
       "title": "You can't Be in a Rom-Com with Your Childhood Friends!",
       "url": "https://mangadex.org/title/7fb957e4-a94b-496d-be91-b7d75fad7b21",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-16T17:45:15Z",
-      "removed_at": null
+      "removed_at": "2026-10-21T20:48:16Z",
+      "removed_by_source": true
     },
     "e1a23218-096e-4a51-afe9-e27177bd9eed": {
       "title": "A Temporary Contract Marriage That Turned Into a Real Family",
@@ -12492,6 +12494,46 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-21T17:28:06Z",
+      "removed_at": null
+    },
+    "438b7cbc-09c3-4464-a491-daf0764c0eb1": {
+      "title": "Infinite Apostles and Twelve War Girls",
+      "url": "https://mangadex.org/title/438b7cbc-09c3-4464-a491-daf0764c0eb1",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-21T20:48:16Z",
+      "removed_at": null
+    },
+    "49285542-f829-4f82-90b1-dd9631c72b55": {
+      "title": "Kimi no Nukumori Ga",
+      "url": "https://mangadex.org/title/49285542-f829-4f82-90b1-dd9631c72b55",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-21T20:48:16Z",
+      "removed_at": null
+    },
+    "55a96d76-10a2-4c4b-bc60-3a4aa8325e50": {
+      "title": "Orient",
+      "url": "https://mangadex.org/title/55a96d76-10a2-4c4b-bc60-3a4aa8325e50",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-21T20:48:16Z",
+      "removed_at": null
+    },
+    "94b85b77-a2a9-4ffb-bb5e-c3bfa6a3c48d": {
+      "title": "CHOYOYU!: High School Prodigies Have It Easy Even in Another World!",
+      "url": "https://mangadex.org/title/94b85b77-a2a9-4ffb-bb5e-c3bfa6a3c48d",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-21T20:48:16Z",
+      "removed_at": null
+    },
+    "cc8c6049-aa75-45e7-a7fc-74bc58720ff6": {
+      "title": "Miseru, Mitsumeru, Futari Dake",
+      "url": "https://mangadex.org/title/cc8c6049-aa75-45e7-a7fc-74bc58720ff6",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-21T20:48:16Z",
       "removed_at": null
     }
   }
