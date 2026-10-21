@@ -1,13 +1,10 @@
 {
-  "ran_at": "2026-10-21T06:13:08Z",
-  "changed": true,
+  "ran_at": "2026-10-21T12:07:48Z",
+  "changed": false,
   "sources": {
     "mangadex": {
-      "ok": true,
-      "present": 500,
-      "registered": 1393,
-      "added": 1,
-      "removed": 4
+      "ok": false,
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://api.mangadex.org/manga?limit=100&offset=0&availableTranslatedLanguage%5B%5D=pt-br&contentRating%5B%5D=safe&contentRating%5B%5D=suggestive&order%5BlatestUploadedChapter%5D=desc&hasAvailableChapters=true&includes%5B%5D=cover_art"
     },
     "saikai": {
       "ok": false,
@@ -25,5 +22,5 @@
       "error": "HTTPError: 403 Client Error: Forbidden for url: https://noxmangas.org/releases?page=1"
     }
   },
-  "removed": 4
+  "removed": 0
 }
