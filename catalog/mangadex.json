@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-21T01:09:20Z",
+  "updated_at": "2026-10-21T06:13:08Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -10383,9 +10383,10 @@
       "title": "Ex-girlfriend Teachers Want to Nurture Love by Making Slightly Naughty Visits to Your Home",
       "url": "https://mangadex.org/title/8e904201-718a-45f6-ae44-0e6d7f8c4aa3",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-06T23:28:26Z",
-      "removed_at": null
+      "removed_at": "2026-10-21T06:13:08Z",
+      "removed_by_source": true
     },
     "a949eb3c-3a93-4ce7-a4aa-447e6b20e76f": {
       "title": "Welcome to Pyramid Café!",
@@ -11568,9 +11569,10 @@
       "title": "Scavengers: Another Sky",
       "url": "https://mangadex.org/title/42289724-53ab-4016-9812-cdb6a7d7ea0a",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-14T02:01:45Z",
-      "removed_at": null
+      "removed_at": "2026-10-21T06:13:08Z",
+      "removed_by_source": true
     },
     "635fc6fd-3759-41dc-90d0-3b41cd6eb18d": {
       "title": "Haruka Reset",
@@ -11717,9 +11719,10 @@
       "title": "The Invincible Summoner Who Crawled up from Level 1",
       "url": "https://mangadex.org/title/38c6f934-7558-4d1b-80d1-91114e0419eb",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-15T18:47:37Z",
-      "removed_at": null
+      "removed_at": "2026-10-21T06:13:08Z",
+      "removed_by_source": true
     },
     "3c8ddbf0-7807-493b-960d-c1e508f12c46": {
       "title": "The Marshal King",
@@ -11778,9 +11781,10 @@
       "title": "Different World Foundation",
       "url": "https://mangadex.org/title/ec8f26f4-bc9f-43b6-93ec-60a05638fca0",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-15T18:47:37Z",
-      "removed_at": null
+      "removed_at": "2026-10-21T06:13:08Z",
+      "removed_by_source": true
     },
     "ef25dabb-969e-4a87-b854-b15a53b9209f": {
       "title": "Farewell Mr. Despair",
@@ -12409,6 +12413,14 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-21T01:09:20Z",
+      "removed_at": null
+    },
+    "cb05f225-2f4a-49ca-9b35-7e3e07d67fae": {
+      "title": "History's Strongest Disciple Kenichi 2: Masters Arc",
+      "url": "https://mangadex.org/title/cb05f225-2f4a-49ca-9b35-7e3e07d67fae",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-21T06:13:08Z",
       "removed_at": null
     }
   }

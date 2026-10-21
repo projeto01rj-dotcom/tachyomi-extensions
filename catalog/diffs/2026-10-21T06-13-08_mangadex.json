@@ -1,0 +1,42 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-21T06:13:08Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "cb05f225-2f4a-49ca-9b35-7e3e07d67fae",
+      "title": "History's Strongest Disciple Kenichi 2: Masters Arc",
+      "url": "https://mangadex.org/title/cb05f225-2f4a-49ca-9b35-7e3e07d67fae"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "8e904201-718a-45f6-ae44-0e6d7f8c4aa3",
+      "title": "Ex-girlfriend Teachers Want to Nurture Love by Making Slightly Naughty Visits to Your Home",
+      "url": "https://mangadex.org/title/8e904201-718a-45f6-ae44-0e6d7f8c4aa3",
+      "removed_at": "2026-10-21T06:13:08Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "42289724-53ab-4016-9812-cdb6a7d7ea0a",
+      "title": "Scavengers: Another Sky",
+      "url": "https://mangadex.org/title/42289724-53ab-4016-9812-cdb6a7d7ea0a",
+      "removed_at": "2026-10-21T06:13:08Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "38c6f934-7558-4d1b-80d1-91114e0419eb",
+      "title": "The Invincible Summoner Who Crawled up from Level 1",
+      "url": "https://mangadex.org/title/38c6f934-7558-4d1b-80d1-91114e0419eb",
+      "removed_at": "2026-10-21T06:13:08Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "ec8f26f4-bc9f-43b6-93ec-60a05638fca0",
+      "title": "Different World Foundation",
+      "url": "https://mangadex.org/title/ec8f26f4-bc9f-43b6-93ec-60a05638fca0",
+      "removed_at": "2026-10-21T06:13:08Z"
+    }
+  ]
+}
