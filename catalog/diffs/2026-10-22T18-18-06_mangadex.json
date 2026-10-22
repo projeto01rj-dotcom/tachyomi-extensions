@@ -1,0 +1,66 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-22T18:18:06Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "0ca1627e-95dd-4118-892a-f144adf02256",
+      "title": "March Comes in Like a Lion",
+      "url": "https://mangadex.org/title/0ca1627e-95dd-4118-892a-f144adf02256"
+    },
+    {
+      "source": "mangadex",
+      "key": "30a46494-ee27-4ed8-9008-ca72b0ad2f80",
+      "title": "The Girl Who's Bad at Expressing Herself",
+      "url": "https://mangadex.org/title/30a46494-ee27-4ed8-9008-ca72b0ad2f80"
+    },
+    {
+      "source": "mangadex",
+      "key": "5fc86cdc-ade2-472b-b077-c9f92beb213d",
+      "title": "The Blue Rider Bunny",
+      "url": "https://mangadex.org/title/5fc86cdc-ade2-472b-b077-c9f92beb213d"
+    },
+    {
+      "source": "mangadex",
+      "key": "b80ea8bd-7293-4e61-965a-14594059dde1",
+      "title": "Girlfriend Limited to 7 Days.",
+      "url": "https://mangadex.org/title/b80ea8bd-7293-4e61-965a-14594059dde1"
+    },
+    {
+      "source": "mangadex",
+      "key": "e9cda134-9c53-4dd2-8ce0-f9b0171afb39",
+      "title": "Goblin Slayer Side Story: Year One",
+      "url": "https://mangadex.org/title/e9cda134-9c53-4dd2-8ce0-f9b0171afb39"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "48e7a509-9321-474a-8299-3bb3fe89239c",
+      "title": "My Husband Is Sleeping in the Freezer",
+      "url": "https://mangadex.org/title/48e7a509-9321-474a-8299-3bb3fe89239c",
+      "removed_at": "2026-10-22T18:18:06Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "b344c3f0-20b4-4127-bfe9-0d29874e41c6",
+      "title": "My Harem Consists Entirely of Female Demon Villains",
+      "url": "https://mangadex.org/title/b344c3f0-20b4-4127-bfe9-0d29874e41c6",
+      "removed_at": "2026-10-22T18:18:06Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "bc86a871-ddc5-4e42-812a-ccd38101d82e",
+      "title": "Rainbows After Storms",
+      "url": "https://mangadex.org/title/bc86a871-ddc5-4e42-812a-ccd38101d82e",
+      "removed_at": "2026-10-22T18:18:06Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "4c3e41c6-da40-4df1-9978-1c26f7130166",
+      "title": "DBVS",
+      "url": "https://mangadex.org/title/4c3e41c6-da40-4df1-9978-1c26f7130166",
+      "removed_at": "2026-10-22T18:18:06Z"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-22T13:57:46Z",
+  "updated_at": "2026-10-22T18:18:06Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -11529,9 +11529,10 @@
       "title": "My Husband Is Sleeping in the Freezer",
       "url": "https://mangadex.org/title/48e7a509-9321-474a-8299-3bb3fe89239c",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-13T19:24:23Z",
-      "removed_at": null
+      "removed_at": "2026-10-22T18:18:06Z",
+      "removed_by_source": true
     },
     "a781de8e-0935-45bd-bc33-cbc76ea8c6f9": {
       "title": "Until I (M) Become Me (F)",
@@ -11972,17 +11973,19 @@
       "title": "My Harem Consists Entirely of Female Demon Villains",
       "url": "https://mangadex.org/title/b344c3f0-20b4-4127-bfe9-0d29874e41c6",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-17T05:13:48Z",
-      "removed_at": null
+      "removed_at": "2026-10-22T18:18:06Z",
+      "removed_by_source": true
     },
     "bc86a871-ddc5-4e42-812a-ccd38101d82e": {
       "title": "Rainbows After Storms",
       "url": "https://mangadex.org/title/bc86a871-ddc5-4e42-812a-ccd38101d82e",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-17T09:32:20Z",
-      "removed_at": null
+      "removed_at": "2026-10-22T18:18:06Z",
+      "removed_by_source": true
     },
     "e5e48e54-9844-4f57-8f93-df82205bad2e": {
       "title": "The Elf Sisters Can't Wait for the Night",
@@ -11997,9 +12000,10 @@
       "title": "DBVS",
       "url": "https://mangadex.org/title/4c3e41c6-da40-4df1-9978-1c26f7130166",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-17T13:22:47Z",
-      "removed_at": null
+      "removed_at": "2026-10-22T18:18:06Z",
+      "removed_by_source": true
     },
     "c82a466d-34dd-420a-b068-29f639d1380e": {
       "title": "Propeller Heaven",
@@ -12586,6 +12590,46 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-22T13:57:46Z",
+      "removed_at": null
+    },
+    "0ca1627e-95dd-4118-892a-f144adf02256": {
+      "title": "March Comes in Like a Lion",
+      "url": "https://mangadex.org/title/0ca1627e-95dd-4118-892a-f144adf02256",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-22T18:18:06Z",
+      "removed_at": null
+    },
+    "30a46494-ee27-4ed8-9008-ca72b0ad2f80": {
+      "title": "The Girl Who's Bad at Expressing Herself",
+      "url": "https://mangadex.org/title/30a46494-ee27-4ed8-9008-ca72b0ad2f80",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-22T18:18:06Z",
+      "removed_at": null
+    },
+    "5fc86cdc-ade2-472b-b077-c9f92beb213d": {
+      "title": "The Blue Rider Bunny",
+      "url": "https://mangadex.org/title/5fc86cdc-ade2-472b-b077-c9f92beb213d",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-22T18:18:06Z",
+      "removed_at": null
+    },
+    "b80ea8bd-7293-4e61-965a-14594059dde1": {
+      "title": "Girlfriend Limited to 7 Days.",
+      "url": "https://mangadex.org/title/b80ea8bd-7293-4e61-965a-14594059dde1",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-22T18:18:06Z",
+      "removed_at": null
+    },
+    "e9cda134-9c53-4dd2-8ce0-f9b0171afb39": {
+      "title": "Goblin Slayer Side Story: Year One",
+      "url": "https://mangadex.org/title/e9cda134-9c53-4dd2-8ce0-f9b0171afb39",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-22T18:18:06Z",
       "removed_at": null
     }
   }
