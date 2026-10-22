@@ -1,0 +1,63 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-22T08:09:37Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "491aba94-e971-4911-8a93-0b1200403f4b",
+      "title": "Major",
+      "url": "https://mangadex.org/title/491aba94-e971-4911-8a93-0b1200403f4b"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "267db3f7-fd9c-4395-ac36-9ffacd772473",
+      "title": "Star Martial God Technique",
+      "url": "https://mangadex.org/title/267db3f7-fd9c-4395-ac36-9ffacd772473",
+      "removed_at": "2026-10-22T08:09:37Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "d88f684f-6cfe-4d31-9605-9e9f73f7ff11",
+      "title": "The Days of Diamond",
+      "url": "https://mangadex.org/title/d88f684f-6cfe-4d31-9605-9e9f73f7ff11",
+      "removed_at": "2026-10-22T08:09:37Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "192aa767-2479-42c1-9780-8d65a2efd36a",
+      "title": "Gachiakuta",
+      "url": "https://mangadex.org/title/192aa767-2479-42c1-9780-8d65a2efd36a",
+      "removed_at": "2026-10-22T08:09:37Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "e1a23218-096e-4a51-afe9-e27177bd9eed",
+      "title": "A Temporary Contract Marriage That Turned Into a Real Family",
+      "url": "https://mangadex.org/title/e1a23218-096e-4a51-afe9-e27177bd9eed",
+      "removed_at": "2026-10-22T08:09:37Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "e39eb61f-f538-46fe-b8bf-db115ec51d1d",
+      "title": "Sem título",
+      "url": "https://mangadex.org/title/e39eb61f-f538-46fe-b8bf-db115ec51d1d",
+      "removed_at": "2026-10-22T08:09:37Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "0b2beaa6-08df-44e5-a404-ecee109744fc",
+      "title": "Candy♥Candy",
+      "url": "https://mangadex.org/title/0b2beaa6-08df-44e5-a404-ecee109744fc",
+      "removed_at": "2026-10-22T08:09:37Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "b7af9467-a5d3-470a-86e9-b5ae4a82e0cd",
+      "title": "JoJo's Bizarre Adventure, Part 4: Diamond Is Unbreakable - Digital Colored Comics",
+      "url": "https://mangadex.org/title/b7af9467-a5d3-470a-86e9-b5ae4a82e0cd",
+      "removed_at": "2026-10-22T08:09:37Z"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-22T02:38:43Z",
+  "updated_at": "2026-10-22T08:09:37Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -10563,9 +10563,10 @@
       "title": "Star Martial God Technique",
       "url": "https://mangadex.org/title/267db3f7-fd9c-4395-ac36-9ffacd772473",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-07T22:08:13Z",
-      "removed_at": null
+      "removed_at": "2026-10-22T08:09:37Z",
+      "removed_by_source": true
     },
     "5c78dcc5-0393-457d-9e4f-3fde40ef1014": {
       "title": "Unlimited Bacteria Magician",
@@ -11001,9 +11002,10 @@
       "title": "The Days of Diamond",
       "url": "https://mangadex.org/title/d88f684f-6cfe-4d31-9605-9e9f73f7ff11",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-10T12:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-22T08:09:37Z",
+      "removed_by_source": true
     },
     "e43a7f5b-6ae7-478d-a4d5-53c8dc3ce52f": {
       "title": "Wistoria: Wand and Sword",
@@ -11809,9 +11811,10 @@
       "title": "Gachiakuta",
       "url": "https://mangadex.org/title/192aa767-2479-42c1-9780-8d65a2efd36a",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-15T23:59:24Z",
-      "removed_at": null
+      "removed_at": "2026-10-22T08:09:37Z",
+      "removed_by_source": true
     },
     "3b33635c-e74b-4a22-8933-4d9483f560ce": {
       "title": "Victoria of Many Faces",
@@ -11906,25 +11909,28 @@
       "title": "A Temporary Contract Marriage That Turned Into a Real Family",
       "url": "https://mangadex.org/title/e1a23218-096e-4a51-afe9-e27177bd9eed",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-16T17:45:15Z",
-      "removed_at": null
+      "removed_at": "2026-10-22T08:09:37Z",
+      "removed_by_source": true
     },
     "e39eb61f-f538-46fe-b8bf-db115ec51d1d": {
       "title": "Sem título",
       "url": "https://mangadex.org/title/e39eb61f-f538-46fe-b8bf-db115ec51d1d",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-16T17:45:15Z",
-      "removed_at": null
+      "removed_at": "2026-10-22T08:09:37Z",
+      "removed_by_source": true
     },
     "0b2beaa6-08df-44e5-a404-ecee109744fc": {
       "title": "Candy♥Candy",
       "url": "https://mangadex.org/title/0b2beaa6-08df-44e5-a404-ecee109744fc",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-16T20:19:14Z",
-      "removed_at": null
+      "removed_at": "2026-10-22T08:09:37Z",
+      "removed_by_source": true
     },
     "175be589-d357-4704-85ec-aeeacb2f416f": {
       "title": "The Fake Alchemist",
@@ -11938,9 +11944,10 @@
       "title": "JoJo's Bizarre Adventure, Part 4: Diamond Is Unbreakable - Digital Colored Comics",
       "url": "https://mangadex.org/title/b7af9467-a5d3-470a-86e9-b5ae4a82e0cd",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-16T20:19:14Z",
-      "removed_at": null
+      "removed_at": "2026-10-22T08:09:37Z",
+      "removed_by_source": true
     },
     "245f2aac-1aee-4983-b2d5-34ea5dab460e": {
       "title": "xxxHOLiC: Return",
@@ -12544,6 +12551,14 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-22T02:38:43Z",
+      "removed_at": null
+    },
+    "491aba94-e971-4911-8a93-0b1200403f4b": {
+      "title": "Major",
+      "url": "https://mangadex.org/title/491aba94-e971-4911-8a93-0b1200403f4b",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-22T08:09:37Z",
       "removed_at": null
     }
   }
