@@ -1,0 +1,47 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-22T13:57:46Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "478e6926-b8bc-465c-9694-2bae1dbaf32b",
+      "title": "Latna Saga: Survival of a Sword King",
+      "url": "https://mangadex.org/title/478e6926-b8bc-465c-9694-2bae1dbaf32b"
+    },
+    {
+      "source": "mangadex",
+      "key": "782f22a8-dc60-4c3b-8223-bfa42bc8707d",
+      "title": "Silent Horror",
+      "url": "https://mangadex.org/title/782f22a8-dc60-4c3b-8223-bfa42bc8707d"
+    },
+    {
+      "source": "mangadex",
+      "key": "acfd6902-b39c-4b7d-91a8-9825dda4ede8",
+      "title": "The Story of Feeding the Cutest Gyaru in Class",
+      "url": "https://mangadex.org/title/acfd6902-b39c-4b7d-91a8-9825dda4ede8"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "175be589-d357-4704-85ec-aeeacb2f416f",
+      "title": "The Fake Alchemist",
+      "url": "https://mangadex.org/title/175be589-d357-4704-85ec-aeeacb2f416f",
+      "removed_at": "2026-10-22T13:57:46Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "245f2aac-1aee-4983-b2d5-34ea5dab460e",
+      "title": "xxxHOLiC: Return",
+      "url": "https://mangadex.org/title/245f2aac-1aee-4983-b2d5-34ea5dab460e",
+      "removed_at": "2026-10-22T13:57:46Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "84703c86-eb83-45ec-8fc5-f34a25115893",
+      "title": "Dai Dark",
+      "url": "https://mangadex.org/title/84703c86-eb83-45ec-8fc5-f34a25115893",
+      "removed_at": "2026-10-22T13:57:46Z"
+    }
+  ]
+}
