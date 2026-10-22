@@ -1,0 +1,28 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-22T02:38:43Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "7895cbd9-2ce9-4826-823f-6811fef7179e",
+      "title": "Though I May Be a Villainess, I'll Show You I Can Obtain Happiness!",
+      "url": "https://mangadex.org/title/7895cbd9-2ce9-4826-823f-6811fef7179e"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "f4fa3679-6918-4684-bcb6-377c9f336898",
+      "title": "Eastern Strange Legend of Wise Spirits: Cheating Detective Satori",
+      "url": "https://mangadex.org/title/f4fa3679-6918-4684-bcb6-377c9f336898",
+      "removed_at": "2026-10-22T02:38:43Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "33af412e-8d17-4ce5-90a5-a0857b8cb0ed",
+      "title": "Yoru no Kurage wa Oyogenai",
+      "url": "https://mangadex.org/title/33af412e-8d17-4ce5-90a5-a0857b8cb0ed",
+      "removed_at": "2026-10-22T02:38:43Z"
+    }
+  ]
+}
