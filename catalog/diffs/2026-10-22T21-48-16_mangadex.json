@@ -1,0 +1,34 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-22T21:48:16Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "333f4d22-7753-4e3b-b0da-0a69b2cdce4f",
+      "title": "Assassination Classroom",
+      "url": "https://mangadex.org/title/333f4d22-7753-4e3b-b0da-0a69b2cdce4f"
+    },
+    {
+      "source": "mangadex",
+      "key": "5f092ebb-7736-4b19-a517-825b5b642a1c",
+      "title": "Persona 2 - Innocent Sin Comic Anthology",
+      "url": "https://mangadex.org/title/5f092ebb-7736-4b19-a517-825b5b642a1c"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "1dcc48ba-e371-4028-8ac3-fd90b882edfa",
+      "title": "Shadow Skill",
+      "url": "https://mangadex.org/title/1dcc48ba-e371-4028-8ac3-fd90b882edfa",
+      "removed_at": "2026-10-22T21:48:16Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "c82a466d-34dd-420a-b068-29f639d1380e",
+      "title": "Propeller Heaven",
+      "url": "https://mangadex.org/title/c82a466d-34dd-420a-b068-29f639d1380e",
+      "removed_at": "2026-10-22T21:48:16Z"
+    }
+  ]
+}
