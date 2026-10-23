@@ -1,0 +1,28 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-23T00:16:35Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "eeb2ab0e-7dbc-4f0c-b476-8181d44217a8",
+      "title": "Heavenly Delusion",
+      "url": "https://mangadex.org/title/eeb2ab0e-7dbc-4f0c-b476-8181d44217a8"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "84a16155-afda-47d5-9aec-606e46307231",
+      "title": "Your SSS-Rank Afterlife is Confirmed, Virtuous Old Man",
+      "url": "https://mangadex.org/title/84a16155-afda-47d5-9aec-606e46307231",
+      "removed_at": "2026-10-23T00:16:35Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "ecbb0ff6-8a80-4897-a13f-5305f6c181db",
+      "title": "My Status Window Went on Strike",
+      "url": "https://mangadex.org/title/ecbb0ff6-8a80-4897-a13f-5305f6c181db",
+      "removed_at": "2026-10-23T00:16:35Z"
+    }
+  ]
+}
