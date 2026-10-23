@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-23T19:23:26Z",
+  "updated_at": "2026-10-23T22:26:27Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -12726,6 +12726,30 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-23T19:23:26Z",
+      "removed_at": null
+    },
+    "04326fc7-5e42-4bfb-9663-63916160023b": {
+      "title": "Fire Ring",
+      "url": "https://mangadex.org/title/04326fc7-5e42-4bfb-9663-63916160023b",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-23T22:26:27Z",
+      "removed_at": null
+    },
+    "082857f5-740c-4556-9625-479d52124eea": {
+      "title": "Mazinkaiser vs Shin Getter Robo",
+      "url": "https://mangadex.org/title/082857f5-740c-4556-9625-479d52124eea",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-23T22:26:27Z",
+      "removed_at": null
+    },
+    "59f47645-66a9-443e-8228-788313c3ae3c": {
+      "title": "Tokyo Ghoul: re",
+      "url": "https://mangadex.org/title/59f47645-66a9-443e-8228-788313c3ae3c",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-23T22:26:27Z",
       "removed_at": null
     }
   }

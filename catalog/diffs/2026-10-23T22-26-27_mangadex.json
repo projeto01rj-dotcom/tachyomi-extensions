@@ -1,0 +1,25 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-23T22:26:27Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "04326fc7-5e42-4bfb-9663-63916160023b",
+      "title": "Fire Ring",
+      "url": "https://mangadex.org/title/04326fc7-5e42-4bfb-9663-63916160023b"
+    },
+    {
+      "source": "mangadex",
+      "key": "082857f5-740c-4556-9625-479d52124eea",
+      "title": "Mazinkaiser vs Shin Getter Robo",
+      "url": "https://mangadex.org/title/082857f5-740c-4556-9625-479d52124eea"
+    },
+    {
+      "source": "mangadex",
+      "key": "59f47645-66a9-443e-8228-788313c3ae3c",
+      "title": "Tokyo Ghoul: re",
+      "url": "https://mangadex.org/title/59f47645-66a9-443e-8228-788313c3ae3c"
+    }
+  ],
+  "removed": []
+}
