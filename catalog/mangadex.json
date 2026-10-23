@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-23T00:16:35Z",
+  "updated_at": "2026-10-23T05:07:23Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -12658,6 +12658,22 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-23T00:16:35Z",
+      "removed_at": null
+    },
+    "2a7fb038-ceb0-4f7c-9f3f-da1396fae3c8": {
+      "title": "Clark Detective Agency Case Files",
+      "url": "https://mangadex.org/title/2a7fb038-ceb0-4f7c-9f3f-da1396fae3c8",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-23T05:07:23Z",
+      "removed_at": null
+    },
+    "b49cb67e-0071-4f90-b29c-2ce566672c31": {
+      "title": "Kaine",
+      "url": "https://mangadex.org/title/b49cb67e-0071-4f90-b29c-2ce566672c31",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-23T05:07:23Z",
       "removed_at": null
     }
   }
