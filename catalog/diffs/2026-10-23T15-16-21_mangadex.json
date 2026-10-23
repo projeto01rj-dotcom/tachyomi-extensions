@@ -1,0 +1,27 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-23T15:16:21Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "91503d4c-16d6-4962-9eca-93557667066c",
+      "title": "Why Does Nobody Remember Me in This World?",
+      "url": "https://mangadex.org/title/91503d4c-16d6-4962-9eca-93557667066c"
+    },
+    {
+      "source": "mangadex",
+      "key": "b4615bd9-7cbd-4243-a8a2-5c24671663e0",
+      "title": "Karate Survivor in Another World",
+      "url": "https://mangadex.org/title/b4615bd9-7cbd-4243-a8a2-5c24671663e0"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "df9316fb-f900-49b4-96ac-8dbca96d2fac",
+      "title": "Mikazuki no Carte",
+      "url": "https://mangadex.org/title/df9316fb-f900-49b4-96ac-8dbca96d2fac",
+      "removed_at": "2026-10-23T15:16:21Z"
+    }
+  ]
+}

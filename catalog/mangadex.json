@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-23T10:18:26Z",
+  "updated_at": "2026-10-23T15:16:21Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -12055,9 +12055,10 @@
       "title": "Mikazuki no Carte",
       "url": "https://mangadex.org/title/df9316fb-f900-49b4-96ac-8dbca96d2fac",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-17T21:14:02Z",
-      "removed_at": null
+      "removed_at": "2026-10-23T15:16:21Z",
+      "removed_by_source": true
     },
     "59f41b42-db80-41e5-b410-78d4ce2ac735": {
       "title": "Takami-san of the Heights",
@@ -12684,6 +12685,22 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-23T10:18:26Z",
+      "removed_at": null
+    },
+    "91503d4c-16d6-4962-9eca-93557667066c": {
+      "title": "Why Does Nobody Remember Me in This World?",
+      "url": "https://mangadex.org/title/91503d4c-16d6-4962-9eca-93557667066c",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-23T15:16:21Z",
+      "removed_at": null
+    },
+    "b4615bd9-7cbd-4243-a8a2-5c24671663e0": {
+      "title": "Karate Survivor in Another World",
+      "url": "https://mangadex.org/title/b4615bd9-7cbd-4243-a8a2-5c24671663e0",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-23T15:16:21Z",
       "removed_at": null
     }
   }
