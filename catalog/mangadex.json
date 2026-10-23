@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-23T05:07:23Z",
+  "updated_at": "2026-10-23T10:18:26Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -12037,17 +12037,19 @@
       "title": "Tyrannosaurus & Triceratops",
       "url": "https://mangadex.org/title/994dfcd9-0449-47a7-ac1e-0efff9b0fe54",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-17T18:57:42Z",
-      "removed_at": null
+      "removed_at": "2026-10-23T10:18:26Z",
+      "removed_by_source": true
     },
     "9695225f-0dbf-46e9-bf9f-2605c2d561d9": {
       "title": "Kurosagi: The Black Swindler",
       "url": "https://mangadex.org/title/9695225f-0dbf-46e9-bf9f-2605c2d561d9",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-17T21:14:02Z",
-      "removed_at": null
+      "removed_at": "2026-10-23T10:18:26Z",
+      "removed_by_source": true
     },
     "df9316fb-f900-49b4-96ac-8dbca96d2fac": {
       "title": "Mikazuki no Carte",
@@ -12674,6 +12676,14 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-23T05:07:23Z",
+      "removed_at": null
+    },
+    "2cb917d9-1cc2-485e-972b-28e8efb375f1": {
+      "title": "In the Darkness (Tagame Gengoroh)",
+      "url": "https://mangadex.org/title/2cb917d9-1cc2-485e-972b-28e8efb375f1",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-23T10:18:26Z",
       "removed_at": null
     }
   }
