@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-23T15:16:21Z",
+  "updated_at": "2026-10-23T19:23:26Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -12072,9 +12072,10 @@
       "title": "Secret Girl Through the Filter",
       "url": "https://mangadex.org/title/b05825a3-9d8e-45bc-a45a-1fe065186b83",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-18T06:12:01Z",
-      "removed_at": null
+      "removed_at": "2026-10-23T19:23:26Z",
+      "removed_by_source": true
     },
     "ef105a86-4b7e-4ac4-b45c-b7d83b8f5b5e": {
       "title": "Sem título",
@@ -12701,6 +12702,30 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-23T15:16:21Z",
+      "removed_at": null
+    },
+    "bc7d2f16-f89f-480b-8be5-c24b34798b6a": {
+      "title": "Honmono no Kanojo ni Shitakunaru Made, Watashi de Tameshite Ii yo.",
+      "url": "https://mangadex.org/title/bc7d2f16-f89f-480b-8be5-c24b34798b6a",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-23T19:23:26Z",
+      "removed_at": null
+    },
+    "f40fdea0-e792-434c-875b-97a3aff9482f": {
+      "title": "Knights of the 107th Demon Beast Front ~Futoshi Odyssey~",
+      "url": "https://mangadex.org/title/f40fdea0-e792-434c-875b-97a3aff9482f",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-23T19:23:26Z",
+      "removed_at": null
+    },
+    "f662ed1e-66f3-4601-84e5-07df99d843f4": {
+      "title": "I Was Pronounced Dead by The Kind Grim Reaper",
+      "url": "https://mangadex.org/title/f662ed1e-66f3-4601-84e5-07df99d843f4",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-23T19:23:26Z",
       "removed_at": null
     }
   }

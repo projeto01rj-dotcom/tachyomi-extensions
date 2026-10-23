@@ -1,0 +1,33 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-23T19:23:26Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "bc7d2f16-f89f-480b-8be5-c24b34798b6a",
+      "title": "Honmono no Kanojo ni Shitakunaru Made, Watashi de Tameshite Ii yo.",
+      "url": "https://mangadex.org/title/bc7d2f16-f89f-480b-8be5-c24b34798b6a"
+    },
+    {
+      "source": "mangadex",
+      "key": "f40fdea0-e792-434c-875b-97a3aff9482f",
+      "title": "Knights of the 107th Demon Beast Front ~Futoshi Odyssey~",
+      "url": "https://mangadex.org/title/f40fdea0-e792-434c-875b-97a3aff9482f"
+    },
+    {
+      "source": "mangadex",
+      "key": "f662ed1e-66f3-4601-84e5-07df99d843f4",
+      "title": "I Was Pronounced Dead by The Kind Grim Reaper",
+      "url": "https://mangadex.org/title/f662ed1e-66f3-4601-84e5-07df99d843f4"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "b05825a3-9d8e-45bc-a45a-1fe065186b83",
+      "title": "Secret Girl Through the Filter",
+      "url": "https://mangadex.org/title/b05825a3-9d8e-45bc-a45a-1fe065186b83",
+      "removed_at": "2026-10-23T19:23:26Z"
+    }
+  ]
+}
