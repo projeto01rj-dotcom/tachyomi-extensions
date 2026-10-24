@@ -1,0 +1,25 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-24T22:08:43Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "60de2707-2a4a-4fa6-92fa-0b534898cd4d",
+      "title": "Majo-senpai Nippou",
+      "url": "https://mangadex.org/title/60de2707-2a4a-4fa6-92fa-0b534898cd4d"
+    },
+    {
+      "source": "mangadex",
+      "key": "bb90ac5f-87cf-432b-8761-bff9152acfdb",
+      "title": "Please Kiss Sweet Me",
+      "url": "https://mangadex.org/title/bb90ac5f-87cf-432b-8761-bff9152acfdb"
+    },
+    {
+      "source": "mangadex",
+      "key": "c59187a7-7479-4b6f-a990-395b35677939",
+      "title": "From the Dust.",
+      "url": "https://mangadex.org/title/c59187a7-7479-4b6f-a990-395b35677939"
+    }
+  ],
+  "removed": []
+}
