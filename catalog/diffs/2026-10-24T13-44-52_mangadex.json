@@ -1,0 +1,52 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-24T13:44:52Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "2b5b045c-32ee-4f3e-85cc-8f205000ec98",
+      "title": "Your Reason for Living",
+      "url": "https://mangadex.org/title/2b5b045c-32ee-4f3e-85cc-8f205000ec98"
+    },
+    {
+      "source": "mangadex",
+      "key": "3b8e4dc5-bffa-4382-a23c-be97c44ab4e2",
+      "title": "GATE: Where the JSDF Fought",
+      "url": "https://mangadex.org/title/3b8e4dc5-bffa-4382-a23c-be97c44ab4e2"
+    },
+    {
+      "source": "mangadex",
+      "key": "5ecc3e71-547d-444d-a3f8-f3c7e77da960",
+      "title": "Lover Swap",
+      "url": "https://mangadex.org/title/5ecc3e71-547d-444d-a3f8-f3c7e77da960"
+    },
+    {
+      "source": "mangadex",
+      "key": "9f2a7896-36b2-4ed9-bb4e-e4b448d91522",
+      "title": "Shindou Yuusha to Maid Onee-san",
+      "url": "https://mangadex.org/title/9f2a7896-36b2-4ed9-bb4e-e4b448d91522"
+    },
+    {
+      "source": "mangadex",
+      "key": "c086153a-0162-412a-9914-a7b2633d0cd3",
+      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion",
+      "url": "https://mangadex.org/title/c086153a-0162-412a-9914-a7b2633d0cd3"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "9607da06-6e14-4d2c-805d-b0b792b44bd9",
+      "title": "No Cooldown: Undead Catastrophe",
+      "url": "https://mangadex.org/title/9607da06-6e14-4d2c-805d-b0b792b44bd9",
+      "removed_at": "2026-10-24T13:44:52Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "141609b6-cf86-4266-904c-6648f389cdc9",
+      "title": "RuriDragon",
+      "url": "https://mangadex.org/title/141609b6-cf86-4266-904c-6648f389cdc9",
+      "removed_at": "2026-10-24T13:44:52Z"
+    }
+  ]
+}

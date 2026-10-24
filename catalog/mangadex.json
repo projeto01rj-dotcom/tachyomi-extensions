@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-24T09:40:08Z",
+  "updated_at": "2026-10-24T13:44:52Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -11361,9 +11361,10 @@
       "title": "No Cooldown: Undead Catastrophe",
       "url": "https://mangadex.org/title/9607da06-6e14-4d2c-805d-b0b792b44bd9",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-12T17:10:34Z",
-      "removed_at": null
+      "removed_at": "2026-10-24T13:44:52Z",
+      "removed_by_source": true
     },
     "9d9c3006-915b-4f7e-8636-9eea6da12ec3": {
       "title": "Daily Life of Sa-chan, a Drugstore Clerk",
@@ -12098,9 +12099,10 @@
       "title": "RuriDragon",
       "url": "https://mangadex.org/title/141609b6-cf86-4266-904c-6648f389cdc9",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-18T17:41:30Z",
-      "removed_at": null
+      "removed_at": "2026-10-24T13:44:52Z",
+      "removed_by_source": true
     },
     "39c9c088-3a83-4e61-a129-35fe299bbe3c": {
       "title": "Reincarnated as the Mastermind Behind the Story",
@@ -12760,6 +12762,46 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-24T05:15:05Z",
+      "removed_at": null
+    },
+    "2b5b045c-32ee-4f3e-85cc-8f205000ec98": {
+      "title": "Your Reason for Living",
+      "url": "https://mangadex.org/title/2b5b045c-32ee-4f3e-85cc-8f205000ec98",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-24T13:44:52Z",
+      "removed_at": null
+    },
+    "3b8e4dc5-bffa-4382-a23c-be97c44ab4e2": {
+      "title": "GATE: Where the JSDF Fought",
+      "url": "https://mangadex.org/title/3b8e4dc5-bffa-4382-a23c-be97c44ab4e2",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-24T13:44:52Z",
+      "removed_at": null
+    },
+    "5ecc3e71-547d-444d-a3f8-f3c7e77da960": {
+      "title": "Lover Swap",
+      "url": "https://mangadex.org/title/5ecc3e71-547d-444d-a3f8-f3c7e77da960",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-24T13:44:52Z",
+      "removed_at": null
+    },
+    "9f2a7896-36b2-4ed9-bb4e-e4b448d91522": {
+      "title": "Shindou Yuusha to Maid Onee-san",
+      "url": "https://mangadex.org/title/9f2a7896-36b2-4ed9-bb4e-e4b448d91522",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-24T13:44:52Z",
+      "removed_at": null
+    },
+    "c086153a-0162-412a-9914-a7b2633d0cd3": {
+      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion",
+      "url": "https://mangadex.org/title/c086153a-0162-412a-9914-a7b2633d0cd3",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-24T13:44:52Z",
       "removed_at": null
     }
   }
