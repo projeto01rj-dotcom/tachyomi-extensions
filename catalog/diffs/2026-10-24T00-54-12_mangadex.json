@@ -1,0 +1,14 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-24T00:54:12Z",
+  "added": [],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "07125c94-dc35-4064-a676-2cea158a55d6",
+      "title": "Jack-of-All-Trades, Party of None",
+      "url": "https://mangadex.org/title/07125c94-dc35-4064-a676-2cea158a55d6",
+      "removed_at": "2026-10-24T00:54:12Z"
+    }
+  ]
+}

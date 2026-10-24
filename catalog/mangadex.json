@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-23T22:26:27Z",
+  "updated_at": "2026-10-24T00:54:12Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -12089,9 +12089,10 @@
       "title": "Jack-of-All-Trades, Party of None",
       "url": "https://mangadex.org/title/07125c94-dc35-4064-a676-2cea158a55d6",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-18T14:45:19Z",
-      "removed_at": null
+      "removed_at": "2026-10-24T00:54:12Z",
+      "removed_by_source": true
     },
     "141609b6-cf86-4266-904c-6648f389cdc9": {
       "title": "RuriDragon",
