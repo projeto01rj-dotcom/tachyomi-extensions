@@ -1,0 +1,21 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-24T05:15:05Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "f9c9614d-0657-44c6-9c33-47fd58cd51b3",
+      "title": "Fullmetal Alchemist",
+      "url": "https://mangadex.org/title/f9c9614d-0657-44c6-9c33-47fd58cd51b3"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "690832ed-f81b-49b1-b461-6e4f6a274f41",
+      "title": "MoMo: the blood taker",
+      "url": "https://mangadex.org/title/690832ed-f81b-49b1-b461-6e4f6a274f41",
+      "removed_at": "2026-10-24T05:15:05Z"
+    }
+  ]
+}
