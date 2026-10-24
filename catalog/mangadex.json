@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-24T13:44:52Z",
+  "updated_at": "2026-10-24T17:07:12Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -10653,9 +10653,10 @@
       "title": "Reborn as an Aristocratic Scoundrel, I Broke the Game and Mastered Magic Beyond Limits!",
       "url": "https://mangadex.org/title/b0dc2f88-4e89-4e30-8d68-20116db788ff",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-08T09:14:22Z",
-      "removed_at": null
+      "removed_at": "2026-10-24T17:07:12Z",
+      "removed_by_source": true
     },
     "c4e4daf8-f236-4b3f-ad5b-36d91deaafd7": {
       "title": "The Former Strongest Swordsman Strives to Learn Magic in Another World",
@@ -11611,9 +11612,10 @@
       "title": "The Virgin Hero Who Fought in the Dungeon for 20 Years Returned to the Surface Only to Find the Population of the World Has Dropped Drastically, with a Male-to-Female Ratio of 1:1000",
       "url": "https://mangadex.org/title/b40483ce-e448-4671-a84e-b2ea8fef938a",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-14T13:12:07Z",
-      "removed_at": null
+      "removed_at": "2026-10-24T17:07:12Z",
+      "removed_by_source": true
     },
     "b787bfae-7b1c-4964-a910-718529bbd377": {
       "title": "My Daughter Left the Nest and Returned an S-Rank Adventurer: The Black-Haired Valkyrie",
@@ -12802,6 +12804,14 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-24T13:44:52Z",
+      "removed_at": null
+    },
+    "96338481-0531-4a25-b209-152e4178684b": {
+      "title": "Radiation House",
+      "url": "https://mangadex.org/title/96338481-0531-4a25-b209-152e4178684b",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-24T17:07:12Z",
       "removed_at": null
     }
   }

@@ -1,0 +1,28 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-24T17:07:12Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "96338481-0531-4a25-b209-152e4178684b",
+      "title": "Radiation House",
+      "url": "https://mangadex.org/title/96338481-0531-4a25-b209-152e4178684b"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "b0dc2f88-4e89-4e30-8d68-20116db788ff",
+      "title": "Reborn as an Aristocratic Scoundrel, I Broke the Game and Mastered Magic Beyond Limits!",
+      "url": "https://mangadex.org/title/b0dc2f88-4e89-4e30-8d68-20116db788ff",
+      "removed_at": "2026-10-24T17:07:12Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "b40483ce-e448-4671-a84e-b2ea8fef938a",
+      "title": "The Virgin Hero Who Fought in the Dungeon for 20 Years Returned to the Surface Only to Find the Population of the World Has Dropped Drastically, with a Male-to-Female Ratio of 1:1000",
+      "url": "https://mangadex.org/title/b40483ce-e448-4671-a84e-b2ea8fef938a",
+      "removed_at": "2026-10-24T17:07:12Z"
+    }
+  ]
+}
