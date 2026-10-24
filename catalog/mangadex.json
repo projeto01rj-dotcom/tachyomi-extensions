@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-24T17:07:12Z",
+  "updated_at": "2026-10-24T19:36:51Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -12812,6 +12812,30 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-24T17:07:12Z",
+      "removed_at": null
+    },
+    "37838287-3fe9-443d-9d22-eafc1089140e": {
+      "title": "I Got a Cheat Skill in Another World and Became Unrivaled in the Real World, Too",
+      "url": "https://mangadex.org/title/37838287-3fe9-443d-9d22-eafc1089140e",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-24T19:36:51Z",
+      "removed_at": null
+    },
+    "4e05a903-119e-4572-b674-5b091504328c": {
+      "title": "Sorriso de Sangue",
+      "url": "https://mangadex.org/title/4e05a903-119e-4572-b674-5b091504328c",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-24T19:36:51Z",
+      "removed_at": null
+    },
+    "878634d2-ea39-4001-a4bf-31458020d16a": {
+      "title": "Villainess Level 99: I May Be the Hidden Boss but I’m Not the Demon Lord",
+      "url": "https://mangadex.org/title/878634d2-ea39-4001-a4bf-31458020d16a",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-24T19:36:51Z",
       "removed_at": null
     }
   }
