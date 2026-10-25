@@ -1,0 +1,27 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-25T09:57:40Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "546bfea8-8134-40e1-9676-fe21da8622dc",
+      "title": "Demon Lord, Retry! R",
+      "url": "https://mangadex.org/title/546bfea8-8134-40e1-9676-fe21da8622dc"
+    },
+    {
+      "source": "mangadex",
+      "key": "5c7b34cb-b32b-4f3e-9a56-a2888693e852",
+      "title": "Digimon Dreamers",
+      "url": "https://mangadex.org/title/5c7b34cb-b32b-4f3e-9a56-a2888693e852"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "39c9c088-3a83-4e61-a129-35fe299bbe3c",
+      "title": "Reincarnated as the Mastermind Behind the Story",
+      "url": "https://mangadex.org/title/39c9c088-3a83-4e61-a129-35fe299bbe3c",
+      "removed_at": "2026-10-25T09:57:40Z"
+    }
+  ]
+}
