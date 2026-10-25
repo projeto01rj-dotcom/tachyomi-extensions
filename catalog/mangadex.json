@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-25T00:25:05Z",
+  "updated_at": "2026-10-25T05:01:11Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -411,9 +411,10 @@
       "title": "Lily",
       "url": "https://mangadex.org/title/19daf6ef-6d95-46e5-9e1a-f4e5b655902f",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-25T05:01:11Z",
+      "removed_by_source": true
     },
     "1a64acaf-7dee-4a8a-a766-16bc241ed934": {
       "title": "Meals in the Ruins",
@@ -12152,9 +12153,10 @@
       "title": "Henjo: The Strange Female High-Schooler Amaguri Senko",
       "url": "https://mangadex.org/title/30f33cd0-a65b-4b13-a660-bee2940bc551",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-19T11:00:56Z",
-      "removed_at": null
+      "removed_at": "2026-10-25T05:01:11Z",
+      "removed_by_source": true
     },
     "6a1d1cb1-ecd5-40d9-89ff-9d88e40b136b": {
       "title": "TOKYO GHOUL",
@@ -12168,9 +12170,10 @@
       "title": "Even Repeaters Want to Enjoy Youth",
       "url": "https://mangadex.org/title/c9ac4d19-8735-46e2-ae79-195fca78c39e",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-19T11:00:56Z",
-      "removed_at": null
+      "removed_at": "2026-10-25T05:01:11Z",
+      "removed_by_source": true
     },
     "296d616a-ed6b-4b53-b4be-5532543dabb0": {
       "title": "In Clothes Called Fat",
@@ -12869,6 +12872,22 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-25T00:25:05Z",
+      "removed_at": null
+    },
+    "71c10c5d-7a31-4594-8927-b9d64235d293": {
+      "title": "A Playthrough of a Certain Dude's VRMMO Life",
+      "url": "https://mangadex.org/title/71c10c5d-7a31-4594-8927-b9d64235d293",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-25T05:01:11Z",
+      "removed_at": null
+    },
+    "f4045a9e-e5f6-4778-bd33-7a91cefc3f71": {
+      "title": "For the Sake of My Future Vengeance",
+      "url": "https://mangadex.org/title/f4045a9e-e5f6-4778-bd33-7a91cefc3f71",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-25T05:01:11Z",
       "removed_at": null
     }
   }

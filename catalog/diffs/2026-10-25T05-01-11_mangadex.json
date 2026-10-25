@@ -1,0 +1,41 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-25T05:01:11Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "71c10c5d-7a31-4594-8927-b9d64235d293",
+      "title": "A Playthrough of a Certain Dude's VRMMO Life",
+      "url": "https://mangadex.org/title/71c10c5d-7a31-4594-8927-b9d64235d293"
+    },
+    {
+      "source": "mangadex",
+      "key": "f4045a9e-e5f6-4778-bd33-7a91cefc3f71",
+      "title": "For the Sake of My Future Vengeance",
+      "url": "https://mangadex.org/title/f4045a9e-e5f6-4778-bd33-7a91cefc3f71"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "19daf6ef-6d95-46e5-9e1a-f4e5b655902f",
+      "title": "Lily",
+      "url": "https://mangadex.org/title/19daf6ef-6d95-46e5-9e1a-f4e5b655902f",
+      "removed_at": "2026-10-25T05:01:11Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "30f33cd0-a65b-4b13-a660-bee2940bc551",
+      "title": "Henjo: The Strange Female High-Schooler Amaguri Senko",
+      "url": "https://mangadex.org/title/30f33cd0-a65b-4b13-a660-bee2940bc551",
+      "removed_at": "2026-10-25T05:01:11Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "c9ac4d19-8735-46e2-ae79-195fca78c39e",
+      "title": "Even Repeaters Want to Enjoy Youth",
+      "url": "https://mangadex.org/title/c9ac4d19-8735-46e2-ae79-195fca78c39e",
+      "removed_at": "2026-10-25T05:01:11Z"
+    }
+  ]
+}
