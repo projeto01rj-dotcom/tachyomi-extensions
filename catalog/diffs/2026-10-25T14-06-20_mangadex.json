@@ -1,0 +1,35 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-25T14:06:20Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "04c892b3-a202-46f5-ad11-0d433e712ab8",
+      "title": "Dealing with Mikadono Sisters is a Breeze",
+      "url": "https://mangadex.org/title/04c892b3-a202-46f5-ad11-0d433e712ab8"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "5fc26352-350e-4c09-9c58-f2c041cd430d",
+      "title": "Dungeons That Surely Slaughter Adventurers",
+      "url": "https://mangadex.org/title/5fc26352-350e-4c09-9c58-f2c041cd430d",
+      "removed_at": "2026-10-25T14:06:20Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "4028472c-5ee4-4e5a-9d61-6aea6449edd9",
+      "title": "Boyish Girlfriend",
+      "url": "https://mangadex.org/title/4028472c-5ee4-4e5a-9d61-6aea6449edd9",
+      "removed_at": "2026-10-25T14:06:20Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "d3390cac-4827-436b-a9a2-4f317a155117",
+      "title": "Destroy All Humans. They Can't be Regenerated. A Magic: The Gathering Manga",
+      "url": "https://mangadex.org/title/d3390cac-4827-436b-a9a2-4f317a155117",
+      "removed_at": "2026-10-25T14:06:20Z"
+    }
+  ]
+}

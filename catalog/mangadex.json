@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-25T09:57:40Z",
+  "updated_at": "2026-10-25T14:06:20Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -11756,9 +11756,10 @@
       "title": "Dungeons That Surely Slaughter Adventurers",
       "url": "https://mangadex.org/title/5fc26352-350e-4c09-9c58-f2c041cd430d",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-15T18:47:37Z",
-      "removed_at": null
+      "removed_at": "2026-10-25T14:06:20Z",
+      "removed_by_source": true
     },
     "68236d5a-329c-4fb4-9ebb-7f7264fe28a9": {
       "title": "What's with the Bag, Kamiyama-san?",
@@ -12188,9 +12189,10 @@
       "title": "Boyish Girlfriend",
       "url": "https://mangadex.org/title/4028472c-5ee4-4e5a-9d61-6aea6449edd9",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-19T17:37:04Z",
-      "removed_at": null
+      "removed_at": "2026-10-25T14:06:20Z",
+      "removed_by_source": true
     },
     "632cabd4-4552-4ba4-aea9-9db96a8b8a9f": {
       "title": "I Don't Know What My Little Sister's Friend Is Thinking",
@@ -12212,9 +12214,10 @@
       "title": "Destroy All Humans. They Can't be Regenerated. A Magic: The Gathering Manga",
       "url": "https://mangadex.org/title/d3390cac-4827-436b-a9a2-4f317a155117",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-19T17:37:04Z",
-      "removed_at": null
+      "removed_at": "2026-10-25T14:06:20Z",
+      "removed_by_source": true
     },
     "f4904da8-2250-461b-bb29-3ec177c40bb9": {
       "title": "Splatoon",
@@ -12905,6 +12908,14 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-25T09:57:40Z",
+      "removed_at": null
+    },
+    "04c892b3-a202-46f5-ad11-0d433e712ab8": {
+      "title": "Dealing with Mikadono Sisters is a Breeze",
+      "url": "https://mangadex.org/title/04c892b3-a202-46f5-ad11-0d433e712ab8",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-25T14:06:20Z",
       "removed_at": null
     }
   }
