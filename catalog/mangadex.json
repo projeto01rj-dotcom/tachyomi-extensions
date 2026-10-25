@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-25T20:11:52Z",
+  "updated_at": "2026-10-25T22:42:08Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -10476,9 +10476,10 @@
       "title": "Please Look After the Dragon",
       "url": "https://mangadex.org/title/5924767b-2288-40c7-8304-0d5879c353b3",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-07T09:34:46Z",
-      "removed_at": null
+      "removed_at": "2026-10-25T22:42:08Z",
+      "removed_by_source": true
     },
     "fe6ed2f3-30af-4ebc-98c8-1fc39a0d0ac1": {
       "title": "Living In The Moment",
@@ -12299,9 +12300,10 @@
       "title": "N",
       "url": "https://mangadex.org/title/d1aefdeb-09d1-4e70-8edc-9ae611ce0da5",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-19T21:52:45Z",
-      "removed_at": null
+      "removed_at": "2026-10-25T22:42:08Z",
+      "removed_by_source": true
     },
     "e1d8b192-fa28-4651-bdaf-d4e0d4418ea8": {
       "title": "The Case Study of Vanitas",
@@ -12386,17 +12388,19 @@
       "title": "TsumaSho",
       "url": "https://mangadex.org/title/2fc6e547-cd3d-4030-a733-defc244df2d5",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-20T10:43:02Z",
-      "removed_at": null
+      "removed_at": "2026-10-25T22:42:08Z",
+      "removed_by_source": true
     },
     "567b51cb-ae4c-4a27-af49-92468c5ff4a4": {
       "title": "Kawaii nante Kiitenai!!",
       "url": "https://mangadex.org/title/567b51cb-ae4c-4a27-af49-92468c5ff4a4",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-20T10:43:02Z",
-      "removed_at": null
+      "removed_at": "2026-10-25T22:42:08Z",
+      "removed_by_source": true
     },
     "80cda3ff-d08a-4797-8f83-0f6ef538c3a2": {
       "title": "JoJo's Bizarre Adventure - Moscow Calling (Doujinshi)",
@@ -12418,9 +12422,10 @@
       "title": "Ojou-san to Yobanaide",
       "url": "https://mangadex.org/title/c6a17411-0f3f-4b55-adfc-1a9515bae9ea",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-20T10:43:02Z",
-      "removed_at": null
+      "removed_at": "2026-10-25T22:42:08Z",
+      "removed_by_source": true
     },
     "10fab94e-2227-47e2-b059-f4762eb5ca4e": {
       "title": "Grandpa and Grandma Turn Young Again",
@@ -12435,17 +12440,19 @@
       "title": "Kiichi VS",
       "url": "https://mangadex.org/title/88fe360b-68dc-4438-a506-12f6cdf46733",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-20T15:29:51Z",
-      "removed_at": null
+      "removed_at": "2026-10-25T22:42:08Z",
+      "removed_by_source": true
     },
     "9f5a6b1c-92c1-4411-a3a4-5de3eb89e067": {
       "title": "Fern and Stark's Valentine's",
       "url": "https://mangadex.org/title/9f5a6b1c-92c1-4411-a3a4-5de3eb89e067",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-20T15:29:51Z",
-      "removed_at": null
+      "removed_at": "2026-10-25T22:42:08Z",
+      "removed_by_source": true
     },
     "91843e85-5611-4f16-9181-c209265ff112": {
       "title": "Grün Bæla",
@@ -12539,9 +12546,10 @@
       "title": "Life with an Ordinary Guy Who Reincarnated into a Total Fantasy Knockout",
       "url": "https://mangadex.org/title/975f3334-8395-4393-84a2-50fcaccbcdc0",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-21T17:28:06Z",
-      "removed_at": null
+      "removed_at": "2026-10-25T22:42:08Z",
+      "removed_by_source": true
     },
     "ea98b1cc-8900-4f83-8f94-697ced116f32": {
       "title": "Hamster",
@@ -12973,6 +12981,22 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-25T20:11:52Z",
+      "removed_at": null
+    },
+    "34f72e29-1bda-40df-ae93-0e1c32d96ea6": {
+      "title": "Witch Craft Works",
+      "url": "https://mangadex.org/title/34f72e29-1bda-40df-ae93-0e1c32d96ea6",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-25T22:42:08Z",
+      "removed_at": null
+    },
+    "36e2b9c7-1f4b-4b0d-bd21-ae294fed986f": {
+      "title": "It’s Reasonable to Use a Butcher Knife to Chop Down Everything in the World, Right?",
+      "url": "https://mangadex.org/title/36e2b9c7-1f4b-4b0d-bd21-ae294fed986f",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-25T22:42:08Z",
       "removed_at": null
     }
   }

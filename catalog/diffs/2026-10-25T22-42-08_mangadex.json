@@ -1,0 +1,76 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-25T22:42:08Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "34f72e29-1bda-40df-ae93-0e1c32d96ea6",
+      "title": "Witch Craft Works",
+      "url": "https://mangadex.org/title/34f72e29-1bda-40df-ae93-0e1c32d96ea6"
+    },
+    {
+      "source": "mangadex",
+      "key": "36e2b9c7-1f4b-4b0d-bd21-ae294fed986f",
+      "title": "It’s Reasonable to Use a Butcher Knife to Chop Down Everything in the World, Right?",
+      "url": "https://mangadex.org/title/36e2b9c7-1f4b-4b0d-bd21-ae294fed986f"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "5924767b-2288-40c7-8304-0d5879c353b3",
+      "title": "Please Look After the Dragon",
+      "url": "https://mangadex.org/title/5924767b-2288-40c7-8304-0d5879c353b3",
+      "removed_at": "2026-10-25T22:42:08Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "d1aefdeb-09d1-4e70-8edc-9ae611ce0da5",
+      "title": "N",
+      "url": "https://mangadex.org/title/d1aefdeb-09d1-4e70-8edc-9ae611ce0da5",
+      "removed_at": "2026-10-25T22:42:08Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "2fc6e547-cd3d-4030-a733-defc244df2d5",
+      "title": "TsumaSho",
+      "url": "https://mangadex.org/title/2fc6e547-cd3d-4030-a733-defc244df2d5",
+      "removed_at": "2026-10-25T22:42:08Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "567b51cb-ae4c-4a27-af49-92468c5ff4a4",
+      "title": "Kawaii nante Kiitenai!!",
+      "url": "https://mangadex.org/title/567b51cb-ae4c-4a27-af49-92468c5ff4a4",
+      "removed_at": "2026-10-25T22:42:08Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "c6a17411-0f3f-4b55-adfc-1a9515bae9ea",
+      "title": "Ojou-san to Yobanaide",
+      "url": "https://mangadex.org/title/c6a17411-0f3f-4b55-adfc-1a9515bae9ea",
+      "removed_at": "2026-10-25T22:42:08Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "88fe360b-68dc-4438-a506-12f6cdf46733",
+      "title": "Kiichi VS",
+      "url": "https://mangadex.org/title/88fe360b-68dc-4438-a506-12f6cdf46733",
+      "removed_at": "2026-10-25T22:42:08Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "9f5a6b1c-92c1-4411-a3a4-5de3eb89e067",
+      "title": "Fern and Stark's Valentine's",
+      "url": "https://mangadex.org/title/9f5a6b1c-92c1-4411-a3a4-5de3eb89e067",
+      "removed_at": "2026-10-25T22:42:08Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "975f3334-8395-4393-84a2-50fcaccbcdc0",
+      "title": "Life with an Ordinary Guy Who Reincarnated into a Total Fantasy Knockout",
+      "url": "https://mangadex.org/title/975f3334-8395-4393-84a2-50fcaccbcdc0",
+      "removed_at": "2026-10-25T22:42:08Z"
+    }
+  ]
+}
