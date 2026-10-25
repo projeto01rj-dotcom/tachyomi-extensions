@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-25T14:06:20Z",
+  "updated_at": "2026-10-25T17:43:35Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -11676,9 +11676,10 @@
       "title": "Laid-Back Camp",
       "url": "https://mangadex.org/title/1ee97895-4796-4bcf-bcd1-5ef99c011f8b",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-15T00:12:07Z",
-      "removed_at": null
+      "removed_at": "2026-10-25T17:43:35Z",
+      "removed_by_source": true
     },
     "79dba6c7-cc1e-475c-971b-82898375d27b": {
       "title": "Fox-Faced Husband And Wife",
@@ -12131,9 +12132,10 @@
       "title": "Bungou Stray Dogs",
       "url": "https://mangadex.org/title/3fba42cf-2ad6-4c30-a7ab-46cb8149208a",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-18T22:06:14Z",
-      "removed_at": null
+      "removed_at": "2026-10-25T17:43:35Z",
+      "removed_by_source": true
     },
     "18543708-eed6-4b84-b3fd-f67540b4ebbd": {
       "title": "Yaiba!",
@@ -12181,9 +12183,10 @@
       "title": "In Clothes Called Fat",
       "url": "https://mangadex.org/title/296d616a-ed6b-4b53-b4be-5532543dabb0",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-19T17:37:04Z",
-      "removed_at": null
+      "removed_at": "2026-10-25T17:43:35Z",
+      "removed_by_source": true
     },
     "4028472c-5ee4-4e5a-9d61-6aea6449edd9": {
       "title": "Boyish Girlfriend",
@@ -12198,9 +12201,10 @@
       "title": "I Don't Know What My Little Sister's Friend Is Thinking",
       "url": "https://mangadex.org/title/632cabd4-4552-4ba4-aea9-9db96a8b8a9f",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-19T17:37:04Z",
-      "removed_at": null
+      "removed_at": "2026-10-25T17:43:35Z",
+      "removed_by_source": true
     },
     "908fe918-ee36-4858-b321-4ba7aadbc817": {
       "title": "The Last Manga Classroom",
@@ -12240,9 +12244,10 @@
       "title": "Engaged to the Unidentified",
       "url": "https://mangadex.org/title/f6635579-f1e6-4e43-8adf-06b009e1af0c",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-19T17:37:04Z",
-      "removed_at": null
+      "removed_at": "2026-10-25T17:43:35Z",
+      "removed_by_source": true
     },
     "f7b62193-bdfb-4953-a6c6-0bd1b9a872f9": {
       "title": "The Bugle Call: Song of War",
@@ -12265,25 +12270,28 @@
       "title": "A Maiden in Love with a Maiden Boy",
       "url": "https://mangadex.org/title/0c9ec14d-c51f-49aa-b343-2e016c957f83",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-19T21:52:45Z",
-      "removed_at": null
+      "removed_at": "2026-10-25T17:43:35Z",
+      "removed_by_source": true
     },
     "25886ab0-17f1-4801-b929-6b36fe4e5214": {
       "title": "The Minami Family",
       "url": "https://mangadex.org/title/25886ab0-17f1-4801-b929-6b36fe4e5214",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-19T21:52:45Z",
-      "removed_at": null
+      "removed_at": "2026-10-25T17:43:35Z",
+      "removed_by_source": true
     },
     "706a3219-646d-4fdd-833c-234ca616029e": {
       "title": "Tedama ni Toritai Kurokiya-san",
       "url": "https://mangadex.org/title/706a3219-646d-4fdd-833c-234ca616029e",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-19T21:52:45Z",
-      "removed_at": null
+      "removed_at": "2026-10-25T17:43:35Z",
+      "removed_by_source": true
     },
     "d1aefdeb-09d1-4e70-8edc-9ae611ce0da5": {
       "title": "N",
@@ -12297,9 +12305,10 @@
       "title": "The Case Study of Vanitas",
       "url": "https://mangadex.org/title/e1d8b192-fa28-4651-bdaf-d4e0d4418ea8",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-19T21:52:45Z",
-      "removed_at": null
+      "removed_at": "2026-10-25T17:43:35Z",
+      "removed_by_source": true
     },
     "4b5826de-2b31-4cc1-bf84-b3e4487b703d": {
       "title": "Leveling up at Super Speed with Only Me Using the Full-Auto Attack Skill: The Lazy Reincarnator's Effortless Otherworld Strategy Guided by a Goddess",
@@ -12916,6 +12925,22 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-25T14:06:20Z",
+      "removed_at": null
+    },
+    "b1419204-1dc0-480f-babc-9b90d886dd99": {
+      "title": "Returned from Another World, Earth Turned Out to be Quite the Fantasy Too. Also, Losing Heroines, Stop Looking this Way",
+      "url": "https://mangadex.org/title/b1419204-1dc0-480f-babc-9b90d886dd99",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-25T17:43:35Z",
+      "removed_at": null
+    },
+    "bc6c6751-6abe-4ebe-bfa9-cf9d684b574a": {
+      "title": "Sem título",
+      "url": "https://mangadex.org/title/bc6c6751-6abe-4ebe-bfa9-cf9d684b574a",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-25T17:43:35Z",
       "removed_at": null
     }
   }

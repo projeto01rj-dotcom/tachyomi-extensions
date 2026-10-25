@@ -1,0 +1,83 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-25T17:43:35Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "b1419204-1dc0-480f-babc-9b90d886dd99",
+      "title": "Returned from Another World, Earth Turned Out to be Quite the Fantasy Too. Also, Losing Heroines, Stop Looking this Way",
+      "url": "https://mangadex.org/title/b1419204-1dc0-480f-babc-9b90d886dd99"
+    },
+    {
+      "source": "mangadex",
+      "key": "bc6c6751-6abe-4ebe-bfa9-cf9d684b574a",
+      "title": "Sem título",
+      "url": "https://mangadex.org/title/bc6c6751-6abe-4ebe-bfa9-cf9d684b574a"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "1ee97895-4796-4bcf-bcd1-5ef99c011f8b",
+      "title": "Laid-Back Camp",
+      "url": "https://mangadex.org/title/1ee97895-4796-4bcf-bcd1-5ef99c011f8b",
+      "removed_at": "2026-10-25T17:43:35Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "3fba42cf-2ad6-4c30-a7ab-46cb8149208a",
+      "title": "Bungou Stray Dogs",
+      "url": "https://mangadex.org/title/3fba42cf-2ad6-4c30-a7ab-46cb8149208a",
+      "removed_at": "2026-10-25T17:43:35Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "296d616a-ed6b-4b53-b4be-5532543dabb0",
+      "title": "In Clothes Called Fat",
+      "url": "https://mangadex.org/title/296d616a-ed6b-4b53-b4be-5532543dabb0",
+      "removed_at": "2026-10-25T17:43:35Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "632cabd4-4552-4ba4-aea9-9db96a8b8a9f",
+      "title": "I Don't Know What My Little Sister's Friend Is Thinking",
+      "url": "https://mangadex.org/title/632cabd4-4552-4ba4-aea9-9db96a8b8a9f",
+      "removed_at": "2026-10-25T17:43:35Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "f6635579-f1e6-4e43-8adf-06b009e1af0c",
+      "title": "Engaged to the Unidentified",
+      "url": "https://mangadex.org/title/f6635579-f1e6-4e43-8adf-06b009e1af0c",
+      "removed_at": "2026-10-25T17:43:35Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "0c9ec14d-c51f-49aa-b343-2e016c957f83",
+      "title": "A Maiden in Love with a Maiden Boy",
+      "url": "https://mangadex.org/title/0c9ec14d-c51f-49aa-b343-2e016c957f83",
+      "removed_at": "2026-10-25T17:43:35Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "25886ab0-17f1-4801-b929-6b36fe4e5214",
+      "title": "The Minami Family",
+      "url": "https://mangadex.org/title/25886ab0-17f1-4801-b929-6b36fe4e5214",
+      "removed_at": "2026-10-25T17:43:35Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "706a3219-646d-4fdd-833c-234ca616029e",
+      "title": "Tedama ni Toritai Kurokiya-san",
+      "url": "https://mangadex.org/title/706a3219-646d-4fdd-833c-234ca616029e",
+      "removed_at": "2026-10-25T17:43:35Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "e1d8b192-fa28-4651-bdaf-d4e0d4418ea8",
+      "title": "The Case Study of Vanitas",
+      "url": "https://mangadex.org/title/e1d8b192-fa28-4651-bdaf-d4e0d4418ea8",
+      "removed_at": "2026-10-25T17:43:35Z"
+    }
+  ]
+}
