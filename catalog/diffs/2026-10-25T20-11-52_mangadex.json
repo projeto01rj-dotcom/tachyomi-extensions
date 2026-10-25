@@ -1,0 +1,82 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-25T20:11:52Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "13d402c9-e3d8-4aa7-8bb2-bcd510866d9a",
+      "title": "Sem título",
+      "url": "https://mangadex.org/title/13d402c9-e3d8-4aa7-8bb2-bcd510866d9a"
+    },
+    {
+      "source": "mangadex",
+      "key": "d7e5e384-cb65-4158-80b0-e72079c4a79d",
+      "title": "I'm Your Wizard",
+      "url": "https://mangadex.org/title/d7e5e384-cb65-4158-80b0-e72079c4a79d"
+    },
+    {
+      "source": "mangadex",
+      "key": "e0a9e33b-6def-431b-87db-ae2b26a501a0",
+      "title": "The Inferior Magic Swordsman",
+      "url": "https://mangadex.org/title/e0a9e33b-6def-431b-87db-ae2b26a501a0"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "18543708-eed6-4b84-b3fd-f67540b4ebbd",
+      "title": "Yaiba!",
+      "url": "https://mangadex.org/title/18543708-eed6-4b84-b3fd-f67540b4ebbd",
+      "removed_at": "2026-10-25T20:11:52Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "03f8725e-40b6-44fb-b5f3-c13a702c2b02",
+      "title": "Forget-me-not",
+      "url": "https://mangadex.org/title/03f8725e-40b6-44fb-b5f3-c13a702c2b02",
+      "removed_at": "2026-10-25T20:11:52Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "4b5826de-2b31-4cc1-bf84-b3e4487b703d",
+      "title": "Leveling up at Super Speed with Only Me Using the Full-Auto Attack Skill: The Lazy Reincarnator's Effortless Otherworld Strategy Guided by a Goddess",
+      "url": "https://mangadex.org/title/4b5826de-2b31-4cc1-bf84-b3e4487b703d",
+      "removed_at": "2026-10-25T20:11:52Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "82b7feed-f9d9-418e-a162-aadffabc05bf",
+      "title": "Sem título",
+      "url": "https://mangadex.org/title/82b7feed-f9d9-418e-a162-aadffabc05bf",
+      "removed_at": "2026-10-25T20:11:52Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "90d81edd-accb-4c8d-b44c-e38254d77935",
+      "title": "Until Your Wish Comes True",
+      "url": "https://mangadex.org/title/90d81edd-accb-4c8d-b44c-e38254d77935",
+      "removed_at": "2026-10-25T20:11:52Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "f8ee17c0-ea65-4f0d-9666-182406db1e1a",
+      "title": "Favela Mangaka",
+      "url": "https://mangadex.org/title/f8ee17c0-ea65-4f0d-9666-182406db1e1a",
+      "removed_at": "2026-10-25T20:11:52Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "348ee001-076b-4a71-a8a6-77ba96158a24",
+      "title": "Steel Jeeg",
+      "url": "https://mangadex.org/title/348ee001-076b-4a71-a8a6-77ba96158a24",
+      "removed_at": "2026-10-25T20:11:52Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "5a3e8ea6-7383-4ed5-bcd1-e1cfa0cf8be6",
+      "title": "The Lives of Eccentrics",
+      "url": "https://mangadex.org/title/5a3e8ea6-7383-4ed5-bcd1-e1cfa0cf8be6",
+      "removed_at": "2026-10-25T20:11:52Z"
+    }
+  ]
+}
