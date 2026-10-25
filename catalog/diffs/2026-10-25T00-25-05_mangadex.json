@@ -1,0 +1,21 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-25T00:25:05Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "c5ae4d1c-1f2f-407a-a659-f9e6e1adf58b",
+      "title": "Maho Girls Pretty Cure!",
+      "url": "https://mangadex.org/title/c5ae4d1c-1f2f-407a-a659-f9e6e1adf58b"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "23b51846-bec4-41e4-a9a2-a034064d01eb",
+      "title": "My Youth Romantic Comedy Is Wrong, As I Expected @ comic",
+      "url": "https://mangadex.org/title/23b51846-bec4-41e4-a9a2-a034064d01eb",
+      "removed_at": "2026-10-25T00:25:05Z"
+    }
+  ]
+}

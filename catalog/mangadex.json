@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-24T22:08:43Z",
+  "updated_at": "2026-10-25T00:25:05Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -616,9 +616,10 @@
       "title": "My Youth Romantic Comedy Is Wrong, As I Expected @ comic",
       "url": "https://mangadex.org/title/23b51846-bec4-41e4-a9a2-a034064d01eb",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-25T00:25:05Z",
+      "removed_by_source": true
     },
     "2442e655-dcfe-4ed2-99de-d5b212836b64": {
       "title": "K-ON! Shuffle",
@@ -12860,6 +12861,14 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-24T22:08:43Z",
+      "removed_at": null
+    },
+    "c5ae4d1c-1f2f-407a-a659-f9e6e1adf58b": {
+      "title": "Maho Girls Pretty Cure!",
+      "url": "https://mangadex.org/title/c5ae4d1c-1f2f-407a-a659-f9e6e1adf58b",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-25T00:25:05Z",
       "removed_at": null
     }
   }
