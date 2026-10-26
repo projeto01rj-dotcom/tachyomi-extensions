@@ -1,0 +1,40 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-26T18:13:25Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "36df4466-7c81-4640-a692-43759d891bfb",
+      "title": "The Adventurer Lives in a Labyrinth Want to Resign the Dungeon Master",
+      "url": "https://mangadex.org/title/36df4466-7c81-4640-a692-43759d891bfb"
+    },
+    {
+      "source": "mangadex",
+      "key": "9863c55e-6809-42cc-8ee4-09f00e4f1bec",
+      "title": "Shirley Madison",
+      "url": "https://mangadex.org/title/9863c55e-6809-42cc-8ee4-09f00e4f1bec"
+    },
+    {
+      "source": "mangadex",
+      "key": "f340eb91-fab8-41d6-ae3f-71f3f0a89a46",
+      "title": "HE∀DS",
+      "url": "https://mangadex.org/title/f340eb91-fab8-41d6-ae3f-71f3f0a89a46"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "2bbb5a19-b25f-46fa-b5d3-0ead0f8572fe",
+      "title": "Major 2nd",
+      "url": "https://mangadex.org/title/2bbb5a19-b25f-46fa-b5d3-0ead0f8572fe",
+      "removed_at": "2026-10-26T18:13:25Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "ea98b1cc-8900-4f83-8f94-697ced116f32",
+      "title": "Hamster",
+      "url": "https://mangadex.org/title/ea98b1cc-8900-4f83-8f94-697ced116f32",
+      "removed_at": "2026-10-26T18:13:25Z"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-26T11:57:17Z",
+  "updated_at": "2026-10-26T18:13:25Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -12478,9 +12478,10 @@
       "title": "Major 2nd",
       "url": "https://mangadex.org/title/2bbb5a19-b25f-46fa-b5d3-0ead0f8572fe",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-21T01:09:20Z",
-      "removed_at": null
+      "removed_at": "2026-10-26T18:13:25Z",
+      "removed_by_source": true
     },
     "75f8931e-380d-4354-81fc-3f252d104c20": {
       "title": "I Made the Girl I Liked My Maid, and Now She’s Secretly Doing Something in My Room",
@@ -12559,9 +12560,10 @@
       "title": "Hamster",
       "url": "https://mangadex.org/title/ea98b1cc-8900-4f83-8f94-697ced116f32",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-21T17:28:06Z",
-      "removed_at": null
+      "removed_at": "2026-10-26T18:13:25Z",
+      "removed_by_source": true
     },
     "438b7cbc-09c3-4464-a491-daf0764c0eb1": {
       "title": "Infinite Apostles and Twelve War Girls",
@@ -13041,6 +13043,30 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-26T11:57:17Z",
+      "removed_at": null
+    },
+    "36df4466-7c81-4640-a692-43759d891bfb": {
+      "title": "The Adventurer Lives in a Labyrinth Want to Resign the Dungeon Master",
+      "url": "https://mangadex.org/title/36df4466-7c81-4640-a692-43759d891bfb",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-26T18:13:25Z",
+      "removed_at": null
+    },
+    "9863c55e-6809-42cc-8ee4-09f00e4f1bec": {
+      "title": "Shirley Madison",
+      "url": "https://mangadex.org/title/9863c55e-6809-42cc-8ee4-09f00e4f1bec",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-26T18:13:25Z",
+      "removed_at": null
+    },
+    "f340eb91-fab8-41d6-ae3f-71f3f0a89a46": {
+      "title": "HE∀DS",
+      "url": "https://mangadex.org/title/f340eb91-fab8-41d6-ae3f-71f3f0a89a46",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-26T18:13:25Z",
       "removed_at": null
     }
   }
