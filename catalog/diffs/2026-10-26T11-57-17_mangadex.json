@@ -1,0 +1,27 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-26T11:57:17Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "e279d973-e1dd-4cfc-b643-fda857b6f4a0",
+      "title": "I'm Not Even an NPC in This Otome Game!",
+      "url": "https://mangadex.org/title/e279d973-e1dd-4cfc-b643-fda857b6f4a0"
+    },
+    {
+      "source": "mangadex",
+      "key": "e4c27ac4-ad38-4c17-881a-65ff535ede3d",
+      "title": "The Law of Ueki Exhibition",
+      "url": "https://mangadex.org/title/e4c27ac4-ad38-4c17-881a-65ff535ede3d"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "2b5a3b43-effb-4f54-aa9b-d6093d523452",
+      "title": "Secrets of the Silent Witch",
+      "url": "https://mangadex.org/title/2b5a3b43-effb-4f54-aa9b-d6093d523452",
+      "removed_at": "2026-10-26T11:57:17Z"
+    }
+  ]
+}

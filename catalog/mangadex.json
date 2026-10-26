@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-26T05:38:17Z",
+  "updated_at": "2026-10-26T11:57:17Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -12363,9 +12363,10 @@
       "title": "Secrets of the Silent Witch",
       "url": "https://mangadex.org/title/2b5a3b43-effb-4f54-aa9b-d6093d523452",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-20T05:34:51Z",
-      "removed_at": null
+      "removed_at": "2026-10-26T11:57:17Z",
+      "removed_by_source": true
     },
     "348ee001-076b-4a71-a8a6-77ba96158a24": {
       "title": "Steel Jeeg",
@@ -13024,6 +13025,22 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-26T05:38:17Z",
+      "removed_at": null
+    },
+    "e279d973-e1dd-4cfc-b643-fda857b6f4a0": {
+      "title": "I'm Not Even an NPC in This Otome Game!",
+      "url": "https://mangadex.org/title/e279d973-e1dd-4cfc-b643-fda857b6f4a0",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-26T11:57:17Z",
+      "removed_at": null
+    },
+    "e4c27ac4-ad38-4c17-881a-65ff535ede3d": {
+      "title": "The Law of Ueki Exhibition",
+      "url": "https://mangadex.org/title/e4c27ac4-ad38-4c17-881a-65ff535ede3d",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-26T11:57:17Z",
       "removed_at": null
     }
   }
