@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-26T18:13:25Z",
+  "updated_at": "2026-10-26T22:48:03Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -11875,9 +11875,10 @@
       "title": "The Summer Hikaru Died",
       "url": "https://mangadex.org/title/9e954c6b-7a02-4fd7-986d-6331c0ba95d4",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-16T13:38:56Z",
-      "removed_at": null
+      "removed_at": "2026-10-26T22:48:03Z",
+      "removed_by_source": true
     },
     "b29da26e-39f2-4e64-b96f-62818b209d73": {
       "title": "When I Brought a Lost Girl Home, the Most Beautiful Girl in My Grade Came Out the Front Door",
@@ -12503,9 +12504,10 @@
       "title": "I Like My Little Sister's Breasts",
       "url": "https://mangadex.org/title/0e526d86-e9ae-46a1-ae5a-f80bc1756660",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-21T17:28:06Z",
-      "removed_at": null
+      "removed_at": "2026-10-26T22:48:03Z",
+      "removed_by_source": true
     },
     "133ec785-0677-4e22-8186-e15ed0621c36": {
       "title": "Amano Megumi Is Full of Openings!",
@@ -13067,6 +13069,14 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-26T18:13:25Z",
+      "removed_at": null
+    },
+    "452513a9-c698-410e-9bf9-fe90309780d2": {
+      "title": "Fate/EXTRA CCC FoxTail",
+      "url": "https://mangadex.org/title/452513a9-c698-410e-9bf9-fe90309780d2",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-26T22:48:03Z",
       "removed_at": null
     }
   }
