@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-25T22:42:08Z",
+  "updated_at": "2026-10-26T00:53:29Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -12327,9 +12327,10 @@
       "title": "Lord of Goblins",
       "url": "https://mangadex.org/title/54a1ae14-505f-4459-ace1-24a08ceea8c3",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-20T00:50:22Z",
-      "removed_at": null
+      "removed_at": "2026-10-26T00:53:29Z",
+      "removed_by_source": true
     },
     "82b7feed-f9d9-418e-a162-aadffabc05bf": {
       "title": "Sem título",

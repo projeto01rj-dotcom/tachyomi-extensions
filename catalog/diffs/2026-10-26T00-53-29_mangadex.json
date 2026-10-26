@@ -1,0 +1,14 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-26T00:53:29Z",
+  "added": [],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "54a1ae14-505f-4459-ace1-24a08ceea8c3",
+      "title": "Lord of Goblins",
+      "url": "https://mangadex.org/title/54a1ae14-505f-4459-ace1-24a08ceea8c3",
+      "removed_at": "2026-10-26T00:53:29Z"
+    }
+  ]
+}
