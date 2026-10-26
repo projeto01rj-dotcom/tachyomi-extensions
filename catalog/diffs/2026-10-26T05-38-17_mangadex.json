@@ -1,0 +1,40 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-26T05:38:17Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "48f9fb61-e165-4ec7-91c5-6772fa1a0274",
+      "title": "You Can't Escape from Mizudako-chan!",
+      "url": "https://mangadex.org/title/48f9fb61-e165-4ec7-91c5-6772fa1a0274"
+    },
+    {
+      "source": "mangadex",
+      "key": "b04582e8-d98b-4f6e-b605-c300f3a5e3bd",
+      "title": "Sanda",
+      "url": "https://mangadex.org/title/b04582e8-d98b-4f6e-b605-c300f3a5e3bd"
+    },
+    {
+      "source": "mangadex",
+      "key": "b98c4daf-be1a-46c8-ad83-21d532995240",
+      "title": "My Food Looks Very Cute",
+      "url": "https://mangadex.org/title/b98c4daf-be1a-46c8-ad83-21d532995240"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "91843e85-5611-4f16-9181-c209265ff112",
+      "title": "Grün Bæla",
+      "url": "https://mangadex.org/title/91843e85-5611-4f16-9181-c209265ff112",
+      "removed_at": "2026-10-26T05:38:17Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "e54c384f-5163-4fdb-9909-968b8d0bd86a",
+      "title": "Noble Reincarnation: Born Blessed, So I'll Obtain Ultimate Power",
+      "url": "https://mangadex.org/title/e54c384f-5163-4fdb-9909-968b8d0bd86a",
+      "removed_at": "2026-10-26T05:38:17Z"
+    }
+  ]
+}
