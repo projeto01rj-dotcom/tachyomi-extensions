@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-27T07:06:03Z",
+  "updated_at": "2026-10-27T13:26:01Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -7169,9 +7169,10 @@
       "title": "Ikoku Nikki",
       "url": "https://mangadex.org/title/b8faa8ab-cb4e-416f-829d-d2a6042ba5ac",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-24T19:39:02Z",
-      "removed_at": null
+      "removed_at": "2026-10-27T13:26:01Z",
+      "removed_by_source": true
     },
     "cde5424f-02e5-4c90-a433-b92d831d9856": {
       "title": "Yearning for a Night Full of You",
@@ -11322,9 +11323,10 @@
       "title": "GATE SEASON 2: Thus The JSDF Fought In Those Seas",
       "url": "https://mangadex.org/title/64aecfbb-672d-42b7-b21f-793de6e24f41",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-12T01:27:36Z",
-      "removed_at": null
+      "removed_at": "2026-10-27T13:26:01Z",
+      "removed_by_source": true
     },
     "83b2fefd-3595-4a9d-9df3-72918194a9a3": {
       "title": "Dragons Rioting",
@@ -11473,9 +11475,10 @@
       "title": "Hiding My Identity From My Husband",
       "url": "https://mangadex.org/title/f52455a6-d697-4d1d-b783-4512e590ade9",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-13T04:44:38Z",
-      "removed_at": null
+      "removed_at": "2026-10-27T13:26:01Z",
+      "removed_by_source": true
     },
     "3476bab3-adca-4d5a-9c01-3467445a7ebb": {
       "title": "New Vampire Princess Miyu",
@@ -12091,9 +12094,10 @@
       "title": "Sem título",
       "url": "https://mangadex.org/title/ef105a86-4b7e-4ac4-b45c-b7d83b8f5b5e",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-18T06:12:01Z",
-      "removed_at": null
+      "removed_at": "2026-10-27T13:26:01Z",
+      "removed_by_source": true
     },
     "07125c94-dc35-4064-a676-2cea158a55d6": {
       "title": "Jack-of-All-Trades, Party of None",
@@ -12620,9 +12624,10 @@
       "title": "Though I May Be a Villainess, I'll Show You I Can Obtain Happiness!",
       "url": "https://mangadex.org/title/7895cbd9-2ce9-4826-823f-6811fef7179e",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-22T02:38:43Z",
-      "removed_at": null
+      "removed_at": "2026-10-27T13:26:01Z",
+      "removed_by_source": true
     },
     "491aba94-e971-4911-8a93-0b1200403f4b": {
       "title": "Major",
@@ -13110,6 +13115,38 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-27T07:06:03Z",
+      "removed_at": null
+    },
+    "487a156d-fb54-4bf0-bdcd-8e1ac933ac7d": {
+      "title": "My HP's 5, But I Have Auto Heal, So I Won't Die!",
+      "url": "https://mangadex.org/title/487a156d-fb54-4bf0-bdcd-8e1ac933ac7d",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-27T13:26:01Z",
+      "removed_at": null
+    },
+    "68a9d14a-3d14-4295-bc10-ad75cc32e885": {
+      "title": "Fate/Grand Order -Epic of Remnant- Deep Sea Cyber-Paradise, SE.RA.PH",
+      "url": "https://mangadex.org/title/68a9d14a-3d14-4295-bc10-ad75cc32e885",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-27T13:26:01Z",
+      "removed_at": null
+    },
+    "b3e639ca-cedb-4d7d-af03-9b17e9a76c1b": {
+      "title": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs (Republic Arc)",
+      "url": "https://mangadex.org/title/b3e639ca-cedb-4d7d-af03-9b17e9a76c1b",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-27T13:26:01Z",
+      "removed_at": null
+    },
+    "bf713abe-b415-45ac-8fd1-653dba578e0f": {
+      "title": "I'm an Evil God",
+      "url": "https://mangadex.org/title/bf713abe-b415-45ac-8fd1-653dba578e0f",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-27T13:26:01Z",
       "removed_at": null
     }
   }
