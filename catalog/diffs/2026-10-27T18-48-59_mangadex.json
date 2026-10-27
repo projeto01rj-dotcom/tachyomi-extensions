@@ -1,0 +1,86 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-27T18:48:59Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "05ab3213-c1a1-4f30-a56e-f6d03f7a068b",
+      "title": "My Junior at the Company Was a Witch",
+      "url": "https://mangadex.org/title/05ab3213-c1a1-4f30-a56e-f6d03f7a068b"
+    },
+    {
+      "source": "mangadex",
+      "key": "32dfa44f-1077-4ed2-bedc-b7707788fb1b",
+      "title": "Chiruran: Shinsengumi Requiem",
+      "url": "https://mangadex.org/title/32dfa44f-1077-4ed2-bedc-b7707788fb1b"
+    },
+    {
+      "source": "mangadex",
+      "key": "6d9cdc37-5411-4939-b051-62cb8fcbae64",
+      "title": "Intruding Ghost Boy Yuurei",
+      "url": "https://mangadex.org/title/6d9cdc37-5411-4939-b051-62cb8fcbae64"
+    },
+    {
+      "source": "mangadex",
+      "key": "90243dd4-800c-472c-bebb-2f9ea7336176",
+      "title": "Salamander",
+      "url": "https://mangadex.org/title/90243dd4-800c-472c-bebb-2f9ea7336176"
+    },
+    {
+      "source": "mangadex",
+      "key": "c30266a7-cc5c-48fa-b414-689d8c5cd22c",
+      "title": "Beet the Vandel Buster",
+      "url": "https://mangadex.org/title/c30266a7-cc5c-48fa-b414-689d8c5cd22c"
+    },
+    {
+      "source": "mangadex",
+      "key": "caa197bb-990e-4f59-bc6f-f20e42015d01",
+      "title": "Gotou-san Wants Me to Turn Around",
+      "url": "https://mangadex.org/title/caa197bb-990e-4f59-bc6f-f20e42015d01"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "bcfe1b36-daee-40fd-9984-d9597caf9da7",
+      "title": "A Witch's Life in Mongol",
+      "url": "https://mangadex.org/title/bcfe1b36-daee-40fd-9984-d9597caf9da7",
+      "removed_at": "2026-10-27T18:48:59Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "6df29d13-2dab-4ca6-a0b5-74070abf3e1d",
+      "title": "The One Within the Villainess",
+      "url": "https://mangadex.org/title/6df29d13-2dab-4ca6-a0b5-74070abf3e1d",
+      "removed_at": "2026-10-27T18:48:59Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "491aba94-e971-4911-8a93-0b1200403f4b",
+      "title": "Major",
+      "url": "https://mangadex.org/title/491aba94-e971-4911-8a93-0b1200403f4b",
+      "removed_at": "2026-10-27T18:48:59Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "478e6926-b8bc-465c-9694-2bae1dbaf32b",
+      "title": "Latna Saga: Survival of a Sword King",
+      "url": "https://mangadex.org/title/478e6926-b8bc-465c-9694-2bae1dbaf32b",
+      "removed_at": "2026-10-27T18:48:59Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "acfd6902-b39c-4b7d-91a8-9825dda4ede8",
+      "title": "The Story of Feeding the Cutest Gyaru in Class",
+      "url": "https://mangadex.org/title/acfd6902-b39c-4b7d-91a8-9825dda4ede8",
+      "removed_at": "2026-10-27T18:48:59Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "b80ea8bd-7293-4e61-965a-14594059dde1",
+      "title": "Girlfriend Limited to 7 Days.",
+      "url": "https://mangadex.org/title/b80ea8bd-7293-4e61-965a-14594059dde1",
+      "removed_at": "2026-10-27T18:48:59Z"
+    }
+  ]
+}
