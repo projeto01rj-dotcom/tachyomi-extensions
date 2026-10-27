@@ -1,0 +1,61 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-27T07:06:03Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "08ff391a-7991-4c43-8741-531d7d0b2165",
+      "title": "Ichigo-chan on Sundays",
+      "url": "https://mangadex.org/title/08ff391a-7991-4c43-8741-531d7d0b2165"
+    },
+    {
+      "source": "mangadex",
+      "key": "aafb046c-9de4-4c3d-990c-6d75b079c0b9",
+      "title": "Release That Witch",
+      "url": "https://mangadex.org/title/aafb046c-9de4-4c3d-990c-6d75b079c0b9"
+    },
+    {
+      "source": "mangadex",
+      "key": "e8e1324c-23dd-4269-8b20-5300390299b7",
+      "title": "As Long as There's Love, It Doesn't Matter If He Is My Brother, Right?",
+      "url": "https://mangadex.org/title/e8e1324c-23dd-4269-8b20-5300390299b7"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "1bad66ee-4857-433e-a075-704d93672341",
+      "title": "Only I Know",
+      "url": "https://mangadex.org/title/1bad66ee-4857-433e-a075-704d93672341",
+      "removed_at": "2026-10-27T07:06:03Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "49285542-f829-4f82-90b1-dd9631c72b55",
+      "title": "Kimi no Nukumori Ga",
+      "url": "https://mangadex.org/title/49285542-f829-4f82-90b1-dd9631c72b55",
+      "removed_at": "2026-10-27T07:06:03Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "55a96d76-10a2-4c4b-bc60-3a4aa8325e50",
+      "title": "Orient",
+      "url": "https://mangadex.org/title/55a96d76-10a2-4c4b-bc60-3a4aa8325e50",
+      "removed_at": "2026-10-27T07:06:03Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "94b85b77-a2a9-4ffb-bb5e-c3bfa6a3c48d",
+      "title": "CHOYOYU!: High School Prodigies Have It Easy Even in Another World!",
+      "url": "https://mangadex.org/title/94b85b77-a2a9-4ffb-bb5e-c3bfa6a3c48d",
+      "removed_at": "2026-10-27T07:06:03Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "cc8c6049-aa75-45e7-a7fc-74bc58720ff6",
+      "title": "Miseru, Mitsumeru, Futari Dake",
+      "url": "https://mangadex.org/title/cc8c6049-aa75-45e7-a7fc-74bc58720ff6",
+      "removed_at": "2026-10-27T07:06:03Z"
+    }
+  ]
+}

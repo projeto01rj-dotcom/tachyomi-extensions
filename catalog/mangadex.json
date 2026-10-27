@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-27T01:44:59Z",
+  "updated_at": "2026-10-27T07:06:03Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -456,9 +456,10 @@
       "title": "Only I Know",
       "url": "https://mangadex.org/title/1bad66ee-4857-433e-a075-704d93672341",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-27T07:06:03Z",
+      "removed_by_source": true
     },
     "1c01dcad-8e60-4fdd-8dd4-ddc5c200ba36": {
       "title": "100 Ghost Stories That Will Lead to My Own Death",
@@ -12583,33 +12584,37 @@
       "title": "Kimi no Nukumori Ga",
       "url": "https://mangadex.org/title/49285542-f829-4f82-90b1-dd9631c72b55",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-21T20:48:16Z",
-      "removed_at": null
+      "removed_at": "2026-10-27T07:06:03Z",
+      "removed_by_source": true
     },
     "55a96d76-10a2-4c4b-bc60-3a4aa8325e50": {
       "title": "Orient",
       "url": "https://mangadex.org/title/55a96d76-10a2-4c4b-bc60-3a4aa8325e50",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-21T20:48:16Z",
-      "removed_at": null
+      "removed_at": "2026-10-27T07:06:03Z",
+      "removed_by_source": true
     },
     "94b85b77-a2a9-4ffb-bb5e-c3bfa6a3c48d": {
       "title": "CHOYOYU!: High School Prodigies Have It Easy Even in Another World!",
       "url": "https://mangadex.org/title/94b85b77-a2a9-4ffb-bb5e-c3bfa6a3c48d",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-21T20:48:16Z",
-      "removed_at": null
+      "removed_at": "2026-10-27T07:06:03Z",
+      "removed_by_source": true
     },
     "cc8c6049-aa75-45e7-a7fc-74bc58720ff6": {
       "title": "Miseru, Mitsumeru, Futari Dake",
       "url": "https://mangadex.org/title/cc8c6049-aa75-45e7-a7fc-74bc58720ff6",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-21T20:48:16Z",
-      "removed_at": null
+      "removed_at": "2026-10-27T07:06:03Z",
+      "removed_by_source": true
     },
     "7895cbd9-2ce9-4826-823f-6811fef7179e": {
       "title": "Though I May Be a Villainess, I'll Show You I Can Obtain Happiness!",
@@ -13081,6 +13086,30 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-26T22:48:03Z",
+      "removed_at": null
+    },
+    "08ff391a-7991-4c43-8741-531d7d0b2165": {
+      "title": "Ichigo-chan on Sundays",
+      "url": "https://mangadex.org/title/08ff391a-7991-4c43-8741-531d7d0b2165",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-27T07:06:03Z",
+      "removed_at": null
+    },
+    "aafb046c-9de4-4c3d-990c-6d75b079c0b9": {
+      "title": "Release That Witch",
+      "url": "https://mangadex.org/title/aafb046c-9de4-4c3d-990c-6d75b079c0b9",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-27T07:06:03Z",
+      "removed_at": null
+    },
+    "e8e1324c-23dd-4269-8b20-5300390299b7": {
+      "title": "As Long as There's Love, It Doesn't Matter If He Is My Brother, Right?",
+      "url": "https://mangadex.org/title/e8e1324c-23dd-4269-8b20-5300390299b7",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-27T07:06:03Z",
       "removed_at": null
     }
   }
