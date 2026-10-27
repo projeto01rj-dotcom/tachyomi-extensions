@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-26T22:48:03Z",
+  "updated_at": "2026-10-27T01:44:59Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -12169,9 +12169,10 @@
       "title": "TOKYO GHOUL",
       "url": "https://mangadex.org/title/6a1d1cb1-ecd5-40d9-89ff-9d88e40b136b",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-19T11:00:56Z",
-      "removed_at": null
+      "removed_at": "2026-10-27T01:44:59Z",
+      "removed_by_source": true
     },
     "c9ac4d19-8735-46e2-ae79-195fca78c39e": {
       "title": "Even Repeaters Want to Enjoy Youth",
@@ -12513,9 +12514,10 @@
       "title": "Amano Megumi Is Full of Openings!",
       "url": "https://mangadex.org/title/133ec785-0677-4e22-8186-e15ed0621c36",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-21T17:28:06Z",
-      "removed_at": null
+      "removed_at": "2026-10-27T01:44:59Z",
+      "removed_by_source": true
     },
     "1bc97ccd-1e56-4570-a399-162d08414f66": {
       "title": "UmaYome ~Horse & Trainer Wedded Bliss~",
@@ -12529,17 +12531,19 @@
       "title": "Red Blood Red Legacy",
       "url": "https://mangadex.org/title/57f7b8a8-2d36-47af-9db0-22ab21b70baa",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-21T17:28:06Z",
-      "removed_at": null
+      "removed_at": "2026-10-27T01:44:59Z",
+      "removed_by_source": true
     },
     "718d9146-8c9e-4ff3-9dc4-e4736a1239bb": {
       "title": "The Warrior Returns",
       "url": "https://mangadex.org/title/718d9146-8c9e-4ff3-9dc4-e4736a1239bb",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-21T17:28:06Z",
-      "removed_at": null
+      "removed_at": "2026-10-27T01:44:59Z",
+      "removed_by_source": true
     },
     "96485292-35fc-486b-9835-70433422350e": {
       "title": "Phony Fortune-Telling Gyaru",

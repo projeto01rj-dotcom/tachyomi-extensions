@@ -1,0 +1,35 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-27T01:44:59Z",
+  "added": [],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "6a1d1cb1-ecd5-40d9-89ff-9d88e40b136b",
+      "title": "TOKYO GHOUL",
+      "url": "https://mangadex.org/title/6a1d1cb1-ecd5-40d9-89ff-9d88e40b136b",
+      "removed_at": "2026-10-27T01:44:59Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "133ec785-0677-4e22-8186-e15ed0621c36",
+      "title": "Amano Megumi Is Full of Openings!",
+      "url": "https://mangadex.org/title/133ec785-0677-4e22-8186-e15ed0621c36",
+      "removed_at": "2026-10-27T01:44:59Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "57f7b8a8-2d36-47af-9db0-22ab21b70baa",
+      "title": "Red Blood Red Legacy",
+      "url": "https://mangadex.org/title/57f7b8a8-2d36-47af-9db0-22ab21b70baa",
+      "removed_at": "2026-10-27T01:44:59Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "718d9146-8c9e-4ff3-9dc4-e4736a1239bb",
+      "title": "The Warrior Returns",
+      "url": "https://mangadex.org/title/718d9146-8c9e-4ff3-9dc4-e4736a1239bb",
+      "removed_at": "2026-10-27T01:44:59Z"
+    }
+  ]
+}
