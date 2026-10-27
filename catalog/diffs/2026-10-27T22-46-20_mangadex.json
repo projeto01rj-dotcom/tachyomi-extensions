@@ -1,0 +1,47 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-27T22:46:20Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "42f62ab4-8fdb-4710-956d-999e3c55f7ad",
+      "title": "I Parry Everything: What Do You Mean I’m the Strongest? I’m Not Even an Adventurer Yet!",
+      "url": "https://mangadex.org/title/42f62ab4-8fdb-4710-956d-999e3c55f7ad"
+    },
+    {
+      "source": "mangadex",
+      "key": "7e2ddc4c-c07c-4163-bf48-2b7c45f7b7fb",
+      "title": "NANA",
+      "url": "https://mangadex.org/title/7e2ddc4c-c07c-4163-bf48-2b7c45f7b7fb"
+    },
+    {
+      "source": "mangadex",
+      "key": "bfdda99e-475b-4329-8ae7-907a7c2c3f20",
+      "title": "Sem título",
+      "url": "https://mangadex.org/title/bfdda99e-475b-4329-8ae7-907a7c2c3f20"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "782f22a8-dc60-4c3b-8223-bfa42bc8707d",
+      "title": "Silent Horror",
+      "url": "https://mangadex.org/title/782f22a8-dc60-4c3b-8223-bfa42bc8707d",
+      "removed_at": "2026-10-27T22:46:20Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "e9cda134-9c53-4dd2-8ce0-f9b0171afb39",
+      "title": "Goblin Slayer Side Story: Year One",
+      "url": "https://mangadex.org/title/e9cda134-9c53-4dd2-8ce0-f9b0171afb39",
+      "removed_at": "2026-10-27T22:46:20Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "5f092ebb-7736-4b19-a517-825b5b642a1c",
+      "title": "Persona 2 - Innocent Sin Comic Anthology",
+      "url": "https://mangadex.org/title/5f092ebb-7736-4b19-a517-825b5b642a1c",
+      "removed_at": "2026-10-27T22:46:20Z"
+    }
+  ]
+}
