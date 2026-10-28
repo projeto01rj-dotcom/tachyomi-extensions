@@ -1,0 +1,47 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-28T23:56:22Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "52fd5981-9010-402b-8745-b4b13cd7c6f1",
+      "title": "Hitoner (Pre-Serialization)",
+      "url": "https://mangadex.org/title/52fd5981-9010-402b-8745-b4b13cd7c6f1"
+    },
+    {
+      "source": "mangadex",
+      "key": "99e912e1-ca9d-4019-8fe8-349bf814b75e",
+      "title": "Why Did I, An Older Women Guy, Fall In Love With The Teeny You?",
+      "url": "https://mangadex.org/title/99e912e1-ca9d-4019-8fe8-349bf814b75e"
+    },
+    {
+      "source": "mangadex",
+      "key": "c463aafa-9de0-4f57-a7a8-fef2202193f7",
+      "title": "The Other Side of the Clouds",
+      "url": "https://mangadex.org/title/c463aafa-9de0-4f57-a7a8-fef2202193f7"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "04326fc7-5e42-4bfb-9663-63916160023b",
+      "title": "Fire Ring",
+      "url": "https://mangadex.org/title/04326fc7-5e42-4bfb-9663-63916160023b",
+      "removed_at": "2026-10-28T23:56:22Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "082857f5-740c-4556-9625-479d52124eea",
+      "title": "Mazinkaiser vs Shin Getter Robo",
+      "url": "https://mangadex.org/title/082857f5-740c-4556-9625-479d52124eea",
+      "removed_at": "2026-10-28T23:56:22Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "59f47645-66a9-443e-8228-788313c3ae3c",
+      "title": "Tokyo Ghoul: re",
+      "url": "https://mangadex.org/title/59f47645-66a9-443e-8228-788313c3ae3c",
+      "removed_at": "2026-10-28T23:56:22Z"
+    }
+  ]
+}
