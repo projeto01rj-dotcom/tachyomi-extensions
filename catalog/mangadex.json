@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-28T01:55:57Z",
+  "updated_at": "2026-10-28T07:49:44Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -2758,9 +2758,10 @@
       "title": "TRUMP",
       "url": "https://mangadex.org/title/a0a5528a-c4a8-4495-a966-6877c12856ba",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-28T07:49:44Z",
+      "removed_by_source": true
     },
     "a1f8f17a-6c51-4a35-9205-bc70bb5fa826": {
       "title": "As Cold As Blue, About As Cunning As Red",
@@ -12749,9 +12750,10 @@
       "title": "Kaine",
       "url": "https://mangadex.org/title/b49cb67e-0071-4f90-b29c-2ce566672c31",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-23T05:07:23Z",
-      "removed_at": null
+      "removed_at": "2026-10-28T07:49:44Z",
+      "removed_by_source": true
     },
     "2cb917d9-1cc2-485e-972b-28e8efb375f1": {
       "title": "In the Darkness (Tagame Gengoroh)",

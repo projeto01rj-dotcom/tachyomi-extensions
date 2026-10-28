@@ -1,0 +1,21 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-28T07:49:44Z",
+  "added": [],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "a0a5528a-c4a8-4495-a966-6877c12856ba",
+      "title": "TRUMP",
+      "url": "https://mangadex.org/title/a0a5528a-c4a8-4495-a966-6877c12856ba",
+      "removed_at": "2026-10-28T07:49:44Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "b49cb67e-0071-4f90-b29c-2ce566672c31",
+      "title": "Kaine",
+      "url": "https://mangadex.org/title/b49cb67e-0071-4f90-b29c-2ce566672c31",
+      "removed_at": "2026-10-28T07:49:44Z"
+    }
+  ]
+}
