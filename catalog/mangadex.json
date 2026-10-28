@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-27T22:46:20Z",
+  "updated_at": "2026-10-28T01:55:57Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -1762,9 +1762,10 @@
       "title": "Delinquent High School Girl Kuzuhana-chan",
       "url": "https://mangadex.org/title/6c62d637-4004-426f-ba7f-be45e18941b6",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-28T01:55:57Z",
+      "removed_by_source": true
     },
     "6cc85df7-e44b-4fa1-97f2-be04430cc570": {
       "title": "The Fairytale-like You Goes on the Assault",
@@ -12679,9 +12680,10 @@
       "title": "The Girl Who's Bad at Expressing Herself",
       "url": "https://mangadex.org/title/30a46494-ee27-4ed8-9008-ca72b0ad2f80",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-22T18:18:06Z",
-      "removed_at": null
+      "removed_at": "2026-10-28T01:55:57Z",
+      "removed_by_source": true
     },
     "5fc86cdc-ade2-472b-b077-c9f92beb213d": {
       "title": "The Blue Rider Bunny",
@@ -12713,9 +12715,10 @@
       "title": "Assassination Classroom",
       "url": "https://mangadex.org/title/333f4d22-7753-4e3b-b0da-0a69b2cdce4f",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-22T21:48:16Z",
-      "removed_at": null
+      "removed_at": "2026-10-28T01:55:57Z",
+      "removed_by_source": true
     },
     "5f092ebb-7736-4b19-a517-825b5b642a1c": {
       "title": "Persona 2 - Innocent Sin Comic Anthology",

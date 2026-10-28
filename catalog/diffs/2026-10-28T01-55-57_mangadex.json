@@ -1,0 +1,28 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-28T01:55:57Z",
+  "added": [],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "6c62d637-4004-426f-ba7f-be45e18941b6",
+      "title": "Delinquent High School Girl Kuzuhana-chan",
+      "url": "https://mangadex.org/title/6c62d637-4004-426f-ba7f-be45e18941b6",
+      "removed_at": "2026-10-28T01:55:57Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "30a46494-ee27-4ed8-9008-ca72b0ad2f80",
+      "title": "The Girl Who's Bad at Expressing Herself",
+      "url": "https://mangadex.org/title/30a46494-ee27-4ed8-9008-ca72b0ad2f80",
+      "removed_at": "2026-10-28T01:55:57Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "333f4d22-7753-4e3b-b0da-0a69b2cdce4f",
+      "title": "Assassination Classroom",
+      "url": "https://mangadex.org/title/333f4d22-7753-4e3b-b0da-0a69b2cdce4f",
+      "removed_at": "2026-10-28T01:55:57Z"
+    }
+  ]
+}
