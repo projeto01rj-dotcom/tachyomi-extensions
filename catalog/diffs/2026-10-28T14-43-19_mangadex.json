@@ -1,0 +1,85 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-28T14:43:19Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "319ac4d3-d9f7-4d2c-9b11-f7ff7091300d",
+      "title": "Sem título",
+      "url": "https://mangadex.org/title/319ac4d3-d9f7-4d2c-9b11-f7ff7091300d"
+    },
+    {
+      "source": "mangadex",
+      "key": "561845c2-a33e-4f5d-b9b6-53ca4ca3a52d",
+      "title": "Little Rabbit and the Big Bad Leopard",
+      "url": "https://mangadex.org/title/561845c2-a33e-4f5d-b9b6-53ca4ca3a52d"
+    },
+    {
+      "source": "mangadex",
+      "key": "676fbea0-be6d-437e-be60-43800486842e",
+      "title": "Yamada-kun to 7-nin no Majo",
+      "url": "https://mangadex.org/title/676fbea0-be6d-437e-be60-43800486842e"
+    },
+    {
+      "source": "mangadex",
+      "key": "689eba6d-10b0-4057-bcff-d2df9ab7765a",
+      "title": "Disney Twisted Wonderland: The Comic—Episode of Scarabia",
+      "url": "https://mangadex.org/title/689eba6d-10b0-4057-bcff-d2df9ab7765a"
+    },
+    {
+      "source": "mangadex",
+      "key": "7f53da27-3b46-426d-834b-a34c606a9663",
+      "title": "That Demonic Teacher Will Be My Sister?",
+      "url": "https://mangadex.org/title/7f53da27-3b46-426d-834b-a34c606a9663"
+    },
+    {
+      "source": "mangadex",
+      "key": "8cfc8b79-2c1b-4e33-beda-a0d70a7674ca",
+      "title": "I Will Become the Villain's Poison Taster",
+      "url": "https://mangadex.org/title/8cfc8b79-2c1b-4e33-beda-a0d70a7674ca"
+    },
+    {
+      "source": "mangadex",
+      "key": "9c01d5d1-2ce3-4745-be54-8aff89300bfa",
+      "title": "They Ridiculed Me for My Luckless Job, but It's Not Actually That Bad?",
+      "url": "https://mangadex.org/title/9c01d5d1-2ce3-4745-be54-8aff89300bfa"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "778b8438-af3a-4534-841c-adf923b55ee1",
+      "title": "Uma Musume - Pretty Derby: Star Blossom",
+      "url": "https://mangadex.org/title/778b8438-af3a-4534-841c-adf923b55ee1",
+      "removed_at": "2026-10-28T14:43:19Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "96485292-35fc-486b-9835-70433422350e",
+      "title": "Phony Fortune-Telling Gyaru",
+      "url": "https://mangadex.org/title/96485292-35fc-486b-9835-70433422350e",
+      "removed_at": "2026-10-28T14:43:19Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "2cb917d9-1cc2-485e-972b-28e8efb375f1",
+      "title": "In the Darkness (Tagame Gengoroh)",
+      "url": "https://mangadex.org/title/2cb917d9-1cc2-485e-972b-28e8efb375f1",
+      "removed_at": "2026-10-28T14:43:19Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "91503d4c-16d6-4962-9eca-93557667066c",
+      "title": "Why Does Nobody Remember Me in This World?",
+      "url": "https://mangadex.org/title/91503d4c-16d6-4962-9eca-93557667066c",
+      "removed_at": "2026-10-28T14:43:19Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "b4615bd9-7cbd-4243-a8a2-5c24671663e0",
+      "title": "Karate Survivor in Another World",
+      "url": "https://mangadex.org/title/b4615bd9-7cbd-4243-a8a2-5c24671663e0",
+      "removed_at": "2026-10-28T14:43:19Z"
+    }
+  ]
+}

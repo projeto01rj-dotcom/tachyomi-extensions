@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-28T07:49:44Z",
+  "updated_at": "2026-10-28T14:43:19Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -1942,9 +1942,10 @@
       "title": "Uma Musume - Pretty Derby: Star Blossom",
       "url": "https://mangadex.org/title/778b8438-af3a-4534-841c-adf923b55ee1",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-28T14:43:19Z",
+      "removed_by_source": true
     },
     "77c4966f-ead7-45bb-87e0-9ac618b11e8e": {
       "title": "Kunon the Sorcerer Can See",
@@ -12558,9 +12559,10 @@
       "title": "Phony Fortune-Telling Gyaru",
       "url": "https://mangadex.org/title/96485292-35fc-486b-9835-70433422350e",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-21T17:28:06Z",
-      "removed_at": null
+      "removed_at": "2026-10-28T14:43:19Z",
+      "removed_by_source": true
     },
     "975f3334-8395-4393-84a2-50fcaccbcdc0": {
       "title": "Life with an Ordinary Guy Who Reincarnated into a Total Fantasy Knockout",
@@ -12759,25 +12761,28 @@
       "title": "In the Darkness (Tagame Gengoroh)",
       "url": "https://mangadex.org/title/2cb917d9-1cc2-485e-972b-28e8efb375f1",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-23T10:18:26Z",
-      "removed_at": null
+      "removed_at": "2026-10-28T14:43:19Z",
+      "removed_by_source": true
     },
     "91503d4c-16d6-4962-9eca-93557667066c": {
       "title": "Why Does Nobody Remember Me in This World?",
       "url": "https://mangadex.org/title/91503d4c-16d6-4962-9eca-93557667066c",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-23T15:16:21Z",
-      "removed_at": null
+      "removed_at": "2026-10-28T14:43:19Z",
+      "removed_by_source": true
     },
     "b4615bd9-7cbd-4243-a8a2-5c24671663e0": {
       "title": "Karate Survivor in Another World",
       "url": "https://mangadex.org/title/b4615bd9-7cbd-4243-a8a2-5c24671663e0",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-23T15:16:21Z",
-      "removed_at": null
+      "removed_at": "2026-10-28T14:43:19Z",
+      "removed_by_source": true
     },
     "bc7d2f16-f89f-480b-8be5-c24b34798b6a": {
       "title": "Honmono no Kanojo ni Shitakunaru Made, Watashi de Tameshite Ii yo.",
@@ -13233,6 +13238,62 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-27T22:46:20Z",
+      "removed_at": null
+    },
+    "319ac4d3-d9f7-4d2c-9b11-f7ff7091300d": {
+      "title": "Sem título",
+      "url": "https://mangadex.org/title/319ac4d3-d9f7-4d2c-9b11-f7ff7091300d",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-28T14:43:19Z",
+      "removed_at": null
+    },
+    "561845c2-a33e-4f5d-b9b6-53ca4ca3a52d": {
+      "title": "Little Rabbit and the Big Bad Leopard",
+      "url": "https://mangadex.org/title/561845c2-a33e-4f5d-b9b6-53ca4ca3a52d",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-28T14:43:19Z",
+      "removed_at": null
+    },
+    "676fbea0-be6d-437e-be60-43800486842e": {
+      "title": "Yamada-kun to 7-nin no Majo",
+      "url": "https://mangadex.org/title/676fbea0-be6d-437e-be60-43800486842e",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-28T14:43:19Z",
+      "removed_at": null
+    },
+    "689eba6d-10b0-4057-bcff-d2df9ab7765a": {
+      "title": "Disney Twisted Wonderland: The Comic—Episode of Scarabia",
+      "url": "https://mangadex.org/title/689eba6d-10b0-4057-bcff-d2df9ab7765a",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-28T14:43:19Z",
+      "removed_at": null
+    },
+    "7f53da27-3b46-426d-834b-a34c606a9663": {
+      "title": "That Demonic Teacher Will Be My Sister?",
+      "url": "https://mangadex.org/title/7f53da27-3b46-426d-834b-a34c606a9663",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-28T14:43:19Z",
+      "removed_at": null
+    },
+    "8cfc8b79-2c1b-4e33-beda-a0d70a7674ca": {
+      "title": "I Will Become the Villain's Poison Taster",
+      "url": "https://mangadex.org/title/8cfc8b79-2c1b-4e33-beda-a0d70a7674ca",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-28T14:43:19Z",
+      "removed_at": null
+    },
+    "9c01d5d1-2ce3-4745-be54-8aff89300bfa": {
+      "title": "They Ridiculed Me for My Luckless Job, but It's Not Actually That Bad?",
+      "url": "https://mangadex.org/title/9c01d5d1-2ce3-4745-be54-8aff89300bfa",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-28T14:43:19Z",
       "removed_at": null
     }
   }
