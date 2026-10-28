@@ -1,0 +1,60 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-28T19:59:51Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "3eaabe03-d2bd-43f3-af71-bd1db4ab564a",
+      "title": "Isekai Executioner: The Serial Killer in Another World",
+      "url": "https://mangadex.org/title/3eaabe03-d2bd-43f3-af71-bd1db4ab564a"
+    },
+    {
+      "source": "mangadex",
+      "key": "691a2ec7-8f2a-4c23-b9d4-4cb042d2c9f6",
+      "title": "The Boy Who Collects the Stars",
+      "url": "https://mangadex.org/title/691a2ec7-8f2a-4c23-b9d4-4cb042d2c9f6"
+    },
+    {
+      "source": "mangadex",
+      "key": "7bf163e3-123a-41c1-b2bc-8254dbe5a09b",
+      "title": "2.5 Dimensional Seduction",
+      "url": "https://mangadex.org/title/7bf163e3-123a-41c1-b2bc-8254dbe5a09b"
+    },
+    {
+      "source": "mangadex",
+      "key": "c9c0f16b-7bd3-4da6-bd58-fcb4bd10112f",
+      "title": "The Demon Queen Can't Defeat The Hero.",
+      "url": "https://mangadex.org/title/c9c0f16b-7bd3-4da6-bd58-fcb4bd10112f"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "5fc86cdc-ade2-472b-b077-c9f92beb213d",
+      "title": "The Blue Rider Bunny",
+      "url": "https://mangadex.org/title/5fc86cdc-ade2-472b-b077-c9f92beb213d",
+      "removed_at": "2026-10-28T19:59:51Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "eeb2ab0e-7dbc-4f0c-b476-8181d44217a8",
+      "title": "Heavenly Delusion",
+      "url": "https://mangadex.org/title/eeb2ab0e-7dbc-4f0c-b476-8181d44217a8",
+      "removed_at": "2026-10-28T19:59:51Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "f40fdea0-e792-434c-875b-97a3aff9482f",
+      "title": "Knights of the 107th Demon Beast Front ~Futoshi Odyssey~",
+      "url": "https://mangadex.org/title/f40fdea0-e792-434c-875b-97a3aff9482f",
+      "removed_at": "2026-10-28T19:59:51Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "f662ed1e-66f3-4601-84e5-07df99d843f4",
+      "title": "I Was Pronounced Dead by The Kind Grim Reaper",
+      "url": "https://mangadex.org/title/f662ed1e-66f3-4601-84e5-07df99d843f4",
+      "removed_at": "2026-10-28T19:59:51Z"
+    }
+  ]
+}

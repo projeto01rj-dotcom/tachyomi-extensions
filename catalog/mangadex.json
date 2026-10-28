@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-28T14:43:19Z",
+  "updated_at": "2026-10-28T19:59:51Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -12692,9 +12692,10 @@
       "title": "The Blue Rider Bunny",
       "url": "https://mangadex.org/title/5fc86cdc-ade2-472b-b077-c9f92beb213d",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-22T18:18:06Z",
-      "removed_at": null
+      "removed_at": "2026-10-28T19:59:51Z",
+      "removed_by_source": true
     },
     "b80ea8bd-7293-4e61-965a-14594059dde1": {
       "title": "Girlfriend Limited to 7 Days.",
@@ -12736,9 +12737,10 @@
       "title": "Heavenly Delusion",
       "url": "https://mangadex.org/title/eeb2ab0e-7dbc-4f0c-b476-8181d44217a8",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-23T00:16:35Z",
-      "removed_at": null
+      "removed_at": "2026-10-28T19:59:51Z",
+      "removed_by_source": true
     },
     "2a7fb038-ceb0-4f7c-9f3f-da1396fae3c8": {
       "title": "Clark Detective Agency Case Files",
@@ -12796,17 +12798,19 @@
       "title": "Knights of the 107th Demon Beast Front ~Futoshi Odyssey~",
       "url": "https://mangadex.org/title/f40fdea0-e792-434c-875b-97a3aff9482f",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-23T19:23:26Z",
-      "removed_at": null
+      "removed_at": "2026-10-28T19:59:51Z",
+      "removed_by_source": true
     },
     "f662ed1e-66f3-4601-84e5-07df99d843f4": {
       "title": "I Was Pronounced Dead by The Kind Grim Reaper",
       "url": "https://mangadex.org/title/f662ed1e-66f3-4601-84e5-07df99d843f4",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-23T19:23:26Z",
-      "removed_at": null
+      "removed_at": "2026-10-28T19:59:51Z",
+      "removed_by_source": true
     },
     "04326fc7-5e42-4bfb-9663-63916160023b": {
       "title": "Fire Ring",
@@ -13294,6 +13298,38 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-28T14:43:19Z",
+      "removed_at": null
+    },
+    "3eaabe03-d2bd-43f3-af71-bd1db4ab564a": {
+      "title": "Isekai Executioner: The Serial Killer in Another World",
+      "url": "https://mangadex.org/title/3eaabe03-d2bd-43f3-af71-bd1db4ab564a",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-28T19:59:51Z",
+      "removed_at": null
+    },
+    "691a2ec7-8f2a-4c23-b9d4-4cb042d2c9f6": {
+      "title": "The Boy Who Collects the Stars",
+      "url": "https://mangadex.org/title/691a2ec7-8f2a-4c23-b9d4-4cb042d2c9f6",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-28T19:59:51Z",
+      "removed_at": null
+    },
+    "7bf163e3-123a-41c1-b2bc-8254dbe5a09b": {
+      "title": "2.5 Dimensional Seduction",
+      "url": "https://mangadex.org/title/7bf163e3-123a-41c1-b2bc-8254dbe5a09b",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-28T19:59:51Z",
+      "removed_at": null
+    },
+    "c9c0f16b-7bd3-4da6-bd58-fcb4bd10112f": {
+      "title": "The Demon Queen Can't Defeat The Hero.",
+      "url": "https://mangadex.org/title/c9c0f16b-7bd3-4da6-bd58-fcb4bd10112f",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-28T19:59:51Z",
       "removed_at": null
     }
   }
