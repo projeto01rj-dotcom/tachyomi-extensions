@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-28T23:56:22Z",
+  "updated_at": "2026-10-29T04:01:53Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -12675,9 +12675,10 @@
       "title": "March Comes in Like a Lion",
       "url": "https://mangadex.org/title/0ca1627e-95dd-4118-892a-f144adf02256",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-22T18:18:06Z",
-      "removed_at": null
+      "removed_at": "2026-10-29T04:01:53Z",
+      "removed_by_source": true
     },
     "30a46494-ee27-4ed8-9008-ca72b0ad2f80": {
       "title": "The Girl Who's Bad at Expressing Herself",
@@ -12843,9 +12844,10 @@
       "title": "Fullmetal Alchemist",
       "url": "https://mangadex.org/title/f9c9614d-0657-44c6-9c33-47fd58cd51b3",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-24T05:15:05Z",
-      "removed_at": null
+      "removed_at": "2026-10-29T04:01:53Z",
+      "removed_by_source": true
     },
     "2b5b045c-32ee-4f3e-85cc-8f205000ec98": {
       "title": "Your Reason for Living",
@@ -13357,6 +13359,22 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-28T23:56:22Z",
+      "removed_at": null
+    },
+    "79b7357c-ea5b-491a-a25b-155a804bf53f": {
+      "title": "Otaku Vampire's Love Bite",
+      "url": "https://mangadex.org/title/79b7357c-ea5b-491a-a25b-155a804bf53f",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-29T04:01:53Z",
+      "removed_at": null
+    },
+    "c2113c72-087f-459e-a5f3-addb779a86ce": {
+      "title": "My Long Distance Girlfriend Came to Visit Me.",
+      "url": "https://mangadex.org/title/c2113c72-087f-459e-a5f3-addb779a86ce",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-29T04:01:53Z",
       "removed_at": null
     }
   }

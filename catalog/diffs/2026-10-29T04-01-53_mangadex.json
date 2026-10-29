@@ -1,0 +1,34 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-29T04:01:53Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "79b7357c-ea5b-491a-a25b-155a804bf53f",
+      "title": "Otaku Vampire's Love Bite",
+      "url": "https://mangadex.org/title/79b7357c-ea5b-491a-a25b-155a804bf53f"
+    },
+    {
+      "source": "mangadex",
+      "key": "c2113c72-087f-459e-a5f3-addb779a86ce",
+      "title": "My Long Distance Girlfriend Came to Visit Me.",
+      "url": "https://mangadex.org/title/c2113c72-087f-459e-a5f3-addb779a86ce"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "0ca1627e-95dd-4118-892a-f144adf02256",
+      "title": "March Comes in Like a Lion",
+      "url": "https://mangadex.org/title/0ca1627e-95dd-4118-892a-f144adf02256",
+      "removed_at": "2026-10-29T04:01:53Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "f9c9614d-0657-44c6-9c33-47fd58cd51b3",
+      "title": "Fullmetal Alchemist",
+      "url": "https://mangadex.org/title/f9c9614d-0657-44c6-9c33-47fd58cd51b3",
+      "removed_at": "2026-10-29T04:01:53Z"
+    }
+  ]
+}
