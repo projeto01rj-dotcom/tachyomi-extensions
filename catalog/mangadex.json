@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-29T10:59:27Z",
+  "updated_at": "2026-10-29T17:20:56Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -12224,9 +12224,10 @@
       "title": "The Last Manga Classroom",
       "url": "https://mangadex.org/title/908fe918-ee36-4858-b321-4ba7aadbc817",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-19T17:37:04Z",
-      "removed_at": null
+      "removed_at": "2026-10-29T17:20:56Z",
+      "removed_by_source": true
     },
     "d3390cac-4827-436b-a9a2-4f317a155117": {
       "title": "Destroy All Humans. They Can't be Regenerated. A Magic: The Gathering Manga",
@@ -12586,9 +12587,10 @@
       "title": "Infinite Apostles and Twelve War Girls",
       "url": "https://mangadex.org/title/438b7cbc-09c3-4464-a491-daf0764c0eb1",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-21T20:48:16Z",
-      "removed_at": null
+      "removed_at": "2026-10-29T17:20:56Z",
+      "removed_by_source": true
     },
     "49285542-f829-4f82-90b1-dd9631c72b55": {
       "title": "Kimi no Nukumori Ga",
@@ -12887,17 +12889,19 @@
       "title": "JoJo's Bizarre Adventure Part 8 - JoJolion",
       "url": "https://mangadex.org/title/c086153a-0162-412a-9914-a7b2633d0cd3",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-24T13:44:52Z",
-      "removed_at": null
+      "removed_at": "2026-10-29T17:20:56Z",
+      "removed_by_source": true
     },
     "96338481-0531-4a25-b209-152e4178684b": {
       "title": "Radiation House",
       "url": "https://mangadex.org/title/96338481-0531-4a25-b209-152e4178684b",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-24T17:07:12Z",
-      "removed_at": null
+      "removed_at": "2026-10-29T17:20:56Z",
+      "removed_by_source": true
     },
     "37838287-3fe9-443d-9d22-eafc1089140e": {
       "title": "I Got a Cheat Skill in Another World and Became Unrivaled in the Real World, Too",
@@ -13393,6 +13397,102 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-29T10:59:27Z",
+      "removed_at": null
+    },
+    "07859881-9fa0-4334-bc28-b42390a3ac39": {
+      "title": "From Today on, I'm Mooching off a Loli!",
+      "url": "https://mangadex.org/title/07859881-9fa0-4334-bc28-b42390a3ac39",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-29T17:20:56Z",
+      "removed_at": null
+    },
+    "20e4c17d-3741-46dd-a8bb-cbc132ee52d1": {
+      "title": "How I Came to Live Out in the Country with a Female Knight Who Showed Up at My Place",
+      "url": "https://mangadex.org/title/20e4c17d-3741-46dd-a8bb-cbc132ee52d1",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-29T17:20:56Z",
+      "removed_at": null
+    },
+    "43d8b6c2-4ed5-4728-a196-8214fca115c7": {
+      "title": "Bootsleg",
+      "url": "https://mangadex.org/title/43d8b6c2-4ed5-4728-a196-8214fca115c7",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-29T17:20:56Z",
+      "removed_at": null
+    },
+    "5b392130-cca6-4f29-8d05-4e183c570815": {
+      "title": "Shomin Sample: I Was Abducted by an Elite All-Girls School as a Sample Commoner",
+      "url": "https://mangadex.org/title/5b392130-cca6-4f29-8d05-4e183c570815",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-29T17:20:56Z",
+      "removed_at": null
+    },
+    "688eee00-d587-4998-a999-652767aac846": {
+      "title": "Convenient Semi-Friend",
+      "url": "https://mangadex.org/title/688eee00-d587-4998-a999-652767aac846",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-29T17:20:56Z",
+      "removed_at": null
+    },
+    "707133cd-d9c2-4c83-8398-55bfdda7da14": {
+      "title": "Blue Archive - Kankan's Blue Archive Logs (Doujinshi)",
+      "url": "https://mangadex.org/title/707133cd-d9c2-4c83-8398-55bfdda7da14",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-29T17:20:56Z",
+      "removed_at": null
+    },
+    "80c4c4bc-be9c-400a-8cc0-57b1d0b8a87f": {
+      "title": "Higehiro: After Being Rejected, I Shaved and Took in a High School Runaway",
+      "url": "https://mangadex.org/title/80c4c4bc-be9c-400a-8cc0-57b1d0b8a87f",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-29T17:20:56Z",
+      "removed_at": null
+    },
+    "8aa1fb77-c86e-41db-adfb-0737c3438113": {
+      "title": "My Happy Marriage",
+      "url": "https://mangadex.org/title/8aa1fb77-c86e-41db-adfb-0737c3438113",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-29T17:20:56Z",
+      "removed_at": null
+    },
+    "94891715-a109-4f5e-81ef-2bed5fb5bb19": {
+      "title": "Deviant Love",
+      "url": "https://mangadex.org/title/94891715-a109-4f5e-81ef-2bed5fb5bb19",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-29T17:20:56Z",
+      "removed_at": null
+    },
+    "c326cbf9-c81b-4ff5-9d77-dc549437fd4e": {
+      "title": "Sem título",
+      "url": "https://mangadex.org/title/c326cbf9-c81b-4ff5-9d77-dc549437fd4e",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-29T17:20:56Z",
+      "removed_at": null
+    },
+    "c7311cec-9b0f-42f3-8afe-a06cb5b70229": {
+      "title": "Being Able to Edit Skills in Another World I Gained OP Waifus",
+      "url": "https://mangadex.org/title/c7311cec-9b0f-42f3-8afe-a06cb5b70229",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-29T17:20:56Z",
+      "removed_at": null
+    },
+    "f1e0fed4-2f72-43ab-8c00-58867312288d": {
+      "title": "Yumekui Merry",
+      "url": "https://mangadex.org/title/f1e0fed4-2f72-43ab-8c00-58867312288d",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-29T17:20:56Z",
       "removed_at": null
     }
   }
