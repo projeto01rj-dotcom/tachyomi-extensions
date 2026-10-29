@@ -62,9 +62,17 @@ abstract class MegaCompartilhamento : HttpSource() {
 
     private fun parseRoot(response: Response): MangasPage {
         val nodes = parseNodes(response)
+        val folders = nodes.filter { it.type == 1 }
         val nodeIds = nodes.mapTo(mutableSetOf()) { it.id }
-        val rootFolders = nodes.filter { it.type == 1 && it.parent !in nodeIds }.mapTo(mutableSetOf()) { it.id }
-        val mangas = nodes.filter { it.type == 1 && it.parent in rootFolders }.map { it.toManga() }
+        // The public link points to the file-cloud home. The actual source
+        // root is the child folder named "Mangás", whose parent (home) may
+        // also be present in the API response. Do not rely only on a missing
+        // parent to identify the root, or the catalog becomes empty.
+        val mangaRoot = folders.firstOrNull { it.name.normalizedName() == "mangas" }
+            ?: folders.firstOrNull { it.parent !in nodeIds }
+        val mangas = mangaRoot?.let { root ->
+            folders.filter { it.parent == root.id }.map { it.toManga() }
+        }.orEmpty().distinctBy(SManga::url)
         return MangasPage(mangas, false)
     }
 
@@ -205,6 +213,12 @@ abstract class MegaCompartilhamento : HttpSource() {
     private fun encode(value: ByteArray): String = Base64.encodeToString(value, Base64.NO_WRAP or Base64.URL_SAFE)
     private fun chapterNumber(name: String): Float = Regex("(?:chapter|capitulo|capítulo)\\s*([0-9]+(?:\\.[0-9]+)?)", RegexOption.IGNORE_CASE).find(name)?.groupValues?.get(1)?.toFloatOrNull() ?: -1f
     private fun naturalKey(value: String): List<String> = Regex("\\d+|\\D+").findAll(value.lowercase()).map { it.value }.toList()
+
+    private fun String.normalizedName(): String = java.text.Normalizer
+        .normalize(this, java.text.Normalizer.Form.NFD)
+        .replace("\\p{Mn}+".toRegex(), "")
+        .lowercase()
+        .trim()
 
     private data class Node(val id: String, val parent: String, val type: Int, val name: String, val key: ByteArray) {
         fun toManga() = SManga.create().apply {
