@@ -30,6 +30,7 @@ Como alternativa, baixe os APKs no artefato `apks` em **Actions → Build** e in
 | `src/pt/saikaiscan` | [housesaikai.net](https://housesaikai.net) | API `api.housesaikai.net/api` |
 | `src/pt/mangaonline` | [mangaonline.love](https://mangaonline.love) | Tema **Madara** (`lib-multisrc/madara`) |
 | `src/pt/noxmangas` | [noxmangas.org](https://noxmangas.org) | API Nix assinada (`/_nix/signer.js` → SHA-256) |
+| `src/pt/loobyt` | [loobyt.org](https://loobyt.org) | API Nix assinada com fallback para HTML público |
 | `src/en/reimanga` | [reimanga.net](https://www.reimanga.net) | Catálogo, detalhes, capítulos e páginas por HTML |
 | `src/all/megacompartilhamento` | [mega.nz](https://mega.nz) | Leitura pública de capítulos traduzidos via API MEGA; sem login |
 
@@ -47,8 +48,8 @@ catalog/        dados das fontes atualizados a cada 30 minutos pelo CI
 
 ## GitHub Actions
 
-- **`build.yml`** — compila as seis extensões em APKs (`assembleRelease`) a cada push e disponibiliza o artefato `apks`. Em seguida, publica a branch `repo` (APKs, `index.min.json` e `repo.json`) via `.github/scripts/publish_index.py`; essa é a fonte que o Mihon consome. O workflow também pode ser executado manualmente em **Actions → Build → Run workflow**.
-- **`sync.yml`** — executa a cada 30 minutos (`*/30 * * * *`), consulta as seis fontes, atualiza o catálogo, marca obras removidas e publica as alterações na pasta `catalog/`.
+- **`build.yml`** — compila as sete extensões em APKs (`assembleRelease`) a cada push e disponibiliza o artefato `apks`. Em seguida, publica a branch `repo` (APKs, `index.min.json` e `repo.json`) via `.github/scripts/publish_index.py`; essa é a fonte que o Mihon consome. O workflow também pode ser executado manualmente em **Actions → Build → Run workflow**.
+- **`sync.yml`** — executa a cada 30 minutos (`*/30 * * * *`), consulta as sete fontes, atualiza o catálogo, marca obras removidas e publica as alterações na pasta `catalog/`.
 
 ## Compilando localmente (opcional)
 
@@ -56,8 +57,11 @@ Requisitos: JDK 17+, Android SDK (compileSdk 37) e Git.
 
 ```bash
 ./gradlew :src:all:mangadex:assembleRelease \
+          :src:all:megacompartilhamento:assembleRelease \
+          :src:en:reimanga:assembleRelease \
           :src:pt:mangaonline:assembleRelease \
           :src:pt:noxmangas:assembleRelease \
+          :src:pt:loobyt:assembleRelease \
           :src:pt:saikaiscan:assembleRelease
 ```
 
