@@ -1,0 +1,34 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-29T10:59:27Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "35924437-c801-4b80-b668-c893473d6344",
+      "title": "Isekai Harry Potter",
+      "url": "https://mangadex.org/title/35924437-c801-4b80-b668-c893473d6344"
+    },
+    {
+      "source": "mangadex",
+      "key": "47f2da50-d26f-4438-89d4-e5b21c8326db",
+      "title": "Kamen Rider SPIRITS",
+      "url": "https://mangadex.org/title/47f2da50-d26f-4438-89d4-e5b21c8326db"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "2b5b045c-32ee-4f3e-85cc-8f205000ec98",
+      "title": "Your Reason for Living",
+      "url": "https://mangadex.org/title/2b5b045c-32ee-4f3e-85cc-8f205000ec98",
+      "removed_at": "2026-10-29T10:59:27Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "5ecc3e71-547d-444d-a3f8-f3c7e77da960",
+      "title": "Lover Swap",
+      "url": "https://mangadex.org/title/5ecc3e71-547d-444d-a3f8-f3c7e77da960",
+      "removed_at": "2026-10-29T10:59:27Z"
+    }
+  ]
+}
