@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-29T17:20:56Z",
+  "updated_at": "2026-10-29T21:54:44Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -12907,25 +12907,28 @@
       "title": "I Got a Cheat Skill in Another World and Became Unrivaled in the Real World, Too",
       "url": "https://mangadex.org/title/37838287-3fe9-443d-9d22-eafc1089140e",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-24T19:36:51Z",
-      "removed_at": null
+      "removed_at": "2026-10-29T21:54:44Z",
+      "removed_by_source": true
     },
     "4e05a903-119e-4572-b674-5b091504328c": {
       "title": "Sorriso de Sangue",
       "url": "https://mangadex.org/title/4e05a903-119e-4572-b674-5b091504328c",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-24T19:36:51Z",
-      "removed_at": null
+      "removed_at": "2026-10-29T21:54:44Z",
+      "removed_by_source": true
     },
     "878634d2-ea39-4001-a4bf-31458020d16a": {
       "title": "Villainess Level 99: I May Be the Hidden Boss but I’m Not the Demon Lord",
       "url": "https://mangadex.org/title/878634d2-ea39-4001-a4bf-31458020d16a",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-24T19:36:51Z",
-      "removed_at": null
+      "removed_at": "2026-10-29T21:54:44Z",
+      "removed_by_source": true
     },
     "60de2707-2a4a-4fa6-92fa-0b534898cd4d": {
       "title": "Majo-senpai Nippou",
@@ -12939,9 +12942,10 @@
       "title": "Please Kiss Sweet Me",
       "url": "https://mangadex.org/title/bb90ac5f-87cf-432b-8761-bff9152acfdb",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-24T22:08:43Z",
-      "removed_at": null
+      "removed_at": "2026-10-29T21:54:44Z",
+      "removed_by_source": true
     },
     "c59187a7-7479-4b6f-a990-395b35677939": {
       "title": "From the Dust.",
@@ -13493,6 +13497,54 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-29T17:20:56Z",
+      "removed_at": null
+    },
+    "2867b9cd-d71e-47e4-84dc-da00bc7a7db4": {
+      "title": "A Cool British Beautiful Girl Apparently Wants to Homestay with Me",
+      "url": "https://mangadex.org/title/2867b9cd-d71e-47e4-84dc-da00bc7a7db4",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-29T21:54:44Z",
+      "removed_at": null
+    },
+    "653000fb-1edd-4e05-9d44-36358708a5e9": {
+      "title": "Me and My Beast Boss",
+      "url": "https://mangadex.org/title/653000fb-1edd-4e05-9d44-36358708a5e9",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-29T21:54:44Z",
+      "removed_at": null
+    },
+    "7a9ea386-c960-4752-9035-7c652c1b97af": {
+      "title": "Shinohayu: The Dawn of Age",
+      "url": "https://mangadex.org/title/7a9ea386-c960-4752-9035-7c652c1b97af",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-29T21:54:44Z",
+      "removed_at": null
+    },
+    "7dc3f66f-4d6e-4030-bd6c-6a4d699a7f06": {
+      "title": "Beautiful Female Superior Takizawa-san",
+      "url": "https://mangadex.org/title/7dc3f66f-4d6e-4030-bd6c-6a4d699a7f06",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-29T21:54:44Z",
+      "removed_at": null
+    },
+    "819238d7-f4aa-4ba3-9a79-a695dc62200b": {
+      "title": "Special Civil Servant",
+      "url": "https://mangadex.org/title/819238d7-f4aa-4ba3-9a79-a695dc62200b",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-29T21:54:44Z",
+      "removed_at": null
+    },
+    "fa197a3e-6dd6-470d-91e4-c0130a1392d3": {
+      "title": "Reincarnated as a Dragon Hatchling",
+      "url": "https://mangadex.org/title/fa197a3e-6dd6-470d-91e4-c0130a1392d3",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-29T21:54:44Z",
       "removed_at": null
     }
   }
