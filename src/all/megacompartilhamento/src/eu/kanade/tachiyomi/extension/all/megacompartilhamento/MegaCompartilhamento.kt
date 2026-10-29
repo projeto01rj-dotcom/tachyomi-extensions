@@ -132,7 +132,7 @@ abstract class MegaCompartilhamento : HttpSource() {
     private fun parseNodes(response: Response): List<Node> {
         val payload = runCatching { json.parseToJsonElement(response.body!!.string()) }.getOrNull()
         val root = (payload as? JsonArray)?.firstOrNull() as? JsonObject ?: return emptyList()
-        val shareKey = shareKey()
+        val (shareHandle, shareKey) = shareParts()
         val folderKeys = mutableMapOf<String, ByteArray>()
         val nodeArray = root["f"] as? JsonArray ?: return emptyList()
         return nodeArray.mapNotNull { element ->
@@ -144,10 +144,21 @@ abstract class MegaCompartilhamento : HttpSource() {
                 ?.split('/')
                 ?.mapNotNull { part -> part.split(':', limit = 2).takeIf { it.size == 2 } }
                 ?: return@mapNotNull null
-            val encryptedNodeKey = keyParts.firstOrNull { it[0] == parent }?.get(1)
+            // Nodes in a public shared folder carry a key encrypted with the
+            // shared-folder handle (not necessarily with their immediate
+            // parent). Prefer that entry for the whole tree; retain the
+            // parent-key fallback for legacy/shared-node responses.
+            val sharedKeyPart = keyParts.firstOrNull { it[0] == shareHandle }
+            val encryptedNodeKey = sharedKeyPart?.get(1)
+                ?: keyParts.firstOrNull { it[0] == parent }?.get(1)
                 ?: keyParts.lastOrNull()?.get(1)
                 ?: return@mapNotNull null
-            val rawKey = decryptKey(decode(encryptedNodeKey), folderKeys[parent] ?: shareKey)
+            val decryptingKey = if (sharedKeyPart != null) {
+                shareKey
+            } else {
+                folderKeys[parent] ?: shareKey
+            }
+            val rawKey = decryptKey(decode(encryptedNodeKey), decryptingKey)
             val attributes = obj["a"]?.jsonPrimitive?.content ?: return@mapNotNull null
             val name = decryptAttributes(decode(attributes), if (type == 0) xorKey(rawKey) else rawKey) ?: return@mapNotNull null
             if (type == 1) folderKeys[id] = rawKey
