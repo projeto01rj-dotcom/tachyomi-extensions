@@ -1,0 +1,59 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-30T07:33:32Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "1fcbaeb6-add2-49a8-8504-9baf38e51ce5",
+      "title": "Tales of Berseria",
+      "url": "https://mangadex.org/title/1fcbaeb6-add2-49a8-8504-9baf38e51ce5"
+    },
+    {
+      "source": "mangadex",
+      "key": "46392cb3-a0f8-42e4-b2ac-b89637df56d9",
+      "title": "Omniscient Reader's Viewpoint (Book Version)",
+      "url": "https://mangadex.org/title/46392cb3-a0f8-42e4-b2ac-b89637df56d9"
+    },
+    {
+      "source": "mangadex",
+      "key": "4de81088-8a4e-4916-b370-9b6eaa0ced2c",
+      "title": "Runaway Darling",
+      "url": "https://mangadex.org/title/4de81088-8a4e-4916-b370-9b6eaa0ced2c"
+    },
+    {
+      "source": "mangadex",
+      "key": "7cc3e26a-034f-4f69-bbfc-5049e4294597",
+      "title": "Girlfriend Manual",
+      "url": "https://mangadex.org/title/7cc3e26a-034f-4f69-bbfc-5049e4294597"
+    },
+    {
+      "source": "mangadex",
+      "key": "e2b0a5e5-c0d3-42a7-bd9b-5a54fdc47bbc",
+      "title": "You're Vulnerable and Cute",
+      "url": "https://mangadex.org/title/e2b0a5e5-c0d3-42a7-bd9b-5a54fdc47bbc"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "f4904da8-2250-461b-bb29-3ec177c40bb9",
+      "title": "Splatoon",
+      "url": "https://mangadex.org/title/f4904da8-2250-461b-bb29-3ec177c40bb9",
+      "removed_at": "2026-10-30T07:33:32Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "b16f2554-9525-4f2a-bbe4-5b75b6605176",
+      "title": "Clevatess: The King of Dark Beasts, the Baby, and the Undead Hero",
+      "url": "https://mangadex.org/title/b16f2554-9525-4f2a-bbe4-5b75b6605176",
+      "removed_at": "2026-10-30T07:33:32Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "71c10c5d-7a31-4594-8927-b9d64235d293",
+      "title": "A Playthrough of a Certain Dude's VRMMO Life",
+      "url": "https://mangadex.org/title/71c10c5d-7a31-4594-8927-b9d64235d293",
+      "removed_at": "2026-10-30T07:33:32Z"
+    }
+  ]
+}

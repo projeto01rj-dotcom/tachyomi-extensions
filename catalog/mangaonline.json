@@ -1,7 +1,7 @@
 {
   "source": "mangaonline",
   "base_url": "https://mangaonline.tv",
-  "updated_at": "2026-10-30T01:28:08Z",
+  "updated_at": "2026-10-30T07:33:32Z",
   "mangas": {
     "a-amiga-da-minha-mae": {
       "title": "A Amiga da Minha Mãe",
@@ -63,25 +63,28 @@
       "title": "Anata e Sasageru Sadistic",
       "url": "https://mangaonline.tv/manga/anata-e-sasageru-sadistic/",
       "thumb": "https://mangaonline.tv/wp-content/uploads/2025/07/Anata-e-Sasageru-Sadistic-175x238.webp",
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-30T07:33:32Z",
+      "removed_by_source": true
     },
     "anata-no-imouto": {
       "title": "Anata no Imouto",
       "url": "https://mangaonline.tv/manga/anata-no-imouto/",
       "thumb": "https://mangaonline.tv/wp-content/uploads/2025/07/Anata-no-Imouto-175x238.webp",
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-30T07:33:32Z",
+      "removed_by_source": true
     },
     "ane-no-tomodachi": {
       "title": "Ane no Tomodachi",
       "url": "https://mangaonline.tv/manga/ane-no-tomodachi/",
       "thumb": "https://mangaonline.tv/wp-content/uploads/2025/07/Ane-no-Tomodachi-175x238.webp",
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-30T07:33:32Z",
+      "removed_by_source": true
     },
     "asuras-verdict": {
       "title": "Asura’s Verdict",
@@ -143,9 +146,10 @@
       "title": "Boruto: Naruto Next Generations",
       "url": "https://mangaonline.tv/manga/boruto-naruto-next-generations/",
       "thumb": "https://mangaonline.tv/wp-content/uploads/2025/07/Boruto-Naruto-Next-Generations-175x238.webp",
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-30T07:33:32Z",
+      "removed_by_source": true
     },
     "boruto-two-blue-vortex": {
       "title": "Boruto: Two Blue Vortex",
@@ -207,9 +211,10 @@
       "title": "Capitulo 03",
       "url": "https://mangaonline.tv/manga/capitulo-03_1/",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-30T07:33:32Z",
+      "removed_by_source": true
     },
     "capitulo-04": {
       "title": "Capitulo 04",
@@ -303,9 +308,10 @@
       "title": "Capitulo 1.1",
       "url": "https://mangaonline.tv/manga/capitulo-1-1/",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-30T07:33:32Z",
+      "removed_by_source": true
     },
     "capitulo-10": {
       "title": "Capitulo 10",
@@ -319,9 +325,10 @@
       "title": "Capitulo 10.2",
       "url": "https://mangaonline.tv/manga/capitulo-10-2/",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-30T07:33:32Z",
+      "removed_by_source": true
     },
     "capitulo-10-3": {
       "title": "Capitulo 10.3",
@@ -335,17 +342,19 @@
       "title": "Capitulo 100",
       "url": "https://mangaonline.tv/manga/capitulo-100/",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-30T07:33:32Z",
+      "removed_by_source": true
     },
     "capitulo-101": {
       "title": "Capitulo 101",
       "url": "https://mangaonline.tv/manga/capitulo-101/",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-30T07:33:32Z",
+      "removed_by_source": true
     },
     "capitulo-109": {
       "title": "Capitulo 109",
@@ -535,9 +544,10 @@
       "title": "Capitulo 18.",
       "url": "https://mangaonline.tv/manga/capitulo-18/",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-30T07:33:32Z",
+      "removed_by_source": true
     },
     "capitulo-180": {
       "title": "Capitulo 180",
@@ -935,9 +945,10 @@
       "title": "Capitulo 45",
       "url": "https://mangaonline.tv/manga/capitulo-45/",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-30T07:33:32Z",
+      "removed_by_source": true
     },
     "capitulo-46": {
       "title": "Capitulo 46",
@@ -1095,9 +1106,10 @@
       "title": "Capitulo 79",
       "url": "https://mangaonline.tv/manga/capitulo-79/",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-30T07:33:32Z",
+      "removed_by_source": true
     },
     "capitulo-8": {
       "title": "Capitulo 8",
@@ -1111,9 +1123,10 @@
       "title": "Capitulo 80 Final",
       "url": "https://mangaonline.tv/manga/capitulo-80-final/",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-30T07:33:32Z",
+      "removed_by_source": true
     },
     "capitulo-816": {
       "title": "Capitulo 816",
@@ -1135,17 +1148,19 @@
       "title": "Capitulo 84",
       "url": "https://mangaonline.tv/manga/capitulo-84/",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-30T07:33:32Z",
+      "removed_by_source": true
     },
     "capitulo-85": {
       "title": "Capitulo 85",
       "url": "https://mangaonline.tv/manga/capitulo-85/",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-30T07:33:32Z",
+      "removed_by_source": true
     },
     "capitulo-9": {
       "title": "Capitulo 9",
@@ -1159,17 +1174,19 @@
       "title": "Capitulo_05",
       "url": "https://mangaonline.tv/manga/capitulo_05/",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-30T07:33:32Z",
+      "removed_by_source": true
     },
     "capitulo_06": {
       "title": "Capitulo_06",
       "url": "https://mangaonline.tv/manga/capitulo_06/",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-30T07:33:32Z",
+      "removed_by_source": true
     },
     "captain-tsubasa-the-strongest-opponent-holland-youth": {
       "title": "Captain Tsubasa: The Strongest Opponent! Holland Youth",
@@ -1207,9 +1224,10 @@
       "title": "Chika Idol wo Kage de Sasaeru Ore",
       "url": "https://mangaonline.tv/manga/chika-idol-wo-kage-de-sasaeru-ore/",
       "thumb": "https://mangaonline.tv/wp-content/uploads/2025/07/Chika-Idol-wo-Kage-de-Sasaeru-Ore-175x238.webp",
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-30T07:33:32Z",
+      "removed_by_source": true
     },
     "chikyuu-no-ko": {
       "title": "Chikyuu no Ko",
@@ -1247,9 +1265,10 @@
       "title": "Danjo no Yujou wa Seiritsu suru? (Iya, Shinai!!)",
       "url": "https://mangaonline.tv/manga/danjo-no-yujou-wa-seiritsu-suru-iya-shinai/",
       "thumb": "https://mangaonline.tv/wp-content/uploads/2025/07/Danjo-no-Yujou-wa-Seiritsu-suru-Iya-Shinai-175x238.webp",
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-30T07:33:32Z",
+      "removed_by_source": true
     },
     "deserted-place": {
       "title": "Deserted Place",
@@ -1287,9 +1306,10 @@
       "title": "Exorcist no Kiyoshi-kun",
       "url": "https://mangaonline.tv/manga/exorcist-no-kiyoshi-kun/",
       "thumb": "https://mangaonline.tv/wp-content/uploads/2025/07/Exorcist-no-Kiyoshi-kun-175x238.webp",
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-30T07:33:32Z",
+      "removed_by_source": true
     },
     "fantasista": {
       "title": "Fantasista",
@@ -1359,9 +1379,10 @@
       "title": "Harukaze Mound",
       "url": "https://mangaonline.tv/manga/harukaze-mound/",
       "thumb": "https://mangaonline.tv/wp-content/uploads/2025/07/Harukaze-Mound-175x238.webp",
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-30T07:33:32Z",
+      "removed_by_source": true
     },
     "hazure-skill-soine-ga-kakuseishi-boku-ga-saikyou-harem-wo-kizuku-made-micchaku-soine-de-ganbou-kaihou-yuuwaku-saremakutte-komattemasu": {
       "title": "Hazure Skill “Soine” ga Kakuseishi, Boku ga Saikyou Harem wo Kizuku made: Micchaku Soine de Ganbou Kaihou!? Yuuwaku saremakutte Komattemasu!!",
@@ -1415,9 +1436,10 @@
       "title": "I Became the Demonic Cult Leader’s Husband",
       "url": "https://mangaonline.tv/manga/i-became-the-demonic-cult-leaders-husband/",
       "thumb": "https://mangaonline.tv/wp-content/uploads/2025/07/I-Became-the-Demonic-Cult-Leaders-Husband-175x238.webp",
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-30T07:33:32Z",
+      "removed_by_source": true
     },
     "im-a-super-rich-man-so-its-reasonable-for-me-to-be-a-scumbag": {
       "title": "I’m A Super Rich Man, So It’s Reasonable For Me To Be A Scumbag",
@@ -1447,9 +1469,10 @@
       "title": "Isekai de Skill wo Kaitai Shitara Cheat na Yome ga Zoushoku Shimashita: Gainen Kousa no Structure",
       "url": "https://mangaonline.tv/manga/isekai-de-skill-wo-kaitai-shitara-cheat-na-yome-ga-zoushoku-shimashita-gainen-kousa-no-structure/",
       "thumb": "https://mangaonline.tv/wp-content/uploads/2025/07/Isekai-de-Skill-wo-Kaitai-Shitara-Cheat-na-Yome-ga-Zoushoku-Shimashita-Gainen-Kousa-no-Structure-175x238.webp",
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-30T07:33:32Z",
+      "removed_by_source": true
     },
     "isshiki-san-wa-koi-o-shiritai": {
       "title": "Isshiki-san wa Koi o Shiritai.",
@@ -1471,9 +1494,10 @@
       "title": "Isshun de Chiryou shiteita noni Yakutatazu to Tsuihou sareta Tensai Chiyushi, Yami Healer toshite Tanoshiku Ikiru",
       "url": "https://mangaonline.tv/manga/isshun-de-chiryou-shiteita-noni-yakutatazu-to-tsuihou-sareta-tensai-chiyushi-yami-healer-toshite-tanoshiku-ikiru/",
       "thumb": "https://mangaonline.tv/wp-content/uploads/2025/07/Isshun-de-Chiryou-shiteita-noni-Yakutatazu-to-Tsuihou-sareta-Tensai-Chiyushi-Yami-Healer-toshite-Tanoshiku-Ikiru-175x238.webp",
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-30T07:33:32Z",
+      "removed_by_source": true
     },
     "itonami-itonamezu": {
       "title": "Itonami Itonamezu",
@@ -1519,33 +1543,37 @@
       "title": "Kakushite! Makina-san!!",
       "url": "https://mangaonline.tv/manga/kakushite-makina-san/",
       "thumb": "https://mangaonline.tv/wp-content/uploads/2025/07/Kakushite-Makina-san-175x238.webp",
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-30T07:33:32Z",
+      "removed_by_source": true
     },
     "kanpeki-sugite-kawaige-ga-nai-to-konyaku-haki-sareta-seijo-wa-ringoku-ni-urareru": {
       "title": "Kanpeki Sugite Kawaige ga Nai to Konyaku Haki Sareta Seijo wa Ringoku ni Urareru",
       "url": "https://mangaonline.tv/manga/kanpeki-sugite-kawaige-ga-nai-to-konyaku-haki-sareta-seijo-wa-ringoku-ni-urareru/",
       "thumb": "https://mangaonline.tv/wp-content/uploads/2025/07/Kanpeki-Sugite-Kawaige-ga-Nai-to-Konyaku-Haki-Sareta-Seijo-wa-Ringoku-ni-Urareru-175x238.webp",
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-30T07:33:32Z",
+      "removed_by_source": true
     },
     "kaoru-hana-wa-rin-to-saku": {
       "title": "Kaoru Hana wa Rin to Saku",
       "url": "https://mangaonline.tv/manga/kaoru-hana-wa-rin-to-saku/",
       "thumb": "https://mangaonline.tv/wp-content/uploads/2025/07/Kaoru-Hana-wa-Rin-to-Saku-175x238.webp",
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-30T07:33:32Z",
+      "removed_by_source": true
     },
     "katainaka-no-ossan-kensei-ni-naru-gaiden-ryuusouken-no-kiseki": {
       "title": "Katainaka no Ossan, Kensei ni Naru Gaiden: Ryuusouken no Kiseki",
       "url": "https://mangaonline.tv/manga/katainaka-no-ossan-kensei-ni-naru-gaiden-ryuusouken-no-kiseki/",
       "thumb": "https://mangaonline.tv/wp-content/uploads/2025/07/Katainaka-no-Ossan-Kensei-ni-Naru-Gaiden-Ryuusouken-no-Kiseki-175x238.webp",
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-30T07:33:32Z",
+      "removed_by_source": true
     },
     "kenna-furry": {
       "title": "Kenna Furry",
@@ -1575,9 +1603,10 @@
       "title": "Kimi wa Yotsuba no Clover",
       "url": "https://mangaonline.tv/manga/kimi-wa-yotsuba-no-clover/",
       "thumb": "https://mangaonline.tv/wp-content/uploads/2025/07/Kimi-wa-Yotsuba-no-Clover-175x238.webp",
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-30T07:33:32Z",
+      "removed_by_source": true
     },
     "kimikiss-various-heroines": {
       "title": "KimiKiss Various Heroines",
@@ -1591,17 +1620,19 @@
       "title": "Koiiji: Love Glutton",
       "url": "https://mangaonline.tv/manga/koiiji-love-glutton/",
       "thumb": "https://mangaonline.tv/wp-content/uploads/2025/07/Koiiji-Love-Glutton-175x238.webp",
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-30T07:33:32Z",
+      "removed_by_source": true
     },
     "kojiin-tamer": {
       "title": "Kojiin Tamer",
       "url": "https://mangaonline.tv/manga/kojiin-tamer/",
       "thumb": "https://mangaonline.tv/wp-content/uploads/2025/07/Kojiin-Tamer-175x238.webp",
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-30T07:33:32Z",
+      "removed_by_source": true
     },
     "kurotsuki-no-yaergnacht": {
       "title": "Kurotsuki no Yaergnacht",
@@ -1663,9 +1694,10 @@
       "title": "Maou to Ryuuou ni Sodaterareta Shounen wa Gakuen Seikatsu wo Musou suru You desu",
       "url": "https://mangaonline.tv/manga/maou-to-ryuuou-ni-sodaterareta-shounen-wa-gakuen-seikatsu-wo-musou-suru-you-desu/",
       "thumb": "https://mangaonline.tv/wp-content/uploads/2025/07/Maou-to-Ryuuou-ni-Sodaterareta-Shounen-wa-Gakuen-Seikatsu-wo-Musou-suru-You-desu-175x238.webp",
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-30T07:33:32Z",
+      "removed_by_source": true
     },
     "marika-chan-no-koukando-wa-bukkowarete-iru": {
       "title": "Marika-chan no Koukando wa Bukkowarete iru",
@@ -1719,9 +1751,10 @@
       "title": "Monster Musume no Iru Nichijou",
       "url": "https://mangaonline.tv/manga/monster-musume-no-iru-nichijou/",
       "thumb": "https://mangaonline.tv/wp-content/uploads/2025/07/Monster-Musume-no-Iru-Nichijou-175x238.webp",
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-30T07:33:32Z",
+      "removed_by_source": true
     },
     "monster-no-niku-wo-kutte-itara-oui-no-tsuita-ken": {
       "title": "Monster no Niku wo Kutte Itara Oui no Tsuita Ken",
@@ -1743,17 +1776,19 @@
       "title": "My Fake Girlfriend’s Defending Against Their Attacks",
       "url": "https://mangaonline.tv/manga/my-fake-girlfriends-defending-against-their-attacks/",
       "thumb": "https://mangaonline.tv/wp-content/uploads/2025/07/My-Fake-Girlfriends-Defending-Against-Their-Attacks-175x238.webp",
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-30T07:33:32Z",
+      "removed_by_source": true
     },
     "my-master-only-breaks-through-every-time-the-limit-is-reached": {
       "title": "My Master Only Breaks Through Every Time the Limit Is Reached",
       "url": "https://mangaonline.tv/manga/my-master-only-breaks-through-every-time-the-limit-is-reached/",
       "thumb": "https://mangaonline.tv/wp-content/uploads/2025/07/My-Master-Only-Breaks-Through-Every-Time-the-Limit-Is-Reached-175x238.webp",
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-30T07:33:32Z",
+      "removed_by_source": true
     },
     "nakinagi": {
       "title": "NakiNagi",
@@ -1791,9 +1826,10 @@
       "title": "Ninja to Koroshiya no Futarigurashi",
       "url": "https://mangaonline.tv/manga/ninja-to-koroshiya-no-futarigurashi/",
       "thumb": "https://mangaonline.tv/wp-content/uploads/2025/07/Ninja-to-Koroshiya-no-Futarigurashi-175x238.webp",
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-30T07:33:32Z",
+      "removed_by_source": true
     },
     "okiraku-ryoushu-no-tanoshii-ryouchi-bouei-seisan-kei-majutsu-de-na-mo-na-kimura-wo-saikyou-no-jousai-toshi-ni": {
       "title": "Okiraku Ryoushu no Tanoshii Ryouchi Bouei ~Seisan-kei Majutsu de Na mo na Kimura wo Saikyou no Jousai Toshi ni~",
@@ -1863,9 +1899,10 @@
       "title": "Parallel World Pharmacy",
       "url": "https://mangaonline.tv/manga/parallel-world-pharmacy/",
       "thumb": "https://mangaonline.tv/wp-content/uploads/2025/07/Parallel-World-Pharmacy-175x238.webp",
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-30T07:33:32Z",
+      "removed_by_source": true
     },
     "pensando-nos-desejos-sexuais-do-irmao-mais-novo-2": {
       "title": "Pensando nos Desejos Sexuais do Irmão Mais Novo 2",
@@ -2071,9 +2108,10 @@
       "title": "The Vermilion Mask",
       "url": "https://mangaonline.tv/manga/the-vermilion-mask/",
       "thumb": "https://mangaonline.tv/wp-content/uploads/2025/07/The-Vermilion-Mask-175x238.webp",
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-30T07:33:32Z",
+      "removed_by_source": true
     },
     "tokyo-fears-rhapsody": {
       "title": "Tokyo Fears Rhapsody",
@@ -2103,17 +2141,19 @@
       "title": "Ultimate Scheming System",
       "url": "https://mangaonline.tv/manga/ultimate-scheming-system/",
       "thumb": "https://mangaonline.tv/wp-content/uploads/2025/07/Ultimate-Scheming-System-175x238.webp",
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-30T07:33:32Z",
+      "removed_by_source": true
     },
     "ushiro-no-seki-no-gal-ni-sukarete-shimatta-mou-ore-wa-dame-kamo-shirenai": {
       "title": "Ushiro no Seki no Gal ni Sukarete Shimatta.: Mou Ore wa Dame kamo Shirenai.",
       "url": "https://mangaonline.tv/manga/ushiro-no-seki-no-gal-ni-sukarete-shimatta-mou-ore-wa-dame-kamo-shirenai/",
       "thumb": "https://mangaonline.tv/wp-content/uploads/2025/07/Ushiro-no-Seki-no-Gal-ni-Sukarete-Shimatta.-Mou-Ore-wa-Dame-kamo-Shirenai-175x238.webp",
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-30T07:33:32Z",
+      "removed_by_source": true
     },
     "veil": {
       "title": "Veil",
@@ -2175,9 +2215,10 @@
       "title": "Yuusha Party wo Oidasareta Kiyoubinbou ~Party Jijou de Fuyojitsushi wo Yatteita Kenshi, Bannou e to Itaru~",
       "url": "https://mangaonline.tv/manga/yuusha-party-wo-oidasareta-kiyoubinbou-party-jijou-de-fuyojitsushi-wo-yatteita-kenshi-bannou-e-to-itaru/",
       "thumb": "https://mangaonline.tv/wp-content/uploads/2025/07/Yuusha-Party-wo-Oidasareta-Kiyoubinbou-Party-Jijou-de-Fuyojitsushi-wo-Yatteita-Kenshi-Bannou-e-to-Itaru-175x238.webp",
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-10-30T07:33:32Z",
+      "removed_by_source": true
     }
   }
 }
