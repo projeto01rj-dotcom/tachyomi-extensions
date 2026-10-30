@@ -1,0 +1,41 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-30T01:28:08Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "7e8080ab-0b79-4c55-8718-f1c596cef865",
+      "title": "It Was a Mistake, Grand Duke!",
+      "url": "https://mangadex.org/title/7e8080ab-0b79-4c55-8718-f1c596cef865"
+    },
+    {
+      "source": "mangadex",
+      "key": "fd2d7c3e-87ab-4775-a1e3-17403994043b",
+      "title": "The Witch and the Mercenary",
+      "url": "https://mangadex.org/title/fd2d7c3e-87ab-4775-a1e3-17403994043b"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "60de2707-2a4a-4fa6-92fa-0b534898cd4d",
+      "title": "Majo-senpai Nippou",
+      "url": "https://mangadex.org/title/60de2707-2a4a-4fa6-92fa-0b534898cd4d",
+      "removed_at": "2026-10-30T01:28:08Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "c5ae4d1c-1f2f-407a-a659-f9e6e1adf58b",
+      "title": "Maho Girls Pretty Cure!",
+      "url": "https://mangadex.org/title/c5ae4d1c-1f2f-407a-a659-f9e6e1adf58b",
+      "removed_at": "2026-10-30T01:28:08Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "f4045a9e-e5f6-4778-bd33-7a91cefc3f71",
+      "title": "For the Sake of My Future Vengeance",
+      "url": "https://mangadex.org/title/f4045a9e-e5f6-4778-bd33-7a91cefc3f71",
+      "removed_at": "2026-10-30T01:28:08Z"
+    }
+  ]
+}

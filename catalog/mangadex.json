@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-29T21:54:44Z",
+  "updated_at": "2026-10-30T01:28:08Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -12934,9 +12934,10 @@
       "title": "Majo-senpai Nippou",
       "url": "https://mangadex.org/title/60de2707-2a4a-4fa6-92fa-0b534898cd4d",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-24T22:08:43Z",
-      "removed_at": null
+      "removed_at": "2026-10-30T01:28:08Z",
+      "removed_by_source": true
     },
     "bb90ac5f-87cf-432b-8761-bff9152acfdb": {
       "title": "Please Kiss Sweet Me",
@@ -12959,9 +12960,10 @@
       "title": "Maho Girls Pretty Cure!",
       "url": "https://mangadex.org/title/c5ae4d1c-1f2f-407a-a659-f9e6e1adf58b",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-25T00:25:05Z",
-      "removed_at": null
+      "removed_at": "2026-10-30T01:28:08Z",
+      "removed_by_source": true
     },
     "71c10c5d-7a31-4594-8927-b9d64235d293": {
       "title": "A Playthrough of a Certain Dude's VRMMO Life",
@@ -12975,9 +12977,10 @@
       "title": "For the Sake of My Future Vengeance",
       "url": "https://mangadex.org/title/f4045a9e-e5f6-4778-bd33-7a91cefc3f71",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-25T05:01:11Z",
-      "removed_at": null
+      "removed_at": "2026-10-30T01:28:08Z",
+      "removed_by_source": true
     },
     "546bfea8-8134-40e1-9676-fe21da8622dc": {
       "title": "Demon Lord, Retry! R",
@@ -13545,6 +13548,22 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-29T21:54:44Z",
+      "removed_at": null
+    },
+    "7e8080ab-0b79-4c55-8718-f1c596cef865": {
+      "title": "It Was a Mistake, Grand Duke!",
+      "url": "https://mangadex.org/title/7e8080ab-0b79-4c55-8718-f1c596cef865",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-30T01:28:08Z",
+      "removed_at": null
+    },
+    "fd2d7c3e-87ab-4775-a1e3-17403994043b": {
+      "title": "The Witch and the Mercenary",
+      "url": "https://mangadex.org/title/fd2d7c3e-87ab-4775-a1e3-17403994043b",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-30T01:28:08Z",
       "removed_at": null
     }
   }
