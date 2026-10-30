@@ -1,0 +1,19 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-30T23:23:52Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "244c9d4f-e5fb-4590-9b96-4da191977b33",
+      "title": "Skip and Loafer",
+      "url": "https://mangadex.org/title/244c9d4f-e5fb-4590-9b96-4da191977b33"
+    },
+    {
+      "source": "mangadex",
+      "key": "f5d60fcb-5c20-4bcc-aca5-bbc5f141ab11",
+      "title": "Empyreal Cabinet",
+      "url": "https://mangadex.org/title/f5d60fcb-5c20-4bcc-aca5-bbc5f141ab11"
+    }
+  ],
+  "removed": []
+}

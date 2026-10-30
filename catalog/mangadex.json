@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-30T19:47:34Z",
+  "updated_at": "2026-10-30T23:23:52Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -13642,6 +13642,22 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-30T19:47:34Z",
+      "removed_at": null
+    },
+    "244c9d4f-e5fb-4590-9b96-4da191977b33": {
+      "title": "Skip and Loafer",
+      "url": "https://mangadex.org/title/244c9d4f-e5fb-4590-9b96-4da191977b33",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-30T23:23:52Z",
+      "removed_at": null
+    },
+    "f5d60fcb-5c20-4bcc-aca5-bbc5f141ab11": {
+      "title": "Empyreal Cabinet",
+      "url": "https://mangadex.org/title/f5d60fcb-5c20-4bcc-aca5-bbc5f141ab11",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-30T23:23:52Z",
       "removed_at": null
     }
   }
