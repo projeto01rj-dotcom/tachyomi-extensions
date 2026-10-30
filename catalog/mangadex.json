@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-30T14:42:48Z",
+  "updated_at": "2026-10-30T19:47:34Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -13007,9 +13007,10 @@
       "title": "Dealing with Mikadono Sisters is a Breeze",
       "url": "https://mangadex.org/title/04c892b3-a202-46f5-ad11-0d433e712ab8",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-25T14:06:20Z",
-      "removed_at": null
+      "removed_at": "2026-10-30T19:47:34Z",
+      "removed_by_source": true
     },
     "b1419204-1dc0-480f-babc-9b90d886dd99": {
       "title": "Returned from Another World, Earth Turned Out to be Quite the Fantasy Too. Also, Losing Heroines, Stop Looking this Way",
@@ -13617,6 +13618,30 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-30T14:42:48Z",
+      "removed_at": null
+    },
+    "039d717e-9690-47fd-944d-93161b97fbac": {
+      "title": "Given",
+      "url": "https://mangadex.org/title/039d717e-9690-47fd-944d-93161b97fbac",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-30T19:47:34Z",
+      "removed_at": null
+    },
+    "9bab499d-d2ca-4aa2-82bf-f7b017f9fe3b": {
+      "title": "The Song of Wind and Trees",
+      "url": "https://mangadex.org/title/9bab499d-d2ca-4aa2-82bf-f7b017f9fe3b",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-30T19:47:34Z",
+      "removed_at": null
+    },
+    "b49db7e7-0637-462c-9d09-372f5d09de4a": {
+      "title": "Ayakashi Triangle",
+      "url": "https://mangadex.org/title/b49db7e7-0637-462c-9d09-372f5d09de4a",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-30T19:47:34Z",
       "removed_at": null
     }
   }

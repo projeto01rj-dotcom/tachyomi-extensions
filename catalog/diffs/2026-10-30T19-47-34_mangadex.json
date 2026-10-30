@@ -1,0 +1,33 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-30T19:47:34Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "039d717e-9690-47fd-944d-93161b97fbac",
+      "title": "Given",
+      "url": "https://mangadex.org/title/039d717e-9690-47fd-944d-93161b97fbac"
+    },
+    {
+      "source": "mangadex",
+      "key": "9bab499d-d2ca-4aa2-82bf-f7b017f9fe3b",
+      "title": "The Song of Wind and Trees",
+      "url": "https://mangadex.org/title/9bab499d-d2ca-4aa2-82bf-f7b017f9fe3b"
+    },
+    {
+      "source": "mangadex",
+      "key": "b49db7e7-0637-462c-9d09-372f5d09de4a",
+      "title": "Ayakashi Triangle",
+      "url": "https://mangadex.org/title/b49db7e7-0637-462c-9d09-372f5d09de4a"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "04c892b3-a202-46f5-ad11-0d433e712ab8",
+      "title": "Dealing with Mikadono Sisters is a Breeze",
+      "url": "https://mangadex.org/title/04c892b3-a202-46f5-ad11-0d433e712ab8",
+      "removed_at": "2026-10-30T19:47:34Z"
+    }
+  ]
+}
