@@ -1,13 +1,13 @@
 {
-  "ran_at": "2026-10-30T07:33:32Z",
+  "ran_at": "2026-10-30T14:42:48Z",
   "changed": true,
   "sources": {
     "mangadex": {
       "ok": true,
       "present": 500,
-      "registered": 1524,
-      "added": 5,
-      "removed": 3
+      "registered": 1525,
+      "added": 1,
+      "removed": 2
     },
     "saikai": {
       "ok": false,
@@ -15,15 +15,15 @@
     },
     "mangaonline": {
       "ok": true,
-      "present": 231,
+      "present": 272,
       "registered": 272,
       "added": 0,
-      "removed": 41
+      "removed": 0
     },
     "noxmangas": {
       "ok": false,
       "error": "HTTPError: 403 Client Error: Forbidden for url: https://noxmangas.org/releases?page=1"
     }
   },
-  "removed": 44
+  "removed": 2
 }
