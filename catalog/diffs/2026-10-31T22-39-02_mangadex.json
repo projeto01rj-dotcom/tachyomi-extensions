@@ -1,0 +1,28 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-31T22:39:02Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "c353cd64-d95c-4b98-b5f4-4aae9368f50a",
+      "title": "Keep an Eye on You",
+      "url": "https://mangadex.org/title/c353cd64-d95c-4b98-b5f4-4aae9368f50a"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "e279d973-e1dd-4cfc-b643-fda857b6f4a0",
+      "title": "I'm Not Even an NPC in This Otome Game!",
+      "url": "https://mangadex.org/title/e279d973-e1dd-4cfc-b643-fda857b6f4a0",
+      "removed_at": "2026-10-31T22:39:02Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "e4c27ac4-ad38-4c17-881a-65ff535ede3d",
+      "title": "The Law of Ueki Exhibition",
+      "url": "https://mangadex.org/title/e4c27ac4-ad38-4c17-881a-65ff535ede3d",
+      "removed_at": "2026-10-31T22:39:02Z"
+    }
+  ]
+}
