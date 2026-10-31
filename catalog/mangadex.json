@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-31T15:25:50Z",
+  "updated_at": "2026-10-31T19:25:19Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -12751,9 +12751,10 @@
       "title": "Clark Detective Agency Case Files",
       "url": "https://mangadex.org/title/2a7fb038-ceb0-4f7c-9f3f-da1396fae3c8",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-23T05:07:23Z",
-      "removed_at": null
+      "removed_at": "2026-10-31T19:25:19Z",
+      "removed_by_source": true
     },
     "b49cb67e-0071-4f90-b29c-2ce566672c31": {
       "title": "Kaine",
@@ -12866,9 +12867,10 @@
       "title": "GATE: Where the JSDF Fought",
       "url": "https://mangadex.org/title/3b8e4dc5-bffa-4382-a23c-be97c44ab4e2",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-24T13:44:52Z",
-      "removed_at": null
+      "removed_at": "2026-10-31T19:25:19Z",
+      "removed_by_source": true
     },
     "5ecc3e71-547d-444d-a3f8-f3c7e77da960": {
       "title": "Lover Swap",
@@ -13016,9 +13018,10 @@
       "title": "Returned from Another World, Earth Turned Out to be Quite the Fantasy Too. Also, Losing Heroines, Stop Looking this Way",
       "url": "https://mangadex.org/title/b1419204-1dc0-480f-babc-9b90d886dd99",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-25T17:43:35Z",
-      "removed_at": null
+      "removed_at": "2026-10-31T19:25:19Z",
+      "removed_by_source": true
     },
     "bc6c6751-6abe-4ebe-bfa9-cf9d684b574a": {
       "title": "Sem título",
@@ -13076,9 +13079,10 @@
       "title": "You Can't Escape from Mizudako-chan!",
       "url": "https://mangadex.org/title/48f9fb61-e165-4ec7-91c5-6772fa1a0274",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-26T05:38:17Z",
-      "removed_at": null
+      "removed_at": "2026-10-31T19:25:19Z",
+      "removed_by_source": true
     },
     "b04582e8-d98b-4f6e-b605-c300f3a5e3bd": {
       "title": "Sanda",
@@ -13711,6 +13715,46 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-31T15:25:50Z",
+      "removed_at": null
+    },
+    "1aae2bd3-1ae1-427a-b49e-a5d76e5d2c41": {
+      "title": "Discommunication",
+      "url": "https://mangadex.org/title/1aae2bd3-1ae1-427a-b49e-a5d76e5d2c41",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-31T19:25:19Z",
+      "removed_at": null
+    },
+    "511d3218-df57-4cab-8510-d88a5a96a951": {
+      "title": "49th Confession",
+      "url": "https://mangadex.org/title/511d3218-df57-4cab-8510-d88a5a96a951",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-31T19:25:19Z",
+      "removed_at": null
+    },
+    "95199bdb-35d5-43b5-85d6-3970652420f7": {
+      "title": "Pink",
+      "url": "https://mangadex.org/title/95199bdb-35d5-43b5-85d6-3970652420f7",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-31T19:25:19Z",
+      "removed_at": null
+    },
+    "d6984e76-1c25-4fe6-855d-8e57f2752095": {
+      "title": "ZUKYUN X BAKYUN",
+      "url": "https://mangadex.org/title/d6984e76-1c25-4fe6-855d-8e57f2752095",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-31T19:25:19Z",
+      "removed_at": null
+    },
+    "da25c95f-e062-48ea-b5a0-9b51aeeddc05": {
+      "title": "Books Bought With Taxes",
+      "url": "https://mangadex.org/title/da25c95f-e062-48ea-b5a0-9b51aeeddc05",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-31T19:25:19Z",
       "removed_at": null
     }
   }

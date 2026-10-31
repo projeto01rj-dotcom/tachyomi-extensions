@@ -1,0 +1,66 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-31T19:25:19Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "1aae2bd3-1ae1-427a-b49e-a5d76e5d2c41",
+      "title": "Discommunication",
+      "url": "https://mangadex.org/title/1aae2bd3-1ae1-427a-b49e-a5d76e5d2c41"
+    },
+    {
+      "source": "mangadex",
+      "key": "511d3218-df57-4cab-8510-d88a5a96a951",
+      "title": "49th Confession",
+      "url": "https://mangadex.org/title/511d3218-df57-4cab-8510-d88a5a96a951"
+    },
+    {
+      "source": "mangadex",
+      "key": "95199bdb-35d5-43b5-85d6-3970652420f7",
+      "title": "Pink",
+      "url": "https://mangadex.org/title/95199bdb-35d5-43b5-85d6-3970652420f7"
+    },
+    {
+      "source": "mangadex",
+      "key": "d6984e76-1c25-4fe6-855d-8e57f2752095",
+      "title": "ZUKYUN X BAKYUN",
+      "url": "https://mangadex.org/title/d6984e76-1c25-4fe6-855d-8e57f2752095"
+    },
+    {
+      "source": "mangadex",
+      "key": "da25c95f-e062-48ea-b5a0-9b51aeeddc05",
+      "title": "Books Bought With Taxes",
+      "url": "https://mangadex.org/title/da25c95f-e062-48ea-b5a0-9b51aeeddc05"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "2a7fb038-ceb0-4f7c-9f3f-da1396fae3c8",
+      "title": "Clark Detective Agency Case Files",
+      "url": "https://mangadex.org/title/2a7fb038-ceb0-4f7c-9f3f-da1396fae3c8",
+      "removed_at": "2026-10-31T19:25:19Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "3b8e4dc5-bffa-4382-a23c-be97c44ab4e2",
+      "title": "GATE: Where the JSDF Fought",
+      "url": "https://mangadex.org/title/3b8e4dc5-bffa-4382-a23c-be97c44ab4e2",
+      "removed_at": "2026-10-31T19:25:19Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "b1419204-1dc0-480f-babc-9b90d886dd99",
+      "title": "Returned from Another World, Earth Turned Out to be Quite the Fantasy Too. Also, Losing Heroines, Stop Looking this Way",
+      "url": "https://mangadex.org/title/b1419204-1dc0-480f-babc-9b90d886dd99",
+      "removed_at": "2026-10-31T19:25:19Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "48f9fb61-e165-4ec7-91c5-6772fa1a0274",
+      "title": "You Can't Escape from Mizudako-chan!",
+      "url": "https://mangadex.org/title/48f9fb61-e165-4ec7-91c5-6772fa1a0274",
+      "removed_at": "2026-10-31T19:25:19Z"
+    }
+  ]
+}
