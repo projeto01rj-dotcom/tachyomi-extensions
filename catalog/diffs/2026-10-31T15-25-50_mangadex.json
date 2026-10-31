@@ -1,0 +1,27 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-31T15:25:50Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "80024c98-4498-4fa6-8328-61ceed882267",
+      "title": "I Wasn't the Cinderella",
+      "url": "https://mangadex.org/title/80024c98-4498-4fa6-8328-61ceed882267"
+    },
+    {
+      "source": "mangadex",
+      "key": "a7ca3cd9-88da-4dd6-9626-e12eae885f5d",
+      "title": "Mercedes and the Waning Moon: The Dungeoneering Feats of a Discarded Vampire Aristocrat",
+      "url": "https://mangadex.org/title/a7ca3cd9-88da-4dd6-9626-e12eae885f5d"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "34f72e29-1bda-40df-ae93-0e1c32d96ea6",
+      "title": "Witch Craft Works",
+      "url": "https://mangadex.org/title/34f72e29-1bda-40df-ae93-0e1c32d96ea6",
+      "removed_at": "2026-10-31T15:25:50Z"
+    }
+  ]
+}

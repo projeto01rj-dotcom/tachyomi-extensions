@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-31T09:07:29Z",
+  "updated_at": "2026-10-31T15:25:50Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -13059,9 +13059,10 @@
       "title": "Witch Craft Works",
       "url": "https://mangadex.org/title/34f72e29-1bda-40df-ae93-0e1c32d96ea6",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-25T22:42:08Z",
-      "removed_at": null
+      "removed_at": "2026-10-31T15:25:50Z",
+      "removed_by_source": true
     },
     "36e2b9c7-1f4b-4b0d-bd21-ae294fed986f": {
       "title": "It’s Reasonable to Use a Butcher Knife to Chop Down Everything in the World, Right?",
@@ -13694,6 +13695,22 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-31T09:07:29Z",
+      "removed_at": null
+    },
+    "80024c98-4498-4fa6-8328-61ceed882267": {
+      "title": "I Wasn't the Cinderella",
+      "url": "https://mangadex.org/title/80024c98-4498-4fa6-8328-61ceed882267",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-31T15:25:50Z",
+      "removed_at": null
+    },
+    "a7ca3cd9-88da-4dd6-9626-e12eae885f5d": {
+      "title": "Mercedes and the Waning Moon: The Dungeoneering Feats of a Discarded Vampire Aristocrat",
+      "url": "https://mangadex.org/title/a7ca3cd9-88da-4dd6-9626-e12eae885f5d",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-31T15:25:50Z",
       "removed_at": null
     }
   }
