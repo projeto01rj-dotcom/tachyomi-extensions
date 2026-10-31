@@ -1,0 +1,40 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-31T09:07:29Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "2d5cbe91-efd5-4100-85a1-95c5f8da6eda",
+      "title": "I want you to ask me first!",
+      "url": "https://mangadex.org/title/2d5cbe91-efd5-4100-85a1-95c5f8da6eda"
+    },
+    {
+      "source": "mangadex",
+      "key": "535319ca-4ac9-417b-a8e0-0b6b569e89da",
+      "title": "The Ice-Core Meteoria",
+      "url": "https://mangadex.org/title/535319ca-4ac9-417b-a8e0-0b6b569e89da"
+    },
+    {
+      "source": "mangadex",
+      "key": "5604d034-6fe3-43dc-8e87-ce568669808a",
+      "title": "Kamen Kitan Theo",
+      "url": "https://mangadex.org/title/5604d034-6fe3-43dc-8e87-ce568669808a"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "e0a9e33b-6def-431b-87db-ae2b26a501a0",
+      "title": "The Inferior Magic Swordsman",
+      "url": "https://mangadex.org/title/e0a9e33b-6def-431b-87db-ae2b26a501a0",
+      "removed_at": "2026-10-31T09:07:29Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "b3e639ca-cedb-4d7d-af03-9b17e9a76c1b",
+      "title": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs (Republic Arc)",
+      "url": "https://mangadex.org/title/b3e639ca-cedb-4d7d-af03-9b17e9a76c1b",
+      "removed_at": "2026-10-31T09:07:29Z"
+    }
+  ]
+}
