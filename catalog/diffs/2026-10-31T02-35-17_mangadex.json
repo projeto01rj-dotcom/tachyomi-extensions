@@ -1,0 +1,28 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-10-31T02:35:17Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "4e421eb8-d4a0-4096-86db-ca5e3fc42c5d",
+      "title": "Pumpkin Night",
+      "url": "https://mangadex.org/title/4e421eb8-d4a0-4096-86db-ca5e3fc42c5d"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "bc6c6751-6abe-4ebe-bfa9-cf9d684b574a",
+      "title": "Sem título",
+      "url": "https://mangadex.org/title/bc6c6751-6abe-4ebe-bfa9-cf9d684b574a",
+      "removed_at": "2026-10-31T02:35:17Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "13d402c9-e3d8-4aa7-8bb2-bcd510866d9a",
+      "title": "Sem título",
+      "url": "https://mangadex.org/title/13d402c9-e3d8-4aa7-8bb2-bcd510866d9a",
+      "removed_at": "2026-10-31T02:35:17Z"
+    }
+  ]
+}

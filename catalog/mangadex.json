@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-30T23:23:52Z",
+  "updated_at": "2026-10-31T02:35:17Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -13024,17 +13024,19 @@
       "title": "Sem título",
       "url": "https://mangadex.org/title/bc6c6751-6abe-4ebe-bfa9-cf9d684b574a",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-25T17:43:35Z",
-      "removed_at": null
+      "removed_at": "2026-10-31T02:35:17Z",
+      "removed_by_source": true
     },
     "13d402c9-e3d8-4aa7-8bb2-bcd510866d9a": {
       "title": "Sem título",
       "url": "https://mangadex.org/title/13d402c9-e3d8-4aa7-8bb2-bcd510866d9a",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-25T20:11:52Z",
-      "removed_at": null
+      "removed_at": "2026-10-31T02:35:17Z",
+      "removed_by_source": true
     },
     "d7e5e384-cb65-4158-80b0-e72079c4a79d": {
       "title": "I'm Your Wizard",
@@ -13658,6 +13660,14 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-30T23:23:52Z",
+      "removed_at": null
+    },
+    "4e421eb8-d4a0-4096-86db-ca5e3fc42c5d": {
+      "title": "Pumpkin Night",
+      "url": "https://mangadex.org/title/4e421eb8-d4a0-4096-86db-ca5e3fc42c5d",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-10-31T02:35:17Z",
       "removed_at": null
     }
   }
