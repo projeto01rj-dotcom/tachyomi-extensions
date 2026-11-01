@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-10-31T22:39:02Z",
+  "updated_at": "2026-11-01T01:42:46Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -10340,9 +10340,10 @@
       "title": "No Taste for Gyaru and Vegetables",
       "url": "https://mangadex.org/title/cfef125c-7ca2-4c58-a5e8-e695a1ec9226",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-06T14:18:26Z",
-      "removed_at": null
+      "removed_at": "2026-11-01T01:42:46Z",
+      "removed_by_source": true
     },
     "d1277965-6bd9-457a-9a33-2879832b6d32": {
       "title": "New Sisters, Eating Together",
@@ -13765,6 +13766,14 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-10-31T22:39:02Z",
+      "removed_at": null
+    },
+    "8de2456c-95ef-4958-8f27-af7a4cc275b7": {
+      "title": "Radiant",
+      "url": "https://mangadex.org/title/8de2456c-95ef-4958-8f27-af7a4cc275b7",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-01T01:42:46Z",
       "removed_at": null
     }
   }

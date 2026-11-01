@@ -1,0 +1,21 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-11-01T01:42:46Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "8de2456c-95ef-4958-8f27-af7a4cc275b7",
+      "title": "Radiant",
+      "url": "https://mangadex.org/title/8de2456c-95ef-4958-8f27-af7a4cc275b7"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "cfef125c-7ca2-4c58-a5e8-e695a1ec9226",
+      "title": "No Taste for Gyaru and Vegetables",
+      "url": "https://mangadex.org/title/cfef125c-7ca2-4c58-a5e8-e695a1ec9226",
+      "removed_at": "2026-11-01T01:42:46Z"
+    }
+  ]
+}
