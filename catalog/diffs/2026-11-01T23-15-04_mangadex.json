@@ -1,0 +1,42 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-11-01T23:15:04Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "c0592c37-bd6b-4fb3-964c-84574cd32c72",
+      "title": "I Love a Girl Like This",
+      "url": "https://mangadex.org/title/c0592c37-bd6b-4fb3-964c-84574cd32c72"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "a07320a4-afcd-413a-a451-d69a448d0c28",
+      "title": "Usogui",
+      "url": "https://mangadex.org/title/a07320a4-afcd-413a-a451-d69a448d0c28",
+      "removed_at": "2026-11-01T23:15:04Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "b98c4daf-be1a-46c8-ad83-21d532995240",
+      "title": "My Food Looks Very Cute",
+      "url": "https://mangadex.org/title/b98c4daf-be1a-46c8-ad83-21d532995240",
+      "removed_at": "2026-11-01T23:15:04Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "05ab3213-c1a1-4f30-a56e-f6d03f7a068b",
+      "title": "My Junior at the Company Was a Witch",
+      "url": "https://mangadex.org/title/05ab3213-c1a1-4f30-a56e-f6d03f7a068b",
+      "removed_at": "2026-11-01T23:15:04Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "bfdda99e-475b-4329-8ae7-907a7c2c3f20",
+      "title": "Sem título",
+      "url": "https://mangadex.org/title/bfdda99e-475b-4329-8ae7-907a7c2c3f20",
+      "removed_at": "2026-11-01T23:15:04Z"
+    }
+  ]
+}

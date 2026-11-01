@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-11-01T19:50:18Z",
+  "updated_at": "2026-11-01T23:15:04Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -2751,9 +2751,10 @@
       "title": "Usogui",
       "url": "https://mangadex.org/title/a07320a4-afcd-413a-a451-d69a448d0c28",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-11-01T23:15:04Z",
+      "removed_by_source": true
     },
     "a0a5528a-c4a8-4495-a966-6877c12856ba": {
       "title": "TRUMP",
@@ -13099,9 +13100,10 @@
       "title": "My Food Looks Very Cute",
       "url": "https://mangadex.org/title/b98c4daf-be1a-46c8-ad83-21d532995240",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-26T05:38:17Z",
-      "removed_at": null
+      "removed_at": "2026-11-01T23:15:04Z",
+      "removed_by_source": true
     },
     "e279d973-e1dd-4cfc-b643-fda857b6f4a0": {
       "title": "I'm Not Even an NPC in This Otome Game!",
@@ -13222,9 +13224,10 @@
       "title": "My Junior at the Company Was a Witch",
       "url": "https://mangadex.org/title/05ab3213-c1a1-4f30-a56e-f6d03f7a068b",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-27T18:48:59Z",
-      "removed_at": null
+      "removed_at": "2026-11-01T23:15:04Z",
+      "removed_by_source": true
     },
     "32dfa44f-1077-4ed2-bedc-b7707788fb1b": {
       "title": "Chiruran: Shinsengumi Requiem",
@@ -13288,9 +13291,10 @@
       "title": "Sem título",
       "url": "https://mangadex.org/title/bfdda99e-475b-4329-8ae7-907a7c2c3f20",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-27T22:46:20Z",
-      "removed_at": null
+      "removed_at": "2026-11-01T23:15:04Z",
+      "removed_by_source": true
     },
     "319ac4d3-d9f7-4d2c-9b11-f7ff7091300d": {
       "title": "Sem título",
@@ -13874,6 +13878,14 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-11-01T19:50:18Z",
+      "removed_at": null
+    },
+    "c0592c37-bd6b-4fb3-964c-84574cd32c72": {
+      "title": "I Love a Girl Like This",
+      "url": "https://mangadex.org/title/c0592c37-bd6b-4fb3-964c-84574cd32c72",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-01T23:15:04Z",
       "removed_at": null
     }
   }
