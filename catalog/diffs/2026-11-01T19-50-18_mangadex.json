@@ -1,0 +1,80 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-11-01T19:50:18Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "064b16a9-1199-4e00-a41f-cc51e44b002a",
+      "title": "Proof of Dignity",
+      "url": "https://mangadex.org/title/064b16a9-1199-4e00-a41f-cc51e44b002a"
+    },
+    {
+      "source": "mangadex",
+      "key": "1116ca63-ca60-46b4-8161-908749a1c2fb",
+      "title": "Flowering Harbor",
+      "url": "https://mangadex.org/title/1116ca63-ca60-46b4-8161-908749a1c2fb"
+    },
+    {
+      "source": "mangadex",
+      "key": "2fd69f1c-c09a-41ff-aaaa-49bd3302a78e",
+      "title": "Haven’t You Heard? I’m Sakamoto",
+      "url": "https://mangadex.org/title/2fd69f1c-c09a-41ff-aaaa-49bd3302a78e"
+    },
+    {
+      "source": "mangadex",
+      "key": "494e05b4-9319-4e36-a63a-fab112862921",
+      "title": "Dragon Ball Zero",
+      "url": "https://mangadex.org/title/494e05b4-9319-4e36-a63a-fab112862921"
+    },
+    {
+      "source": "mangadex",
+      "key": "f052fabc-7687-4140-ba3a-22e43009cd3d",
+      "title": "Oni (KANNO Osamu)",
+      "url": "https://mangadex.org/title/f052fabc-7687-4140-ba3a-22e43009cd3d"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "75f8931e-380d-4354-81fc-3f252d104c20",
+      "title": "I Made the Girl I Liked My Maid, and Now She’s Secretly Doing Something in My Room",
+      "url": "https://mangadex.org/title/75f8931e-380d-4354-81fc-3f252d104c20",
+      "removed_at": "2026-11-01T19:50:18Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "e8e1324c-23dd-4269-8b20-5300390299b7",
+      "title": "As Long as There's Love, It Doesn't Matter If He Is My Brother, Right?",
+      "url": "https://mangadex.org/title/e8e1324c-23dd-4269-8b20-5300390299b7",
+      "removed_at": "2026-11-01T19:50:18Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "68a9d14a-3d14-4295-bc10-ad75cc32e885",
+      "title": "Fate/Grand Order -Epic of Remnant- Deep Sea Cyber-Paradise, SE.RA.PH",
+      "url": "https://mangadex.org/title/68a9d14a-3d14-4295-bc10-ad75cc32e885",
+      "removed_at": "2026-11-01T19:50:18Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "bf713abe-b415-45ac-8fd1-653dba578e0f",
+      "title": "I'm an Evil God",
+      "url": "https://mangadex.org/title/bf713abe-b415-45ac-8fd1-653dba578e0f",
+      "removed_at": "2026-11-01T19:50:18Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "6d9cdc37-5411-4939-b051-62cb8fcbae64",
+      "title": "Intruding Ghost Boy Yuurei",
+      "url": "https://mangadex.org/title/6d9cdc37-5411-4939-b051-62cb8fcbae64",
+      "removed_at": "2026-11-01T19:50:18Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "c30266a7-cc5c-48fa-b414-689d8c5cd22c",
+      "title": "Beet the Vandel Buster",
+      "url": "https://mangadex.org/title/c30266a7-cc5c-48fa-b414-689d8c5cd22c",
+      "removed_at": "2026-11-01T19:50:18Z"
+    }
+  ]
+}
