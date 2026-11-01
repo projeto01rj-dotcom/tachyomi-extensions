@@ -1,0 +1,41 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-11-01T15:23:22Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "1f4b34a3-ee7c-4855-8bd9-996b31b8142b",
+      "title": "Kawaihara-senpai Loves Cute (Saotome-kun)!",
+      "url": "https://mangadex.org/title/1f4b34a3-ee7c-4855-8bd9-996b31b8142b"
+    },
+    {
+      "source": "mangadex",
+      "key": "63499126-62dd-4f0f-84f2-2915bc4f2048",
+      "title": "The Number Two Me and The Number One Girl",
+      "url": "https://mangadex.org/title/63499126-62dd-4f0f-84f2-2915bc4f2048"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "c59187a7-7479-4b6f-a990-395b35677939",
+      "title": "From the Dust.",
+      "url": "https://mangadex.org/title/c59187a7-7479-4b6f-a990-395b35677939",
+      "removed_at": "2026-11-01T15:23:22Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "08ff391a-7991-4c43-8741-531d7d0b2165",
+      "title": "Ichigo-chan on Sundays",
+      "url": "https://mangadex.org/title/08ff391a-7991-4c43-8741-531d7d0b2165",
+      "removed_at": "2026-11-01T15:23:22Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "aafb046c-9de4-4c3d-990c-6d75b079c0b9",
+      "title": "Release That Witch",
+      "url": "https://mangadex.org/title/aafb046c-9de4-4c3d-990c-6d75b079c0b9",
+      "removed_at": "2026-11-01T15:23:22Z"
+    }
+  ]
+}
