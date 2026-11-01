@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-11-01T01:42:46Z",
+  "updated_at": "2026-11-01T08:28:18Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -13123,9 +13123,10 @@
       "title": "The Adventurer Lives in a Labyrinth Want to Resign the Dungeon Master",
       "url": "https://mangadex.org/title/36df4466-7c81-4640-a692-43759d891bfb",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-26T18:13:25Z",
-      "removed_at": null
+      "removed_at": "2026-11-01T08:28:18Z",
+      "removed_by_source": true
     },
     "9863c55e-6809-42cc-8ee4-09f00e4f1bec": {
       "title": "Shirley Madison",
@@ -13139,17 +13140,19 @@
       "title": "HE∀DS",
       "url": "https://mangadex.org/title/f340eb91-fab8-41d6-ae3f-71f3f0a89a46",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-26T18:13:25Z",
-      "removed_at": null
+      "removed_at": "2026-11-01T08:28:18Z",
+      "removed_by_source": true
     },
     "452513a9-c698-410e-9bf9-fe90309780d2": {
       "title": "Fate/EXTRA CCC FoxTail",
       "url": "https://mangadex.org/title/452513a9-c698-410e-9bf9-fe90309780d2",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-26T22:48:03Z",
-      "removed_at": null
+      "removed_at": "2026-11-01T08:28:18Z",
+      "removed_by_source": true
     },
     "08ff391a-7991-4c43-8741-531d7d0b2165": {
       "title": "Ichigo-chan on Sundays",
@@ -13774,6 +13777,38 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-11-01T01:42:46Z",
+      "removed_at": null
+    },
+    "4c221393-092a-4c43-9af7-be21427aa411": {
+      "title": "I Swapped Bodies with a Wicked Witch, but Today I'll Keep Having Fun!",
+      "url": "https://mangadex.org/title/4c221393-092a-4c43-9af7-be21427aa411",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-01T08:28:18Z",
+      "removed_at": null
+    },
+    "86d25eac-eb2f-4ec0-a341-f1a5cbbe80b8": {
+      "title": "Let Me Be Single in Peace!",
+      "url": "https://mangadex.org/title/86d25eac-eb2f-4ec0-a341-f1a5cbbe80b8",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-01T08:28:18Z",
+      "removed_at": null
+    },
+    "92eb2740-a320-4317-a2ad-3fcffea7e98e": {
+      "title": "Contractual Marriage to a Surly Duke",
+      "url": "https://mangadex.org/title/92eb2740-a320-4317-a2ad-3fcffea7e98e",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-01T08:28:18Z",
+      "removed_at": null
+    },
+    "cbf174ca-af25-4410-82fa-498a6df9ad3c": {
+      "title": "Be Blues!",
+      "url": "https://mangadex.org/title/cbf174ca-af25-4410-82fa-498a6df9ad3c",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-01T08:28:18Z",
       "removed_at": null
     }
   }

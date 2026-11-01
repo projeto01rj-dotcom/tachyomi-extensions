@@ -1,0 +1,53 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-11-01T08:28:18Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "4c221393-092a-4c43-9af7-be21427aa411",
+      "title": "I Swapped Bodies with a Wicked Witch, but Today I'll Keep Having Fun!",
+      "url": "https://mangadex.org/title/4c221393-092a-4c43-9af7-be21427aa411"
+    },
+    {
+      "source": "mangadex",
+      "key": "86d25eac-eb2f-4ec0-a341-f1a5cbbe80b8",
+      "title": "Let Me Be Single in Peace!",
+      "url": "https://mangadex.org/title/86d25eac-eb2f-4ec0-a341-f1a5cbbe80b8"
+    },
+    {
+      "source": "mangadex",
+      "key": "92eb2740-a320-4317-a2ad-3fcffea7e98e",
+      "title": "Contractual Marriage to a Surly Duke",
+      "url": "https://mangadex.org/title/92eb2740-a320-4317-a2ad-3fcffea7e98e"
+    },
+    {
+      "source": "mangadex",
+      "key": "cbf174ca-af25-4410-82fa-498a6df9ad3c",
+      "title": "Be Blues!",
+      "url": "https://mangadex.org/title/cbf174ca-af25-4410-82fa-498a6df9ad3c"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "36df4466-7c81-4640-a692-43759d891bfb",
+      "title": "The Adventurer Lives in a Labyrinth Want to Resign the Dungeon Master",
+      "url": "https://mangadex.org/title/36df4466-7c81-4640-a692-43759d891bfb",
+      "removed_at": "2026-11-01T08:28:18Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "f340eb91-fab8-41d6-ae3f-71f3f0a89a46",
+      "title": "HE∀DS",
+      "url": "https://mangadex.org/title/f340eb91-fab8-41d6-ae3f-71f3f0a89a46",
+      "removed_at": "2026-11-01T08:28:18Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "452513a9-c698-410e-9bf9-fe90309780d2",
+      "title": "Fate/EXTRA CCC FoxTail",
+      "url": "https://mangadex.org/title/452513a9-c698-410e-9bf9-fe90309780d2",
+      "removed_at": "2026-11-01T08:28:18Z"
+    }
+  ]
+}
