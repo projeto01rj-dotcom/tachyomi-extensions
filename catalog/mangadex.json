@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-11-02T10:21:06Z",
+  "updated_at": "2026-11-02T20:26:57Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -1200,9 +1200,10 @@
       "title": "A Couple of Cuckoos",
       "url": "https://mangadex.org/title/4e7a4a0f-8391-4069-839b-de2352297dab",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-11-02T20:26:57Z",
+      "removed_by_source": true
     },
     "510f29a8-99b4-46af-ba5e-916e96bc6f37": {
       "title": "Fate/type Redline",
@@ -12084,9 +12085,10 @@
       "title": "Takami-san of the Heights",
       "url": "https://mangadex.org/title/59f41b42-db80-41e5-b410-78d4ce2ac735",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-18T06:12:01Z",
-      "removed_at": null
+      "removed_at": "2026-11-02T20:26:57Z",
+      "removed_by_source": true
     },
     "b05825a3-9d8e-45bc-a45a-1fe065186b83": {
       "title": "Secret Girl Through the Filter",
@@ -12424,9 +12426,10 @@
       "title": "JoJo's Bizarre Adventure - Moscow Calling (Doujinshi)",
       "url": "https://mangadex.org/title/80cda3ff-d08a-4797-8f83-0f6ef538c3a2",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-20T10:43:02Z",
-      "removed_at": null
+      "removed_at": "2026-11-02T20:26:57Z",
+      "removed_by_source": true
     },
     "b16f2554-9525-4f2a-bbe4-5b75b6605176": {
       "title": "Clevatess: The King of Dark Beasts, the Baby, and the Undead Hero",
@@ -13137,9 +13140,10 @@
       "title": "Shirley Madison",
       "url": "https://mangadex.org/title/9863c55e-6809-42cc-8ee4-09f00e4f1bec",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-26T18:13:25Z",
-      "removed_at": null
+      "removed_at": "2026-11-02T20:26:57Z",
+      "removed_by_source": true
     },
     "f340eb91-fab8-41d6-ae3f-71f3f0a89a46": {
       "title": "HE∀DS",
@@ -13356,25 +13360,28 @@
       "title": "They Ridiculed Me for My Luckless Job, but It's Not Actually That Bad?",
       "url": "https://mangadex.org/title/9c01d5d1-2ce3-4745-be54-8aff89300bfa",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-28T14:43:19Z",
-      "removed_at": null
+      "removed_at": "2026-11-02T20:26:57Z",
+      "removed_by_source": true
     },
     "3eaabe03-d2bd-43f3-af71-bd1db4ab564a": {
       "title": "Isekai Executioner: The Serial Killer in Another World",
       "url": "https://mangadex.org/title/3eaabe03-d2bd-43f3-af71-bd1db4ab564a",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-28T19:59:51Z",
-      "removed_at": null
+      "removed_at": "2026-11-02T20:26:57Z",
+      "removed_by_source": true
     },
     "691a2ec7-8f2a-4c23-b9d4-4cb042d2c9f6": {
       "title": "The Boy Who Collects the Stars",
       "url": "https://mangadex.org/title/691a2ec7-8f2a-4c23-b9d4-4cb042d2c9f6",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-28T19:59:51Z",
-      "removed_at": null
+      "removed_at": "2026-11-02T20:26:57Z",
+      "removed_by_source": true
     },
     "7bf163e3-123a-41c1-b2bc-8254dbe5a09b": {
       "title": "2.5 Dimensional Seduction",
@@ -13388,9 +13395,10 @@
       "title": "The Demon Queen Can't Defeat The Hero.",
       "url": "https://mangadex.org/title/c9c0f16b-7bd3-4da6-bd58-fcb4bd10112f",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-28T19:59:51Z",
-      "removed_at": null
+      "removed_at": "2026-11-02T20:26:57Z",
+      "removed_by_source": true
     },
     "52fd5981-9010-402b-8745-b4b13cd7c6f1": {
       "title": "Hitoner (Pre-Serialization)",
@@ -13412,9 +13420,10 @@
       "title": "The Other Side of the Clouds",
       "url": "https://mangadex.org/title/c463aafa-9de0-4f57-a7a8-fef2202193f7",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-28T23:56:22Z",
-      "removed_at": null
+      "removed_at": "2026-11-02T20:26:57Z",
+      "removed_by_source": true
     },
     "79b7357c-ea5b-491a-a25b-155a804bf53f": {
       "title": "Otaku Vampire's Love Bite",
@@ -13926,6 +13935,70 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-11-02T10:21:06Z",
+      "removed_at": null
+    },
+    "140668fa-eec5-42d1-a6f5-ed65c295c0ee": {
+      "title": "Monster Mira’s Second Form Is Way Too Cute",
+      "url": "https://mangadex.org/title/140668fa-eec5-42d1-a6f5-ed65c295c0ee",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-02T20:26:57Z",
+      "removed_at": null
+    },
+    "2e9851a6-0f8b-4bf0-88b2-bf6375ad313a": {
+      "title": "Ainosenbiki: A Story of Getting a Mommy After Doing Sugar Mama Dating",
+      "url": "https://mangadex.org/title/2e9851a6-0f8b-4bf0-88b2-bf6375ad313a",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-02T20:26:57Z",
+      "removed_at": null
+    },
+    "366dcef2-11ac-4ec0-9d75-967638f211a7": {
+      "title": "Holiday Yasumi's Twitter Shorts",
+      "url": "https://mangadex.org/title/366dcef2-11ac-4ec0-9d75-967638f211a7",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-02T20:26:57Z",
+      "removed_at": null
+    },
+    "37f1ddff-38a5-4e42-ba9a-ce967702dfb6": {
+      "title": "Bartlet Fairy Basslet",
+      "url": "https://mangadex.org/title/37f1ddff-38a5-4e42-ba9a-ce967702dfb6",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-02T20:26:57Z",
+      "removed_at": null
+    },
+    "5197576b-ba29-4cb4-8039-9211aedd34b7": {
+      "title": "CHARISMA: Another Peaceful Day",
+      "url": "https://mangadex.org/title/5197576b-ba29-4cb4-8039-9211aedd34b7",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-02T20:26:57Z",
+      "removed_at": null
+    },
+    "a253e13a-2b41-4f7d-915e-1e31a3f5d31d": {
+      "title": "I'm the Max-Level Newbie",
+      "url": "https://mangadex.org/title/a253e13a-2b41-4f7d-915e-1e31a3f5d31d",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-02T20:26:57Z",
+      "removed_at": null
+    },
+    "a59b7f40-6a15-48f2-bec5-6b2c096de1c9": {
+      "title": "Somewhere Now",
+      "url": "https://mangadex.org/title/a59b7f40-6a15-48f2-bec5-6b2c096de1c9",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-02T20:26:57Z",
+      "removed_at": null
+    },
+    "f63c4549-93c6-495f-8a33-4246116289d3": {
+      "title": "Falling in Love With My Ex-Fiancé's Grandfather",
+      "url": "https://mangadex.org/title/f63c4549-93c6-495f-8a33-4246116289d3",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-02T20:26:57Z",
       "removed_at": null
     }
   }
