@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-11-01T23:15:04Z",
+  "updated_at": "2026-11-02T02:38:56Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -12539,9 +12539,10 @@
       "title": "UmaYome ~Horse & Trainer Wedded Bliss~",
       "url": "https://mangadex.org/title/1bc97ccd-1e56-4570-a399-162d08414f66",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-21T17:28:06Z",
-      "removed_at": null
+      "removed_at": "2026-11-02T02:38:56Z",
+      "removed_by_source": true
     },
     "57f7b8a8-2d36-47af-9db0-22ab21b70baa": {
       "title": "Red Blood Red Legacy",
@@ -13189,9 +13190,10 @@
       "title": "My HP's 5, But I Have Auto Heal, So I Won't Die!",
       "url": "https://mangadex.org/title/487a156d-fb54-4bf0-bdcd-8e1ac933ac7d",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-27T13:26:01Z",
-      "removed_at": null
+      "removed_at": "2026-11-02T02:38:56Z",
+      "removed_by_source": true
     },
     "68a9d14a-3d14-4295-bc10-ad75cc32e885": {
       "title": "Fate/Grand Order -Epic of Remnant- Deep Sea Cyber-Paradise, SE.RA.PH",
@@ -13283,9 +13285,10 @@
       "title": "NANA",
       "url": "https://mangadex.org/title/7e2ddc4c-c07c-4163-bf48-2b7c45f7b7fb",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-27T22:46:20Z",
-      "removed_at": null
+      "removed_at": "2026-11-02T02:38:56Z",
+      "removed_by_source": true
     },
     "bfdda99e-475b-4329-8ae7-907a7c2c3f20": {
       "title": "Sem título",
@@ -13886,6 +13889,30 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-11-01T23:15:04Z",
+      "removed_at": null
+    },
+    "a684ea2e-5cf6-40b4-ae82-4010d6d3df2c": {
+      "title": "I’m the Girl With the Hacks!",
+      "url": "https://mangadex.org/title/a684ea2e-5cf6-40b4-ae82-4010d6d3df2c",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-02T02:38:56Z",
+      "removed_at": null
+    },
+    "d471e66b-dbfd-4538-99b4-49eb0014457e": {
+      "title": "I Can't Help But Touch Hao Cang's Ears",
+      "url": "https://mangadex.org/title/d471e66b-dbfd-4538-99b4-49eb0014457e",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-02T02:38:56Z",
+      "removed_at": null
+    },
+    "fad5ff80-0aae-41f5-8a05-f5f23eb71e5a": {
+      "title": "May Your Sword Reach My Neck",
+      "url": "https://mangadex.org/title/fad5ff80-0aae-41f5-8a05-f5f23eb71e5a",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-02T02:38:56Z",
       "removed_at": null
     }
   }

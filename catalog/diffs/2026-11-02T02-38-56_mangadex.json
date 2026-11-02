@@ -1,0 +1,47 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-11-02T02:38:56Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "a684ea2e-5cf6-40b4-ae82-4010d6d3df2c",
+      "title": "I’m the Girl With the Hacks!",
+      "url": "https://mangadex.org/title/a684ea2e-5cf6-40b4-ae82-4010d6d3df2c"
+    },
+    {
+      "source": "mangadex",
+      "key": "d471e66b-dbfd-4538-99b4-49eb0014457e",
+      "title": "I Can't Help But Touch Hao Cang's Ears",
+      "url": "https://mangadex.org/title/d471e66b-dbfd-4538-99b4-49eb0014457e"
+    },
+    {
+      "source": "mangadex",
+      "key": "fad5ff80-0aae-41f5-8a05-f5f23eb71e5a",
+      "title": "May Your Sword Reach My Neck",
+      "url": "https://mangadex.org/title/fad5ff80-0aae-41f5-8a05-f5f23eb71e5a"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "1bc97ccd-1e56-4570-a399-162d08414f66",
+      "title": "UmaYome ~Horse & Trainer Wedded Bliss~",
+      "url": "https://mangadex.org/title/1bc97ccd-1e56-4570-a399-162d08414f66",
+      "removed_at": "2026-11-02T02:38:56Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "487a156d-fb54-4bf0-bdcd-8e1ac933ac7d",
+      "title": "My HP's 5, But I Have Auto Heal, So I Won't Die!",
+      "url": "https://mangadex.org/title/487a156d-fb54-4bf0-bdcd-8e1ac933ac7d",
+      "removed_at": "2026-11-02T02:38:56Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "7e2ddc4c-c07c-4163-bf48-2b7c45f7b7fb",
+      "title": "NANA",
+      "url": "https://mangadex.org/title/7e2ddc4c-c07c-4163-bf48-2b7c45f7b7fb",
+      "removed_at": "2026-11-02T02:38:56Z"
+    }
+  ]
+}
