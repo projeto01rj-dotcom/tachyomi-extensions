@@ -1,0 +1,49 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-11-02T10:21:06Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "febd3e05-6300-4105-95cc-2c39c19ce876",
+      "title": "Magical ★ Explorer: Reborn as a Side Character in a Fantasy Dating Sim",
+      "url": "https://mangadex.org/title/febd3e05-6300-4105-95cc-2c39c19ce876"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "319ac4d3-d9f7-4d2c-9b11-f7ff7091300d",
+      "title": "Sem título",
+      "url": "https://mangadex.org/title/319ac4d3-d9f7-4d2c-9b11-f7ff7091300d",
+      "removed_at": "2026-11-02T10:21:06Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "561845c2-a33e-4f5d-b9b6-53ca4ca3a52d",
+      "title": "Little Rabbit and the Big Bad Leopard",
+      "url": "https://mangadex.org/title/561845c2-a33e-4f5d-b9b6-53ca4ca3a52d",
+      "removed_at": "2026-11-02T10:21:06Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "689eba6d-10b0-4057-bcff-d2df9ab7765a",
+      "title": "Disney Twisted Wonderland: The Comic—Episode of Scarabia",
+      "url": "https://mangadex.org/title/689eba6d-10b0-4057-bcff-d2df9ab7765a",
+      "removed_at": "2026-11-02T10:21:06Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "7f53da27-3b46-426d-834b-a34c606a9663",
+      "title": "That Demonic Teacher Will Be My Sister?",
+      "url": "https://mangadex.org/title/7f53da27-3b46-426d-834b-a34c606a9663",
+      "removed_at": "2026-11-02T10:21:06Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "8cfc8b79-2c1b-4e33-beda-a0d70a7674ca",
+      "title": "I Will Become the Villain's Poison Taster",
+      "url": "https://mangadex.org/title/8cfc8b79-2c1b-4e33-beda-a0d70a7674ca",
+      "removed_at": "2026-11-02T10:21:06Z"
+    }
+  ]
+}
