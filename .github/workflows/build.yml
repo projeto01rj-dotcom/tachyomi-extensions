@@ -49,6 +49,7 @@ jobs:
         run: |
           ./gradlew \
             :src:all:mangadex:assembleRelease \
+            :src:all:mangaplus:assembleRelease \
             :src:all:megacompartilhamento:assembleRelease \
             :src:en:reimanga:assembleRelease \
             :src:pt:mangaonline:assembleRelease \

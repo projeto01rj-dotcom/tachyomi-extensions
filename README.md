@@ -27,6 +27,7 @@ Como alternativa, baixe os APKs no artefato `apks` em **Actions → Build** e in
 | Extensão | Site | Como funciona |
 | --- | --- | --- |
 | `src/all/mangadex` | [mangadex.org](https://mangadex.org) | API oficial `api.mangadex.org` (60 idiomas) |
+| `src/all/mangaplus` | [MANGA Plus](https://mangaplus.shueisha.co.jp) | API oficial do serviço, com catálogo, capítulos e leitor protobuf |
 | `src/pt/saikaiscan` | [housesaikai.net](https://housesaikai.net) | API `api.housesaikai.net/api` |
 | `src/pt/mangaonline` | [mangaonline.love](https://mangaonline.love) | Tema **Madara** (`lib-multisrc/madara`) |
 | `src/pt/noxmangas` | [noxmangas.org](https://noxmangas.org) | API Nix assinada (`/_nix/signer.js` → SHA-256) |
@@ -48,8 +49,8 @@ catalog/        dados das fontes atualizados a cada 30 minutos pelo CI
 
 ## GitHub Actions
 
-- **`build.yml`** — compila as sete extensões em APKs (`assembleRelease`) a cada push e disponibiliza o artefato `apks`. Em seguida, publica a branch `repo` (APKs, `index.min.json` e `repo.json`) via `.github/scripts/publish_index.py`; essa é a fonte que o Mihon consome. O workflow também pode ser executado manualmente em **Actions → Build → Run workflow**.
-- **`sync.yml`** — executa a cada 30 minutos (`*/30 * * * *`), consulta as sete fontes, atualiza o catálogo, marca obras removidas e publica as alterações na pasta `catalog/`.
+- **`build.yml`** — compila as oito extensões em APKs (`assembleRelease`) a cada push e disponibiliza o artefato `apks`. Em seguida, publica a branch `repo` (APKs, `index.min.json` e `repo.json`) via `.github/scripts/publish_index.py`; essa é a fonte que o Mihon consome. O workflow também pode ser executado manualmente em **Actions → Build → Run workflow**.
+- **`sync.yml`** — executa a cada 30 minutos (`*/30 * * * *`), consulta as quatro fontes com adaptador de catálogo, atualiza o catálogo, marca obras removidas e publica as alterações na pasta `catalog/`.
 
 ## Compilando localmente (opcional)
 
@@ -57,6 +58,7 @@ Requisitos: JDK 17+, Android SDK (compileSdk 37) e Git.
 
 ```bash
 ./gradlew :src:all:mangadex:assembleRelease \
+          :src:all:mangaplus:assembleRelease \
           :src:all:megacompartilhamento:assembleRelease \
           :src:en:reimanga:assembleRelease \
           :src:pt:mangaonline:assembleRelease \
