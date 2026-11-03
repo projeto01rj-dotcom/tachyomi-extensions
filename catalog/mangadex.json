@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-11-03T17:57:10Z",
+  "updated_at": "2026-11-03T22:52:15Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -13529,9 +13529,10 @@
       "title": "My Happy Marriage",
       "url": "https://mangadex.org/title/8aa1fb77-c86e-41db-adfb-0737c3438113",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-29T17:20:56Z",
-      "removed_at": null
+      "removed_at": "2026-11-03T22:52:15Z",
+      "removed_by_source": true
     },
     "94891715-a109-4f5e-81ef-2bed5fb5bb19": {
       "title": "Deviant Love",
@@ -13555,9 +13556,10 @@
       "title": "Being Able to Edit Skills in Another World I Gained OP Waifus",
       "url": "https://mangadex.org/title/c7311cec-9b0f-42f3-8afe-a06cb5b70229",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-29T17:20:56Z",
-      "removed_at": null
+      "removed_at": "2026-11-03T22:52:15Z",
+      "removed_by_source": true
     },
     "f1e0fed4-2f72-43ab-8c00-58867312288d": {
       "title": "Yumekui Merry",
@@ -13580,41 +13582,46 @@
       "title": "Me and My Beast Boss",
       "url": "https://mangadex.org/title/653000fb-1edd-4e05-9d44-36358708a5e9",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-29T21:54:44Z",
-      "removed_at": null
+      "removed_at": "2026-11-03T22:52:15Z",
+      "removed_by_source": true
     },
     "7a9ea386-c960-4752-9035-7c652c1b97af": {
       "title": "Shinohayu: The Dawn of Age",
       "url": "https://mangadex.org/title/7a9ea386-c960-4752-9035-7c652c1b97af",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-29T21:54:44Z",
-      "removed_at": null
+      "removed_at": "2026-11-03T22:52:15Z",
+      "removed_by_source": true
     },
     "7dc3f66f-4d6e-4030-bd6c-6a4d699a7f06": {
       "title": "Beautiful Female Superior Takizawa-san",
       "url": "https://mangadex.org/title/7dc3f66f-4d6e-4030-bd6c-6a4d699a7f06",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-29T21:54:44Z",
-      "removed_at": null
+      "removed_at": "2026-11-03T22:52:15Z",
+      "removed_by_source": true
     },
     "819238d7-f4aa-4ba3-9a79-a695dc62200b": {
       "title": "Special Civil Servant",
       "url": "https://mangadex.org/title/819238d7-f4aa-4ba3-9a79-a695dc62200b",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-29T21:54:44Z",
-      "removed_at": null
+      "removed_at": "2026-11-03T22:52:15Z",
+      "removed_by_source": true
     },
     "fa197a3e-6dd6-470d-91e4-c0130a1392d3": {
       "title": "Reincarnated as a Dragon Hatchling",
       "url": "https://mangadex.org/title/fa197a3e-6dd6-470d-91e4-c0130a1392d3",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-29T21:54:44Z",
-      "removed_at": null
+      "removed_at": "2026-11-03T22:52:15Z",
+      "removed_by_source": true
     },
     "7e8080ab-0b79-4c55-8718-f1c596cef865": {
       "title": "It Was a Mistake, Grand Duke!",
@@ -14103,6 +14110,54 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-11-03T17:57:10Z",
+      "removed_at": null
+    },
+    "244b6659-9181-4b6a-b0ea-c9d846bc6a4a": {
+      "title": "Something Weird with My Training Skills",
+      "url": "https://mangadex.org/title/244b6659-9181-4b6a-b0ea-c9d846bc6a4a",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-03T22:52:15Z",
+      "removed_at": null
+    },
+    "9c21fbcd-e22e-4e6d-8258-7d580df9fc45": {
+      "title": "Lycoris Recoil",
+      "url": "https://mangadex.org/title/9c21fbcd-e22e-4e6d-8258-7d580df9fc45",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-03T22:52:15Z",
+      "removed_at": null
+    },
+    "b6080bba-2d95-4f4d-9f1b-5c8f671da6c4": {
+      "title": "Usami-san wa Kamawaretai!",
+      "url": "https://mangadex.org/title/b6080bba-2d95-4f4d-9f1b-5c8f671da6c4",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-03T22:52:15Z",
+      "removed_at": null
+    },
+    "c40bf165-81fa-499f-b368-48b353a968df": {
+      "title": "Another",
+      "url": "https://mangadex.org/title/c40bf165-81fa-499f-b368-48b353a968df",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-03T22:52:15Z",
+      "removed_at": null
+    },
+    "ecf03a97-2194-4e4b-b4cd-741b98015957": {
+      "title": "Kaya-chan Isn’t Scary",
+      "url": "https://mangadex.org/title/ecf03a97-2194-4e4b-b4cd-741b98015957",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-03T22:52:15Z",
+      "removed_at": null
+    },
+    "f2096f50-eda1-47a6-9741-9fad97ca08d1": {
+      "title": "Maju Battlefront",
+      "url": "https://mangadex.org/title/f2096f50-eda1-47a6-9741-9fad97ca08d1",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-03T22:52:15Z",
       "removed_at": null
     }
   }

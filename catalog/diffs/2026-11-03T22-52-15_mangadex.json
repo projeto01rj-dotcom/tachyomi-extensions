@@ -1,0 +1,93 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-11-03T22:52:15Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "244b6659-9181-4b6a-b0ea-c9d846bc6a4a",
+      "title": "Something Weird with My Training Skills",
+      "url": "https://mangadex.org/title/244b6659-9181-4b6a-b0ea-c9d846bc6a4a"
+    },
+    {
+      "source": "mangadex",
+      "key": "9c21fbcd-e22e-4e6d-8258-7d580df9fc45",
+      "title": "Lycoris Recoil",
+      "url": "https://mangadex.org/title/9c21fbcd-e22e-4e6d-8258-7d580df9fc45"
+    },
+    {
+      "source": "mangadex",
+      "key": "b6080bba-2d95-4f4d-9f1b-5c8f671da6c4",
+      "title": "Usami-san wa Kamawaretai!",
+      "url": "https://mangadex.org/title/b6080bba-2d95-4f4d-9f1b-5c8f671da6c4"
+    },
+    {
+      "source": "mangadex",
+      "key": "c40bf165-81fa-499f-b368-48b353a968df",
+      "title": "Another",
+      "url": "https://mangadex.org/title/c40bf165-81fa-499f-b368-48b353a968df"
+    },
+    {
+      "source": "mangadex",
+      "key": "ecf03a97-2194-4e4b-b4cd-741b98015957",
+      "title": "Kaya-chan Isn’t Scary",
+      "url": "https://mangadex.org/title/ecf03a97-2194-4e4b-b4cd-741b98015957"
+    },
+    {
+      "source": "mangadex",
+      "key": "f2096f50-eda1-47a6-9741-9fad97ca08d1",
+      "title": "Maju Battlefront",
+      "url": "https://mangadex.org/title/f2096f50-eda1-47a6-9741-9fad97ca08d1"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "8aa1fb77-c86e-41db-adfb-0737c3438113",
+      "title": "My Happy Marriage",
+      "url": "https://mangadex.org/title/8aa1fb77-c86e-41db-adfb-0737c3438113",
+      "removed_at": "2026-11-03T22:52:15Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "c7311cec-9b0f-42f3-8afe-a06cb5b70229",
+      "title": "Being Able to Edit Skills in Another World I Gained OP Waifus",
+      "url": "https://mangadex.org/title/c7311cec-9b0f-42f3-8afe-a06cb5b70229",
+      "removed_at": "2026-11-03T22:52:15Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "653000fb-1edd-4e05-9d44-36358708a5e9",
+      "title": "Me and My Beast Boss",
+      "url": "https://mangadex.org/title/653000fb-1edd-4e05-9d44-36358708a5e9",
+      "removed_at": "2026-11-03T22:52:15Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "7a9ea386-c960-4752-9035-7c652c1b97af",
+      "title": "Shinohayu: The Dawn of Age",
+      "url": "https://mangadex.org/title/7a9ea386-c960-4752-9035-7c652c1b97af",
+      "removed_at": "2026-11-03T22:52:15Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "7dc3f66f-4d6e-4030-bd6c-6a4d699a7f06",
+      "title": "Beautiful Female Superior Takizawa-san",
+      "url": "https://mangadex.org/title/7dc3f66f-4d6e-4030-bd6c-6a4d699a7f06",
+      "removed_at": "2026-11-03T22:52:15Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "819238d7-f4aa-4ba3-9a79-a695dc62200b",
+      "title": "Special Civil Servant",
+      "url": "https://mangadex.org/title/819238d7-f4aa-4ba3-9a79-a695dc62200b",
+      "removed_at": "2026-11-03T22:52:15Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "fa197a3e-6dd6-470d-91e4-c0130a1392d3",
+      "title": "Reincarnated as a Dragon Hatchling",
+      "url": "https://mangadex.org/title/fa197a3e-6dd6-470d-91e4-c0130a1392d3",
+      "removed_at": "2026-11-03T22:52:15Z"
+    }
+  ]
+}
