@@ -1,0 +1,109 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-11-03T17:57:10Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "afc7a390-fba7-425c-a866-8ba52e598599",
+      "title": "All-Master Necromancer",
+      "url": "https://mangadex.org/title/afc7a390-fba7-425c-a866-8ba52e598599"
+    },
+    {
+      "source": "mangadex",
+      "key": "bc430f16-299e-44fe-b04b-b0fc35f37de5",
+      "title": "Black Jack in Fifth Period",
+      "url": "https://mangadex.org/title/bc430f16-299e-44fe-b04b-b0fc35f37de5"
+    },
+    {
+      "source": "mangadex",
+      "key": "de471fb4-80d0-406f-a5e3-1bfa88a15136",
+      "title": "The Distinguished Cute Master",
+      "url": "https://mangadex.org/title/de471fb4-80d0-406f-a5e3-1bfa88a15136"
+    },
+    {
+      "source": "mangadex",
+      "key": "e41721c0-f7cf-49c1-9712-8543e1ea7c99",
+      "title": "Witch Hunter",
+      "url": "https://mangadex.org/title/e41721c0-f7cf-49c1-9712-8543e1ea7c99"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "42f62ab4-8fdb-4710-956d-999e3c55f7ad",
+      "title": "I Parry Everything: What Do You Mean I’m the Strongest? I’m Not Even an Adventurer Yet!",
+      "url": "https://mangadex.org/title/42f62ab4-8fdb-4710-956d-999e3c55f7ad",
+      "removed_at": "2026-11-03T17:57:10Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "676fbea0-be6d-437e-be60-43800486842e",
+      "title": "Yamada-kun to 7-nin no Majo",
+      "url": "https://mangadex.org/title/676fbea0-be6d-437e-be60-43800486842e",
+      "removed_at": "2026-11-03T17:57:10Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "07859881-9fa0-4334-bc28-b42390a3ac39",
+      "title": "From Today on, I'm Mooching off a Loli!",
+      "url": "https://mangadex.org/title/07859881-9fa0-4334-bc28-b42390a3ac39",
+      "removed_at": "2026-11-03T17:57:10Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "20e4c17d-3741-46dd-a8bb-cbc132ee52d1",
+      "title": "How I Came to Live Out in the Country with a Female Knight Who Showed Up at My Place",
+      "url": "https://mangadex.org/title/20e4c17d-3741-46dd-a8bb-cbc132ee52d1",
+      "removed_at": "2026-11-03T17:57:10Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "43d8b6c2-4ed5-4728-a196-8214fca115c7",
+      "title": "Bootsleg",
+      "url": "https://mangadex.org/title/43d8b6c2-4ed5-4728-a196-8214fca115c7",
+      "removed_at": "2026-11-03T17:57:10Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "5b392130-cca6-4f29-8d05-4e183c570815",
+      "title": "Shomin Sample: I Was Abducted by an Elite All-Girls School as a Sample Commoner",
+      "url": "https://mangadex.org/title/5b392130-cca6-4f29-8d05-4e183c570815",
+      "removed_at": "2026-11-03T17:57:10Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "707133cd-d9c2-4c83-8398-55bfdda7da14",
+      "title": "Blue Archive - Kankan's Blue Archive Logs (Doujinshi)",
+      "url": "https://mangadex.org/title/707133cd-d9c2-4c83-8398-55bfdda7da14",
+      "removed_at": "2026-11-03T17:57:10Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "80c4c4bc-be9c-400a-8cc0-57b1d0b8a87f",
+      "title": "Higehiro: After Being Rejected, I Shaved and Took in a High School Runaway",
+      "url": "https://mangadex.org/title/80c4c4bc-be9c-400a-8cc0-57b1d0b8a87f",
+      "removed_at": "2026-11-03T17:57:10Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "94891715-a109-4f5e-81ef-2bed5fb5bb19",
+      "title": "Deviant Love",
+      "url": "https://mangadex.org/title/94891715-a109-4f5e-81ef-2bed5fb5bb19",
+      "removed_at": "2026-11-03T17:57:10Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "c326cbf9-c81b-4ff5-9d77-dc549437fd4e",
+      "title": "Sem título",
+      "url": "https://mangadex.org/title/c326cbf9-c81b-4ff5-9d77-dc549437fd4e",
+      "removed_at": "2026-11-03T17:57:10Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "f1e0fed4-2f72-43ab-8c00-58867312288d",
+      "title": "Yumekui Merry",
+      "url": "https://mangadex.org/title/f1e0fed4-2f72-43ab-8c00-58867312288d",
+      "removed_at": "2026-11-03T17:57:10Z"
+    }
+  ]
+}
