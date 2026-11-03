@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-11-03T02:31:17Z",
+  "updated_at": "2026-11-03T10:19:47Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -13456,9 +13456,10 @@
       "title": "Kamen Rider SPIRITS",
       "url": "https://mangadex.org/title/47f2da50-d26f-4438-89d4-e5b21c8326db",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-29T10:59:27Z",
-      "removed_at": null
+      "removed_at": "2026-11-03T10:19:47Z",
+      "removed_by_source": true
     },
     "07859881-9fa0-4334-bc28-b42390a3ac39": {
       "title": "From Today on, I'm Mooching off a Loli!",
@@ -13680,9 +13681,10 @@
       "title": "The Song of Wind and Trees",
       "url": "https://mangadex.org/title/9bab499d-d2ca-4aa2-82bf-f7b017f9fe3b",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-30T19:47:34Z",
-      "removed_at": null
+      "removed_at": "2026-11-03T10:19:47Z",
+      "removed_by_source": true
     },
     "b49db7e7-0637-462c-9d09-372f5d09de4a": {
       "title": "Ayakashi Triangle",
@@ -14042,6 +14044,22 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-11-03T02:31:17Z",
+      "removed_at": null
+    },
+    "62b74aa6-24df-4b91-b76d-39e7ab3c3ca5": {
+      "title": "REAL",
+      "url": "https://mangadex.org/title/62b74aa6-24df-4b91-b76d-39e7ab3c3ca5",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-03T10:19:47Z",
+      "removed_at": null
+    },
+    "6b27cbd8-4cc6-40ca-b010-928da4540be8": {
+      "title": "Tawawa on Monday",
+      "url": "https://mangadex.org/title/6b27cbd8-4cc6-40ca-b010-928da4540be8",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-03T10:19:47Z",
       "removed_at": null
     }
   }

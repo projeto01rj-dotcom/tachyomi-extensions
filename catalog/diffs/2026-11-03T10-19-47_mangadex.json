@@ -1,0 +1,34 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-11-03T10:19:47Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "62b74aa6-24df-4b91-b76d-39e7ab3c3ca5",
+      "title": "REAL",
+      "url": "https://mangadex.org/title/62b74aa6-24df-4b91-b76d-39e7ab3c3ca5"
+    },
+    {
+      "source": "mangadex",
+      "key": "6b27cbd8-4cc6-40ca-b010-928da4540be8",
+      "title": "Tawawa on Monday",
+      "url": "https://mangadex.org/title/6b27cbd8-4cc6-40ca-b010-928da4540be8"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "47f2da50-d26f-4438-89d4-e5b21c8326db",
+      "title": "Kamen Rider SPIRITS",
+      "url": "https://mangadex.org/title/47f2da50-d26f-4438-89d4-e5b21c8326db",
+      "removed_at": "2026-11-03T10:19:47Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "9bab499d-d2ca-4aa2-82bf-f7b017f9fe3b",
+      "title": "The Song of Wind and Trees",
+      "url": "https://mangadex.org/title/9bab499d-d2ca-4aa2-82bf-f7b017f9fe3b",
+      "removed_at": "2026-11-03T10:19:47Z"
+    }
+  ]
+}
