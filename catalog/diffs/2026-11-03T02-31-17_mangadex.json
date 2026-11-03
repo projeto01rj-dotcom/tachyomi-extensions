@@ -1,0 +1,59 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-11-03T02:31:17Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "01740526-c70d-4afb-9a87-d1968a2b7123",
+      "title": "Deathstruck",
+      "url": "https://mangadex.org/title/01740526-c70d-4afb-9a87-d1968a2b7123"
+    },
+    {
+      "source": "mangadex",
+      "key": "193595b4-5920-42b3-bfef-18f59c17e8ce",
+      "title": "A Pack of Tissues",
+      "url": "https://mangadex.org/title/193595b4-5920-42b3-bfef-18f59c17e8ce"
+    },
+    {
+      "source": "mangadex",
+      "key": "76ea3bf1-e58b-49ea-8052-f0714e23e76d",
+      "title": "My Cat Is a Bit Different",
+      "url": "https://mangadex.org/title/76ea3bf1-e58b-49ea-8052-f0714e23e76d"
+    },
+    {
+      "source": "mangadex",
+      "key": "81608566-8eb5-4ced-8902-13e2eaac0929",
+      "title": "Sunshine Doll",
+      "url": "https://mangadex.org/title/81608566-8eb5-4ced-8902-13e2eaac0929"
+    },
+    {
+      "source": "mangadex",
+      "key": "95f792c5-8ed7-40f5-9a40-11344eb4528d",
+      "title": "Mentos x Cola",
+      "url": "https://mangadex.org/title/95f792c5-8ed7-40f5-9a40-11344eb4528d"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "52fd5981-9010-402b-8745-b4b13cd7c6f1",
+      "title": "Hitoner (Pre-Serialization)",
+      "url": "https://mangadex.org/title/52fd5981-9010-402b-8745-b4b13cd7c6f1",
+      "removed_at": "2026-11-03T02:31:17Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "99e912e1-ca9d-4019-8fe8-349bf814b75e",
+      "title": "Why Did I, An Older Women Guy, Fall In Love With The Teeny You?",
+      "url": "https://mangadex.org/title/99e912e1-ca9d-4019-8fe8-349bf814b75e",
+      "removed_at": "2026-11-03T02:31:17Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "c2113c72-087f-459e-a5f3-addb779a86ce",
+      "title": "My Long Distance Girlfriend Came to Visit Me.",
+      "url": "https://mangadex.org/title/c2113c72-087f-459e-a5f3-addb779a86ce",
+      "removed_at": "2026-11-03T02:31:17Z"
+    }
+  ]
+}
