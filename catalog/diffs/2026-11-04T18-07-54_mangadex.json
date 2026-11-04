@@ -1,0 +1,85 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-11-04T18:07:54Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "08a1cae9-0c8d-4bc8-a11a-a0a403ae127b",
+      "title": "Lucifer's Loose Cooking",
+      "url": "https://mangadex.org/title/08a1cae9-0c8d-4bc8-a11a-a0a403ae127b"
+    },
+    {
+      "source": "mangadex",
+      "key": "1f9d02c1-8d04-4a27-a1ff-2b0bf782b9ef",
+      "title": "The Thread User of the Shichijou Family: The Genius Sorcerer Who Wants to Live Normally Starts Exterminating Youkai With an Uninvited Apprentice",
+      "url": "https://mangadex.org/title/1f9d02c1-8d04-4a27-a1ff-2b0bf782b9ef"
+    },
+    {
+      "source": "mangadex",
+      "key": "274a8e39-71a8-4bd2-af19-4572518fe44f",
+      "title": "Leviathan",
+      "url": "https://mangadex.org/title/274a8e39-71a8-4bd2-af19-4572518fe44f"
+    },
+    {
+      "source": "mangadex",
+      "key": "4f1c1d58-ca14-48a7-b421-f01b5900ce28",
+      "title": "Sense Life",
+      "url": "https://mangadex.org/title/4f1c1d58-ca14-48a7-b421-f01b5900ce28"
+    },
+    {
+      "source": "mangadex",
+      "key": "86983879-a9ed-4b91-8f7e-be1cbc57baaa",
+      "title": "Yandere-chan Is Scary",
+      "url": "https://mangadex.org/title/86983879-a9ed-4b91-8f7e-be1cbc57baaa"
+    },
+    {
+      "source": "mangadex",
+      "key": "901da7d9-8742-4f1a-9432-b7c1e67a5daf",
+      "title": "Walking the Rising Adventurer's Path with a Dragon: The Recovery Magician Who was Expelled from His S-Rank Party as No Longer Useful Ends Up Reviving the Strongest Divine Dragon in the Place Where He was Abandoned",
+      "url": "https://mangadex.org/title/901da7d9-8742-4f1a-9432-b7c1e67a5daf"
+    },
+    {
+      "source": "mangadex",
+      "key": "cf923481-1e96-4959-b3c1-9518718a4cc2",
+      "title": "Ore no Kokan wa Bishoujo Datta no ka",
+      "url": "https://mangadex.org/title/cf923481-1e96-4959-b3c1-9518718a4cc2"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "7bf163e3-123a-41c1-b2bc-8254dbe5a09b",
+      "title": "2.5 Dimensional Seduction",
+      "url": "https://mangadex.org/title/7bf163e3-123a-41c1-b2bc-8254dbe5a09b",
+      "removed_at": "2026-11-04T18:07:54Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "7cc3e26a-034f-4f69-bbfc-5049e4294597",
+      "title": "Girlfriend Manual",
+      "url": "https://mangadex.org/title/7cc3e26a-034f-4f69-bbfc-5049e4294597",
+      "removed_at": "2026-11-04T18:07:54Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "b49db7e7-0637-462c-9d09-372f5d09de4a",
+      "title": "Ayakashi Triangle",
+      "url": "https://mangadex.org/title/b49db7e7-0637-462c-9d09-372f5d09de4a",
+      "removed_at": "2026-11-04T18:07:54Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "244c9d4f-e5fb-4590-9b96-4da191977b33",
+      "title": "Skip and Loafer",
+      "url": "https://mangadex.org/title/244c9d4f-e5fb-4590-9b96-4da191977b33",
+      "removed_at": "2026-11-04T18:07:54Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "f5d60fcb-5c20-4bcc-aca5-bbc5f141ab11",
+      "title": "Empyreal Cabinet",
+      "url": "https://mangadex.org/title/f5d60fcb-5c20-4bcc-aca5-bbc5f141ab11",
+      "removed_at": "2026-11-04T18:07:54Z"
+    }
+  ]
+}
