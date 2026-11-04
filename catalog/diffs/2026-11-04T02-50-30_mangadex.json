@@ -1,0 +1,48 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-11-04T02:50:30Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "67ca1083-ec62-4f66-a2f5-355a2702f6e3",
+      "title": "Only Sense Online",
+      "url": "https://mangadex.org/title/67ca1083-ec62-4f66-a2f5-355a2702f6e3"
+    },
+    {
+      "source": "mangadex",
+      "key": "7138083b-4fbf-4cc3-8695-ce175034e45a",
+      "title": "Snow & Ink",
+      "url": "https://mangadex.org/title/7138083b-4fbf-4cc3-8695-ce175034e45a"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "fd2d7c3e-87ab-4775-a1e3-17403994043b",
+      "title": "The Witch and the Mercenary",
+      "url": "https://mangadex.org/title/fd2d7c3e-87ab-4775-a1e3-17403994043b",
+      "removed_at": "2026-11-04T02:50:30Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "1fcbaeb6-add2-49a8-8504-9baf38e51ce5",
+      "title": "Tales of Berseria",
+      "url": "https://mangadex.org/title/1fcbaeb6-add2-49a8-8504-9baf38e51ce5",
+      "removed_at": "2026-11-04T02:50:30Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "4de81088-8a4e-4916-b370-9b6eaa0ced2c",
+      "title": "Runaway Darling",
+      "url": "https://mangadex.org/title/4de81088-8a4e-4916-b370-9b6eaa0ced2c",
+      "removed_at": "2026-11-04T02:50:30Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "e2b0a5e5-c0d3-42a7-bd9b-5a54fdc47bbc",
+      "title": "You're Vulnerable and Cute",
+      "url": "https://mangadex.org/title/e2b0a5e5-c0d3-42a7-bd9b-5a54fdc47bbc",
+      "removed_at": "2026-11-04T02:50:30Z"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-11-03T22:52:15Z",
+  "updated_at": "2026-11-04T02:50:30Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -13635,17 +13635,19 @@
       "title": "The Witch and the Mercenary",
       "url": "https://mangadex.org/title/fd2d7c3e-87ab-4775-a1e3-17403994043b",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-30T01:28:08Z",
-      "removed_at": null
+      "removed_at": "2026-11-04T02:50:30Z",
+      "removed_by_source": true
     },
     "1fcbaeb6-add2-49a8-8504-9baf38e51ce5": {
       "title": "Tales of Berseria",
       "url": "https://mangadex.org/title/1fcbaeb6-add2-49a8-8504-9baf38e51ce5",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-30T07:33:32Z",
-      "removed_at": null
+      "removed_at": "2026-11-04T02:50:30Z",
+      "removed_by_source": true
     },
     "46392cb3-a0f8-42e4-b2ac-b89637df56d9": {
       "title": "Omniscient Reader's Viewpoint (Book Version)",
@@ -13659,9 +13661,10 @@
       "title": "Runaway Darling",
       "url": "https://mangadex.org/title/4de81088-8a4e-4916-b370-9b6eaa0ced2c",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-30T07:33:32Z",
-      "removed_at": null
+      "removed_at": "2026-11-04T02:50:30Z",
+      "removed_by_source": true
     },
     "7cc3e26a-034f-4f69-bbfc-5049e4294597": {
       "title": "Girlfriend Manual",
@@ -13675,9 +13678,10 @@
       "title": "You're Vulnerable and Cute",
       "url": "https://mangadex.org/title/e2b0a5e5-c0d3-42a7-bd9b-5a54fdc47bbc",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-30T07:33:32Z",
-      "removed_at": null
+      "removed_at": "2026-11-04T02:50:30Z",
+      "removed_by_source": true
     },
     "d7a0991d-2913-4b3c-8fb6-2b752f9e5f3a": {
       "title": "NEW GAME!",
@@ -14158,6 +14162,22 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-11-03T22:52:15Z",
+      "removed_at": null
+    },
+    "67ca1083-ec62-4f66-a2f5-355a2702f6e3": {
+      "title": "Only Sense Online",
+      "url": "https://mangadex.org/title/67ca1083-ec62-4f66-a2f5-355a2702f6e3",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-04T02:50:30Z",
+      "removed_at": null
+    },
+    "7138083b-4fbf-4cc3-8695-ce175034e45a": {
+      "title": "Snow & Ink",
+      "url": "https://mangadex.org/title/7138083b-4fbf-4cc3-8695-ce175034e45a",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-04T02:50:30Z",
       "removed_at": null
     }
   }
