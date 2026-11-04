@@ -35,13 +35,6 @@ import java.util.concurrent.TimeUnit
 abstract class GoogleDrive :
     HttpSource(),
     ConfigurableSource {
-
-    override val name = "Google Drive"
-
-    override val lang = "all"
-
-    override val baseUrl = "https://drive.google.com"
-
     override val supportsLatest = true
 
     private val application: Application by lazy {
