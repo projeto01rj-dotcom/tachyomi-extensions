@@ -58,6 +58,7 @@ jobs:
             :src:pt:loobyt:assembleRelease \
             :src:pt:saikaiscan:assembleRelease \
             --stacktrace > gradle-build.log 2>&1 || {
+              grep -nE '(^e: |error:|Exception|Caused by:|PROCESSING_ERROR)' gradle-build.log | head -n 120 || true
               while IFS= read -r line; do echo "::error::$line"; done < <(tail -n 90 gradle-build.log)
               exit 1
             }
