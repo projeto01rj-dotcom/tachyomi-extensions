@@ -1,7 +1,13 @@
 package eu.kanade.tachiyomi.extension.all.megacompartilhamento
 
+import android.app.Application
+import android.content.Context
+import android.content.SharedPreferences
 import android.util.Base64
+import androidx.preference.EditTextPreference
+import androidx.preference.PreferenceScreen
 import eu.kanade.tachiyomi.network.POST
+import eu.kanade.tachiyomi.source.ConfigurableSource
 import eu.kanade.tachiyomi.source.model.FilterList
 import eu.kanade.tachiyomi.source.model.MangasPage
 import eu.kanade.tachiyomi.source.model.Page
@@ -29,10 +35,19 @@ import javax.crypto.spec.IvParameterSpec
 import javax.crypto.spec.SecretKeySpec
 
 @Source
-abstract class MegaCompartilhamento : HttpSource() {
+abstract class MegaCompartilhamento :
+    HttpSource(),
+    ConfigurableSource {
     override val supportsLatest = true
     private val json = Json { ignoreUnknownKeys = true }
-    private val shareUrl = DEFAULT_LINK
+    private val application: Application by lazy {
+        Class.forName("android.app.ActivityThread").getMethod("currentApplication").invoke(null) as Application
+    }
+    private val preferences: SharedPreferences by lazy {
+        application.getSharedPreferences("source_$id", Context.MODE_PRIVATE)
+    }
+    private val shareUrl: String
+        get() = preferences.getString(PREF_SHARE_LINK, DEFAULT_LINK).orEmpty().trim()
     private val apiHost = "https://g.api.mega.co.nz"
 
     override val client: OkHttpClient = network.client.newBuilder()
@@ -114,6 +129,16 @@ abstract class MegaCompartilhamento : HttpSource() {
     }
 
     override fun imageUrlParse(response: Response): String = response.request.url.toString()
+
+    override fun setupPreferenceScreen(screen: PreferenceScreen) {
+        EditTextPreference(screen.context).apply {
+            key = PREF_SHARE_LINK
+            title = "Link compartilhado do MEGA"
+            summary = "Cole um link de pasta compartilhada do MEGA e reabra a fonte."
+            dialogTitle = title
+            setDefaultValue(DEFAULT_LINK)
+        }.also(screen::addPreference)
+    }
 
     private fun listRequest(): JsonObject = buildJsonObject {
         put("a", JsonPrimitive("f"))
@@ -229,6 +254,7 @@ abstract class MegaCompartilhamento : HttpSource() {
 
     companion object {
         private const val DEFAULT_LINK = "https://mega.nz/folder/cFdglQSR#hDL6wCQQhEzDtJxykk55Vg"
+        private const val PREF_SHARE_LINK = "share_link"
         private const val KEY_HEADER = "X-Mega-File-Key"
     }
 }
