@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-11-04T18:07:54Z",
+  "updated_at": "2026-11-04T23:49:47Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -13053,9 +13053,10 @@
       "title": "I'm Your Wizard",
       "url": "https://mangadex.org/title/d7e5e384-cb65-4158-80b0-e72079c4a79d",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-25T20:11:52Z",
-      "removed_at": null
+      "removed_at": "2026-11-04T23:49:47Z",
+      "removed_by_source": true
     },
     "e0a9e33b-6def-431b-87db-ae2b26a501a0": {
       "title": "The Inferior Magic Swordsman",
@@ -13628,9 +13629,10 @@
       "title": "It Was a Mistake, Grand Duke!",
       "url": "https://mangadex.org/title/7e8080ab-0b79-4c55-8718-f1c596cef865",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-30T01:28:08Z",
-      "removed_at": null
+      "removed_at": "2026-11-04T23:49:47Z",
+      "removed_by_source": true
     },
     "fd2d7c3e-87ab-4775-a1e3-17403994043b": {
       "title": "The Witch and the Mercenary",
@@ -13741,17 +13743,19 @@
       "title": "Pumpkin Night",
       "url": "https://mangadex.org/title/4e421eb8-d4a0-4096-86db-ca5e3fc42c5d",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-31T02:35:17Z",
-      "removed_at": null
+      "removed_at": "2026-11-04T23:49:47Z",
+      "removed_by_source": true
     },
     "2d5cbe91-efd5-4100-85a1-95c5f8da6eda": {
       "title": "I want you to ask me first!",
       "url": "https://mangadex.org/title/2d5cbe91-efd5-4100-85a1-95c5f8da6eda",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-31T09:07:29Z",
-      "removed_at": null
+      "removed_at": "2026-11-04T23:49:47Z",
+      "removed_by_source": true
     },
     "535319ca-4ac9-417b-a8e0-0b6b569e89da": {
       "title": "The Ice-Core Meteoria",
@@ -14239,6 +14243,30 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-11-04T18:07:54Z",
+      "removed_at": null
+    },
+    "48fa366c-d1dd-49c1-8900-a805d8cdb301": {
+      "title": "A Succubus Just Wants to Fall in Love!",
+      "url": "https://mangadex.org/title/48fa366c-d1dd-49c1-8900-a805d8cdb301",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-04T23:49:47Z",
+      "removed_at": null
+    },
+    "99f7458e-c881-4544-ae05-59701b226988": {
+      "title": "The Otaku Love Connection",
+      "url": "https://mangadex.org/title/99f7458e-c881-4544-ae05-59701b226988",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-04T23:49:47Z",
+      "removed_at": null
+    },
+    "9faba8cf-60df-4894-9370-22571592c8d3": {
+      "title": "The Blue Star on That Day",
+      "url": "https://mangadex.org/title/9faba8cf-60df-4894-9370-22571592c8d3",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-04T23:49:47Z",
       "removed_at": null
     }
   }

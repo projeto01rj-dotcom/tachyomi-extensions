@@ -1,0 +1,54 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-11-04T23:49:47Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "48fa366c-d1dd-49c1-8900-a805d8cdb301",
+      "title": "A Succubus Just Wants to Fall in Love!",
+      "url": "https://mangadex.org/title/48fa366c-d1dd-49c1-8900-a805d8cdb301"
+    },
+    {
+      "source": "mangadex",
+      "key": "99f7458e-c881-4544-ae05-59701b226988",
+      "title": "The Otaku Love Connection",
+      "url": "https://mangadex.org/title/99f7458e-c881-4544-ae05-59701b226988"
+    },
+    {
+      "source": "mangadex",
+      "key": "9faba8cf-60df-4894-9370-22571592c8d3",
+      "title": "The Blue Star on That Day",
+      "url": "https://mangadex.org/title/9faba8cf-60df-4894-9370-22571592c8d3"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "d7e5e384-cb65-4158-80b0-e72079c4a79d",
+      "title": "I'm Your Wizard",
+      "url": "https://mangadex.org/title/d7e5e384-cb65-4158-80b0-e72079c4a79d",
+      "removed_at": "2026-11-04T23:49:47Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "7e8080ab-0b79-4c55-8718-f1c596cef865",
+      "title": "It Was a Mistake, Grand Duke!",
+      "url": "https://mangadex.org/title/7e8080ab-0b79-4c55-8718-f1c596cef865",
+      "removed_at": "2026-11-04T23:49:47Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "4e421eb8-d4a0-4096-86db-ca5e3fc42c5d",
+      "title": "Pumpkin Night",
+      "url": "https://mangadex.org/title/4e421eb8-d4a0-4096-86db-ca5e3fc42c5d",
+      "removed_at": "2026-11-04T23:49:47Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "2d5cbe91-efd5-4100-85a1-95c5f8da6eda",
+      "title": "I want you to ask me first!",
+      "url": "https://mangadex.org/title/2d5cbe91-efd5-4100-85a1-95c5f8da6eda",
+      "removed_at": "2026-11-04T23:49:47Z"
+    }
+  ]
+}
