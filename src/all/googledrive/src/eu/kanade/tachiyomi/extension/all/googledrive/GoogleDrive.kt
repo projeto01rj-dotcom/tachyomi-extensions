@@ -318,7 +318,7 @@ abstract class GoogleDrive :
             setDefaultValue("1024")
         }.also(screen::addPreference)
 
-        Preference(screen.context).apply {
+        Preference().apply {
             title = t("Borrar archivos en caché", "Clear cached files")
             summary = t("Elimina los CBZ, CBR y PDF ya descargados y el índice de mangas.", "Deletes the downloaded CBZ, CBR and PDF files and the manga index.")
             setOnPreferenceClickListener {
