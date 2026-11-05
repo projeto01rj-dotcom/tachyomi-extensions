@@ -80,7 +80,10 @@ abstract class MangaPlus : HttpSource() {
 
     override fun latestUpdatesParse(response: Response): MangasPage {
         val updates = response.parseAsProto<MpEnvelope>().success?.home?.groups.orEmpty()
-            .flatMap { it.entries }.mapNotNull { it.title }.filterByLanguage()
+            .flatMap { it.titleGroups }
+            .flatMap { it.titles }
+            .mapNotNull { it.title }
+            .filterByLanguage()
         return MangasPage(updates.map { it.toManga() }.distinctBy(SManga::url), false)
     }
 

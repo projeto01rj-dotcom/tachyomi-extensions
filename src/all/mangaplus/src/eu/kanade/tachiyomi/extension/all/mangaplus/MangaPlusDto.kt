@@ -59,15 +59,13 @@ class MpTypedTitle(
 class MpHome(@ProtoNumber(2) val groups: List<MpUpdateGroup> = emptyList())
 
 @Serializable
-class MpUpdateGroup(@ProtoNumber(2) val entries: List<MpUpdateEntry> = emptyList())
+class MpUpdateGroup(@ProtoNumber(2) val titleGroups: List<MpOriginalTitleGroup> = emptyList())
 
 @Serializable
-class MpUpdateEntry(@ProtoNumber(3) private val latest: MpLatest? = null) {
-    val title: MpTitle? get() = latest?.title
-}
+class MpOriginalTitleGroup(@ProtoNumber(3) val titles: List<MpUpdatedTitle> = emptyList())
 
 @Serializable
-class MpLatest(@ProtoNumber(1) val title: MpTitle)
+class MpUpdatedTitle(@ProtoNumber(1) val title: MpTitle? = null)
 
 @Serializable
 class MpTitle(
