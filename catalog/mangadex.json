@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-11-05T12:38:21Z",
+  "updated_at": "2026-11-05T20:24:50Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -13259,9 +13259,10 @@
       "title": "Salamander",
       "url": "https://mangadex.org/title/90243dd4-800c-472c-bebb-2f9ea7336176",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-27T18:48:59Z",
-      "removed_at": null
+      "removed_at": "2026-11-05T20:24:50Z",
+      "removed_by_source": true
     },
     "c30266a7-cc5c-48fa-b414-689d8c5cd22c": {
       "title": "Beet the Vandel Buster",
@@ -13797,49 +13798,55 @@
       "title": "Discommunication",
       "url": "https://mangadex.org/title/1aae2bd3-1ae1-427a-b49e-a5d76e5d2c41",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-31T19:25:19Z",
-      "removed_at": null
+      "removed_at": "2026-11-05T20:24:50Z",
+      "removed_by_source": true
     },
     "511d3218-df57-4cab-8510-d88a5a96a951": {
       "title": "49th Confession",
       "url": "https://mangadex.org/title/511d3218-df57-4cab-8510-d88a5a96a951",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-31T19:25:19Z",
-      "removed_at": null
+      "removed_at": "2026-11-05T20:24:50Z",
+      "removed_by_source": true
     },
     "95199bdb-35d5-43b5-85d6-3970652420f7": {
       "title": "Pink",
       "url": "https://mangadex.org/title/95199bdb-35d5-43b5-85d6-3970652420f7",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-31T19:25:19Z",
-      "removed_at": null
+      "removed_at": "2026-11-05T20:24:50Z",
+      "removed_by_source": true
     },
     "d6984e76-1c25-4fe6-855d-8e57f2752095": {
       "title": "ZUKYUN X BAKYUN",
       "url": "https://mangadex.org/title/d6984e76-1c25-4fe6-855d-8e57f2752095",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-31T19:25:19Z",
-      "removed_at": null
+      "removed_at": "2026-11-05T20:24:50Z",
+      "removed_by_source": true
     },
     "da25c95f-e062-48ea-b5a0-9b51aeeddc05": {
       "title": "Books Bought With Taxes",
       "url": "https://mangadex.org/title/da25c95f-e062-48ea-b5a0-9b51aeeddc05",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-31T19:25:19Z",
-      "removed_at": null
+      "removed_at": "2026-11-05T20:24:50Z",
+      "removed_by_source": true
     },
     "c353cd64-d95c-4b98-b5f4-4aae9368f50a": {
       "title": "Keep an Eye on You",
       "url": "https://mangadex.org/title/c353cd64-d95c-4b98-b5f4-4aae9368f50a",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-31T22:39:02Z",
-      "removed_at": null
+      "removed_at": "2026-11-05T20:24:50Z",
+      "removed_by_source": true
     },
     "8de2456c-95ef-4958-8f27-af7a4cc275b7": {
       "title": "Radiant",
@@ -14303,6 +14310,54 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-11-05T12:38:21Z",
+      "removed_at": null
+    },
+    "068dd877-6d58-4063-abba-9bdcc25cc8bb": {
+      "title": "Touhou - Himitsu Abaki (Doujinshi)",
+      "url": "https://mangadex.org/title/068dd877-6d58-4063-abba-9bdcc25cc8bb",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-05T20:24:50Z",
+      "removed_at": null
+    },
+    "17ce37ea-1cda-4429-b062-c4b627814225": {
+      "title": "Seraph of the End",
+      "url": "https://mangadex.org/title/17ce37ea-1cda-4429-b062-c4b627814225",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-05T20:24:50Z",
+      "removed_at": null
+    },
+    "701e67c9-45b2-459b-a517-a0cb9865def8": {
+      "title": "Sazae-san",
+      "url": "https://mangadex.org/title/701e67c9-45b2-459b-a517-a0cb9865def8",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-05T20:24:50Z",
+      "removed_at": null
+    },
+    "aad49338-f170-4529-b8a9-086895ae3254": {
+      "title": "The Strongest 10-Year-Old Magician",
+      "url": "https://mangadex.org/title/aad49338-f170-4529-b8a9-086895ae3254",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-05T20:24:50Z",
+      "removed_at": null
+    },
+    "adce0aea-3f6d-4fd2-9902-1107f59f94da": {
+      "title": "The Diary of a Sage Around 40 Living in Another World",
+      "url": "https://mangadex.org/title/adce0aea-3f6d-4fd2-9902-1107f59f94da",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-05T20:24:50Z",
+      "removed_at": null
+    },
+    "ade0306c-f4b6-4890-9edb-1ddf04df2039": {
+      "title": "Solo Leveling: Ragnarok",
+      "url": "https://mangadex.org/title/ade0306c-f4b6-4890-9edb-1ddf04df2039",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-05T20:24:50Z",
       "removed_at": null
     }
   }
