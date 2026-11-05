@@ -42,7 +42,10 @@ class MpRankGroup(@ProtoNumber(2) val titles: List<MpTitle> = emptyList())
 class MpAllTitles(@ProtoNumber(1) val groups: List<MpTitleGroup> = emptyList())
 
 @Serializable
-class MpTitleGroup(@ProtoNumber(2) val titles: List<MpTitle> = emptyList())
+class MpTitleGroup(
+    @ProtoNumber(1) val category: String = "",
+    @ProtoNumber(2) val titles: List<MpTitle> = emptyList(),
+)
 
 @Serializable
 class MpTypedTitles(
