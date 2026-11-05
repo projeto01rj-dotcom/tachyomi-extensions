@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-11-05T04:27:22Z",
+  "updated_at": "2026-11-05T12:38:21Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -1514,9 +1514,10 @@
       "title": "Taika's Reason",
       "url": "https://mangadex.org/title/607759cc-aa6a-4470-8f7c-9bbf8253b915",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-11-05T12:38:21Z",
+      "removed_by_source": true
     },
     "61791741-2f56-4409-baa3-7d989d6ad0d8": {
       "title": "Leave It to a Teacher to Get Back at a Bully",
@@ -14286,6 +14287,22 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-11-05T04:27:22Z",
+      "removed_at": null
+    },
+    "71307abe-e8a7-408c-8569-3318aef82e5a": {
+      "title": "The Backwards House",
+      "url": "https://mangadex.org/title/71307abe-e8a7-408c-8569-3318aef82e5a",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-05T12:38:21Z",
+      "removed_at": null
+    },
+    "d7104032-14e6-4209-8e2e-7a772d5008dd": {
+      "title": "Psycho Eyes",
+      "url": "https://mangadex.org/title/d7104032-14e6-4209-8e2e-7a772d5008dd",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-05T12:38:21Z",
       "removed_at": null
     }
   }
