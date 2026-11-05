@@ -65,7 +65,7 @@ abstract class MangaPlus : HttpSource() {
             val response = chain.proceed(prepared)
             decryptPage(response)
         }
-        .rateLimit(1) { it.host == apiHost }
+        .rateLimit(5) { it.host == apiHost }
         .build()
 
     override fun popularMangaRequest(page: Int): Request = apiGet("title_list/allV2", includeLanguage = false)
