@@ -68,11 +68,12 @@ abstract class MangaPlus : HttpSource() {
         .rateLimit(1) { it.host == apiHost }
         .build()
 
-    override fun popularMangaRequest(page: Int): Request = apiGet("title_list/rankingV2?type=hottest")
+    override fun popularMangaRequest(page: Int): Request = apiGet("title_list/allV2")
 
     override fun popularMangaParse(response: Response): MangasPage {
-        val ranking = response.parseAsProto<MpEnvelope>().success?.ranking
-        val titles = ranking?.groups.orEmpty().flatMap { it.titles }.filterByLanguage()
+        val titles = response.parseAsProto<MpEnvelope>().success?.allTitles?.groups.orEmpty()
+            .flatMap { it.titles }
+            .filterByLanguage()
         return MangasPage(titles.map { it.toManga() }, false)
     }
 
