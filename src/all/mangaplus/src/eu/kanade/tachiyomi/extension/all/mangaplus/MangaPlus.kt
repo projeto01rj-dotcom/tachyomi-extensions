@@ -76,15 +76,26 @@ abstract class MangaPlus : HttpSource() {
         return MangasPage(titles.map { it.toManga() }, false)
     }
 
-    override fun latestUpdatesRequest(page: Int): Request = apiGet("web/web_homeV4")
+    override fun latestUpdatesRequest(page: Int): Request = apiGet("title_list/updated")
 
     override fun latestUpdatesParse(response: Response): MangasPage {
-        val updates = response.parseAsProto<MpEnvelope>().success?.home?.groups.orEmpty()
-            .flatMap { it.titleGroups }
+        val success = response.parseAsProto<MpEnvelope>().success
+        val updates = success?.updatedTitles?.groups.orEmpty()
             .flatMap { it.titles }
             .mapNotNull { it.title }
             .filterByLanguage()
-        return MangasPage(updates.map { it.toManga() }.distinctBy(SManga::url), false)
+        if (updates.isNotEmpty()) {
+            return MangasPage(updates.map { it.toManga() }.distinctBy(SManga::url), false)
+        }
+
+        val fallback = client.newCall(apiGet("web/web_homeV4")).execute().use {
+            it.parseAsProto<MpEnvelope>().success?.home?.groups.orEmpty()
+                .flatMap { group -> group.titleGroups }
+                .flatMap { group -> group.titles }
+                .mapNotNull { it.title }
+                .filterByLanguage()
+        }
+        return MangasPage(fallback.map { it.toManga() }.distinctBy(SManga::url), false)
     }
 
     override fun searchMangaRequest(page: Int, query: String, filters: FilterList): Request = apiGet("title_list/allV2", query.trim())

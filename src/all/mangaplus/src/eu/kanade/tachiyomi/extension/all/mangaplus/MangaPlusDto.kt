@@ -17,6 +17,7 @@ class MpSuccess(
     @ProtoNumber(35) val typedTitles: MpTypedTitles? = null,
     @ProtoNumber(37) val ranking: MpRanking? = null,
     @ProtoNumber(38) val home: MpHome? = null,
+    @ProtoNumber(22) val updatedTitles: MpUpdatedTitleList? = null,
 )
 
 @Serializable
@@ -66,6 +67,12 @@ class MpOriginalTitleGroup(@ProtoNumber(3) val titles: List<MpUpdatedTitle> = em
 
 @Serializable
 class MpUpdatedTitle(@ProtoNumber(1) val title: MpTitle? = null)
+
+@Serializable
+class MpUpdatedTitleList(@ProtoNumber(1) val groups: List<MpUpdatedTitleGroup> = emptyList())
+
+@Serializable
+class MpUpdatedTitleGroup(@ProtoNumber(2) val titles: List<MpUpdatedTitle> = emptyList())
 
 @Serializable
 class MpTitle(
