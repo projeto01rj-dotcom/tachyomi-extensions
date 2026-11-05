@@ -68,24 +68,24 @@ abstract class MangaPlus : HttpSource() {
         .rateLimit(1) { it.host == apiHost }
         .build()
 
-    override fun popularMangaRequest(page: Int): Request = apiGet("title_list/allV2")
+    override fun popularMangaRequest(page: Int): Request = apiGet("title_list/allV2", includeLanguage = false)
 
     override fun popularMangaParse(response: Response): MangasPage {
         val titles = response.parseAsProto<MpEnvelope>().success?.allTitles?.groups.orEmpty()
             .flatMap { group ->
-                group.titles.filterByLanguage().map { title ->
+                group.titles.distinctBy(MpTitle::id).map { title ->
                     title to group.category
                 }
             }
         return MangasPage(titles.map { (title, category) -> title.toManga(category) }, false)
     }
 
-    override fun latestUpdatesRequest(page: Int): Request = apiGet("title_list/allV2")
+    override fun latestUpdatesRequest(page: Int): Request = apiGet("title_list/allV2", includeLanguage = false)
 
     override fun latestUpdatesParse(response: Response): MangasPage {
         val catalog = response.parseAsProto<MpEnvelope>().success?.allTitles?.groups.orEmpty()
             .flatMap { group ->
-                group.titles.filterByLanguage().map { title ->
+                group.titles.distinctBy(MpTitle::id).map { title ->
                     title to group.category
                 }
             }
@@ -145,10 +145,13 @@ abstract class MangaPlus : HttpSource() {
 
     override fun imageUrlParse(response: Response): String = response.request.url.toString()
 
-    private fun apiGet(path: String, query: String? = null): Request {
-        val url = "$API_URL/$path".toHttpUrl().newBuilder()
-            .addQueryParameter("lang", apiLanguage)
-            .addQueryParameter("clang", apiLanguage)
+    private fun apiGet(path: String, query: String? = null, includeLanguage: Boolean = true): Request {
+        val url = "$API_URL/$path".toHttpUrl().newBuilder().apply {
+            if (includeLanguage) {
+                addQueryParameter("lang", apiLanguage)
+                addQueryParameter("clang", apiLanguage)
+            }
+        }
         if (!query.isNullOrBlank()) url.addQueryParameter("q", query)
         return GET(url.build(), headers)
     }
