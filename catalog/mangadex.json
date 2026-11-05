@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-11-04T23:49:47Z",
+  "updated_at": "2026-11-05T04:27:22Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -12166,9 +12166,10 @@
       "title": "A White Rose in Bloom",
       "url": "https://mangadex.org/title/48e41a5a-ad7d-4f1f-bd93-776b0db79996",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-19T00:18:59Z",
-      "removed_at": null
+      "removed_at": "2026-11-05T04:27:22Z",
+      "removed_by_source": true
     },
     "30f33cd0-a65b-4b13-a660-bee2940bc551": {
       "title": "Henjo: The Strange Female High-Schooler Amaguri Senko",
@@ -13769,9 +13770,10 @@
       "title": "Kamen Kitan Theo",
       "url": "https://mangadex.org/title/5604d034-6fe3-43dc-8e87-ce568669808a",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-31T09:07:29Z",
-      "removed_at": null
+      "removed_at": "2026-11-05T04:27:22Z",
+      "removed_by_source": true
     },
     "80024c98-4498-4fa6-8328-61ceed882267": {
       "title": "I Wasn't the Cinderella",
@@ -13785,9 +13787,10 @@
       "title": "Mercedes and the Waning Moon: The Dungeoneering Feats of a Discarded Vampire Aristocrat",
       "url": "https://mangadex.org/title/a7ca3cd9-88da-4dd6-9626-e12eae885f5d",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-31T15:25:50Z",
-      "removed_at": null
+      "removed_at": "2026-11-05T04:27:22Z",
+      "removed_by_source": true
     },
     "1aae2bd3-1ae1-427a-b49e-a5d76e5d2c41": {
       "title": "Discommunication",
@@ -14267,6 +14270,22 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-11-04T23:49:47Z",
+      "removed_at": null
+    },
+    "5ef4e73e-6fbc-456b-b7e1-4642256f666d": {
+      "title": "Re:ZERO -Starting Life in Another World-, Chapter 1: A Day in the Capital",
+      "url": "https://mangadex.org/title/5ef4e73e-6fbc-456b-b7e1-4642256f666d",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-05T04:27:22Z",
+      "removed_at": null
+    },
+    "f229a28c-32d8-433a-b122-f7e33b10c32c": {
+      "title": "How I Became King by Eating Monsters",
+      "url": "https://mangadex.org/title/f229a28c-32d8-433a-b122-f7e33b10c32c",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-05T04:27:22Z",
       "removed_at": null
     }
   }
