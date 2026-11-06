@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-11-06T07:49:19Z",
+  "updated_at": "2026-11-06T15:29:48Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -13865,9 +13865,10 @@
       "title": "I Swapped Bodies with a Wicked Witch, but Today I'll Keep Having Fun!",
       "url": "https://mangadex.org/title/4c221393-092a-4c43-9af7-be21427aa411",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-01T08:28:18Z",
-      "removed_at": null
+      "removed_at": "2026-11-06T15:29:48Z",
+      "removed_by_source": true
     },
     "86d25eac-eb2f-4ec0-a341-f1a5cbbe80b8": {
       "title": "Let Me Be Single in Peace!",
@@ -13891,9 +13892,10 @@
       "title": "Be Blues!",
       "url": "https://mangadex.org/title/cbf174ca-af25-4410-82fa-498a6df9ad3c",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-01T08:28:18Z",
-      "removed_at": null
+      "removed_at": "2026-11-06T15:29:48Z",
+      "removed_by_source": true
     },
     "1f4b34a3-ee7c-4855-8bd9-996b31b8142b": {
       "title": "Kawaihara-senpai Loves Cute (Saotome-kun)!",
@@ -14381,6 +14383,30 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-11-06T07:49:19Z",
+      "removed_at": null
+    },
+    "3810a12e-f091-4c0b-825b-e588200f9eb2": {
+      "title": "The Yankee wants to be an Otaku (Fujoshi)!",
+      "url": "https://mangadex.org/title/3810a12e-f091-4c0b-825b-e588200f9eb2",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-06T15:29:48Z",
+      "removed_at": null
+    },
+    "ca84bb81-8a23-4b49-8aff-b2ab6761d0cd": {
+      "title": "Rendezvous in the Netherworld",
+      "url": "https://mangadex.org/title/ca84bb81-8a23-4b49-8aff-b2ab6761d0cd",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-06T15:29:48Z",
+      "removed_at": null
+    },
+    "e4631dc7-87b9-4d6a-8b3b-5594664ecc27": {
+      "title": "Fate/kaleid liner PRISMA☆ILLYA 3rei!!",
+      "url": "https://mangadex.org/title/e4631dc7-87b9-4d6a-8b3b-5594664ecc27",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-06T15:29:48Z",
       "removed_at": null
     }
   }
