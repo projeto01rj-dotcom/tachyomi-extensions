@@ -1,0 +1,40 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-11-06T20:59:32Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "398a26c5-04fa-4076-b921-0b0fb44edb10",
+      "title": "Baltzar Militarismus",
+      "url": "https://mangadex.org/title/398a26c5-04fa-4076-b921-0b0fb44edb10"
+    },
+    {
+      "source": "mangadex",
+      "key": "5786e730-541b-4e35-9c2f-9932784fc1c3",
+      "title": "Far East Chimeratica",
+      "url": "https://mangadex.org/title/5786e730-541b-4e35-9c2f-9932784fc1c3"
+    },
+    {
+      "source": "mangadex",
+      "key": "867d1bd6-4e8a-4902-8683-ad62508e13d6",
+      "title": "A Perceptive Guy",
+      "url": "https://mangadex.org/title/867d1bd6-4e8a-4902-8683-ad62508e13d6"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "1f4b34a3-ee7c-4855-8bd9-996b31b8142b",
+      "title": "Kawaihara-senpai Loves Cute (Saotome-kun)!",
+      "url": "https://mangadex.org/title/1f4b34a3-ee7c-4855-8bd9-996b31b8142b",
+      "removed_at": "2026-11-06T20:59:32Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "63499126-62dd-4f0f-84f2-2915bc4f2048",
+      "title": "The Number Two Me and The Number One Girl",
+      "url": "https://mangadex.org/title/63499126-62dd-4f0f-84f2-2915bc4f2048",
+      "removed_at": "2026-11-06T20:59:32Z"
+    }
+  ]
+}
