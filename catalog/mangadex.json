@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-11-05T20:24:50Z",
+  "updated_at": "2026-11-06T01:00:10Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -13579,9 +13579,10 @@
       "title": "A Cool British Beautiful Girl Apparently Wants to Homestay with Me",
       "url": "https://mangadex.org/title/2867b9cd-d71e-47e4-84dc-da00bc7a7db4",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-29T21:54:44Z",
-      "removed_at": null
+      "removed_at": "2026-11-06T01:00:10Z",
+      "removed_by_source": true
     },
     "653000fb-1edd-4e05-9d44-36358708a5e9": {
       "title": "Me and My Beast Boss",
@@ -13852,9 +13853,10 @@
       "title": "Radiant",
       "url": "https://mangadex.org/title/8de2456c-95ef-4958-8f27-af7a4cc275b7",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-01T01:42:46Z",
-      "removed_at": null
+      "removed_at": "2026-11-06T01:00:10Z",
+      "removed_by_source": true
     },
     "4c221393-092a-4c43-9af7-be21427aa411": {
       "title": "I Swapped Bodies with a Wicked Witch, but Today I'll Keep Having Fun!",
@@ -14358,6 +14360,14 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-11-05T20:24:50Z",
+      "removed_at": null
+    },
+    "4fd144b8-fc47-4cf4-afc7-9191d88dcc4a": {
+      "title": "I, a Tired Office Worker, Start Living Together with a Beautiful Highschool Girl whom I Met Again After 7 Years",
+      "url": "https://mangadex.org/title/4fd144b8-fc47-4cf4-afc7-9191d88dcc4a",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-06T01:00:10Z",
       "removed_at": null
     }
   }

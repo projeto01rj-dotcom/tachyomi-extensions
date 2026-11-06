@@ -1,0 +1,28 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-11-06T01:00:10Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "4fd144b8-fc47-4cf4-afc7-9191d88dcc4a",
+      "title": "I, a Tired Office Worker, Start Living Together with a Beautiful Highschool Girl whom I Met Again After 7 Years",
+      "url": "https://mangadex.org/title/4fd144b8-fc47-4cf4-afc7-9191d88dcc4a"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "2867b9cd-d71e-47e4-84dc-da00bc7a7db4",
+      "title": "A Cool British Beautiful Girl Apparently Wants to Homestay with Me",
+      "url": "https://mangadex.org/title/2867b9cd-d71e-47e4-84dc-da00bc7a7db4",
+      "removed_at": "2026-11-06T01:00:10Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "8de2456c-95ef-4958-8f27-af7a4cc275b7",
+      "title": "Radiant",
+      "url": "https://mangadex.org/title/8de2456c-95ef-4958-8f27-af7a4cc275b7",
+      "removed_at": "2026-11-06T01:00:10Z"
+    }
+  ]
+}
