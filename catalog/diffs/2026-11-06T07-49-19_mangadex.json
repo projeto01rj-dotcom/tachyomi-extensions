@@ -1,0 +1,49 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-11-06T07:49:19Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "1f43c858-c1a6-4dcd-8183-e017d4522949",
+      "title": "Romance of The Three Kingdoms",
+      "url": "https://mangadex.org/title/1f43c858-c1a6-4dcd-8183-e017d4522949"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "bbc14d56-b0c4-457d-ae6c-a795b818f833",
+      "title": "A Busybody Girl, Falling in Love",
+      "url": "https://mangadex.org/title/bbc14d56-b0c4-457d-ae6c-a795b818f833",
+      "removed_at": "2026-11-06T07:49:19Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "79b7357c-ea5b-491a-a25b-155a804bf53f",
+      "title": "Otaku Vampire's Love Bite",
+      "url": "https://mangadex.org/title/79b7357c-ea5b-491a-a25b-155a804bf53f",
+      "removed_at": "2026-11-06T07:49:19Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "80024c98-4498-4fa6-8328-61ceed882267",
+      "title": "I Wasn't the Cinderella",
+      "url": "https://mangadex.org/title/80024c98-4498-4fa6-8328-61ceed882267",
+      "removed_at": "2026-11-06T07:49:19Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "86d25eac-eb2f-4ec0-a341-f1a5cbbe80b8",
+      "title": "Let Me Be Single in Peace!",
+      "url": "https://mangadex.org/title/86d25eac-eb2f-4ec0-a341-f1a5cbbe80b8",
+      "removed_at": "2026-11-06T07:49:19Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "92eb2740-a320-4317-a2ad-3fcffea7e98e",
+      "title": "Contractual Marriage to a Surly Duke",
+      "url": "https://mangadex.org/title/92eb2740-a320-4317-a2ad-3fcffea7e98e",
+      "removed_at": "2026-11-06T07:49:19Z"
+    }
+  ]
+}
