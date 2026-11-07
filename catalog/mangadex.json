@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-11-07T06:43:55Z",
+  "updated_at": "2026-11-07T13:40:21Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -13919,25 +13919,28 @@
       "title": "Proof of Dignity",
       "url": "https://mangadex.org/title/064b16a9-1199-4e00-a41f-cc51e44b002a",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-01T19:50:18Z",
-      "removed_at": null
+      "removed_at": "2026-11-07T13:40:21Z",
+      "removed_by_source": true
     },
     "1116ca63-ca60-46b4-8161-908749a1c2fb": {
       "title": "Flowering Harbor",
       "url": "https://mangadex.org/title/1116ca63-ca60-46b4-8161-908749a1c2fb",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-01T19:50:18Z",
-      "removed_at": null
+      "removed_at": "2026-11-07T13:40:21Z",
+      "removed_by_source": true
     },
     "2fd69f1c-c09a-41ff-aaaa-49bd3302a78e": {
       "title": "Haven’t You Heard? I’m Sakamoto",
       "url": "https://mangadex.org/title/2fd69f1c-c09a-41ff-aaaa-49bd3302a78e",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-01T19:50:18Z",
-      "removed_at": null
+      "removed_at": "2026-11-07T13:40:21Z",
+      "removed_by_source": true
     },
     "494e05b4-9319-4e36-a63a-fab112862921": {
       "title": "Dragon Ball Zero",
@@ -13952,9 +13955,10 @@
       "title": "Oni (KANNO Osamu)",
       "url": "https://mangadex.org/title/f052fabc-7687-4140-ba3a-22e43009cd3d",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-01T19:50:18Z",
-      "removed_at": null
+      "removed_at": "2026-11-07T13:40:21Z",
+      "removed_by_source": true
     },
     "c0592c37-bd6b-4fb3-964c-84574cd32c72": {
       "title": "I Love a Girl Like This",
@@ -14459,6 +14463,46 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-11-07T06:43:55Z",
+      "removed_at": null
+    },
+    "0296dc0b-7635-4154-927a-33c2244c4503": {
+      "title": "My Youth Romantic Comedy Is Wrong As I Expected. - Monologue",
+      "url": "https://mangadex.org/title/0296dc0b-7635-4154-927a-33c2244c4503",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-07T13:40:21Z",
+      "removed_at": null
+    },
+    "34997c42-1e61-4723-8395-0bbfc1d4c279": {
+      "title": "The Master of Ragnarok & Blesser of Einherjar",
+      "url": "https://mangadex.org/title/34997c42-1e61-4723-8395-0bbfc1d4c279",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-07T13:40:21Z",
+      "removed_at": null
+    },
+    "757527a8-0509-4088-9bf2-32972b30e841": {
+      "title": "One Week Family",
+      "url": "https://mangadex.org/title/757527a8-0509-4088-9bf2-32972b30e841",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-07T13:40:21Z",
+      "removed_at": null
+    },
+    "790f5f8d-0f9a-4f4b-92b3-9ac15f892b34": {
+      "title": "Backstabbed in a Backwater Dungeon: My Party Tried to Kill Me, But Thanks to an Infinite Gacha I Got LVL 9999 Friends and Am Out For Revenge",
+      "url": "https://mangadex.org/title/790f5f8d-0f9a-4f4b-92b3-9ac15f892b34",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-07T13:40:21Z",
+      "removed_at": null
+    },
+    "bd06f7fd-1bfa-4912-9d0e-f8655f54a1e0": {
+      "title": "Total Eclipse of the Eternal Heart",
+      "url": "https://mangadex.org/title/bd06f7fd-1bfa-4912-9d0e-f8655f54a1e0",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-07T13:40:21Z",
       "removed_at": null
     }
   }
