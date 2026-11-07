@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-11-07T18:24:59Z",
+  "updated_at": "2026-11-07T22:08:00Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -13964,9 +13964,10 @@
       "title": "I Love a Girl Like This",
       "url": "https://mangadex.org/title/c0592c37-bd6b-4fb3-964c-84574cd32c72",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-01T23:15:04Z",
-      "removed_at": null
+      "removed_at": "2026-11-07T22:08:00Z",
+      "removed_by_source": true
     },
     "a684ea2e-5cf6-40b4-ae82-4010d6d3df2c": {
       "title": "I’m the Girl With the Hacks!",
@@ -14124,9 +14125,10 @@
       "title": "All-Master Necromancer",
       "url": "https://mangadex.org/title/afc7a390-fba7-425c-a866-8ba52e598599",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-03T17:57:10Z",
-      "removed_at": null
+      "removed_at": "2026-11-07T22:08:00Z",
+      "removed_by_source": true
     },
     "bc430f16-299e-44fe-b04b-b0fc35f37de5": {
       "title": "Black Jack in Fifth Period",
@@ -14535,6 +14537,30 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-11-07T18:24:59Z",
+      "removed_at": null
+    },
+    "1d3905b0-f8c2-4c38-8b26-5b2ff0a9516c": {
+      "title": "Scatterbrained Klutz Big Sister",
+      "url": "https://mangadex.org/title/1d3905b0-f8c2-4c38-8b26-5b2ff0a9516c",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-07T22:08:00Z",
+      "removed_at": null
+    },
+    "be0f1e7b-9316-4d94-a558-e4f1944bf95d": {
+      "title": "Pink Lemonade",
+      "url": "https://mangadex.org/title/be0f1e7b-9316-4d94-a558-e4f1944bf95d",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-07T22:08:00Z",
+      "removed_at": null
+    },
+    "cc049e8b-d766-4120-8a63-218f299686bb": {
+      "title": "The Crushing Weight Of This Universe",
+      "url": "https://mangadex.org/title/cc049e8b-d766-4120-8a63-218f299686bb",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-07T22:08:00Z",
       "removed_at": null
     }
   }
