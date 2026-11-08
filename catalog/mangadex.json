@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-11-08T15:27:16Z",
+  "updated_at": "2026-11-08T19:51:46Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -13278,9 +13278,10 @@
       "title": "Gotou-san Wants Me to Turn Around",
       "url": "https://mangadex.org/title/caa197bb-990e-4f59-bc6f-f20e42015d01",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-27T18:48:59Z",
-      "removed_at": null
+      "removed_at": "2026-11-08T19:51:46Z",
+      "removed_by_source": true
     },
     "42f62ab4-8fdb-4710-956d-999e3c55f7ad": {
       "title": "I Parry Everything: What Do You Mean I’m the Strongest? I’m Not Even an Adventurer Yet!",
@@ -13510,9 +13511,10 @@
       "title": "Convenient Semi-Friend",
       "url": "https://mangadex.org/title/688eee00-d587-4998-a999-652767aac846",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-29T17:20:56Z",
-      "removed_at": null
+      "removed_at": "2026-11-08T19:51:46Z",
+      "removed_by_source": true
     },
     "707133cd-d9c2-4c83-8398-55bfdda7da14": {
       "title": "Blue Archive - Kankan's Blue Archive Logs (Doujinshi)",
@@ -13662,9 +13664,10 @@
       "title": "Omniscient Reader's Viewpoint (Book Version)",
       "url": "https://mangadex.org/title/46392cb3-a0f8-42e4-b2ac-b89637df56d9",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-30T07:33:32Z",
-      "removed_at": null
+      "removed_at": "2026-11-08T19:51:46Z",
+      "removed_by_source": true
     },
     "4de81088-8a4e-4916-b370-9b6eaa0ced2c": {
       "title": "Runaway Darling",
@@ -14008,9 +14011,10 @@
       "title": "Monster Mira’s Second Form Is Way Too Cute",
       "url": "https://mangadex.org/title/140668fa-eec5-42d1-a6f5-ed65c295c0ee",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-02T20:26:57Z",
-      "removed_at": null
+      "removed_at": "2026-11-08T19:51:46Z",
+      "removed_by_source": true
     },
     "2e9851a6-0f8b-4bf0-88b2-bf6375ad313a": {
       "title": "Ainosenbiki: A Story of Getting a Mommy After Doing Sugar Mama Dating",
@@ -14025,9 +14029,10 @@
       "title": "Holiday Yasumi's Twitter Shorts",
       "url": "https://mangadex.org/title/366dcef2-11ac-4ec0-9d75-967638f211a7",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-02T20:26:57Z",
-      "removed_at": null
+      "removed_at": "2026-11-08T19:51:46Z",
+      "removed_by_source": true
     },
     "37f1ddff-38a5-4e42-ba9a-ce967702dfb6": {
       "title": "Bartlet Fairy Basslet",
@@ -14041,17 +14046,19 @@
       "title": "CHARISMA: Another Peaceful Day",
       "url": "https://mangadex.org/title/5197576b-ba29-4cb4-8039-9211aedd34b7",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-02T20:26:57Z",
-      "removed_at": null
+      "removed_at": "2026-11-08T19:51:46Z",
+      "removed_by_source": true
     },
     "a253e13a-2b41-4f7d-915e-1e31a3f5d31d": {
       "title": "I'm the Max-Level Newbie",
       "url": "https://mangadex.org/title/a253e13a-2b41-4f7d-915e-1e31a3f5d31d",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-02T20:26:57Z",
-      "removed_at": null
+      "removed_at": "2026-11-08T19:51:46Z",
+      "removed_by_source": true
     },
     "a59b7f40-6a15-48f2-bec5-6b2c096de1c9": {
       "title": "Somewhere Now",
@@ -14082,9 +14089,10 @@
       "title": "A Pack of Tissues",
       "url": "https://mangadex.org/title/193595b4-5920-42b3-bfef-18f59c17e8ce",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-03T02:31:17Z",
-      "removed_at": null
+      "removed_at": "2026-11-08T19:51:46Z",
+      "removed_by_source": true
     },
     "76ea3bf1-e58b-49ea-8052-f0714e23e76d": {
       "title": "My Cat Is a Bit Different",
@@ -14098,9 +14106,10 @@
       "title": "Sunshine Doll",
       "url": "https://mangadex.org/title/81608566-8eb5-4ced-8902-13e2eaac0929",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-03T02:31:17Z",
-      "removed_at": null
+      "removed_at": "2026-11-08T19:51:46Z",
+      "removed_by_source": true
     },
     "95f792c5-8ed7-40f5-9a40-11344eb4528d": {
       "title": "Mentos x Cola",
@@ -14580,9 +14589,10 @@
       "title": "Sem título",
       "url": "https://mangadex.org/title/1d26ac86-5cac-4f83-a524-518002267d38",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-08T01:38:53Z",
-      "removed_at": null
+      "removed_at": "2026-11-08T19:51:46Z",
+      "removed_by_source": true
     },
     "97552d64-532a-4347-b6a9-c2f3741da904": {
       "title": "Cheryl, the Spoils-of-War Lady, Wants to Ensnare Her Husband Who Will Kill Her",
@@ -14638,6 +14648,30 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-11-08T15:27:16Z",
+      "removed_at": null
+    },
+    "10b3cc1d-59a6-4f9e-a742-2a3c4d729c4e": {
+      "title": "My childhood friend I reunited with has turned into the academy's prince",
+      "url": "https://mangadex.org/title/10b3cc1d-59a6-4f9e-a742-2a3c4d729c4e",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-08T19:51:46Z",
+      "removed_at": null
+    },
+    "96bfa6c4-23c2-4a1f-afb2-e1a6b85da65b": {
+      "title": "Go with the Clouds, North-by-Northwest",
+      "url": "https://mangadex.org/title/96bfa6c4-23c2-4a1f-afb2-e1a6b85da65b",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-08T19:51:46Z",
+      "removed_at": null
+    },
+    "ac2c3cdb-6607-46ae-9705-b75a70351ae0": {
+      "title": "Boys on the Run",
+      "url": "https://mangadex.org/title/ac2c3cdb-6607-46ae-9705-b75a70351ae0",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-08T19:51:46Z",
       "removed_at": null
     }
   }
