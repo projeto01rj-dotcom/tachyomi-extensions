@@ -1,0 +1,52 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-11-08T01:38:53Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "0689698a-463e-46a2-a2fc-59b7bc5276d2",
+      "title": "The Mob Soldier Who Became the Strongest with His Game Knowledge Wants to Hide His True Strength",
+      "url": "https://mangadex.org/title/0689698a-463e-46a2-a2fc-59b7bc5276d2"
+    },
+    {
+      "source": "mangadex",
+      "key": "1d26ac86-5cac-4f83-a524-518002267d38",
+      "title": "Sem título",
+      "url": "https://mangadex.org/title/1d26ac86-5cac-4f83-a524-518002267d38"
+    },
+    {
+      "source": "mangadex",
+      "key": "97552d64-532a-4347-b6a9-c2f3741da904",
+      "title": "Cheryl, the Spoils-of-War Lady, Wants to Ensnare Her Husband Who Will Kill Her",
+      "url": "https://mangadex.org/title/97552d64-532a-4347-b6a9-c2f3741da904"
+    },
+    {
+      "source": "mangadex",
+      "key": "cc448565-59ec-4a27-8ea3-1576c5ea13ed",
+      "title": "Fantasy World Passerby",
+      "url": "https://mangadex.org/title/cc448565-59ec-4a27-8ea3-1576c5ea13ed"
+    },
+    {
+      "source": "mangadex",
+      "key": "f43aab98-8bfe-4275-97cc-9a7b7635eb80",
+      "title": "Science Fell in Love, so I Tried to Prove It",
+      "url": "https://mangadex.org/title/f43aab98-8bfe-4275-97cc-9a7b7635eb80"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "a684ea2e-5cf6-40b4-ae82-4010d6d3df2c",
+      "title": "I’m the Girl With the Hacks!",
+      "url": "https://mangadex.org/title/a684ea2e-5cf6-40b4-ae82-4010d6d3df2c",
+      "removed_at": "2026-11-08T01:38:53Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "d471e66b-dbfd-4538-99b4-49eb0014457e",
+      "title": "I Can't Help But Touch Hao Cang's Ears",
+      "url": "https://mangadex.org/title/d471e66b-dbfd-4538-99b4-49eb0014457e",
+      "removed_at": "2026-11-08T01:38:53Z"
+    }
+  ]
+}
