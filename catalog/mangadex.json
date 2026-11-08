@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-11-08T08:22:29Z",
+  "updated_at": "2026-11-08T15:27:16Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -14016,9 +14016,10 @@
       "title": "Ainosenbiki: A Story of Getting a Mommy After Doing Sugar Mama Dating",
       "url": "https://mangadex.org/title/2e9851a6-0f8b-4bf0-88b2-bf6375ad313a",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-02T20:26:57Z",
-      "removed_at": null
+      "removed_at": "2026-11-08T15:27:16Z",
+      "removed_by_source": true
     },
     "366dcef2-11ac-4ec0-9d75-967638f211a7": {
       "title": "Holiday Yasumi's Twitter Shorts",
@@ -14056,9 +14057,10 @@
       "title": "Somewhere Now",
       "url": "https://mangadex.org/title/a59b7f40-6a15-48f2-bec5-6b2c096de1c9",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-02T20:26:57Z",
-      "removed_at": null
+      "removed_at": "2026-11-08T15:27:16Z",
+      "removed_by_source": true
     },
     "f63c4549-93c6-495f-8a33-4246116289d3": {
       "title": "Falling in Love With My Ex-Fiancé's Grandfather",
@@ -14604,6 +14606,38 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-11-08T01:38:53Z",
+      "removed_at": null
+    },
+    "642aaf08-7aba-42d1-aa8d-f7b6995527aa": {
+      "title": "The Reincarnated Snow White Doesn’t Want to Eat the Poisoned Apple",
+      "url": "https://mangadex.org/title/642aaf08-7aba-42d1-aa8d-f7b6995527aa",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-08T15:27:16Z",
+      "removed_at": null
+    },
+    "795d4d43-677b-4751-8496-a28104882488": {
+      "title": "My Wicked Little Girl (Promo)",
+      "url": "https://mangadex.org/title/795d4d43-677b-4751-8496-a28104882488",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-08T15:27:16Z",
+      "removed_at": null
+    },
+    "c81166ed-06a7-41a1-8aae-f459a3180e99": {
+      "title": "The Girl Who Cross-Stitched Clouds",
+      "url": "https://mangadex.org/title/c81166ed-06a7-41a1-8aae-f459a3180e99",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-08T15:27:16Z",
+      "removed_at": null
+    },
+    "f27a2cf2-ca32-4628-bf2a-8d5f4332aea5": {
+      "title": "Slap Shot Girls",
+      "url": "https://mangadex.org/title/f27a2cf2-ca32-4628-bf2a-8d5f4332aea5",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-08T15:27:16Z",
       "removed_at": null
     }
   }
