@@ -1,0 +1,14 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-11-08T08:22:29Z",
+  "added": [],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "fad5ff80-0aae-41f5-8a05-f5f23eb71e5a",
+      "title": "May Your Sword Reach My Neck",
+      "url": "https://mangadex.org/title/fad5ff80-0aae-41f5-8a05-f5f23eb71e5a",
+      "removed_at": "2026-11-08T08:22:29Z"
+    }
+  ]
+}

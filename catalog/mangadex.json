@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-11-08T01:38:53Z",
+  "updated_at": "2026-11-08T08:22:29Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -13991,9 +13991,10 @@
       "title": "May Your Sword Reach My Neck",
       "url": "https://mangadex.org/title/fad5ff80-0aae-41f5-8a05-f5f23eb71e5a",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-02T02:38:56Z",
-      "removed_at": null
+      "removed_at": "2026-11-08T08:22:29Z",
+      "removed_by_source": true
     },
     "febd3e05-6300-4105-95cc-2c39c19ce876": {
       "title": "Magical ★ Explorer: Reborn as a Side Character in a Fantasy Dating Sim",
