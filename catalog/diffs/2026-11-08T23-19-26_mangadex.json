@@ -1,0 +1,47 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-11-08T23:19:26Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "829fc3a7-d4f4-42e9-9032-0917083f9e0d",
+      "title": "Nanhao And Shangfeng",
+      "url": "https://mangadex.org/title/829fc3a7-d4f4-42e9-9032-0917083f9e0d"
+    },
+    {
+      "source": "mangadex",
+      "key": "9047286f-ea5b-475a-84cc-a2533983ffe9",
+      "title": "Sem título",
+      "url": "https://mangadex.org/title/9047286f-ea5b-475a-84cc-a2533983ffe9"
+    },
+    {
+      "source": "mangadex",
+      "key": "997a7215-b313-4d85-8a97-75a1ebccdaea",
+      "title": "5001 Yakuza Wars",
+      "url": "https://mangadex.org/title/997a7215-b313-4d85-8a97-75a1ebccdaea"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "01740526-c70d-4afb-9a87-d1968a2b7123",
+      "title": "Deathstruck",
+      "url": "https://mangadex.org/title/01740526-c70d-4afb-9a87-d1968a2b7123",
+      "removed_at": "2026-11-08T23:19:26Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "76ea3bf1-e58b-49ea-8052-f0714e23e76d",
+      "title": "My Cat Is a Bit Different",
+      "url": "https://mangadex.org/title/76ea3bf1-e58b-49ea-8052-f0714e23e76d",
+      "removed_at": "2026-11-08T23:19:26Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "95f792c5-8ed7-40f5-9a40-11344eb4528d",
+      "title": "Mentos x Cola",
+      "url": "https://mangadex.org/title/95f792c5-8ed7-40f5-9a40-11344eb4528d",
+      "removed_at": "2026-11-08T23:19:26Z"
+    }
+  ]
+}

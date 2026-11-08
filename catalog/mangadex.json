@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-11-08T19:51:46Z",
+  "updated_at": "2026-11-08T23:19:26Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -14081,9 +14081,10 @@
       "title": "Deathstruck",
       "url": "https://mangadex.org/title/01740526-c70d-4afb-9a87-d1968a2b7123",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-03T02:31:17Z",
-      "removed_at": null
+      "removed_at": "2026-11-08T23:19:26Z",
+      "removed_by_source": true
     },
     "193595b4-5920-42b3-bfef-18f59c17e8ce": {
       "title": "A Pack of Tissues",
@@ -14098,9 +14099,10 @@
       "title": "My Cat Is a Bit Different",
       "url": "https://mangadex.org/title/76ea3bf1-e58b-49ea-8052-f0714e23e76d",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-03T02:31:17Z",
-      "removed_at": null
+      "removed_at": "2026-11-08T23:19:26Z",
+      "removed_by_source": true
     },
     "81608566-8eb5-4ced-8902-13e2eaac0929": {
       "title": "Sunshine Doll",
@@ -14115,9 +14117,10 @@
       "title": "Mentos x Cola",
       "url": "https://mangadex.org/title/95f792c5-8ed7-40f5-9a40-11344eb4528d",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-03T02:31:17Z",
-      "removed_at": null
+      "removed_at": "2026-11-08T23:19:26Z",
+      "removed_by_source": true
     },
     "62b74aa6-24df-4b91-b76d-39e7ab3c3ca5": {
       "title": "REAL",
@@ -14672,6 +14675,30 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-11-08T19:51:46Z",
+      "removed_at": null
+    },
+    "829fc3a7-d4f4-42e9-9032-0917083f9e0d": {
+      "title": "Nanhao And Shangfeng",
+      "url": "https://mangadex.org/title/829fc3a7-d4f4-42e9-9032-0917083f9e0d",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-08T23:19:26Z",
+      "removed_at": null
+    },
+    "9047286f-ea5b-475a-84cc-a2533983ffe9": {
+      "title": "Sem título",
+      "url": "https://mangadex.org/title/9047286f-ea5b-475a-84cc-a2533983ffe9",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-08T23:19:26Z",
+      "removed_at": null
+    },
+    "997a7215-b313-4d85-8a97-75a1ebccdaea": {
+      "title": "5001 Yakuza Wars",
+      "url": "https://mangadex.org/title/997a7215-b313-4d85-8a97-75a1ebccdaea",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-08T23:19:26Z",
       "removed_at": null
     }
   }
