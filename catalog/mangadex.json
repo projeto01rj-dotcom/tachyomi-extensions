@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-11-09T10:41:28Z",
+  "updated_at": "2026-11-09T21:13:13Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -11468,9 +11468,10 @@
       "title": "Kirara Hoshikita Wants to Shine!",
       "url": "https://mangadex.org/title/93704d83-322c-4214-99bc-6984cf536795",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-13T04:44:38Z",
-      "removed_at": null
+      "removed_at": "2026-11-09T21:13:13Z",
+      "removed_by_source": true
     },
     "a9581a49-b888-4c17-979c-5abdff6a9b00": {
       "title": "Rappa - Yankee Ninpuuchou",
@@ -13243,9 +13244,10 @@
       "title": "Chiruran: Shinsengumi Requiem",
       "url": "https://mangadex.org/title/32dfa44f-1077-4ed2-bedc-b7707788fb1b",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-27T18:48:59Z",
-      "removed_at": null
+      "removed_at": "2026-11-09T21:13:13Z",
+      "removed_by_source": true
     },
     "6d9cdc37-5411-4939-b051-62cb8fcbae64": {
       "title": "Intruding Ghost Boy Yuurei",
@@ -13700,17 +13702,19 @@
       "title": "NEW GAME!",
       "url": "https://mangadex.org/title/d7a0991d-2913-4b3c-8fb6-2b752f9e5f3a",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-30T14:42:48Z",
-      "removed_at": null
+      "removed_at": "2026-11-09T21:13:13Z",
+      "removed_by_source": true
     },
     "039d717e-9690-47fd-944d-93161b97fbac": {
       "title": "Given",
       "url": "https://mangadex.org/title/039d717e-9690-47fd-944d-93161b97fbac",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-30T19:47:34Z",
-      "removed_at": null
+      "removed_at": "2026-11-09T21:13:13Z",
+      "removed_by_source": true
     },
     "9bab499d-d2ca-4aa2-82bf-f7b017f9fe3b": {
       "title": "The Song of Wind and Trees",
@@ -14152,9 +14156,10 @@
       "title": "Black Jack in Fifth Period",
       "url": "https://mangadex.org/title/bc430f16-299e-44fe-b04b-b0fc35f37de5",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-03T17:57:10Z",
-      "removed_at": null
+      "removed_at": "2026-11-09T21:13:13Z",
+      "removed_by_source": true
     },
     "de471fb4-80d0-406f-a5e3-1bfa88a15136": {
       "title": "The Distinguished Cute Master",
@@ -14176,9 +14181,10 @@
       "title": "Something Weird with My Training Skills",
       "url": "https://mangadex.org/title/244b6659-9181-4b6a-b0ea-c9d846bc6a4a",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-03T22:52:15Z",
-      "removed_at": null
+      "removed_at": "2026-11-09T21:13:13Z",
+      "removed_by_source": true
     },
     "9c21fbcd-e22e-4e6d-8258-7d580df9fc45": {
       "title": "Lycoris Recoil",
@@ -14192,9 +14198,10 @@
       "title": "Usami-san wa Kamawaretai!",
       "url": "https://mangadex.org/title/b6080bba-2d95-4f4d-9f1b-5c8f671da6c4",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-03T22:52:15Z",
-      "removed_at": null
+      "removed_at": "2026-11-09T21:13:13Z",
+      "removed_by_source": true
     },
     "c40bf165-81fa-499f-b368-48b353a968df": {
       "title": "Another",
@@ -14208,9 +14215,10 @@
       "title": "Kaya-chan Isn’t Scary",
       "url": "https://mangadex.org/title/ecf03a97-2194-4e4b-b4cd-741b98015957",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-03T22:52:15Z",
-      "removed_at": null
+      "removed_at": "2026-11-09T21:13:13Z",
+      "removed_by_source": true
     },
     "f2096f50-eda1-47a6-9741-9fad97ca08d1": {
       "title": "Maju Battlefront",
@@ -14224,9 +14232,10 @@
       "title": "Only Sense Online",
       "url": "https://mangadex.org/title/67ca1083-ec62-4f66-a2f5-355a2702f6e3",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-04T02:50:30Z",
-      "removed_at": null
+      "removed_at": "2026-11-09T21:13:13Z",
+      "removed_by_source": true
     },
     "7138083b-4fbf-4cc3-8695-ce175034e45a": {
       "title": "Snow & Ink",
@@ -14749,6 +14758,38 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-11-09T10:41:28Z",
+      "removed_at": null
+    },
+    "136dd3fe-3e21-4fc9-b737-5bf382b9682a": {
+      "title": "I Wanted to Confess to the Receptionist, but When I Went to the Guild, I Became a Hero",
+      "url": "https://mangadex.org/title/136dd3fe-3e21-4fc9-b737-5bf382b9682a",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-09T21:13:13Z",
+      "removed_at": null
+    },
+    "65f3a784-0992-4651-8757-6e28c6a919f2": {
+      "title": "The Embodiment of Sins",
+      "url": "https://mangadex.org/title/65f3a784-0992-4651-8757-6e28c6a919f2",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-09T21:13:13Z",
+      "removed_at": null
+    },
+    "98f1e421-4dac-4c56-8392-84b5245c0540": {
+      "title": "Crime Yuri Anthology",
+      "url": "https://mangadex.org/title/98f1e421-4dac-4c56-8392-84b5245c0540",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-09T21:13:13Z",
+      "removed_at": null
+    },
+    "b23c9bb1-870e-483d-a496-0c55021c1bed": {
+      "title": "Flag Capture in the First Move",
+      "url": "https://mangadex.org/title/b23c9bb1-870e-483d-a496-0c55021c1bed",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-09T21:13:13Z",
       "removed_at": null
     }
   }
