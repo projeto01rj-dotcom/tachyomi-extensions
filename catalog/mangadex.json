@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-11-08T23:19:26Z",
+  "updated_at": "2026-11-09T02:50:25Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -14134,9 +14134,10 @@
       "title": "Tawawa on Monday",
       "url": "https://mangadex.org/title/6b27cbd8-4cc6-40ca-b010-928da4540be8",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-03T10:19:47Z",
-      "removed_at": null
+      "removed_at": "2026-11-09T02:50:25Z",
+      "removed_by_source": true
     },
     "afc7a390-fba7-425c-a866-8ba52e598599": {
       "title": "All-Master Necromancer",
