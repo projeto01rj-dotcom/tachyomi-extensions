@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-11-10T11:58:03Z",
+  "updated_at": "2026-11-10T19:22:24Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -10102,9 +10102,10 @@
       "title": "Looks Can Be Deceiving",
       "url": "https://mangadex.org/title/26d2e5bb-e69b-4165-a03c-855a3765bbbb",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-05T18:39:52Z",
-      "removed_at": null
+      "removed_at": "2026-11-10T19:22:24Z",
+      "removed_by_source": true
     },
     "30c8bf1c-9063-4a22-a845-e2cead50adea": {
       "title": "Love and Dreams Don't Mix",
@@ -14252,9 +14253,10 @@
       "title": "Lucifer's Loose Cooking",
       "url": "https://mangadex.org/title/08a1cae9-0c8d-4bc8-a11a-a0a403ae127b",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-04T18:07:54Z",
-      "removed_at": null
+      "removed_at": "2026-11-10T19:22:24Z",
+      "removed_by_source": true
     },
     "1f9d02c1-8d04-4a27-a1ff-2b0bf782b9ef": {
       "title": "The Thread User of the Shichijou Family: The Genius Sorcerer Who Wants to Live Normally Starts Exterminating Youkai With an Uninvited Apprentice",
@@ -14278,9 +14280,10 @@
       "title": "Sense Life",
       "url": "https://mangadex.org/title/4f1c1d58-ca14-48a7-b421-f01b5900ce28",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-04T18:07:54Z",
-      "removed_at": null
+      "removed_at": "2026-11-10T19:22:24Z",
+      "removed_by_source": true
     },
     "86983879-a9ed-4b91-8f7e-be1cbc57baaa": {
       "title": "Yandere-chan Is Scary",
@@ -14327,9 +14330,10 @@
       "title": "The Blue Star on That Day",
       "url": "https://mangadex.org/title/9faba8cf-60df-4894-9370-22571592c8d3",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-04T23:49:47Z",
-      "removed_at": null
+      "removed_at": "2026-11-10T19:22:24Z",
+      "removed_by_source": true
     },
     "5ef4e73e-6fbc-456b-b7e1-4642256f666d": {
       "title": "Re:ZERO -Starting Life in Another World-, Chapter 1: A Day in the Capital",
@@ -14836,6 +14840,22 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-11-10T11:58:03Z",
+      "removed_at": null
+    },
+    "0f25067e-a33e-4b25-a5d5-aff6e03b9e5c": {
+      "title": "A High School Boy Reincarnates as the Villainess in an Otome Game.",
+      "url": "https://mangadex.org/title/0f25067e-a33e-4b25-a5d5-aff6e03b9e5c",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-10T19:22:24Z",
+      "removed_at": null
+    },
+    "8b429d8e-0b9c-404c-b65b-82e4eab9321f": {
+      "title": "A Necromancer Betrayed by His Comrades and Executed Revives 10,000 Heroes Who Had Become Undead, Builds the Most Powerful Kingdom, and Begins His Quest for Revenge.: Heroic Spirits Gather at the Throne of Darkness",
+      "url": "https://mangadex.org/title/8b429d8e-0b9c-404c-b65b-82e4eab9321f",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-10T19:22:24Z",
       "removed_at": null
     }
   }
