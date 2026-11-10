@@ -1,0 +1,106 @@
+name: Build Leitor de Mangas
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publish-leitordemangas
+  cancel-in-progress: false
+
+jobs:
+  build:
+    name: Compilar e publicar Leitor de Mangas
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Java 17
+        uses: actions/setup-java@v4
+        with:
+          java-version: 17
+          distribution: temurin
+
+      - name: Set up Gradle
+        uses: gradle/actions/setup-gradle@v4
+
+      - name: Build Leitor de Mangas
+        run: ./gradlew :src:pt:leitordemangas:assembleRelease --stacktrace
+
+      - name: Preparar catálogo atual
+        run: |
+          set -e
+          rm -rf repo-branch
+          mkdir repo-branch
+          git archive origin/repo | tar -x -C repo-branch
+
+      - name: Mesclar Leitor de Mangas no catálogo
+        run: |
+          set -e
+          python3 - <<'PY'
+          import json
+          import shutil
+          from pathlib import Path
+
+          root = Path.cwd()
+          catalog = root / "repo-branch"
+          info_file = root / "src/pt/leitordemangas/build/keiyoushi-source-info.json"
+          if not info_file.is_file():
+              raise SystemExit("Informações do Leitor de Mangas não encontradas")
+          info = json.loads(info_file.read_text())
+          apk_files = list((root / "src/pt/leitordemangas/build/outputs/apk/release").glob("*.apk"))
+          if len(apk_files) != 1:
+              raise SystemExit("APK do Leitor de Mangas não encontrado")
+          icon = root / "src/pt/leitordemangas/res/mipmap-xhdpi/ic_launcher.png"
+          if not icon.is_file():
+              raise SystemExit("Ícone do Leitor de Mangas não encontrado")
+
+          pkg = info["packageName"]
+          apk = apk_files[0]
+          (catalog / "apk").mkdir(parents=True, exist_ok=True)
+          (catalog / "icon").mkdir(parents=True, exist_ok=True)
+          shutil.copy2(apk, catalog / "apk" / apk.name)
+          shutil.copy2(icon, catalog / "icon" / f"{pkg}.png")
+
+          entry = {
+              "name": info["name"],
+              "pkg": pkg,
+              "apk": apk.name,
+              "lang": info["module"].split("/")[0],
+              "code": info["versionCode"],
+              "version": info["versionName"],
+              "nsfw": 1 if info["contentWarning"] == 3 else 0,
+              "sources": [
+                  {"id": int(s["id"]), "lang": s["lang"], "name": s["name"], "baseUrl": s["baseUrl"]}
+                  for s in info["sources"]
+              ],
+          }
+          index = json.loads((catalog / "index.json").read_text())
+          index = [item for item in index if item.get("pkg") != pkg]
+          index.append(entry)
+          index.sort(key=lambda item: item["pkg"])
+          (catalog / "index.json").write_text(json.dumps(index, indent=2, ensure_ascii=False) + "\n")
+          (catalog / "index.min.json").write_text(json.dumps(index, separators=(",", ":"), ensure_ascii=False))
+          PY
+
+      - name: Publicar branch repo
+        run: |
+          set -e
+          cd repo-branch
+          git init -b repo
+          git config user.name "tachiyomi-extensions"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          git commit --allow-empty -m "Publicar Leitor de Mangas no catálogo"
+          git remote add origin "https://github.com/${GITHUB_REPOSITORY}.git"
+          gh auth setup-git
+          git push --force origin repo
