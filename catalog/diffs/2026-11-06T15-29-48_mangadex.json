@@ -1,0 +1,40 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-11-06T15:29:48Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "3810a12e-f091-4c0b-825b-e588200f9eb2",
+      "title": "The Yankee wants to be an Otaku (Fujoshi)!",
+      "url": "https://mangadex.org/title/3810a12e-f091-4c0b-825b-e588200f9eb2"
+    },
+    {
+      "source": "mangadex",
+      "key": "ca84bb81-8a23-4b49-8aff-b2ab6761d0cd",
+      "title": "Rendezvous in the Netherworld",
+      "url": "https://mangadex.org/title/ca84bb81-8a23-4b49-8aff-b2ab6761d0cd"
+    },
+    {
+      "source": "mangadex",
+      "key": "e4631dc7-87b9-4d6a-8b3b-5594664ecc27",
+      "title": "Fate/kaleid liner PRISMA☆ILLYA 3rei!!",
+      "url": "https://mangadex.org/title/e4631dc7-87b9-4d6a-8b3b-5594664ecc27"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "4c221393-092a-4c43-9af7-be21427aa411",
+      "title": "I Swapped Bodies with a Wicked Witch, but Today I'll Keep Having Fun!",
+      "url": "https://mangadex.org/title/4c221393-092a-4c43-9af7-be21427aa411",
+      "removed_at": "2026-11-06T15:29:48Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "cbf174ca-af25-4410-82fa-498a6df9ad3c",
+      "title": "Be Blues!",
+      "url": "https://mangadex.org/title/cbf174ca-af25-4410-82fa-498a6df9ad3c",
+      "removed_at": "2026-11-06T15:29:48Z"
+    }
+  ]
+}

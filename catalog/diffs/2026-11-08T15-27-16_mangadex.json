@@ -1,0 +1,46 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-11-08T15:27:16Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "642aaf08-7aba-42d1-aa8d-f7b6995527aa",
+      "title": "The Reincarnated Snow White Doesn’t Want to Eat the Poisoned Apple",
+      "url": "https://mangadex.org/title/642aaf08-7aba-42d1-aa8d-f7b6995527aa"
+    },
+    {
+      "source": "mangadex",
+      "key": "795d4d43-677b-4751-8496-a28104882488",
+      "title": "My Wicked Little Girl (Promo)",
+      "url": "https://mangadex.org/title/795d4d43-677b-4751-8496-a28104882488"
+    },
+    {
+      "source": "mangadex",
+      "key": "c81166ed-06a7-41a1-8aae-f459a3180e99",
+      "title": "The Girl Who Cross-Stitched Clouds",
+      "url": "https://mangadex.org/title/c81166ed-06a7-41a1-8aae-f459a3180e99"
+    },
+    {
+      "source": "mangadex",
+      "key": "f27a2cf2-ca32-4628-bf2a-8d5f4332aea5",
+      "title": "Slap Shot Girls",
+      "url": "https://mangadex.org/title/f27a2cf2-ca32-4628-bf2a-8d5f4332aea5"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "2e9851a6-0f8b-4bf0-88b2-bf6375ad313a",
+      "title": "Ainosenbiki: A Story of Getting a Mommy After Doing Sugar Mama Dating",
+      "url": "https://mangadex.org/title/2e9851a6-0f8b-4bf0-88b2-bf6375ad313a",
+      "removed_at": "2026-11-08T15:27:16Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "a59b7f40-6a15-48f2-bec5-6b2c096de1c9",
+      "title": "Somewhere Now",
+      "url": "https://mangadex.org/title/a59b7f40-6a15-48f2-bec5-6b2c096de1c9",
+      "removed_at": "2026-11-08T15:27:16Z"
+    }
+  ]
+}

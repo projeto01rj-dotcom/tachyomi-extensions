@@ -1,0 +1,46 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-11-10T03:40:53Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "0a29b87c-f6eb-4e6d-98b4-3cd8adb3ab8f",
+      "title": "A Former Assassin Was Reborn as a Blue-Blooded Daughter",
+      "url": "https://mangadex.org/title/0a29b87c-f6eb-4e6d-98b4-3cd8adb3ab8f"
+    },
+    {
+      "source": "mangadex",
+      "key": "0c1d035d-17d0-4bc3-9b05-a1ce313bb53f",
+      "title": "Yomoyama Kobanashi",
+      "url": "https://mangadex.org/title/0c1d035d-17d0-4bc3-9b05-a1ce313bb53f"
+    },
+    {
+      "source": "mangadex",
+      "key": "240f036e-d6ba-46a9-b990-fd06c47319f6",
+      "title": "Degausser",
+      "url": "https://mangadex.org/title/240f036e-d6ba-46a9-b990-fd06c47319f6"
+    },
+    {
+      "source": "mangadex",
+      "key": "67e79cef-5367-4977-bbbe-e47925cbc855",
+      "title": "Femme fatale's Salvation",
+      "url": "https://mangadex.org/title/67e79cef-5367-4977-bbbe-e47925cbc855"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "c40bf165-81fa-499f-b368-48b353a968df",
+      "title": "Another",
+      "url": "https://mangadex.org/title/c40bf165-81fa-499f-b368-48b353a968df",
+      "removed_at": "2026-11-10T03:40:53Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "f2096f50-eda1-47a6-9741-9fad97ca08d1",
+      "title": "Maju Battlefront",
+      "url": "https://mangadex.org/title/f2096f50-eda1-47a6-9741-9fad97ca08d1",
+      "removed_at": "2026-11-10T03:40:53Z"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-11-07T06:43:55Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "9f9fa579-6320-4d01-943b-5be5356e1995",
+      "title": "Harten",
+      "url": "https://mangadex.org/title/9f9fa579-6320-4d01-943b-5be5356e1995"
+    },
+    {
+      "source": "mangadex",
+      "key": "bfecc659-d191-4126-8946-7e0ab082c185",
+      "title": "Steins;Gate - Rebellion of the Missing Ring",
+      "url": "https://mangadex.org/title/bfecc659-d191-4126-8946-7e0ab082c185"
+    },
+    {
+      "source": "mangadex",
+      "key": "fe1c6cb0-bfc5-4809-b261-1238876d97b6",
+      "title": "Made in Abyss: Made from Fortunes",
+      "url": "https://mangadex.org/title/fe1c6cb0-bfc5-4809-b261-1238876d97b6"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "494e05b4-9319-4e36-a63a-fab112862921",
+      "title": "Dragon Ball Zero",
+      "url": "https://mangadex.org/title/494e05b4-9319-4e36-a63a-fab112862921",
+      "removed_at": "2026-11-07T06:43:55Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "1f43c858-c1a6-4dcd-8183-e017d4522949",
+      "title": "Romance of The Three Kingdoms",
+      "url": "https://mangadex.org/title/1f43c858-c1a6-4dcd-8183-e017d4522949",
+      "removed_at": "2026-11-07T06:43:55Z"
+    }
+  ]
+}

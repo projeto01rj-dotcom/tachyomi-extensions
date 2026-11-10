@@ -1,0 +1,207 @@
+package eu.kanade.tachiyomi.lib.archive
+
+import android.graphics.Bitmap
+import android.graphics.Canvas
+import android.graphics.Color
+import android.graphics.pdf.PdfRenderer
+import android.os.ParcelFileDescriptor
+import java.io.ByteArrayOutputStream
+import java.io.File
+import java.io.IOException
+import java.util.Locale
+import java.util.concurrent.ConcurrentHashMap
+import java.util.zip.ZipFile
+
+/** Formatos de archivo que se pueden leer como capítulo. */
+enum class ArchiveKind(val code: String) {
+    CBZ("cbz"),
+    CBR("cbr"),
+    PDF("pdf"),
+    ;
+
+    companion object {
+        fun of(name: String, mimeType: String = ""): ArchiveKind? {
+            val lower = name.lowercase(Locale.ROOT)
+            return when {
+                lower.endsWith(".cbz") || lower.endsWith(".zip") -> CBZ
+                lower.endsWith(".cbr") || lower.endsWith(".rar") || mimeType in RAR_MIMES -> CBR
+                lower.endsWith(".pdf") || mimeType == "application/pdf" -> PDF
+                else -> null
+            }
+        }
+
+        fun fromCode(code: String) = entries.first { it.code == code }
+
+        private val RAR_MIMES = setOf("application/vnd.comicbook-rar", "application/x-rar-compressed", "application/vnd.rar", "application/x-rar")
+    }
+}
+
+val IMAGE_EXTENSIONS = listOf("jpg", "jpeg", "png", "webp", "gif", "avif", "bmp", "jxl", "heic")
+
+fun isImageName(name: String): Boolean {
+    val base = name.substringAfterLast('/')
+    return !base.startsWith(".") && IMAGE_EXTENSIONS.any { base.endsWith(".$it", ignoreCase = true) }
+}
+
+fun imageMime(name: String): String = when (name.substringAfterLast('.').lowercase(Locale.ROOT)) {
+    "png" -> "image/png"
+    "webp" -> "image/webp"
+    "gif" -> "image/gif"
+    "avif" -> "image/avif"
+    "bmp" -> "image/bmp"
+    "jxl" -> "image/jxl"
+    "heic" -> "image/heic"
+    else -> "image/jpeg"
+}
+
+/**
+ * Saca las páginas de un CBZ, CBR o PDF que ya está en el dispositivo: las imágenes del ZIP en
+ * orden natural, o cada página del PDF renderizada a JPEG con [PdfRenderer].
+ *
+ * Un CBR se pasa una sola vez a un ZIP al lado del original ("<archivo>.zip") y se lee como CBZ.
+ * Muchos CBR en realidad ya son ZIP con otra extensión; esos se leen directamente.
+ */
+class ArchiveReader(private val pdfWidth: () -> Int, private val i18n: I18n = I18n()) {
+
+    private val zipEntries = ConcurrentHashMap<String, List<String>>()
+    private val openPdfs = LinkedHashMap<String, OpenPdf>()
+    private val rar = RarToZip(i18n)
+    private val conversionLocks = ConcurrentHashMap<String, Any>()
+
+    private class OpenPdf(val fd: ParcelFileDescriptor, val renderer: PdfRenderer) {
+        fun close() {
+            runCatching { renderer.close() }
+            runCatching { fd.close() }
+        }
+    }
+
+    fun pageCount(kind: ArchiveKind, file: File): Int = when (kind) {
+        ArchiveKind.CBZ -> imageEntries(file).size
+        ArchiveKind.CBR -> imageEntries(asZip(file)).size
+        ArchiveKind.PDF -> withPdf(file) { it.pageCount }
+    }
+
+    fun page(kind: ArchiveKind, file: File, index: Int): Pair<ByteArray, String> = when (kind) {
+        ArchiveKind.CBZ -> zipPage(file, index)
+        ArchiveKind.CBR -> zipPage(asZip(file), index)
+        ArchiveKind.PDF -> withPdf(file) { renderer -> renderPdfPage(renderer, index) } to "image/jpeg"
+    }
+
+    private fun zipPage(file: File, index: Int): Pair<ByteArray, String> {
+        val name = imageEntries(file).getOrNull(index) ?: throw IOException(i18n.t("Página $index inexistente", "Page $index does not exist"))
+        val bytes = ZipFile(file).use { zip -> zip.getInputStream(zip.getEntry(name)).use { it.readBytes() } }
+        return bytes to imageMime(name)
+    }
+
+    /** Devuelve [file] si ya es un ZIP, o el ZIP convertido desde el RAR (creándolo una vez). */
+    private fun asZip(file: File): File {
+        if (isZip(file)) return file
+        val zip = convertedZip(file)
+        synchronized(conversionLocks.getOrPut(file.path) { Any() }) {
+            if (!zip.exists() || zip.lastModified() < file.lastModified()) {
+                zipEntries.remove(zip.path)
+                rar.convert(file, zip)
+            }
+        }
+        return zip
+    }
+
+    private fun isZip(file: File): Boolean = file.inputStream().use { input ->
+        val magic = ByteArray(4)
+        input.read(magic) == 4 && magic[0] == 'P'.code.toByte() && magic[1] == 'K'.code.toByte()
+    }
+
+    /** Olvida lo que se sabe de [file] (por ejemplo, antes de borrarlo de la caché). */
+    fun forget(file: File) {
+        synchronized(openPdfs) { openPdfs.remove(file.path)?.close() }
+        zipEntries.remove(file.path)
+        zipEntries.remove(convertedZip(file).path)
+        convertedZip(file).delete()
+    }
+
+    fun closeAll() {
+        synchronized(openPdfs) {
+            openPdfs.values.forEach { it.close() }
+            openPdfs.clear()
+        }
+        zipEntries.clear()
+    }
+
+    private fun imageEntries(file: File): List<String> = zipEntries.getOrPut(file.path) {
+        ZipFile(file).use { zip ->
+            zip.entries().asSequence()
+                .filter { !it.isDirectory && !it.name.startsWith("__MACOSX") && isImageName(it.name) }
+                .map { it.name }
+                .sortedWith(NaturalOrder)
+                .toList()
+        }.ifEmpty { throw IOException(i18n.t("El CBZ no contiene imágenes", "The CBZ has no images")) }
+    }
+
+    private fun <T> withPdf(file: File, block: (PdfRenderer) -> T): T {
+        val pdf = synchronized(openPdfs) {
+            openPdfs.remove(file.path) ?: run {
+                val fd = ParcelFileDescriptor.open(file, ParcelFileDescriptor.MODE_READ_ONLY)
+                OpenPdf(fd, PdfRenderer(fd))
+            }.also { opened ->
+                openPdfs[file.path] = opened
+                while (openPdfs.size > MAX_OPEN_PDFS) {
+                    val eldest = openPdfs.keys.first()
+                    openPdfs.remove(eldest)?.close()
+                }
+            }
+        }
+        // PdfRenderer solo admite una página abierta a la vez.
+        return synchronized(pdf.renderer) { block(pdf.renderer) }
+    }
+
+    private fun renderPdfPage(renderer: PdfRenderer, index: Int): ByteArray {
+        if (index !in 0 until renderer.pageCount) throw IOException(i18n.t("Página $index inexistente", "Page $index does not exist"))
+        renderer.openPage(index).use { page ->
+            val width = pdfWidth()
+            val scale = width.toFloat() / page.width
+            val height = (page.height * scale).toInt().coerceIn(1, MAX_PDF_HEIGHT)
+            val bitmap = Bitmap.createBitmap(width, height, Bitmap.Config.ARGB_8888)
+            try {
+                Canvas(bitmap).drawColor(Color.WHITE)
+                page.render(bitmap, null, null, PdfRenderer.Page.RENDER_MODE_FOR_DISPLAY)
+                return ByteArrayOutputStream().use { out ->
+                    bitmap.compress(Bitmap.CompressFormat.JPEG, 90, out)
+                    out.toByteArray()
+                }
+            } finally {
+                bitmap.recycle()
+            }
+        }
+    }
+
+    companion object {
+        /** Dónde queda el ZIP convertido de un CBR. */
+        fun convertedZip(file: File) = File(file.path + ".zip")
+
+        private const val MAX_OPEN_PDFS = 2
+        private const val MAX_PDF_HEIGHT = 16384
+    }
+}
+
+/** Orden "natural": "Vol 2" va antes que "Vol 10". */
+object NaturalOrder : Comparator<String> {
+    private val CHUNK = Regex("""\d+|\D+""")
+
+    override fun compare(a: String, b: String): Int {
+        val ca = CHUNK.findAll(a.lowercase()).map { it.value }.toList()
+        val cb = CHUNK.findAll(b.lowercase()).map { it.value }.toList()
+        for (i in 0 until minOf(ca.size, cb.size)) {
+            val x = ca[i]
+            val y = cb[i]
+            val cmp = if (x[0].isDigit() && y[0].isDigit()) {
+                val nx = x.trimStart('0')
+                val ny = y.trimStart('0')
+                if (nx.length != ny.length) nx.length - ny.length else nx.compareTo(ny)
+            } else {
+                x.compareTo(y)
+            }
+            if (cmp != 0) return cmp
+        }
+        return ca.size - cb.size
+    }
+}

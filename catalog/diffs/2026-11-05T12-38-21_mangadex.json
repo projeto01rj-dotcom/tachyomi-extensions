@@ -1,0 +1,27 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-11-05T12:38:21Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "71307abe-e8a7-408c-8569-3318aef82e5a",
+      "title": "The Backwards House",
+      "url": "https://mangadex.org/title/71307abe-e8a7-408c-8569-3318aef82e5a"
+    },
+    {
+      "source": "mangadex",
+      "key": "d7104032-14e6-4209-8e2e-7a772d5008dd",
+      "title": "Psycho Eyes",
+      "url": "https://mangadex.org/title/d7104032-14e6-4209-8e2e-7a772d5008dd"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "607759cc-aa6a-4470-8f7c-9bbf8253b915",
+      "title": "Taika's Reason",
+      "url": "https://mangadex.org/title/607759cc-aa6a-4470-8f7c-9bbf8253b915",
+      "removed_at": "2026-11-05T12:38:21Z"
+    }
+  ]
+}

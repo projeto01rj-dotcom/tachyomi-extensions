@@ -65,23 +65,34 @@ abstract class MangaPlus : HttpSource() {
             val response = chain.proceed(prepared)
             decryptPage(response)
         }
-        .rateLimit(1) { it.host == apiHost }
+        .rateLimit(5) { it.host == apiHost }
         .build()
 
-    override fun popularMangaRequest(page: Int): Request = apiGet("title_list/rankingV2?type=hottest")
+    override fun popularMangaRequest(page: Int): Request = apiGet("title_list/allV2", includeLanguage = false)
 
     override fun popularMangaParse(response: Response): MangasPage {
-        val ranking = response.parseAsProto<MpEnvelope>().success?.ranking
-        val titles = ranking?.groups.orEmpty().flatMap { it.titles }.filterByLanguage()
-        return MangasPage(titles.map { it.toManga() }, false)
+        val titles = response.parseAsProto<MpEnvelope>().success?.allTitles?.groups.orEmpty()
+            .flatMap { group ->
+                group.titles.distinctBy(MpTitle::id).map { title ->
+                    title to group.category
+                }
+            }
+        return MangasPage(titles.map { (title, category) -> title.toManga(category) }, false)
     }
 
-    override fun latestUpdatesRequest(page: Int): Request = apiGet("web/web_homeV4")
+    override fun latestUpdatesRequest(page: Int): Request = apiGet("title_list/allV2", includeLanguage = false)
 
     override fun latestUpdatesParse(response: Response): MangasPage {
-        val updates = response.parseAsProto<MpEnvelope>().success?.home?.groups.orEmpty()
-            .flatMap { it.entries }.mapNotNull { it.title }.filterByLanguage()
-        return MangasPage(updates.map { it.toManga() }.distinctBy(SManga::url), false)
+        val catalog = response.parseAsProto<MpEnvelope>().success?.allTitles?.groups.orEmpty()
+            .flatMap { group ->
+                group.titles.distinctBy(MpTitle::id).map { title ->
+                    title to group.category
+                }
+            }
+        return MangasPage(
+            catalog.map { (title, category) -> title.toManga(category) }.distinctBy(SManga::url),
+            false,
+        )
     }
 
     override fun searchMangaRequest(page: Int, query: String, filters: FilterList): Request = apiGet("title_list/allV2", query.trim())
@@ -134,10 +145,13 @@ abstract class MangaPlus : HttpSource() {
 
     override fun imageUrlParse(response: Response): String = response.request.url.toString()
 
-    private fun apiGet(path: String, query: String? = null): Request {
-        val url = "$API_URL/$path".toHttpUrl().newBuilder()
-            .addQueryParameter("lang", apiLanguage)
-            .addQueryParameter("clang", apiLanguage)
+    private fun apiGet(path: String, query: String? = null, includeLanguage: Boolean = true): Request {
+        val url = "$API_URL/$path".toHttpUrl().newBuilder().apply {
+            if (includeLanguage) {
+                addQueryParameter("lang", apiLanguage)
+                addQueryParameter("clang", apiLanguage)
+            }
+        }
         if (!query.isNullOrBlank()) url.addQueryParameter("q", query)
         return GET(url.build(), headers)
     }
@@ -153,8 +167,8 @@ abstract class MangaPlus : HttpSource() {
         return response.newBuilder().body(decrypted.toResponseBody(mediaType.toMediaType())).build()
     }
 
-    private fun MpTitle.toManga(): SManga = SManga.create().apply {
-        title = name
+    private fun MpTitle.toManga(category: String = ""): SManga = SManga.create().apply {
+        title = category.takeIf { it.isNotBlank() }?.let { "[$it] $name" } ?: name
         author = this@toManga.author?.replace(" / ", ", ")
         artist = author
         thumbnail_url = cover

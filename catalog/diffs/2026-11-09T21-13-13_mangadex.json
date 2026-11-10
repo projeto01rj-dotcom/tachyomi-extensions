@@ -1,0 +1,95 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-11-09T21:13:13Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "136dd3fe-3e21-4fc9-b737-5bf382b9682a",
+      "title": "I Wanted to Confess to the Receptionist, but When I Went to the Guild, I Became a Hero",
+      "url": "https://mangadex.org/title/136dd3fe-3e21-4fc9-b737-5bf382b9682a"
+    },
+    {
+      "source": "mangadex",
+      "key": "65f3a784-0992-4651-8757-6e28c6a919f2",
+      "title": "The Embodiment of Sins",
+      "url": "https://mangadex.org/title/65f3a784-0992-4651-8757-6e28c6a919f2"
+    },
+    {
+      "source": "mangadex",
+      "key": "98f1e421-4dac-4c56-8392-84b5245c0540",
+      "title": "Crime Yuri Anthology",
+      "url": "https://mangadex.org/title/98f1e421-4dac-4c56-8392-84b5245c0540"
+    },
+    {
+      "source": "mangadex",
+      "key": "b23c9bb1-870e-483d-a496-0c55021c1bed",
+      "title": "Flag Capture in the First Move",
+      "url": "https://mangadex.org/title/b23c9bb1-870e-483d-a496-0c55021c1bed"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "93704d83-322c-4214-99bc-6984cf536795",
+      "title": "Kirara Hoshikita Wants to Shine!",
+      "url": "https://mangadex.org/title/93704d83-322c-4214-99bc-6984cf536795",
+      "removed_at": "2026-11-09T21:13:13Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "32dfa44f-1077-4ed2-bedc-b7707788fb1b",
+      "title": "Chiruran: Shinsengumi Requiem",
+      "url": "https://mangadex.org/title/32dfa44f-1077-4ed2-bedc-b7707788fb1b",
+      "removed_at": "2026-11-09T21:13:13Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "d7a0991d-2913-4b3c-8fb6-2b752f9e5f3a",
+      "title": "NEW GAME!",
+      "url": "https://mangadex.org/title/d7a0991d-2913-4b3c-8fb6-2b752f9e5f3a",
+      "removed_at": "2026-11-09T21:13:13Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "039d717e-9690-47fd-944d-93161b97fbac",
+      "title": "Given",
+      "url": "https://mangadex.org/title/039d717e-9690-47fd-944d-93161b97fbac",
+      "removed_at": "2026-11-09T21:13:13Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "bc430f16-299e-44fe-b04b-b0fc35f37de5",
+      "title": "Black Jack in Fifth Period",
+      "url": "https://mangadex.org/title/bc430f16-299e-44fe-b04b-b0fc35f37de5",
+      "removed_at": "2026-11-09T21:13:13Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "244b6659-9181-4b6a-b0ea-c9d846bc6a4a",
+      "title": "Something Weird with My Training Skills",
+      "url": "https://mangadex.org/title/244b6659-9181-4b6a-b0ea-c9d846bc6a4a",
+      "removed_at": "2026-11-09T21:13:13Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "b6080bba-2d95-4f4d-9f1b-5c8f671da6c4",
+      "title": "Usami-san wa Kamawaretai!",
+      "url": "https://mangadex.org/title/b6080bba-2d95-4f4d-9f1b-5c8f671da6c4",
+      "removed_at": "2026-11-09T21:13:13Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "ecf03a97-2194-4e4b-b4cd-741b98015957",
+      "title": "Kaya-chan Isn’t Scary",
+      "url": "https://mangadex.org/title/ecf03a97-2194-4e4b-b4cd-741b98015957",
+      "removed_at": "2026-11-09T21:13:13Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "67ca1083-ec62-4f66-a2f5-355a2702f6e3",
+      "title": "Only Sense Online",
+      "url": "https://mangadex.org/title/67ca1083-ec62-4f66-a2f5-355a2702f6e3",
+      "removed_at": "2026-11-09T21:13:13Z"
+    }
+  ]
+}

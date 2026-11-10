@@ -1,0 +1,40 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-11-07T22:08:00Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "1d3905b0-f8c2-4c38-8b26-5b2ff0a9516c",
+      "title": "Scatterbrained Klutz Big Sister",
+      "url": "https://mangadex.org/title/1d3905b0-f8c2-4c38-8b26-5b2ff0a9516c"
+    },
+    {
+      "source": "mangadex",
+      "key": "be0f1e7b-9316-4d94-a558-e4f1944bf95d",
+      "title": "Pink Lemonade",
+      "url": "https://mangadex.org/title/be0f1e7b-9316-4d94-a558-e4f1944bf95d"
+    },
+    {
+      "source": "mangadex",
+      "key": "cc049e8b-d766-4120-8a63-218f299686bb",
+      "title": "The Crushing Weight Of This Universe",
+      "url": "https://mangadex.org/title/cc049e8b-d766-4120-8a63-218f299686bb"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "c0592c37-bd6b-4fb3-964c-84574cd32c72",
+      "title": "I Love a Girl Like This",
+      "url": "https://mangadex.org/title/c0592c37-bd6b-4fb3-964c-84574cd32c72",
+      "removed_at": "2026-11-07T22:08:00Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "afc7a390-fba7-425c-a866-8ba52e598599",
+      "title": "All-Master Necromancer",
+      "url": "https://mangadex.org/title/afc7a390-fba7-425c-a866-8ba52e598599",
+      "removed_at": "2026-11-07T22:08:00Z"
+    }
+  ]
+}

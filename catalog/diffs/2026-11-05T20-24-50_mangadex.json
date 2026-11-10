@@ -1,0 +1,93 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-11-05T20:24:50Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "068dd877-6d58-4063-abba-9bdcc25cc8bb",
+      "title": "Touhou - Himitsu Abaki (Doujinshi)",
+      "url": "https://mangadex.org/title/068dd877-6d58-4063-abba-9bdcc25cc8bb"
+    },
+    {
+      "source": "mangadex",
+      "key": "17ce37ea-1cda-4429-b062-c4b627814225",
+      "title": "Seraph of the End",
+      "url": "https://mangadex.org/title/17ce37ea-1cda-4429-b062-c4b627814225"
+    },
+    {
+      "source": "mangadex",
+      "key": "701e67c9-45b2-459b-a517-a0cb9865def8",
+      "title": "Sazae-san",
+      "url": "https://mangadex.org/title/701e67c9-45b2-459b-a517-a0cb9865def8"
+    },
+    {
+      "source": "mangadex",
+      "key": "aad49338-f170-4529-b8a9-086895ae3254",
+      "title": "The Strongest 10-Year-Old Magician",
+      "url": "https://mangadex.org/title/aad49338-f170-4529-b8a9-086895ae3254"
+    },
+    {
+      "source": "mangadex",
+      "key": "adce0aea-3f6d-4fd2-9902-1107f59f94da",
+      "title": "The Diary of a Sage Around 40 Living in Another World",
+      "url": "https://mangadex.org/title/adce0aea-3f6d-4fd2-9902-1107f59f94da"
+    },
+    {
+      "source": "mangadex",
+      "key": "ade0306c-f4b6-4890-9edb-1ddf04df2039",
+      "title": "Solo Leveling: Ragnarok",
+      "url": "https://mangadex.org/title/ade0306c-f4b6-4890-9edb-1ddf04df2039"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "90243dd4-800c-472c-bebb-2f9ea7336176",
+      "title": "Salamander",
+      "url": "https://mangadex.org/title/90243dd4-800c-472c-bebb-2f9ea7336176",
+      "removed_at": "2026-11-05T20:24:50Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "1aae2bd3-1ae1-427a-b49e-a5d76e5d2c41",
+      "title": "Discommunication",
+      "url": "https://mangadex.org/title/1aae2bd3-1ae1-427a-b49e-a5d76e5d2c41",
+      "removed_at": "2026-11-05T20:24:50Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "511d3218-df57-4cab-8510-d88a5a96a951",
+      "title": "49th Confession",
+      "url": "https://mangadex.org/title/511d3218-df57-4cab-8510-d88a5a96a951",
+      "removed_at": "2026-11-05T20:24:50Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "95199bdb-35d5-43b5-85d6-3970652420f7",
+      "title": "Pink",
+      "url": "https://mangadex.org/title/95199bdb-35d5-43b5-85d6-3970652420f7",
+      "removed_at": "2026-11-05T20:24:50Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "d6984e76-1c25-4fe6-855d-8e57f2752095",
+      "title": "ZUKYUN X BAKYUN",
+      "url": "https://mangadex.org/title/d6984e76-1c25-4fe6-855d-8e57f2752095",
+      "removed_at": "2026-11-05T20:24:50Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "da25c95f-e062-48ea-b5a0-9b51aeeddc05",
+      "title": "Books Bought With Taxes",
+      "url": "https://mangadex.org/title/da25c95f-e062-48ea-b5a0-9b51aeeddc05",
+      "removed_at": "2026-11-05T20:24:50Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "c353cd64-d95c-4b98-b5f4-4aae9368f50a",
+      "title": "Keep an Eye on You",
+      "url": "https://mangadex.org/title/c353cd64-d95c-4b98-b5f4-4aae9368f50a",
+      "removed_at": "2026-11-05T20:24:50Z"
+    }
+  ]
+}

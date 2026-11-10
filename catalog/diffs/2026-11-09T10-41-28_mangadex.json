@@ -1,0 +1,51 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-11-09T10:41:28Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "10227f74-9134-4262-b01d-8966bc149c4d",
+      "title": "She Professed Herself Pupil of the Wise Man",
+      "url": "https://mangadex.org/title/10227f74-9134-4262-b01d-8966bc149c4d"
+    },
+    {
+      "source": "mangadex",
+      "key": "2e2a0b88-32f9-4f59-a46c-f71066e4bcbd",
+      "title": "Spring Returns to Aoi's Room",
+      "url": "https://mangadex.org/title/2e2a0b88-32f9-4f59-a46c-f71066e4bcbd"
+    },
+    {
+      "source": "mangadex",
+      "key": "3bce4841-9f35-4a68-b10a-7403777cf0d9",
+      "title": "The Day of Salvation",
+      "url": "https://mangadex.org/title/3bce4841-9f35-4a68-b10a-7403777cf0d9"
+    },
+    {
+      "source": "mangadex",
+      "key": "9510e82e-cfbe-4dda-823e-e3576420c732",
+      "title": "Song of the Long March",
+      "url": "https://mangadex.org/title/9510e82e-cfbe-4dda-823e-e3576420c732"
+    },
+    {
+      "source": "mangadex",
+      "key": "d7f927c8-c1f5-474e-bb3d-57da04be7662",
+      "title": "The Red Ranger Becomes an Adventurer in Another World",
+      "url": "https://mangadex.org/title/d7f927c8-c1f5-474e-bb3d-57da04be7662"
+    },
+    {
+      "source": "mangadex",
+      "key": "eb0a8dbe-4c24-4b54-baf8-cd4d69470f40",
+      "title": "The Useless Brother is Now the Strongest: The Mighty Brave is Reincarnated and Nonchalantly Rules over the Academy",
+      "url": "https://mangadex.org/title/eb0a8dbe-4c24-4b54-baf8-cd4d69470f40"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "be0f1e7b-9316-4d94-a558-e4f1944bf95d",
+      "title": "Pink Lemonade",
+      "url": "https://mangadex.org/title/be0f1e7b-9316-4d94-a558-e4f1944bf95d",
+      "removed_at": "2026-11-09T10:41:28Z"
+    }
+  ]
+}

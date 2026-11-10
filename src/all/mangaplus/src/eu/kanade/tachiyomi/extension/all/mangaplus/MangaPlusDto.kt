@@ -17,6 +17,7 @@ class MpSuccess(
     @ProtoNumber(35) val typedTitles: MpTypedTitles? = null,
     @ProtoNumber(37) val ranking: MpRanking? = null,
     @ProtoNumber(38) val home: MpHome? = null,
+    @ProtoNumber(22) val updatedTitles: MpUpdatedTitleList? = null,
 )
 
 @Serializable
@@ -41,7 +42,10 @@ class MpRankGroup(@ProtoNumber(2) val titles: List<MpTitle> = emptyList())
 class MpAllTitles(@ProtoNumber(1) val groups: List<MpTitleGroup> = emptyList())
 
 @Serializable
-class MpTitleGroup(@ProtoNumber(2) val titles: List<MpTitle> = emptyList())
+class MpTitleGroup(
+    @ProtoNumber(1) val category: String = "",
+    @ProtoNumber(2) val titles: List<MpTitle> = emptyList(),
+)
 
 @Serializable
 class MpTypedTitles(
@@ -59,15 +63,19 @@ class MpTypedTitle(
 class MpHome(@ProtoNumber(2) val groups: List<MpUpdateGroup> = emptyList())
 
 @Serializable
-class MpUpdateGroup(@ProtoNumber(2) val entries: List<MpUpdateEntry> = emptyList())
+class MpUpdateGroup(@ProtoNumber(2) val titleGroups: List<MpOriginalTitleGroup> = emptyList())
 
 @Serializable
-class MpUpdateEntry(@ProtoNumber(3) private val latest: MpLatest? = null) {
-    val title: MpTitle? get() = latest?.title
-}
+class MpOriginalTitleGroup(@ProtoNumber(3) val titles: List<MpUpdatedTitle> = emptyList())
 
 @Serializable
-class MpLatest(@ProtoNumber(1) val title: MpTitle)
+class MpUpdatedTitle(@ProtoNumber(1) val title: MpTitle? = null)
+
+@Serializable
+class MpUpdatedTitleList(@ProtoNumber(1) val groups: List<MpUpdatedTitleGroup> = emptyList())
+
+@Serializable
+class MpUpdatedTitleGroup(@ProtoNumber(2) val titles: List<MpUpdatedTitle> = emptyList())
 
 @Serializable
 class MpTitle(

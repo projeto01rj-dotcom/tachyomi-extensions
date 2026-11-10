@@ -1,0 +1,66 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-11-07T13:40:21Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "0296dc0b-7635-4154-927a-33c2244c4503",
+      "title": "My Youth Romantic Comedy Is Wrong As I Expected. - Monologue",
+      "url": "https://mangadex.org/title/0296dc0b-7635-4154-927a-33c2244c4503"
+    },
+    {
+      "source": "mangadex",
+      "key": "34997c42-1e61-4723-8395-0bbfc1d4c279",
+      "title": "The Master of Ragnarok & Blesser of Einherjar",
+      "url": "https://mangadex.org/title/34997c42-1e61-4723-8395-0bbfc1d4c279"
+    },
+    {
+      "source": "mangadex",
+      "key": "757527a8-0509-4088-9bf2-32972b30e841",
+      "title": "One Week Family",
+      "url": "https://mangadex.org/title/757527a8-0509-4088-9bf2-32972b30e841"
+    },
+    {
+      "source": "mangadex",
+      "key": "790f5f8d-0f9a-4f4b-92b3-9ac15f892b34",
+      "title": "Backstabbed in a Backwater Dungeon: My Party Tried to Kill Me, But Thanks to an Infinite Gacha I Got LVL 9999 Friends and Am Out For Revenge",
+      "url": "https://mangadex.org/title/790f5f8d-0f9a-4f4b-92b3-9ac15f892b34"
+    },
+    {
+      "source": "mangadex",
+      "key": "bd06f7fd-1bfa-4912-9d0e-f8655f54a1e0",
+      "title": "Total Eclipse of the Eternal Heart",
+      "url": "https://mangadex.org/title/bd06f7fd-1bfa-4912-9d0e-f8655f54a1e0"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "064b16a9-1199-4e00-a41f-cc51e44b002a",
+      "title": "Proof of Dignity",
+      "url": "https://mangadex.org/title/064b16a9-1199-4e00-a41f-cc51e44b002a",
+      "removed_at": "2026-11-07T13:40:21Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "1116ca63-ca60-46b4-8161-908749a1c2fb",
+      "title": "Flowering Harbor",
+      "url": "https://mangadex.org/title/1116ca63-ca60-46b4-8161-908749a1c2fb",
+      "removed_at": "2026-11-07T13:40:21Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "2fd69f1c-c09a-41ff-aaaa-49bd3302a78e",
+      "title": "Haven’t You Heard? I’m Sakamoto",
+      "url": "https://mangadex.org/title/2fd69f1c-c09a-41ff-aaaa-49bd3302a78e",
+      "removed_at": "2026-11-07T13:40:21Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "f052fabc-7687-4140-ba3a-22e43009cd3d",
+      "title": "Oni (KANNO Osamu)",
+      "url": "https://mangadex.org/title/f052fabc-7687-4140-ba3a-22e43009cd3d",
+      "removed_at": "2026-11-07T13:40:21Z"
+    }
+  ]
+}
