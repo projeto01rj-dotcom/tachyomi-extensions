@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-11-09T21:13:13Z",
+  "updated_at": "2026-11-10T03:40:53Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -14207,9 +14207,10 @@
       "title": "Another",
       "url": "https://mangadex.org/title/c40bf165-81fa-499f-b368-48b353a968df",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-03T22:52:15Z",
-      "removed_at": null
+      "removed_at": "2026-11-10T03:40:53Z",
+      "removed_by_source": true
     },
     "ecf03a97-2194-4e4b-b4cd-741b98015957": {
       "title": "Kaya-chan Isn’t Scary",
@@ -14224,9 +14225,10 @@
       "title": "Maju Battlefront",
       "url": "https://mangadex.org/title/f2096f50-eda1-47a6-9741-9fad97ca08d1",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-03T22:52:15Z",
-      "removed_at": null
+      "removed_at": "2026-11-10T03:40:53Z",
+      "removed_by_source": true
     },
     "67ca1083-ec62-4f66-a2f5-355a2702f6e3": {
       "title": "Only Sense Online",
@@ -14790,6 +14792,38 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-11-09T21:13:13Z",
+      "removed_at": null
+    },
+    "0a29b87c-f6eb-4e6d-98b4-3cd8adb3ab8f": {
+      "title": "A Former Assassin Was Reborn as a Blue-Blooded Daughter",
+      "url": "https://mangadex.org/title/0a29b87c-f6eb-4e6d-98b4-3cd8adb3ab8f",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-10T03:40:53Z",
+      "removed_at": null
+    },
+    "0c1d035d-17d0-4bc3-9b05-a1ce313bb53f": {
+      "title": "Yomoyama Kobanashi",
+      "url": "https://mangadex.org/title/0c1d035d-17d0-4bc3-9b05-a1ce313bb53f",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-10T03:40:53Z",
+      "removed_at": null
+    },
+    "240f036e-d6ba-46a9-b990-fd06c47319f6": {
+      "title": "Degausser",
+      "url": "https://mangadex.org/title/240f036e-d6ba-46a9-b990-fd06c47319f6",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-10T03:40:53Z",
+      "removed_at": null
+    },
+    "67e79cef-5367-4977-bbbe-e47925cbc855": {
+      "title": "Femme fatale's Salvation",
+      "url": "https://mangadex.org/title/67e79cef-5367-4977-bbbe-e47925cbc855",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-10T03:40:53Z",
       "removed_at": null
     }
   }
