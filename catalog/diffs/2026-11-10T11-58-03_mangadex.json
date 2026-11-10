@@ -1,0 +1,42 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-11-10T11:58:03Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "ac0e6974-8555-4637-93fe-bd3a78104923",
+      "title": "The World God Only Knows",
+      "url": "https://mangadex.org/title/ac0e6974-8555-4637-93fe-bd3a78104923"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "36e2b9c7-1f4b-4b0d-bd21-ae294fed986f",
+      "title": "It’s Reasonable to Use a Butcher Knife to Chop Down Everything in the World, Right?",
+      "url": "https://mangadex.org/title/36e2b9c7-1f4b-4b0d-bd21-ae294fed986f",
+      "removed_at": "2026-11-10T11:58:03Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "1f9d02c1-8d04-4a27-a1ff-2b0bf782b9ef",
+      "title": "The Thread User of the Shichijou Family: The Genius Sorcerer Who Wants to Live Normally Starts Exterminating Youkai With an Uninvited Apprentice",
+      "url": "https://mangadex.org/title/1f9d02c1-8d04-4a27-a1ff-2b0bf782b9ef",
+      "removed_at": "2026-11-10T11:58:03Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "274a8e39-71a8-4bd2-af19-4572518fe44f",
+      "title": "Leviathan",
+      "url": "https://mangadex.org/title/274a8e39-71a8-4bd2-af19-4572518fe44f",
+      "removed_at": "2026-11-10T11:58:03Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "cf923481-1e96-4959-b3c1-9518718a4cc2",
+      "title": "Ore no Kokan wa Bishoujo Datta no ka",
+      "url": "https://mangadex.org/title/cf923481-1e96-4959-b3c1-9518718a4cc2",
+      "removed_at": "2026-11-10T11:58:03Z"
+    }
+  ]
+}
