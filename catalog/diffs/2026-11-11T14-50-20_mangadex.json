@@ -1,0 +1,74 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-11-11T14:50:20Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "30d61f7f-b018-45df-a2fb-570089084214",
+      "title": "Sem título",
+      "url": "https://mangadex.org/title/30d61f7f-b018-45df-a2fb-570089084214"
+    },
+    {
+      "source": "mangadex",
+      "key": "34d1f553-fc45-417e-b314-28134942a539",
+      "title": "Falling for Her Secret Side",
+      "url": "https://mangadex.org/title/34d1f553-fc45-417e-b314-28134942a539"
+    },
+    {
+      "source": "mangadex",
+      "key": "73965527-b393-4f65-9bc3-2439ec44935a",
+      "title": "That Time I Was Blackmailed By the Class's Green Tea Bitch",
+      "url": "https://mangadex.org/title/73965527-b393-4f65-9bc3-2439ec44935a"
+    },
+    {
+      "source": "mangadex",
+      "key": "9a901eb2-94f6-4761-97fe-de211050b344",
+      "title": "Red River",
+      "url": "https://mangadex.org/title/9a901eb2-94f6-4761-97fe-de211050b344"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "62b74aa6-24df-4b91-b76d-39e7ab3c3ca5",
+      "title": "REAL",
+      "url": "https://mangadex.org/title/62b74aa6-24df-4b91-b76d-39e7ab3c3ca5",
+      "removed_at": "2026-11-11T14:50:20Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "de471fb4-80d0-406f-a5e3-1bfa88a15136",
+      "title": "The Distinguished Cute Master",
+      "url": "https://mangadex.org/title/de471fb4-80d0-406f-a5e3-1bfa88a15136",
+      "removed_at": "2026-11-11T14:50:20Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "068dd877-6d58-4063-abba-9bdcc25cc8bb",
+      "title": "Touhou - Himitsu Abaki (Doujinshi)",
+      "url": "https://mangadex.org/title/068dd877-6d58-4063-abba-9bdcc25cc8bb",
+      "removed_at": "2026-11-11T14:50:20Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "701e67c9-45b2-459b-a517-a0cb9865def8",
+      "title": "Sazae-san",
+      "url": "https://mangadex.org/title/701e67c9-45b2-459b-a517-a0cb9865def8",
+      "removed_at": "2026-11-11T14:50:20Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "aad49338-f170-4529-b8a9-086895ae3254",
+      "title": "The Strongest 10-Year-Old Magician",
+      "url": "https://mangadex.org/title/aad49338-f170-4529-b8a9-086895ae3254",
+      "removed_at": "2026-11-11T14:50:20Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "4fd144b8-fc47-4cf4-afc7-9191d88dcc4a",
+      "title": "I, a Tired Office Worker, Start Living Together with a Beautiful Highschool Girl whom I Met Again After 7 Years",
+      "url": "https://mangadex.org/title/4fd144b8-fc47-4cf4-afc7-9191d88dcc4a",
+      "removed_at": "2026-11-11T14:50:20Z"
+    }
+  ]
+}
