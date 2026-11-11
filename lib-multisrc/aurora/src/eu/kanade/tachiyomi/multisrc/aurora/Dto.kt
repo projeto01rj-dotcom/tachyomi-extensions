@@ -4,7 +4,11 @@ import eu.kanade.tachiyomi.source.model.SChapter
 import eu.kanade.tachiyomi.source.model.SManga
 import kotlinx.serialization.SerialName
 import kotlinx.serialization.Serializable
+import kotlinx.serialization.json.JsonElement
 import kotlinx.serialization.json.JsonNames
+import kotlinx.serialization.json.JsonObject
+import kotlinx.serialization.json.JsonPrimitive
+import kotlinx.serialization.json.jsonPrimitive
 import java.text.SimpleDateFormat
 import java.util.Locale
 
@@ -34,14 +38,14 @@ class MangaDto(
     @JsonNames("url") val slug: String,
     val type: String? = null,
     val description: String? = null,
-    val author: Value? = null,
+    val author: JsonElement? = null,
     val genre: List<String> = emptyList(),
 ) {
     fun toSManga() = SManga.create().apply {
         title = this@MangaDto.title
         thumbnail_url = normalizeSiteUrl(coverUrl)
         description = this@MangaDto.description
-        author = this@MangaDto.author?.name
+        author = this@MangaDto.author?.asAuthorName()
         genre = this@MangaDto.genre.joinToString()
 
         val path = slug.substringAfter("//", slug).substringAfter("/").substringBefore("?").trim('/')
@@ -57,8 +61,11 @@ class MangaDto(
     }
 }
 
-@Serializable
-class Value(val name: String = "")
+private fun JsonElement.asAuthorName(): String? = when (this) {
+    is JsonPrimitive -> content
+    is JsonObject -> this["name"]?.jsonPrimitive?.content
+    else -> null
+}
 
 @Serializable
 class ChapterListDto(
