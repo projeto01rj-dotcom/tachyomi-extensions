@@ -22,16 +22,16 @@ fun normalizeSiteUrl(value: String?): String? {
 
 @Serializable
 class SeriesDto(
-    @JsonNames("updates") val series: List<MangaDto> = emptyList(),
+    @JsonNames("updates") val series: List<MangaDto>,
 ) {
     fun toSMangaList(): List<SManga> = series.map { it.toSManga() }
 }
 
 @Serializable
 class MangaDto(
-    @JsonNames("name") val title: String = "",
+    @JsonNames("name") val title: String,
     @JsonNames("image") val coverUrl: String? = null,
-    @JsonNames("url") val slug: String = "",
+    @JsonNames("url") val slug: String,
     val type: String? = null,
     val description: String? = null,
     val author: Value? = null,
@@ -62,16 +62,16 @@ class Value(val name: String = "")
 
 @Serializable
 class ChapterListDto(
-    @JsonNames("slug") val serieSlug: String = "",
-    val chapters: List<ChapterDto> = emptyList(),
+    @JsonNames("slug") val serieSlug: String,
+    val chapters: List<ChapterDto>,
 ) {
     fun toSChapterList(mangaPath: String): List<SChapter> = chapters.map { it.toSChapter(mangaPath) }
 }
 
 @Serializable
 class ChapterDto(
-    val id: String = "",
-    val number: String = "",
+    val id: String,
+    val number: String,
     @SerialName("releaseDate") val releaseDate: String? = null,
 ) {
     fun toSChapter(mangaPath: String) = SChapter.create().apply {
@@ -84,13 +84,13 @@ class ChapterDto(
 }
 
 @Serializable
-class PagesDto(val pages: List<ImageDto> = emptyList())
+class PagesDto(val pages: List<ImageDto>)
 
 @Serializable
-class ImageDto(val url: String = "")
+class ImageDto(val url: String)
 
 @Serializable
-class KeyDto(val k: String = "")
+class KeyDto(val k: String)
 
 private fun parseDate(value: String?): Long {
     if (value.isNullOrBlank()) return 0L
