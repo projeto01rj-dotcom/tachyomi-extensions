@@ -190,7 +190,10 @@ abstract class Aurora : HttpSource() {
             .set("Referer", getChapterUrl(chapter))
             .set("Accept", "*/*")
             .set("rsc", "1")
-            .set("next-url", chapter.url.substringBefore("?").trimEnd('/'))
+            .set(
+                "next-url",
+                getChapterUrl(chapter).substringAfter(baseUrl).substringBefore("?").trimEnd('/'),
+            )
             .set("Sec-Fetch-Dest", "empty")
             .set("Sec-Fetch-Mode", "cors")
             .set("Sec-Fetch-Site", "same-origin")
@@ -199,21 +202,9 @@ abstract class Aurora : HttpSource() {
     )
 
     override fun pageListParse(response: Response): List<Page> {
-        val body = response.body!!.string()
-        val document = Jsoup.parse(body, response.request.url.toString())
-        val payloads = document.extractNextJs<PagesDto>()?.pages.orEmpty()
-        if (payloads.isNotEmpty()) {
-            return payloads.mapIndexed { index, payload ->
-                Page(index, imageUrl = decrypt(payload.url, getKey(payload.url)))
-            }
-        }
-        return document.select("img[src], img[data-src]").mapIndexedNotNull { index, image ->
-            val url = normalizeSiteUrl(
-                image.attr("abs:src").ifBlank {
-                    image.attr("abs:data-src").ifBlank { image.attr("data-lazy-src") }
-                },
-            )
-            url?.takeIf { it.isNotBlank() }?.let { Page(index, imageUrl = it) }
+        val payloads = response.extractNextJs<PagesDto>()?.pages.orEmpty()
+        return payloads.mapIndexed { index, payload ->
+            Page(index, imageUrl = decrypt(payload.url, getKey(payload.url)))
         }
     }
 
