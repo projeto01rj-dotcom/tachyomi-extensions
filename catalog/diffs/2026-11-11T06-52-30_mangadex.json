@@ -1,0 +1,87 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-11-11T06:52:30Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "5ab3c84f-f1c7-43f6-927d-595bd43895e5",
+      "title": "Bride of the Barrier Master",
+      "url": "https://mangadex.org/title/5ab3c84f-f1c7-43f6-927d-595bd43895e5"
+    },
+    {
+      "source": "mangadex",
+      "key": "5ed1f8fc-a119-4cbc-aeae-26ce2bd3f838",
+      "title": "JoJo's Bizarre Adventure Part 4: Josuke Higashikata",
+      "url": "https://mangadex.org/title/5ed1f8fc-a119-4cbc-aeae-26ce2bd3f838"
+    },
+    {
+      "source": "mangadex",
+      "key": "7fd905ef-329b-4ec7-88bc-6a983c213353",
+      "title": "Nura: Rise of the Yokai Clan",
+      "url": "https://mangadex.org/title/7fd905ef-329b-4ec7-88bc-6a983c213353"
+    },
+    {
+      "source": "mangadex",
+      "key": "f7f430ab-2c24-49d3-b698-c9ff4787805b",
+      "title": "Sem título",
+      "url": "https://mangadex.org/title/f7f430ab-2c24-49d3-b698-c9ff4787805b"
+    },
+    {
+      "source": "mangadex",
+      "key": "fbb92940-e363-4dbb-8bad-0220a5a7512d",
+      "title": "Amon Saga: Prince of the Moon",
+      "url": "https://mangadex.org/title/fbb92940-e363-4dbb-8bad-0220a5a7512d"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "35924437-c801-4b80-b668-c893473d6344",
+      "title": "Isekai Harry Potter",
+      "url": "https://mangadex.org/title/35924437-c801-4b80-b668-c893473d6344",
+      "removed_at": "2026-11-11T06:52:30Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "e41721c0-f7cf-49c1-9712-8543e1ea7c99",
+      "title": "Witch Hunter",
+      "url": "https://mangadex.org/title/e41721c0-f7cf-49c1-9712-8543e1ea7c99",
+      "removed_at": "2026-11-11T06:52:30Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "86983879-a9ed-4b91-8f7e-be1cbc57baaa",
+      "title": "Yandere-chan Is Scary",
+      "url": "https://mangadex.org/title/86983879-a9ed-4b91-8f7e-be1cbc57baaa",
+      "removed_at": "2026-11-11T06:52:30Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "5ef4e73e-6fbc-456b-b7e1-4642256f666d",
+      "title": "Re:ZERO -Starting Life in Another World-, Chapter 1: A Day in the Capital",
+      "url": "https://mangadex.org/title/5ef4e73e-6fbc-456b-b7e1-4642256f666d",
+      "removed_at": "2026-11-11T06:52:30Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "d7104032-14e6-4209-8e2e-7a772d5008dd",
+      "title": "Psycho Eyes",
+      "url": "https://mangadex.org/title/d7104032-14e6-4209-8e2e-7a772d5008dd",
+      "removed_at": "2026-11-11T06:52:30Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "17ce37ea-1cda-4429-b062-c4b627814225",
+      "title": "Seraph of the End",
+      "url": "https://mangadex.org/title/17ce37ea-1cda-4429-b062-c4b627814225",
+      "removed_at": "2026-11-11T06:52:30Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "adce0aea-3f6d-4fd2-9902-1107f59f94da",
+      "title": "The Diary of a Sage Around 40 Living in Another World",
+      "url": "https://mangadex.org/title/adce0aea-3f6d-4fd2-9902-1107f59f94da",
+      "removed_at": "2026-11-11T06:52:30Z"
+    }
+  ]
+}
