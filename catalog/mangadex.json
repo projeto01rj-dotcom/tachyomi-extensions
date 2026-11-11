@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-11-10T19:22:24Z",
+  "updated_at": "2026-11-11T00:08:30Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -14314,17 +14314,19 @@
       "title": "A Succubus Just Wants to Fall in Love!",
       "url": "https://mangadex.org/title/48fa366c-d1dd-49c1-8900-a805d8cdb301",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-04T23:49:47Z",
-      "removed_at": null
+      "removed_at": "2026-11-11T00:08:30Z",
+      "removed_by_source": true
     },
     "99f7458e-c881-4544-ae05-59701b226988": {
       "title": "The Otaku Love Connection",
       "url": "https://mangadex.org/title/99f7458e-c881-4544-ae05-59701b226988",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-04T23:49:47Z",
-      "removed_at": null
+      "removed_at": "2026-11-11T00:08:30Z",
+      "removed_by_source": true
     },
     "9faba8cf-60df-4894-9370-22571592c8d3": {
       "title": "The Blue Star on That Day",
@@ -14856,6 +14858,22 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-11-10T19:22:24Z",
+      "removed_at": null
+    },
+    "382871e2-8b72-4381-8a92-52d1dd53f231": {
+      "title": "Charisma - Charisma na Karera wa Charisma House de Karizumai-chuu",
+      "url": "https://mangadex.org/title/382871e2-8b72-4381-8a92-52d1dd53f231",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-11T00:08:30Z",
+      "removed_at": null
+    },
+    "39299774-f33e-47c0-89d5-9fc12621e893": {
+      "title": "Mahoutsukai no Yoru",
+      "url": "https://mangadex.org/title/39299774-f33e-47c0-89d5-9fc12621e893",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-11T00:08:30Z",
       "removed_at": null
     }
   }
