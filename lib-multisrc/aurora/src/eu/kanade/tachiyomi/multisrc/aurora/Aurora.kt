@@ -69,8 +69,7 @@ abstract class Aurora : HttpSource() {
 
     private fun parseSeries(response: Response): MangasPage {
         val document = Jsoup.parse(response.body!!.string(), response.request.url.toString())
-        val nextJs = document.extractNextJs<SeriesDto>()?.toSMangaList()
-        if (!nextJs.isNullOrEmpty()) return MangasPage(nextJs, false)
+        val nextJs = document.extractNextJs<SeriesDto>()?.toSMangaList().orEmpty()
         val fallback = document.select("a[href^=/manga/], a[href^=/manhwa/], a[href^=/manhua/]")
             .mapNotNull { element ->
                 val href = element.attr("href").substringBefore("?").trimEnd('/')
@@ -94,7 +93,12 @@ abstract class Aurora : HttpSource() {
                 }
             }
             .distinctBy { it.url }
-        return MangasPage(fallback, false)
+        return MangasPage(
+            (nextJs + fallback)
+                .filter { it.url.isNotBlank() && it.url != "/manga/" }
+                .distinctBy { it.url },
+            false,
+        )
     }
 
     override fun getMangaUrl(manga: SManga): String = "$baseUrl${manga.url}"
@@ -103,12 +107,25 @@ abstract class Aurora : HttpSource() {
 
     override fun mangaDetailsParse(response: Response): SManga {
         val document = Jsoup.parse(response.body!!.string(), response.request.url.toString())
-        return document.extractNextJs<MangaDto>()?.toSManga()
-            ?: SManga.create().apply {
-                title = document.selectFirst("h1")?.text().orEmpty()
-                description = document.selectFirst("meta[name=description]")?.attr("content")
-                thumbnail_url = document.selectFirst("meta[property='og:image']")?.attr("content")
-            }
+        val manga = document.extractNextJs<MangaDto>()?.toSManga() ?: SManga.create()
+        if (manga.title.isBlank()) manga.title = document.selectFirst("h1")?.text().orEmpty()
+        if (manga.description.isNullOrBlank()) {
+            manga.description = document.selectFirst(".description-summary, .summary_content, meta[name=description]")
+                ?.let { it.attr("content").ifBlank { it.text() } }
+        }
+        if (manga.thumbnail_url.isNullOrBlank()) {
+            manga.thumbnail_url = normalizeSiteUrl(
+                document.selectFirst(".summary_image img, .tab-summary img, meta[property='og:image']")
+                    ?.let { it.attr("abs:src").ifBlank { it.attr("content") } },
+            )
+        }
+        if (manga.author.isNullOrBlank()) {
+            manga.author = document.selectFirst(".author-content a, .author-content")?.text()?.trim()
+        }
+        if (manga.genre.isNullOrBlank()) {
+            manga.genre = document.select(".genres-content a, .genres-content").joinToString { it.text().trim() }
+        }
+        return manga
     }
 
     override fun chapterListRequest(manga: SManga): Request = GET(getMangaUrl(manga), headers)
@@ -118,9 +135,9 @@ abstract class Aurora : HttpSource() {
         val mangaPath = response.request.url.encodedPath.trimEnd('/')
         val nextJs = document.extractNextJs<ChapterListDto>()?.toSChapterList(mangaPath)
         if (!nextJs.isNullOrEmpty()) return nextJs
-        return document.select("a[href*=/capitulo], a[href*=/ler/]").mapNotNull { element ->
+        return document.select(".wp-manga-chapters-holder a, a[href*=/capitulo], a[href*=/ler/]").mapNotNull { element ->
             val href = element.attr("href").substringBefore("?").trimEnd('/')
-            val name = element.text().trim()
+            val name = element.text().trim().ifBlank { href.substringAfterLast('/').replace('-', ' ') }
             if (href.isBlank() || name.isBlank()) {
                 null
             } else {

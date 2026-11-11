@@ -48,10 +48,10 @@ class MangaDto(
         val parts = path.split('/').filter { it.isNotBlank() }
         val detectedType = type?.takeIf { it.isNotBlank() }
             ?: parts.firstOrNull()?.takeIf { it in setOf("manga", "manhwa", "manhua") }
-        val cleanSlug = if (detectedType != null) {
+        val cleanSlug = if (detectedType != null && parts.firstOrNull() == detectedType) {
             parts.drop(1).joinToString("/")
         } else {
-            parts.lastOrNull().orEmpty()
+            parts.joinToString("/")
         }
         url = "/${detectedType ?: "manga"}/$cleanSlug"
     }
