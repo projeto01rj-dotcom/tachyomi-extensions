@@ -8,6 +8,18 @@ import kotlinx.serialization.json.JsonNames
 import java.text.SimpleDateFormat
 import java.util.Locale
 
+private const val SITE_BASE_URL = "https://leitordemangas.com"
+
+fun normalizeSiteUrl(value: String?): String? {
+    val url = value?.trim().orEmpty()
+    if (url.isBlank()) return null
+    return when {
+        url.startsWith("//") -> "https:$url"
+        url.startsWith("http://") || url.startsWith("https://") -> url
+        else -> "$SITE_BASE_URL/${url.trimStart('/')}"
+    }
+}
+
 @Serializable
 class SeriesDto(
     @JsonNames("updates") val series: List<MangaDto> = emptyList(),
@@ -27,12 +39,21 @@ class MangaDto(
 ) {
     fun toSManga() = SManga.create().apply {
         title = this@MangaDto.title
-        thumbnail_url = coverUrl
+        thumbnail_url = normalizeSiteUrl(coverUrl)
         description = this@MangaDto.description
         author = this@MangaDto.author?.name
         genre = this@MangaDto.genre.joinToString()
-        val cleanSlug = slug.substringAfterLast("/").trim('/').ifBlank { slug }
-        url = "/${type ?: "manga"}/$cleanSlug"
+
+        val path = slug.substringAfter("//", slug).substringAfter("/").substringBefore("?").trim('/')
+        val parts = path.split('/').filter { it.isNotBlank() }
+        val detectedType = type?.takeIf { it.isNotBlank() }
+            ?: parts.firstOrNull()?.takeIf { it in setOf("manga", "manhwa", "manhua") }
+        val cleanSlug = if (detectedType != null) {
+            parts.drop(1).joinToString("/")
+        } else {
+            parts.lastOrNull().orEmpty()
+        }
+        url = "/${detectedType ?: "manga"}/$cleanSlug"
     }
 }
 
@@ -44,7 +65,7 @@ class ChapterListDto(
     @JsonNames("slug") val serieSlug: String = "",
     val chapters: List<ChapterDto> = emptyList(),
 ) {
-    fun toSChapterList(mangaPath: String): List<SChapter> = chapters.map { it.toSChapter(mangaPath, serieSlug) }
+    fun toSChapterList(mangaPath: String): List<SChapter> = chapters.map { it.toSChapter(mangaPath) }
 }
 
 @Serializable
@@ -53,11 +74,12 @@ class ChapterDto(
     val number: String = "",
     @SerialName("releaseDate") val releaseDate: String? = null,
 ) {
-    fun toSChapter(mangaPath: String, serieSlug: String) = SChapter.create().apply {
-        name = "Capítulo ${number.ifBlank { id }}"
-        chapter_number = number.toFloatOrNull() ?: -1f
+    fun toSChapter(mangaPath: String) = SChapter.create().apply {
+        val chapter = number.ifBlank { id }
+        name = "Capítulo $chapter"
+        chapter_number = chapter.toFloatOrNull() ?: -1f
         date_upload = parseDate(releaseDate)
-        url = "${mangaPath.trimEnd('/')}/${id.trimStart('/')}"
+        url = "${mangaPath.trimEnd('/')}/${chapter.trimStart('/')}"
     }
 }
 

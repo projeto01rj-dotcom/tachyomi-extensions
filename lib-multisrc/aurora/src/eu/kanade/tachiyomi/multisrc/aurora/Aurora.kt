@@ -83,7 +83,13 @@ abstract class Aurora : HttpSource() {
                     SManga.create().apply {
                         url = href
                         this.title = title
-                        thumbnail_url = element.selectFirst("img")?.let { it.attr("abs:src").ifBlank { it.attr("data-src") } }
+                        thumbnail_url = element.selectFirst("img")?.let {
+                            normalizeSiteUrl(
+                                it.attr("abs:src").ifBlank {
+                                    it.attr("data-src").ifBlank { it.attr("data-lazy-src") }
+                                },
+                            )
+                        }
                     }
                 }
             }
@@ -133,21 +139,31 @@ abstract class Aurora : HttpSource() {
         getChapterUrl(chapter),
         headers.newBuilder()
             .add("Referer", getChapterUrl(chapter))
-            .add("X-Mihon-Reader", "public")
+            .add("Accept", "text/x-component")
+            .add("rsc", "1")
+            .add("next-url", chapter.url.substringBeforeLast('/'))
+            .add("Sec-Fetch-Dest", "empty")
+            .add("Sec-Fetch-Mode", "cors")
+            .add("Sec-Fetch-Site", "same-origin")
+            .add("Cookie", "mnx_adulto=1; mnx_gate_${chapter.chapter_number}=1")
             .build(),
     )
 
     override fun pageListParse(response: Response): List<Page> {
-        val document = Jsoup.parse(response.body!!.string(), response.request.url.toString())
-        val payloads = document.extractNextJs<PagesDto>()?.pages.orEmpty()
+        val payloads = response.extractNextJs<PagesDto>()?.pages.orEmpty()
         if (payloads.isNotEmpty()) {
             return payloads.mapIndexed { index, payload ->
                 Page(index, imageUrl = decrypt(payload.url, getKey(payload.url)))
             }
         }
+        val document = Jsoup.parse(response.body!!.string(), response.request.url.toString())
         return document.select("img[src], img[data-src]").mapIndexedNotNull { index, image ->
-            val url = image.attr("abs:src").ifBlank { image.attr("abs:data-src") }
-            url.takeIf { it.isNotBlank() }?.let { Page(index, imageUrl = it) }
+            val url = normalizeSiteUrl(
+                image.attr("abs:src").ifBlank {
+                    image.attr("abs:data-src").ifBlank { image.attr("data-lazy-src") }
+                },
+            )
+            url?.takeIf { it.isNotBlank() }?.let { Page(index, imageUrl = it) }
         }
     }
 
