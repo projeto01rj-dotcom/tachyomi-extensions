@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-11-11T14:50:20Z",
+  "updated_at": "2026-11-11T21:40:12Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -14010,9 +14010,10 @@
       "title": "Magical ★ Explorer: Reborn as a Side Character in a Fantasy Dating Sim",
       "url": "https://mangadex.org/title/febd3e05-6300-4105-95cc-2c39c19ce876",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-02T10:21:06Z",
-      "removed_at": null
+      "removed_at": "2026-11-11T21:40:12Z",
+      "removed_by_source": true
     },
     "140668fa-eec5-42d1-a6f5-ed65c295c0ee": {
       "title": "Monster Mira’s Second Form Is Way Too Cute",
@@ -14959,6 +14960,22 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-11-11T14:50:20Z",
+      "removed_at": null
+    },
+    "4710b856-0585-40d2-a87e-099fc032511f": {
+      "title": "Otherwordly Izakaya Nobu",
+      "url": "https://mangadex.org/title/4710b856-0585-40d2-a87e-099fc032511f",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-11T21:40:12Z",
+      "removed_at": null
+    },
+    "7099ade3-fa6e-4258-874b-2e40f34b952c": {
+      "title": "Dr. Slump - Mr. Cell",
+      "url": "https://mangadex.org/title/7099ade3-fa6e-4258-874b-2e40f34b952c",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-11T21:40:12Z",
       "removed_at": null
     }
   }
