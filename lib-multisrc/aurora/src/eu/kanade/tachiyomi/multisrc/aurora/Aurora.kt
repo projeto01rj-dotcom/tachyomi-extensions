@@ -44,7 +44,14 @@ abstract class Aurora : HttpSource() {
     override fun headersBuilder(): Headers.Builder = super.headersBuilder()
         .add("Accept-Language", "pt-BR,pt;q=0.9")
 
-    override fun popularMangaRequest(page: Int): Request = GET("$baseUrl/catalogo", headers)
+    override fun popularMangaRequest(page: Int): Request = if (page == 1) {
+        GET("$baseUrl/catalogo", headers)
+    } else {
+        GET(
+            "$baseUrl/sitemap_obra.xml",
+            headers.newBuilder().add("X-Mihon-Page", page.toString()).build(),
+        )
+    }
 
     override fun popularMangaParse(response: Response): MangasPage = parseSeries(response)
 
@@ -68,7 +75,11 @@ abstract class Aurora : HttpSource() {
     }
 
     private fun parseSeries(response: Response): MangasPage {
-        val document = Jsoup.parse(response.body!!.string(), response.request.url.toString())
+        val body = response.body!!.string()
+        if (response.request.url.encodedPath.endsWith("sitemap_obra.xml")) {
+            return parseSitemap(body, response.request.header("X-Mihon-Page")?.toIntOrNull() ?: 2)
+        }
+        val document = Jsoup.parse(body, response.request.url.toString())
         val nextJs = document.extractNextJs<SeriesDto>()?.toSMangaList().orEmpty()
         val fallback = document.select("a[href^=/manga/], a[href^=/manhwa/], a[href^=/manhua/]")
             .mapNotNull { element ->
@@ -99,6 +110,27 @@ abstract class Aurora : HttpSource() {
                 .distinctBy { it.url },
             false,
         )
+    }
+
+    private fun parseSitemap(body: String, page: Int): MangasPage {
+        val urls = Jsoup.parse(body, "", org.jsoup.parser.Parser.xmlParser())
+            .select("url > loc")
+            .map { it.text().trim().substringBefore("?").trimEnd('/') }
+            .filter { it.contains("/manga/") || it.contains("/manhwa/") || it.contains("/manhua/") }
+            .distinct()
+        val pageSize = 24
+        val start = (page - 1).coerceAtLeast(0) * pageSize
+        val mangas = urls.drop(start).take(pageSize).map { url ->
+            SManga.create().apply {
+                this.url = url.substringAfter(baseUrl)
+                title = url.substringAfterLast('/')
+                    .replace('-', ' ')
+                    .replace(Regex("\\s+"), " ")
+                    .trim()
+                    .replaceFirstChar { it.uppercase() }
+            }
+        }
+        return MangasPage(mangas, start + pageSize < urls.size)
     }
 
     override fun getMangaUrl(manga: SManga): String = "$baseUrl${manga.url}"
