@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-11-10T03:40:53Z",
+  "updated_at": "2026-11-11T06:52:30Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -10102,9 +10102,10 @@
       "title": "Looks Can Be Deceiving",
       "url": "https://mangadex.org/title/26d2e5bb-e69b-4165-a03c-855a3765bbbb",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-05T18:39:52Z",
-      "removed_at": null
+      "removed_at": "2026-11-10T19:22:24Z",
+      "removed_by_source": true
     },
     "30c8bf1c-9063-4a22-a845-e2cead50adea": {
       "title": "Love and Dreams Don't Mix",
@@ -13084,9 +13085,10 @@
       "title": "It’s Reasonable to Use a Butcher Knife to Chop Down Everything in the World, Right?",
       "url": "https://mangadex.org/title/36e2b9c7-1f4b-4b0d-bd21-ae294fed986f",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-25T22:42:08Z",
-      "removed_at": null
+      "removed_at": "2026-11-10T11:58:03Z",
+      "removed_by_source": true
     },
     "48f9fb61-e165-4ec7-91c5-6772fa1a0274": {
       "title": "You Can't Escape from Mizudako-chan!",
@@ -13460,9 +13462,10 @@
       "title": "Isekai Harry Potter",
       "url": "https://mangadex.org/title/35924437-c801-4b80-b668-c893473d6344",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-29T10:59:27Z",
-      "removed_at": null
+      "removed_at": "2026-11-11T06:52:30Z",
+      "removed_by_source": true
     },
     "47f2da50-d26f-4438-89d4-e5b21c8326db": {
       "title": "Kamen Rider SPIRITS",
@@ -14173,9 +14176,10 @@
       "title": "Witch Hunter",
       "url": "https://mangadex.org/title/e41721c0-f7cf-49c1-9712-8543e1ea7c99",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-03T17:57:10Z",
-      "removed_at": null
+      "removed_at": "2026-11-11T06:52:30Z",
+      "removed_by_source": true
     },
     "244b6659-9181-4b6a-b0ea-c9d846bc6a4a": {
       "title": "Something Weird with My Training Skills",
@@ -14251,41 +14255,46 @@
       "title": "Lucifer's Loose Cooking",
       "url": "https://mangadex.org/title/08a1cae9-0c8d-4bc8-a11a-a0a403ae127b",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-04T18:07:54Z",
-      "removed_at": null
+      "removed_at": "2026-11-10T19:22:24Z",
+      "removed_by_source": true
     },
     "1f9d02c1-8d04-4a27-a1ff-2b0bf782b9ef": {
       "title": "The Thread User of the Shichijou Family: The Genius Sorcerer Who Wants to Live Normally Starts Exterminating Youkai With an Uninvited Apprentice",
       "url": "https://mangadex.org/title/1f9d02c1-8d04-4a27-a1ff-2b0bf782b9ef",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-04T18:07:54Z",
-      "removed_at": null
+      "removed_at": "2026-11-10T11:58:03Z",
+      "removed_by_source": true
     },
     "274a8e39-71a8-4bd2-af19-4572518fe44f": {
       "title": "Leviathan",
       "url": "https://mangadex.org/title/274a8e39-71a8-4bd2-af19-4572518fe44f",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-04T18:07:54Z",
-      "removed_at": null
+      "removed_at": "2026-11-10T11:58:03Z",
+      "removed_by_source": true
     },
     "4f1c1d58-ca14-48a7-b421-f01b5900ce28": {
       "title": "Sense Life",
       "url": "https://mangadex.org/title/4f1c1d58-ca14-48a7-b421-f01b5900ce28",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-04T18:07:54Z",
-      "removed_at": null
+      "removed_at": "2026-11-10T19:22:24Z",
+      "removed_by_source": true
     },
     "86983879-a9ed-4b91-8f7e-be1cbc57baaa": {
       "title": "Yandere-chan Is Scary",
       "url": "https://mangadex.org/title/86983879-a9ed-4b91-8f7e-be1cbc57baaa",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-04T18:07:54Z",
-      "removed_at": null
+      "removed_at": "2026-11-11T06:52:30Z",
+      "removed_by_source": true
     },
     "901da7d9-8742-4f1a-9432-b7c1e67a5daf": {
       "title": "Walking the Rising Adventurer's Path with a Dragon: The Recovery Magician Who was Expelled from His S-Rank Party as No Longer Useful Ends Up Reviving the Strongest Divine Dragon in the Place Where He was Abandoned",
@@ -14299,41 +14308,46 @@
       "title": "Ore no Kokan wa Bishoujo Datta no ka",
       "url": "https://mangadex.org/title/cf923481-1e96-4959-b3c1-9518718a4cc2",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-04T18:07:54Z",
-      "removed_at": null
+      "removed_at": "2026-11-10T11:58:03Z",
+      "removed_by_source": true
     },
     "48fa366c-d1dd-49c1-8900-a805d8cdb301": {
       "title": "A Succubus Just Wants to Fall in Love!",
       "url": "https://mangadex.org/title/48fa366c-d1dd-49c1-8900-a805d8cdb301",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-04T23:49:47Z",
-      "removed_at": null
+      "removed_at": "2026-11-11T00:08:30Z",
+      "removed_by_source": true
     },
     "99f7458e-c881-4544-ae05-59701b226988": {
       "title": "The Otaku Love Connection",
       "url": "https://mangadex.org/title/99f7458e-c881-4544-ae05-59701b226988",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-04T23:49:47Z",
-      "removed_at": null
+      "removed_at": "2026-11-11T00:08:30Z",
+      "removed_by_source": true
     },
     "9faba8cf-60df-4894-9370-22571592c8d3": {
       "title": "The Blue Star on That Day",
       "url": "https://mangadex.org/title/9faba8cf-60df-4894-9370-22571592c8d3",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-04T23:49:47Z",
-      "removed_at": null
+      "removed_at": "2026-11-10T19:22:24Z",
+      "removed_by_source": true
     },
     "5ef4e73e-6fbc-456b-b7e1-4642256f666d": {
       "title": "Re:ZERO -Starting Life in Another World-, Chapter 1: A Day in the Capital",
       "url": "https://mangadex.org/title/5ef4e73e-6fbc-456b-b7e1-4642256f666d",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-05T04:27:22Z",
-      "removed_at": null
+      "removed_at": "2026-11-11T06:52:30Z",
+      "removed_by_source": true
     },
     "f229a28c-32d8-433a-b122-f7e33b10c32c": {
       "title": "How I Became King by Eating Monsters",
@@ -14355,9 +14369,10 @@
       "title": "Psycho Eyes",
       "url": "https://mangadex.org/title/d7104032-14e6-4209-8e2e-7a772d5008dd",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-05T12:38:21Z",
-      "removed_at": null
+      "removed_at": "2026-11-11T06:52:30Z",
+      "removed_by_source": true
     },
     "068dd877-6d58-4063-abba-9bdcc25cc8bb": {
       "title": "Touhou - Himitsu Abaki (Doujinshi)",
@@ -14371,9 +14386,10 @@
       "title": "Seraph of the End",
       "url": "https://mangadex.org/title/17ce37ea-1cda-4429-b062-c4b627814225",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-05T20:24:50Z",
-      "removed_at": null
+      "removed_at": "2026-11-11T06:52:30Z",
+      "removed_by_source": true
     },
     "701e67c9-45b2-459b-a517-a0cb9865def8": {
       "title": "Sazae-san",
@@ -14395,9 +14411,10 @@
       "title": "The Diary of a Sage Around 40 Living in Another World",
       "url": "https://mangadex.org/title/adce0aea-3f6d-4fd2-9902-1107f59f94da",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-05T20:24:50Z",
-      "removed_at": null
+      "removed_at": "2026-11-11T06:52:30Z",
+      "removed_by_source": true
     },
     "ade0306c-f4b6-4890-9edb-1ddf04df2039": {
       "title": "Solo Leveling: Ragnarok",
@@ -14824,6 +14841,86 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-11-10T03:40:53Z",
+      "removed_at": null
+    },
+    "ac0e6974-8555-4637-93fe-bd3a78104923": {
+      "title": "The World God Only Knows",
+      "url": "https://mangadex.org/title/ac0e6974-8555-4637-93fe-bd3a78104923",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-10T11:58:03Z",
+      "removed_at": null
+    },
+    "0f25067e-a33e-4b25-a5d5-aff6e03b9e5c": {
+      "title": "A High School Boy Reincarnates as the Villainess in an Otome Game.",
+      "url": "https://mangadex.org/title/0f25067e-a33e-4b25-a5d5-aff6e03b9e5c",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-10T19:22:24Z",
+      "removed_at": null
+    },
+    "8b429d8e-0b9c-404c-b65b-82e4eab9321f": {
+      "title": "A Necromancer Betrayed by His Comrades and Executed Revives 10,000 Heroes Who Had Become Undead, Builds the Most Powerful Kingdom, and Begins His Quest for Revenge.: Heroic Spirits Gather at the Throne of Darkness",
+      "url": "https://mangadex.org/title/8b429d8e-0b9c-404c-b65b-82e4eab9321f",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-10T19:22:24Z",
+      "removed_at": null
+    },
+    "382871e2-8b72-4381-8a92-52d1dd53f231": {
+      "title": "Charisma - Charisma na Karera wa Charisma House de Karizumai-chuu",
+      "url": "https://mangadex.org/title/382871e2-8b72-4381-8a92-52d1dd53f231",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-11T00:08:30Z",
+      "removed_at": null
+    },
+    "39299774-f33e-47c0-89d5-9fc12621e893": {
+      "title": "Mahoutsukai no Yoru",
+      "url": "https://mangadex.org/title/39299774-f33e-47c0-89d5-9fc12621e893",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-11T00:08:30Z",
+      "removed_at": null
+    },
+    "5ab3c84f-f1c7-43f6-927d-595bd43895e5": {
+      "title": "Bride of the Barrier Master",
+      "url": "https://mangadex.org/title/5ab3c84f-f1c7-43f6-927d-595bd43895e5",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-11T06:52:30Z",
+      "removed_at": null
+    },
+    "5ed1f8fc-a119-4cbc-aeae-26ce2bd3f838": {
+      "title": "JoJo's Bizarre Adventure Part 4: Josuke Higashikata",
+      "url": "https://mangadex.org/title/5ed1f8fc-a119-4cbc-aeae-26ce2bd3f838",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-11T06:52:30Z",
+      "removed_at": null
+    },
+    "7fd905ef-329b-4ec7-88bc-6a983c213353": {
+      "title": "Nura: Rise of the Yokai Clan",
+      "url": "https://mangadex.org/title/7fd905ef-329b-4ec7-88bc-6a983c213353",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-11T06:52:30Z",
+      "removed_at": null
+    },
+    "f7f430ab-2c24-49d3-b698-c9ff4787805b": {
+      "title": "Sem título",
+      "url": "https://mangadex.org/title/f7f430ab-2c24-49d3-b698-c9ff4787805b",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-11T06:52:30Z",
+      "removed_at": null
+    },
+    "fbb92940-e363-4dbb-8bad-0220a5a7512d": {
+      "title": "Amon Saga: Prince of the Moon",
+      "url": "https://mangadex.org/title/fbb92940-e363-4dbb-8bad-0220a5a7512d",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-11T06:52:30Z",
       "removed_at": null
     }
   }

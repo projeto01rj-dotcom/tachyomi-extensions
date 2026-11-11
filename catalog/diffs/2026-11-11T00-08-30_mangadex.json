@@ -1,0 +1,34 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-11-11T00:08:30Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "382871e2-8b72-4381-8a92-52d1dd53f231",
+      "title": "Charisma - Charisma na Karera wa Charisma House de Karizumai-chuu",
+      "url": "https://mangadex.org/title/382871e2-8b72-4381-8a92-52d1dd53f231"
+    },
+    {
+      "source": "mangadex",
+      "key": "39299774-f33e-47c0-89d5-9fc12621e893",
+      "title": "Mahoutsukai no Yoru",
+      "url": "https://mangadex.org/title/39299774-f33e-47c0-89d5-9fc12621e893"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "48fa366c-d1dd-49c1-8900-a805d8cdb301",
+      "title": "A Succubus Just Wants to Fall in Love!",
+      "url": "https://mangadex.org/title/48fa366c-d1dd-49c1-8900-a805d8cdb301",
+      "removed_at": "2026-11-11T00:08:30Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "99f7458e-c881-4544-ae05-59701b226988",
+      "title": "The Otaku Love Connection",
+      "url": "https://mangadex.org/title/99f7458e-c881-4544-ae05-59701b226988",
+      "removed_at": "2026-11-11T00:08:30Z"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-11-10T19:22:24Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "0f25067e-a33e-4b25-a5d5-aff6e03b9e5c",
+      "title": "A High School Boy Reincarnates as the Villainess in an Otome Game.",
+      "url": "https://mangadex.org/title/0f25067e-a33e-4b25-a5d5-aff6e03b9e5c"
+    },
+    {
+      "source": "mangadex",
+      "key": "8b429d8e-0b9c-404c-b65b-82e4eab9321f",
+      "title": "A Necromancer Betrayed by His Comrades and Executed Revives 10,000 Heroes Who Had Become Undead, Builds the Most Powerful Kingdom, and Begins His Quest for Revenge.: Heroic Spirits Gather at the Throne of Darkness",
+      "url": "https://mangadex.org/title/8b429d8e-0b9c-404c-b65b-82e4eab9321f"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "26d2e5bb-e69b-4165-a03c-855a3765bbbb",
+      "title": "Looks Can Be Deceiving",
+      "url": "https://mangadex.org/title/26d2e5bb-e69b-4165-a03c-855a3765bbbb",
+      "removed_at": "2026-11-10T19:22:24Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "08a1cae9-0c8d-4bc8-a11a-a0a403ae127b",
+      "title": "Lucifer's Loose Cooking",
+      "url": "https://mangadex.org/title/08a1cae9-0c8d-4bc8-a11a-a0a403ae127b",
+      "removed_at": "2026-11-10T19:22:24Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "4f1c1d58-ca14-48a7-b421-f01b5900ce28",
+      "title": "Sense Life",
+      "url": "https://mangadex.org/title/4f1c1d58-ca14-48a7-b421-f01b5900ce28",
+      "removed_at": "2026-11-10T19:22:24Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "9faba8cf-60df-4894-9370-22571592c8d3",
+      "title": "The Blue Star on That Day",
+      "url": "https://mangadex.org/title/9faba8cf-60df-4894-9370-22571592c8d3",
+      "removed_at": "2026-11-10T19:22:24Z"
+    }
+  ]
+}
