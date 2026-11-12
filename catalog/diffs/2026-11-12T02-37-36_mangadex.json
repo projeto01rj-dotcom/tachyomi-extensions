@@ -1,0 +1,40 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-11-12T02:37:36Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "8a290bf2-bba9-4bb2-ac34-f241d3e20f80",
+      "title": "“He's Just An Ordinary Person”",
+      "url": "https://mangadex.org/title/8a290bf2-bba9-4bb2-ac34-f241d3e20f80"
+    },
+    {
+      "source": "mangadex",
+      "key": "a6f03995-5724-4ba9-9b9b-9d239142760b",
+      "title": "Cheeky Devil Cop!",
+      "url": "https://mangadex.org/title/a6f03995-5724-4ba9-9b9b-9d239142760b"
+    },
+    {
+      "source": "mangadex",
+      "key": "c5bd7460-644e-40c6-aa66-40d1efaddb58",
+      "title": "Zatch Bell! 2",
+      "url": "https://mangadex.org/title/c5bd7460-644e-40c6-aa66-40d1efaddb58"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "901da7d9-8742-4f1a-9432-b7c1e67a5daf",
+      "title": "Walking the Rising Adventurer's Path with a Dragon: The Recovery Magician Who was Expelled from His S-Rank Party as No Longer Useful Ends Up Reviving the Strongest Divine Dragon in the Place Where He was Abandoned",
+      "url": "https://mangadex.org/title/901da7d9-8742-4f1a-9432-b7c1e67a5daf",
+      "removed_at": "2026-11-12T02:37:36Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "3810a12e-f091-4c0b-825b-e588200f9eb2",
+      "title": "The Yankee wants to be an Otaku (Fujoshi)!",
+      "url": "https://mangadex.org/title/3810a12e-f091-4c0b-825b-e588200f9eb2",
+      "removed_at": "2026-11-12T02:37:36Z"
+    }
+  ]
+}

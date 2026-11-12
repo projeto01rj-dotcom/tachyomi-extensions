@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-11-11T21:40:12Z",
+  "updated_at": "2026-11-12T02:37:36Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -14303,9 +14303,10 @@
       "title": "Walking the Rising Adventurer's Path with a Dragon: The Recovery Magician Who was Expelled from His S-Rank Party as No Longer Useful Ends Up Reviving the Strongest Divine Dragon in the Place Where He was Abandoned",
       "url": "https://mangadex.org/title/901da7d9-8742-4f1a-9432-b7c1e67a5daf",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-04T18:07:54Z",
-      "removed_at": null
+      "removed_at": "2026-11-12T02:37:36Z",
+      "removed_by_source": true
     },
     "cf923481-1e96-4959-b3c1-9518718a4cc2": {
       "title": "Ore no Kokan wa Bishoujo Datta no ka",
@@ -14452,9 +14453,10 @@
       "title": "The Yankee wants to be an Otaku (Fujoshi)!",
       "url": "https://mangadex.org/title/3810a12e-f091-4c0b-825b-e588200f9eb2",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-06T15:29:48Z",
-      "removed_at": null
+      "removed_at": "2026-11-12T02:37:36Z",
+      "removed_by_source": true
     },
     "ca84bb81-8a23-4b49-8aff-b2ab6761d0cd": {
       "title": "Rendezvous in the Netherworld",
@@ -14976,6 +14978,30 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-11-11T21:40:12Z",
+      "removed_at": null
+    },
+    "8a290bf2-bba9-4bb2-ac34-f241d3e20f80": {
+      "title": "“He's Just An Ordinary Person”",
+      "url": "https://mangadex.org/title/8a290bf2-bba9-4bb2-ac34-f241d3e20f80",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-12T02:37:36Z",
+      "removed_at": null
+    },
+    "a6f03995-5724-4ba9-9b9b-9d239142760b": {
+      "title": "Cheeky Devil Cop!",
+      "url": "https://mangadex.org/title/a6f03995-5724-4ba9-9b9b-9d239142760b",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-12T02:37:36Z",
+      "removed_at": null
+    },
+    "c5bd7460-644e-40c6-aa66-40d1efaddb58": {
+      "title": "Zatch Bell! 2",
+      "url": "https://mangadex.org/title/c5bd7460-644e-40c6-aa66-40d1efaddb58",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-12T02:37:36Z",
       "removed_at": null
     }
   }
