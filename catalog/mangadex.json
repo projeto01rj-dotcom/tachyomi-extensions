@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-11-12T18:31:16Z",
+  "updated_at": "2026-11-12T23:56:09Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -14506,9 +14506,10 @@
       "title": "Harten",
       "url": "https://mangadex.org/title/9f9fa579-6320-4d01-943b-5be5356e1995",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-07T06:43:55Z",
-      "removed_at": null
+      "removed_at": "2026-11-12T23:56:09Z",
+      "removed_by_source": true
     },
     "bfecc659-d191-4126-8946-7e0ab082c185": {
       "title": "Steins;Gate - Rebellion of the Missing Ring",
@@ -14539,9 +14540,10 @@
       "title": "The Master of Ragnarok & Blesser of Einherjar",
       "url": "https://mangadex.org/title/34997c42-1e61-4723-8395-0bbfc1d4c279",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-07T13:40:21Z",
-      "removed_at": null
+      "removed_at": "2026-11-12T23:56:09Z",
+      "removed_by_source": true
     },
     "757527a8-0509-4088-9bf2-32972b30e841": {
       "title": "One Week Family",
@@ -14555,9 +14557,10 @@
       "title": "Backstabbed in a Backwater Dungeon: My Party Tried to Kill Me, But Thanks to an Infinite Gacha I Got LVL 9999 Friends and Am Out For Revenge",
       "url": "https://mangadex.org/title/790f5f8d-0f9a-4f4b-92b3-9ac15f892b34",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-07T13:40:21Z",
-      "removed_at": null
+      "removed_at": "2026-11-12T23:56:09Z",
+      "removed_by_source": true
     },
     "bd06f7fd-1bfa-4912-9d0e-f8655f54a1e0": {
       "title": "Total Eclipse of the Eternal Heart",
@@ -15056,6 +15059,38 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-11-12T18:31:16Z",
+      "removed_at": null
+    },
+    "315c8f3c-2541-43f1-89a6-fb94b38710c4": {
+      "title": "Neo Devilman",
+      "url": "https://mangadex.org/title/315c8f3c-2541-43f1-89a6-fb94b38710c4",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-12T23:56:09Z",
+      "removed_at": null
+    },
+    "73839d4c-51ab-4da1-ae88-ec9f80032af5": {
+      "title": "Rules for Peddling in Another World",
+      "url": "https://mangadex.org/title/73839d4c-51ab-4da1-ae88-ec9f80032af5",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-12T23:56:09Z",
+      "removed_at": null
+    },
+    "93b23c65-d183-45cf-a250-2b9e84d01770": {
+      "title": "Goth Loli-chan to Mondaiji-kun",
+      "url": "https://mangadex.org/title/93b23c65-d183-45cf-a250-2b9e84d01770",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-12T23:56:09Z",
+      "removed_at": null
+    },
+    "e81ba13c-acf6-4739-8157-8b5e491daeeb": {
+      "title": "Fall in Love with Me, Not Your Oshi, Oshino-Kun!",
+      "url": "https://mangadex.org/title/e81ba13c-acf6-4739-8157-8b5e491daeeb",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-12T23:56:09Z",
       "removed_at": null
     }
   }
