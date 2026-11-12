@@ -1,0 +1,47 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-11-12T18:31:16Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "30b76fde-1574-461f-8b52-949518500483",
+      "title": "Even 'Used Goods' Wants to Experience Love!",
+      "url": "https://mangadex.org/title/30b76fde-1574-461f-8b52-949518500483"
+    },
+    {
+      "source": "mangadex",
+      "key": "40c058a2-430e-4ced-b663-369dcf38583f",
+      "title": "The Paradise District",
+      "url": "https://mangadex.org/title/40c058a2-430e-4ced-b663-369dcf38583f"
+    },
+    {
+      "source": "mangadex",
+      "key": "a03552f1-89d3-47df-8292-844ebe5354fe",
+      "title": "The World's Strongest Fire Mage",
+      "url": "https://mangadex.org/title/a03552f1-89d3-47df-8292-844ebe5354fe"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "f63c4549-93c6-495f-8a33-4246116289d3",
+      "title": "Falling in Love With My Ex-Fiancé's Grandfather",
+      "url": "https://mangadex.org/title/f63c4549-93c6-495f-8a33-4246116289d3",
+      "removed_at": "2026-11-12T18:31:16Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "bfecc659-d191-4126-8946-7e0ab082c185",
+      "title": "Steins;Gate - Rebellion of the Missing Ring",
+      "url": "https://mangadex.org/title/bfecc659-d191-4126-8946-7e0ab082c185",
+      "removed_at": "2026-11-12T18:31:16Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "10b3cc1d-59a6-4f9e-a742-2a3c4d729c4e",
+      "title": "My childhood friend I reunited with has turned into the academy's prince",
+      "url": "https://mangadex.org/title/10b3cc1d-59a6-4f9e-a742-2a3c4d729c4e",
+      "removed_at": "2026-11-12T18:31:16Z"
+    }
+  ]
+}
