@@ -33,6 +33,8 @@ Como alternativa, baixe os APKs no artefato `apks` em **Actions → Build** e in
 | `src/all/googledrive` | [Google Drive](https://drive.google.com) | Leitura de pastas compartilhadas, com suporte a CBZ, CBR e PDF |
 | `src/pt/saikaiscan` | [housesaikai.net](https://housesaikai.net) | API `api.housesaikai.net/api` |
 | `src/pt/mangaonline` | [mangaonline.love](https://mangaonline.love) | Tema **Madara** (`lib-multisrc/madara`) |
+| `src/pt/leituramanga` | [leituramanga.net](https://leituramanga.net) | API pública do catálogo e páginas declaradas no conteúdo da obra |
+| `src/pt/leitordemangas` | [leitordemangas.com](https://leitordemangas.com) | Catálogo e capítulos do site Leitor de Mangas |
 | `src/pt/noxmangas` | [noxmangas.org](https://noxmangas.org) | API Nix assinada (`/_nix/signer.js` → SHA-256) |
 | `src/pt/loobyt` | [loobyt.org](https://loobyt.org) | API Nix assinada com fallback para HTML público |
 | `src/en/reimanga` | [reimanga.net](https://www.reimanga.net) | Catálogo, detalhes, capítulos e páginas por HTML |
@@ -70,10 +72,10 @@ catalog/        dados das fontes atualizados a cada 30 minutos pelo CI
 
 ## GitHub Actions
 
-- **`build.yml`** — compila as nove extensões em APKs (`assembleRelease`) a cada push e disponibiliza o artefato `apks`. Em seguida, publica a branch `repo` (APKs, `index.min.json` e `repo.json`) via `.github/scripts/publish_index.py`; essa é a fonte que o Mihon consome. O workflow também pode ser executado manualmente em **Actions → Build → Run workflow**.
+- **`build.yml`** — compila as onze extensões em APKs (`assembleRelease`) a cada push e disponibiliza o artefato `apks`. Em seguida, publica a branch `repo` (APKs, `index.min.json` e `repo.json`) via `.github/scripts/publish_index.py`; essa é a fonte que o Mihon consome. O workflow também pode ser executado manualmente em **Actions → Build → Run workflow**.
 - **`sync.yml`** — executa a cada 30 minutos (`*/30 * * * *`), consulta as quatro fontes com adaptador de catálogo, atualiza o catálogo, marca obras removidas e publica as alterações na pasta `catalog/`.
 
-O build oficial mais recente confirmou a compilação das nove extensões, a geração dos APKs e a publicação da branch `repo`.
+O build oficial mais recente confirmou a compilação das extensões, a geração dos APKs e a publicação da branch `repo`.
 
 ## Compilando localmente (opcional)
 
@@ -88,6 +90,8 @@ Requisitos: JDK 17+, Android SDK (compileSdk 37) e Git.
           :src:pt:mangaonline:assembleRelease \
           :src:pt:noxmangas:assembleRelease \
           :src:pt:loobyt:assembleRelease \
+          :src:pt:leituramanga:assembleRelease \
+          :src:pt:leitordemangas:assembleRelease \
           :src:pt:saikaiscan:assembleRelease
 ```
 
