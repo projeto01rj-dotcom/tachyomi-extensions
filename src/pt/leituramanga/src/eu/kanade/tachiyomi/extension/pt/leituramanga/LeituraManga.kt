@@ -14,11 +14,16 @@ import keiyoushi.source.KeiSource
 import keiyoushi.utils.extractNextJs
 import keiyoushi.utils.getPreferences
 import keiyoushi.utils.parseAs
+import keiyoushi.utils.tryParse
 import kotlinx.serialization.json.JsonElement
 import kotlinx.serialization.json.JsonObject
 import okhttp3.HttpUrl.Companion.toHttpUrl
+import okhttp3.HttpUrl.Companion.toHttpUrlOrNull
 import okhttp3.OkHttpClient
+import org.jsoup.Jsoup
+import org.jsoup.parser.Parser
 import java.io.IOException
+import kotlin.time.Instant
 import kotlin.time.Duration.Companion.seconds
 
 @Source
@@ -156,37 +161,32 @@ abstract class LeituraManga : KeiSource() {
 
         if (!fetchChapters) return SMangaUpdate(manga, chapters)
 
-        val mangaId = document.extractNextJs<NextJsMangaIdDto> {
-            (it as? JsonObject)?.containsKey("mangaId") == true
-        }?.mangaId ?: document.extractNextJs<MangaPagePropsDto> {
-            val manga = (it as? JsonObject)?.get("manga") as? JsonObject
-            manga?.containsKey("_id") == true
-        }?.manga?.id ?: throw IOException("ID do mangá não encontrado")
-
         val slug = document.location().toHttpUrl().pathSegments.last { it.isNotEmpty() }
+        val sitemapUrl = "$baseUrl/sitemaps/manga/$slug.xml"
+        val sitemapXml = client.get(sitemapUrl, headersBuilder().build()).use { it.body!!.string() }
+        val sitemap = Jsoup.parse(sitemapXml, sitemapUrl, Parser.xmlParser())
+        val siteHost = baseUrl.toHttpUrl().host
+        val chaptersFromSitemap = sitemap.select("urlset > url").mapNotNull { entry ->
+            val chapterUrl = entry.selectFirst("loc")?.text()?.trim()?.toHttpUrlOrNull()
+                ?: return@mapNotNull null
+            val path = chapterUrl.pathSegments
+            if (chapterUrl.host != siteHost || path.getOrNull(0) != "manga" ||
+                path.getOrNull(1) != slug || path.getOrNull(2) != "chapter"
+            ) {
+                return@mapNotNull null
+            }
 
-        val apiHeaders = headersBuilder().build()
-        val chapters = mutableListOf<SChapter>()
-        var page = 1
-        var totalPage = 1
+            val number = path.getOrNull(3) ?: return@mapNotNull null
+            SChapter.create().apply {
+                name = "Capítulo $number"
+                url = "/manga/$slug/chapter/$number"
+                chapter_number = number.toFloatOrNull() ?: -1f
+                date_upload = entry.selectFirst("lastmod")?.text()?.let { Instant.tryParse(it) } ?: 0L
+            }
+        }.distinctBy(SChapter::url)
 
-        while (page <= totalPage) {
-            val url = "$apiUrl/api/chapter/get-by-manga-id".toHttpUrl().newBuilder()
-                .addQueryParameter("mangaId", mangaId)
-                .addQueryParameter("page", page.toString())
-                .addQueryParameter("limit", "24")
-                .build()
-            val result = client.get(url, apiHeaders)
-                .parseAs<MangaResponseDto<ChapterListDto>>()
-                .data
-
-            chapters += result.data.map { it.toSChapter(slug) }
-            totalPage = result.pagination.totalPage.coerceAtLeast(page)
-            if (result.data.isEmpty()) break
-            page++
-        }
-
-        return SMangaUpdate(manga, chapters)
+        if (chaptersFromSitemap.isEmpty()) throw IOException("Nenhum capítulo encontrado no sitemap do site")
+        return SMangaUpdate(manga, chaptersFromSitemap)
     }
 
     // ================= Pages ==================
