@@ -23,8 +23,8 @@ import okhttp3.OkHttpClient
 import org.jsoup.Jsoup
 import org.jsoup.parser.Parser
 import java.io.IOException
-import kotlin.time.Instant
 import kotlin.time.Duration.Companion.seconds
+import kotlin.time.Instant
 
 @Source
 abstract class LeituraManga : KeiSource() {
