@@ -140,14 +140,28 @@ abstract class LeituraManga : KeiSource() {
 
         val slug = document.location().toHttpUrl().pathSegments.last { it.isNotEmpty() }
 
-        // Using the exact limit from the frontend so we get the 80/min limit instead of the default 3/min limit
-        val result = client.get(
-            "$apiUrl/api/chapter/get-by-manga-id?mangaId=$mangaId&page=1&limit=9007199254740991",
-            headersBuilder().build(),
-        )
-            .parseAs<MangaResponseDto<ChapterListDto>>()
+        val apiHeaders = headersBuilder().build()
+        val chapters = mutableListOf<SChapter>()
+        var page = 1
+        var totalPage = 1
 
-        return SMangaUpdate(manga, result.data.data.map { it.toSChapter(slug) })
+        while (page <= totalPage) {
+            val url = "$apiUrl/api/chapter/get-by-manga-id".toHttpUrl().newBuilder()
+                .addQueryParameter("mangaId", mangaId)
+                .addQueryParameter("page", page.toString())
+                .addQueryParameter("limit", "24")
+                .build()
+            val result = client.get(url, apiHeaders)
+                .parseAs<MangaResponseDto<ChapterListDto>>()
+                .data
+
+            chapters += result.data.map { it.toSChapter(slug) }
+            totalPage = result.pagination.totalPage.coerceAtLeast(page)
+            if (result.data.isEmpty()) break
+            page++
+        }
+
+        return SMangaUpdate(manga, chapters)
     }
 
     // ================= Pages ==================

@@ -66,6 +66,7 @@ class GenreDto(
 @Serializable
 class ChapterListDto(
     val data: List<ChapterDto>,
+    val pagination: PaginationDto,
 )
 
 @Serializable
