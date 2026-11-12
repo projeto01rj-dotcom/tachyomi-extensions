@@ -12,6 +12,7 @@ import keiyoushi.network.get
 import keiyoushi.network.rateLimit
 import keiyoushi.source.KeiSource
 import keiyoushi.utils.extractNextJs
+import keiyoushi.utils.getPreferences
 import keiyoushi.utils.parseAs
 import kotlinx.serialization.json.JsonElement
 import kotlinx.serialization.json.JsonObject
@@ -26,9 +27,25 @@ abstract class LeituraManga : KeiSource() {
 
     private val cdnUrl = "https://cdn.leituramanga.net"
 
+    private val apiCooldownPreferences by lazy { getPreferences() }
+
+    private companion object {
+        const val API_COOLDOWN_UNTIL = "api_cooldown_until"
+    }
+
     override fun OkHttpClient.Builder.configureClient() = apply {
         addInterceptor { chain ->
-            val response = chain.proceed(chain.request())
+            val request = chain.request()
+            val isApiRequest = request.url.host == "api.leituramanga.net"
+            if (isApiRequest) {
+                val remainingMillis = apiCooldownPreferences.getLong(API_COOLDOWN_UNTIL, 0L) - System.currentTimeMillis()
+                if (remainingMillis > 0L) {
+                    val remainingSeconds = (remainingMillis + 999L) / 1000L
+                    throw IOException("Limite do site atingido. Aguarde $remainingSeconds segundos.")
+                }
+            }
+
+            val response = chain.proceed(request)
             when (response.code) {
                 403 -> {
                     response.close()
@@ -36,6 +53,14 @@ abstract class LeituraManga : KeiSource() {
                 }
                 429 -> {
                     val retryAfter = response.header("Retry-After") ?: "alguns"
+                    val retryAfterSeconds = retryAfter.toLongOrNull()
+                    if (isApiRequest && retryAfterSeconds != null) {
+                        val blockedUntil = System.currentTimeMillis() + retryAfterSeconds.coerceAtLeast(1L) * 1000L
+                        val previousBlockedUntil = apiCooldownPreferences.getLong(API_COOLDOWN_UNTIL, 0L)
+                        if (blockedUntil > previousBlockedUntil) {
+                            apiCooldownPreferences.edit().putLong(API_COOLDOWN_UNTIL, blockedUntil).apply()
+                        }
+                    }
                     response.close()
                     throw IOException("Limite do site atingido. Aguarde $retryAfter segundos.")
                 }
