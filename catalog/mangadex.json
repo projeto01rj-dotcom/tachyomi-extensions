@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-11-12T02:37:36Z",
+  "updated_at": "2026-11-12T10:29:45Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -14478,25 +14478,28 @@
       "title": "Baltzar Militarismus",
       "url": "https://mangadex.org/title/398a26c5-04fa-4076-b921-0b0fb44edb10",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-06T20:59:32Z",
-      "removed_at": null
+      "removed_at": "2026-11-12T10:29:45Z",
+      "removed_by_source": true
     },
     "5786e730-541b-4e35-9c2f-9932784fc1c3": {
       "title": "Far East Chimeratica",
       "url": "https://mangadex.org/title/5786e730-541b-4e35-9c2f-9932784fc1c3",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-06T20:59:32Z",
-      "removed_at": null
+      "removed_at": "2026-11-12T10:29:45Z",
+      "removed_by_source": true
     },
     "867d1bd6-4e8a-4902-8683-ad62508e13d6": {
       "title": "A Perceptive Guy",
       "url": "https://mangadex.org/title/867d1bd6-4e8a-4902-8683-ad62508e13d6",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-06T20:59:32Z",
-      "removed_at": null
+      "removed_at": "2026-11-12T10:29:45Z",
+      "removed_by_source": true
     },
     "9f9fa579-6320-4d01-943b-5be5356e1995": {
       "title": "Harten",
@@ -15002,6 +15005,30 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-11-12T02:37:36Z",
+      "removed_at": null
+    },
+    "20331b71-1d3f-4aed-b990-e54298424488": {
+      "title": "Magic Knight Rayearth",
+      "url": "https://mangadex.org/title/20331b71-1d3f-4aed-b990-e54298424488",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-12T10:29:45Z",
+      "removed_at": null
+    },
+    "74b5d399-c552-4ca9-9009-a06beb8e1a2c": {
+      "title": "Despair Memory Gundam Sequel",
+      "url": "https://mangadex.org/title/74b5d399-c552-4ca9-9009-a06beb8e1a2c",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-12T10:29:45Z",
+      "removed_at": null
+    },
+    "e7bed782-c002-4299-afd9-a2900534b487": {
+      "title": "Please Follow Salamander!",
+      "url": "https://mangadex.org/title/e7bed782-c002-4299-afd9-a2900534b487",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-12T10:29:45Z",
       "removed_at": null
     }
   }
