@@ -1,0 +1,33 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-11-13T04:40:18Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "0832d45e-847b-494c-a6ee-2523a5baec5d",
+      "title": "The Two Just Don't Fit Into the World",
+      "url": "https://mangadex.org/title/0832d45e-847b-494c-a6ee-2523a5baec5d"
+    },
+    {
+      "source": "mangadex",
+      "key": "38ce723f-6069-4fd7-89c8-b3c6242d96b8",
+      "title": "Toxy Noxy Foresty Forest",
+      "url": "https://mangadex.org/title/38ce723f-6069-4fd7-89c8-b3c6242d96b8"
+    },
+    {
+      "source": "mangadex",
+      "key": "cfcc577d-14a3-4332-beaa-346068d2afbd",
+      "title": "Tamon's B-Side",
+      "url": "https://mangadex.org/title/cfcc577d-14a3-4332-beaa-346068d2afbd"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "71307abe-e8a7-408c-8569-3318aef82e5a",
+      "title": "The Backwards House",
+      "url": "https://mangadex.org/title/71307abe-e8a7-408c-8569-3318aef82e5a",
+      "removed_at": "2026-11-13T04:40:18Z"
+    }
+  ]
+}

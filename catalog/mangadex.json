@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-11-12T23:56:09Z",
+  "updated_at": "2026-11-13T04:40:18Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -14366,9 +14366,10 @@
       "title": "The Backwards House",
       "url": "https://mangadex.org/title/71307abe-e8a7-408c-8569-3318aef82e5a",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-05T12:38:21Z",
-      "removed_at": null
+      "removed_at": "2026-11-13T04:40:18Z",
+      "removed_by_source": true
     },
     "d7104032-14e6-4209-8e2e-7a772d5008dd": {
       "title": "Psycho Eyes",
@@ -15091,6 +15092,30 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-11-12T23:56:09Z",
+      "removed_at": null
+    },
+    "0832d45e-847b-494c-a6ee-2523a5baec5d": {
+      "title": "The Two Just Don't Fit Into the World",
+      "url": "https://mangadex.org/title/0832d45e-847b-494c-a6ee-2523a5baec5d",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-13T04:40:18Z",
+      "removed_at": null
+    },
+    "38ce723f-6069-4fd7-89c8-b3c6242d96b8": {
+      "title": "Toxy Noxy Foresty Forest",
+      "url": "https://mangadex.org/title/38ce723f-6069-4fd7-89c8-b3c6242d96b8",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-13T04:40:18Z",
+      "removed_at": null
+    },
+    "cfcc577d-14a3-4332-beaa-346068d2afbd": {
+      "title": "Tamon's B-Side",
+      "url": "https://mangadex.org/title/cfcc577d-14a3-4332-beaa-346068d2afbd",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-13T04:40:18Z",
       "removed_at": null
     }
   }
