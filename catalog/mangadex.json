@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-11-13T04:40:18Z",
+  "updated_at": "2026-11-13T12:44:10Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -12897,9 +12897,10 @@
       "title": "Shindou Yuusha to Maid Onee-san",
       "url": "https://mangadex.org/title/9f2a7896-36b2-4ed9-bb4e-e4b448d91522",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-24T13:44:52Z",
-      "removed_at": null
+      "removed_at": "2026-11-13T12:44:10Z",
+      "removed_by_source": true
     },
     "c086153a-0162-412a-9914-a7b2633d0cd3": {
       "title": "JoJo's Bizarre Adventure Part 8 - JoJolion",
@@ -14472,9 +14473,10 @@
       "title": "Fate/kaleid liner PRISMA☆ILLYA 3rei!!",
       "url": "https://mangadex.org/title/e4631dc7-87b9-4d6a-8b3b-5594664ecc27",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-06T15:29:48Z",
-      "removed_at": null
+      "removed_at": "2026-11-13T12:44:10Z",
+      "removed_by_source": true
     },
     "398a26c5-04fa-4076-b921-0b0fb44edb10": {
       "title": "Baltzar Militarismus",
@@ -14583,9 +14585,10 @@
       "title": "Shikisaki Shimai wa Abakaretai",
       "url": "https://mangadex.org/title/540f5728-6521-4a93-8eb1-059c1a6585e1",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-07T18:24:59Z",
-      "removed_at": null
+      "removed_at": "2026-11-13T12:44:10Z",
+      "removed_by_source": true
     },
     "5993c10b-c49e-4771-9a3a-8b8436b12d80": {
       "title": "Only I Know That Our Innocent Class President was Once a Chuunibyou Idol.",
@@ -14599,9 +14602,10 @@
       "title": "A Girl with a High Melting Point",
       "url": "https://mangadex.org/title/6494f4d2-47d6-4462-ba12-61cc7e040dfe",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-07T18:24:59Z",
-      "removed_at": null
+      "removed_at": "2026-11-13T12:44:10Z",
+      "removed_by_source": true
     },
     "1d3905b0-f8c2-4c38-8b26-5b2ff0a9516c": {
       "title": "Scatterbrained Klutz Big Sister",
@@ -14922,9 +14926,10 @@
       "title": "Nura: Rise of the Yokai Clan",
       "url": "https://mangadex.org/title/7fd905ef-329b-4ec7-88bc-6a983c213353",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-11T06:52:30Z",
-      "removed_at": null
+      "removed_at": "2026-11-13T12:44:10Z",
+      "removed_by_source": true
     },
     "f7f430ab-2c24-49d3-b698-c9ff4787805b": {
       "title": "Sem título",

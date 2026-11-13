@@ -1,0 +1,42 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-11-13T12:44:10Z",
+  "added": [],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "9f2a7896-36b2-4ed9-bb4e-e4b448d91522",
+      "title": "Shindou Yuusha to Maid Onee-san",
+      "url": "https://mangadex.org/title/9f2a7896-36b2-4ed9-bb4e-e4b448d91522",
+      "removed_at": "2026-11-13T12:44:10Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "e4631dc7-87b9-4d6a-8b3b-5594664ecc27",
+      "title": "Fate/kaleid liner PRISMA☆ILLYA 3rei!!",
+      "url": "https://mangadex.org/title/e4631dc7-87b9-4d6a-8b3b-5594664ecc27",
+      "removed_at": "2026-11-13T12:44:10Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "540f5728-6521-4a93-8eb1-059c1a6585e1",
+      "title": "Shikisaki Shimai wa Abakaretai",
+      "url": "https://mangadex.org/title/540f5728-6521-4a93-8eb1-059c1a6585e1",
+      "removed_at": "2026-11-13T12:44:10Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "6494f4d2-47d6-4462-ba12-61cc7e040dfe",
+      "title": "A Girl with a High Melting Point",
+      "url": "https://mangadex.org/title/6494f4d2-47d6-4462-ba12-61cc7e040dfe",
+      "removed_at": "2026-11-13T12:44:10Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "7fd905ef-329b-4ec7-88bc-6a983c213353",
+      "title": "Nura: Rise of the Yokai Clan",
+      "url": "https://mangadex.org/title/7fd905ef-329b-4ec7-88bc-6a983c213353",
+      "removed_at": "2026-11-13T12:44:10Z"
+    }
+  ]
+}
