@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-11-13T12:44:10Z",
+  "updated_at": "2026-11-13T20:11:23Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -13778,9 +13778,10 @@
       "title": "The Ice-Core Meteoria",
       "url": "https://mangadex.org/title/535319ca-4ac9-417b-a8e0-0b6b569e89da",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-31T09:07:29Z",
-      "removed_at": null
+      "removed_at": "2026-11-13T20:11:23Z",
+      "removed_by_source": true
     },
     "5604d034-6fe3-43dc-8e87-ce568669808a": {
       "title": "Kamen Kitan Theo",
@@ -14552,9 +14553,10 @@
       "title": "One Week Family",
       "url": "https://mangadex.org/title/757527a8-0509-4088-9bf2-32972b30e841",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-07T13:40:21Z",
-      "removed_at": null
+      "removed_at": "2026-11-13T20:11:23Z",
+      "removed_by_source": true
     },
     "790f5f8d-0f9a-4f4b-92b3-9ac15f892b34": {
       "title": "Backstabbed in a Backwater Dungeon: My Party Tried to Kill Me, But Thanks to an Infinite Gacha I Got LVL 9999 Friends and Am Out For Revenge",
@@ -14569,9 +14571,10 @@
       "title": "Total Eclipse of the Eternal Heart",
       "url": "https://mangadex.org/title/bd06f7fd-1bfa-4912-9d0e-f8655f54a1e0",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-07T13:40:21Z",
-      "removed_at": null
+      "removed_at": "2026-11-13T20:11:23Z",
+      "removed_by_source": true
     },
     "0184fc7c-4571-408c-9554-c88e6af32313": {
       "title": "The Boy I Confessed to Likes Small Things",
@@ -14611,9 +14614,10 @@
       "title": "Scatterbrained Klutz Big Sister",
       "url": "https://mangadex.org/title/1d3905b0-f8c2-4c38-8b26-5b2ff0a9516c",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-07T22:08:00Z",
-      "removed_at": null
+      "removed_at": "2026-11-13T20:11:23Z",
+      "removed_by_source": true
     },
     "be0f1e7b-9316-4d94-a558-e4f1944bf95d": {
       "title": "Pink Lemonade",
@@ -14653,25 +14657,28 @@
       "title": "Cheryl, the Spoils-of-War Lady, Wants to Ensnare Her Husband Who Will Kill Her",
       "url": "https://mangadex.org/title/97552d64-532a-4347-b6a9-c2f3741da904",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-08T01:38:53Z",
-      "removed_at": null
+      "removed_at": "2026-11-13T20:11:23Z",
+      "removed_by_source": true
     },
     "cc448565-59ec-4a27-8ea3-1576c5ea13ed": {
       "title": "Fantasy World Passerby",
       "url": "https://mangadex.org/title/cc448565-59ec-4a27-8ea3-1576c5ea13ed",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-08T01:38:53Z",
-      "removed_at": null
+      "removed_at": "2026-11-13T20:11:23Z",
+      "removed_by_source": true
     },
     "f43aab98-8bfe-4275-97cc-9a7b7635eb80": {
       "title": "Science Fell in Love, so I Tried to Prove It",
       "url": "https://mangadex.org/title/f43aab98-8bfe-4275-97cc-9a7b7635eb80",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-08T01:38:53Z",
-      "removed_at": null
+      "removed_at": "2026-11-13T20:11:23Z",
+      "removed_by_source": true
     },
     "642aaf08-7aba-42d1-aa8d-f7b6995527aa": {
       "title": "The Reincarnated Snow White Doesn’t Want to Eat the Poisoned Apple",
@@ -15121,6 +15128,30 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-11-13T04:40:18Z",
+      "removed_at": null
+    },
+    "251afc21-8932-464b-906f-eeb976a14e55": {
+      "title": "Strange and Mysterious Daily Tales!",
+      "url": "https://mangadex.org/title/251afc21-8932-464b-906f-eeb976a14e55",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-13T20:11:23Z",
+      "removed_at": null
+    },
+    "eb9b7beb-cc26-434d-9f5e-c007a60a9203": {
+      "title": "Demi-Humans short stories!",
+      "url": "https://mangadex.org/title/eb9b7beb-cc26-434d-9f5e-c007a60a9203",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-13T20:11:23Z",
+      "removed_at": null
+    },
+    "f4e7f2b9-9baf-488c-a0f9-e0f4d44fb0b3": {
+      "title": "An Alchemist Who Started Working as a Handyman at an Inn Ends Up Living with the Inn’s Lovely Girls",
+      "url": "https://mangadex.org/title/f4e7f2b9-9baf-488c-a0f9-e0f4d44fb0b3",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-13T20:11:23Z",
       "removed_at": null
     }
   }

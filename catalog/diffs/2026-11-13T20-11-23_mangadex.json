@@ -1,0 +1,75 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-11-13T20:11:23Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "251afc21-8932-464b-906f-eeb976a14e55",
+      "title": "Strange and Mysterious Daily Tales!",
+      "url": "https://mangadex.org/title/251afc21-8932-464b-906f-eeb976a14e55"
+    },
+    {
+      "source": "mangadex",
+      "key": "eb9b7beb-cc26-434d-9f5e-c007a60a9203",
+      "title": "Demi-Humans short stories!",
+      "url": "https://mangadex.org/title/eb9b7beb-cc26-434d-9f5e-c007a60a9203"
+    },
+    {
+      "source": "mangadex",
+      "key": "f4e7f2b9-9baf-488c-a0f9-e0f4d44fb0b3",
+      "title": "An Alchemist Who Started Working as a Handyman at an Inn Ends Up Living with the Inn’s Lovely Girls",
+      "url": "https://mangadex.org/title/f4e7f2b9-9baf-488c-a0f9-e0f4d44fb0b3"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "535319ca-4ac9-417b-a8e0-0b6b569e89da",
+      "title": "The Ice-Core Meteoria",
+      "url": "https://mangadex.org/title/535319ca-4ac9-417b-a8e0-0b6b569e89da",
+      "removed_at": "2026-11-13T20:11:23Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "757527a8-0509-4088-9bf2-32972b30e841",
+      "title": "One Week Family",
+      "url": "https://mangadex.org/title/757527a8-0509-4088-9bf2-32972b30e841",
+      "removed_at": "2026-11-13T20:11:23Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "bd06f7fd-1bfa-4912-9d0e-f8655f54a1e0",
+      "title": "Total Eclipse of the Eternal Heart",
+      "url": "https://mangadex.org/title/bd06f7fd-1bfa-4912-9d0e-f8655f54a1e0",
+      "removed_at": "2026-11-13T20:11:23Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "1d3905b0-f8c2-4c38-8b26-5b2ff0a9516c",
+      "title": "Scatterbrained Klutz Big Sister",
+      "url": "https://mangadex.org/title/1d3905b0-f8c2-4c38-8b26-5b2ff0a9516c",
+      "removed_at": "2026-11-13T20:11:23Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "97552d64-532a-4347-b6a9-c2f3741da904",
+      "title": "Cheryl, the Spoils-of-War Lady, Wants to Ensnare Her Husband Who Will Kill Her",
+      "url": "https://mangadex.org/title/97552d64-532a-4347-b6a9-c2f3741da904",
+      "removed_at": "2026-11-13T20:11:23Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "cc448565-59ec-4a27-8ea3-1576c5ea13ed",
+      "title": "Fantasy World Passerby",
+      "url": "https://mangadex.org/title/cc448565-59ec-4a27-8ea3-1576c5ea13ed",
+      "removed_at": "2026-11-13T20:11:23Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "f43aab98-8bfe-4275-97cc-9a7b7635eb80",
+      "title": "Science Fell in Love, so I Tried to Prove It",
+      "url": "https://mangadex.org/title/f43aab98-8bfe-4275-97cc-9a7b7635eb80",
+      "removed_at": "2026-11-13T20:11:23Z"
+    }
+  ]
+}
