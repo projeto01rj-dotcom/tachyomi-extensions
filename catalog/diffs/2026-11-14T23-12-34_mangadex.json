@@ -1,0 +1,47 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-11-14T23:12:34Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "0681799b-907b-458e-86ad-3140fa4bd069",
+      "title": "Umineko WHEN THEY CRY Episode 1: Legend of the Golden Witch",
+      "url": "https://mangadex.org/title/0681799b-907b-458e-86ad-3140fa4bd069"
+    },
+    {
+      "source": "mangadex",
+      "key": "0a5d6028-6859-4cf3-b56c-14cc242bf9ba",
+      "title": "WYHA - where's your hell at",
+      "url": "https://mangadex.org/title/0a5d6028-6859-4cf3-b56c-14cc242bf9ba"
+    },
+    {
+      "source": "mangadex",
+      "key": "87a756b4-e4a9-4d38-81a1-d14c8fc90baf",
+      "title": "That Gatekeeper, Because He is the Strongest: The Exiled Warrior with 9999 Defense Power, Unmatched as the Gatekeeper of the Royal Capital",
+      "url": "https://mangadex.org/title/87a756b4-e4a9-4d38-81a1-d14c8fc90baf"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "829fc3a7-d4f4-42e9-9032-0917083f9e0d",
+      "title": "Nanhao And Shangfeng",
+      "url": "https://mangadex.org/title/829fc3a7-d4f4-42e9-9032-0917083f9e0d",
+      "removed_at": "2026-11-14T23:12:34Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "997a7215-b313-4d85-8a97-75a1ebccdaea",
+      "title": "5001 Yakuza Wars",
+      "url": "https://mangadex.org/title/997a7215-b313-4d85-8a97-75a1ebccdaea",
+      "removed_at": "2026-11-14T23:12:34Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "d7f927c8-c1f5-474e-bb3d-57da04be7662",
+      "title": "The Red Ranger Becomes an Adventurer in Another World",
+      "url": "https://mangadex.org/title/d7f927c8-c1f5-474e-bb3d-57da04be7662",
+      "removed_at": "2026-11-14T23:12:34Z"
+    }
+  ]
+}
