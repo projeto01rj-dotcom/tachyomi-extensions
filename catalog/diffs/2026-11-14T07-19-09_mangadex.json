@@ -1,0 +1,35 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-11-14T07:19:09Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "be29ba1f-d402-43fb-b7d6-50435619c2c8",
+      "title": "Even the Demon Teacher Has a Dream!",
+      "url": "https://mangadex.org/title/be29ba1f-d402-43fb-b7d6-50435619c2c8"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "642aaf08-7aba-42d1-aa8d-f7b6995527aa",
+      "title": "The Reincarnated Snow White Doesn’t Want to Eat the Poisoned Apple",
+      "url": "https://mangadex.org/title/642aaf08-7aba-42d1-aa8d-f7b6995527aa",
+      "removed_at": "2026-11-14T07:19:09Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "795d4d43-677b-4751-8496-a28104882488",
+      "title": "My Wicked Little Girl (Promo)",
+      "url": "https://mangadex.org/title/795d4d43-677b-4751-8496-a28104882488",
+      "removed_at": "2026-11-14T07:19:09Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "c81166ed-06a7-41a1-8aae-f459a3180e99",
+      "title": "The Girl Who Cross-Stitched Clouds",
+      "url": "https://mangadex.org/title/c81166ed-06a7-41a1-8aae-f459a3180e99",
+      "removed_at": "2026-11-14T07:19:09Z"
+    }
+  ]
+}

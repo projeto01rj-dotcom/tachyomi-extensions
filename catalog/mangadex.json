@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-11-14T00:56:50Z",
+  "updated_at": "2026-11-14T07:19:09Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -14685,25 +14685,28 @@
       "title": "The Reincarnated Snow White Doesn’t Want to Eat the Poisoned Apple",
       "url": "https://mangadex.org/title/642aaf08-7aba-42d1-aa8d-f7b6995527aa",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-08T15:27:16Z",
-      "removed_at": null
+      "removed_at": "2026-11-14T07:19:09Z",
+      "removed_by_source": true
     },
     "795d4d43-677b-4751-8496-a28104882488": {
       "title": "My Wicked Little Girl (Promo)",
       "url": "https://mangadex.org/title/795d4d43-677b-4751-8496-a28104882488",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-08T15:27:16Z",
-      "removed_at": null
+      "removed_at": "2026-11-14T07:19:09Z",
+      "removed_by_source": true
     },
     "c81166ed-06a7-41a1-8aae-f459a3180e99": {
       "title": "The Girl Who Cross-Stitched Clouds",
       "url": "https://mangadex.org/title/c81166ed-06a7-41a1-8aae-f459a3180e99",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-08T15:27:16Z",
-      "removed_at": null
+      "removed_at": "2026-11-14T07:19:09Z",
+      "removed_by_source": true
     },
     "f27a2cf2-ca32-4628-bf2a-8d5f4332aea5": {
       "title": "Slap Shot Girls",
@@ -15177,6 +15180,14 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-11-14T00:56:50Z",
+      "removed_at": null
+    },
+    "be29ba1f-d402-43fb-b7d6-50435619c2c8": {
+      "title": "Even the Demon Teacher Has a Dream!",
+      "url": "https://mangadex.org/title/be29ba1f-d402-43fb-b7d6-50435619c2c8",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-14T07:19:09Z",
       "removed_at": null
     }
   }
