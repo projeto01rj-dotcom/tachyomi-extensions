@@ -1,0 +1,21 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-11-14T14:22:43Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "439a65e5-5eda-41ab-93aa-28893c52b192",
+      "title": "Bereave or Bereaved",
+      "url": "https://mangadex.org/title/439a65e5-5eda-41ab-93aa-28893c52b192"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "ac2c3cdb-6607-46ae-9705-b75a70351ae0",
+      "title": "Boys on the Run",
+      "url": "https://mangadex.org/title/ac2c3cdb-6607-46ae-9705-b75a70351ae0",
+      "removed_at": "2026-11-14T14:22:43Z"
+    }
+  ]
+}

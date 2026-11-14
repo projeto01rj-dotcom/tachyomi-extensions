@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-11-14T07:19:09Z",
+  "updated_at": "2026-11-14T14:22:43Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -14737,9 +14737,10 @@
       "title": "Boys on the Run",
       "url": "https://mangadex.org/title/ac2c3cdb-6607-46ae-9705-b75a70351ae0",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-08T19:51:46Z",
-      "removed_at": null
+      "removed_at": "2026-11-14T14:22:43Z",
+      "removed_by_source": true
     },
     "829fc3a7-d4f4-42e9-9032-0917083f9e0d": {
       "title": "Nanhao And Shangfeng",
@@ -15188,6 +15189,14 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-11-14T07:19:09Z",
+      "removed_at": null
+    },
+    "439a65e5-5eda-41ab-93aa-28893c52b192": {
+      "title": "Bereave or Bereaved",
+      "url": "https://mangadex.org/title/439a65e5-5eda-41ab-93aa-28893c52b192",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-14T14:22:43Z",
       "removed_at": null
     }
   }
