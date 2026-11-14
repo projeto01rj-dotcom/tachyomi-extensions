@@ -1,0 +1,57 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-11-14T19:20:02Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "5be07de3-e637-45e7-ac62-862fce4041ea",
+      "title": "OneeLoli and Shaved Ice",
+      "url": "https://mangadex.org/title/5be07de3-e637-45e7-ac62-862fce4041ea"
+    },
+    {
+      "source": "mangadex",
+      "key": "5efc2417-d036-48e6-b86d-e4299a077093",
+      "title": "A Boyish Girlfriend in High Humidity",
+      "url": "https://mangadex.org/title/5efc2417-d036-48e6-b86d-e4299a077093"
+    },
+    {
+      "source": "mangadex",
+      "key": "7bd37661-c0b1-4166-87c1-7e633adb55ac",
+      "title": "One Piece - Vivi no Bouken",
+      "url": "https://mangadex.org/title/7bd37661-c0b1-4166-87c1-7e633adb55ac"
+    },
+    {
+      "source": "mangadex",
+      "key": "8c91b7b6-0874-41f4-8e25-e04e637e536b",
+      "title": "Ima Kako",
+      "url": "https://mangadex.org/title/8c91b7b6-0874-41f4-8e25-e04e637e536b"
+    },
+    {
+      "source": "mangadex",
+      "key": "c5f5734a-3ec6-4f0b-933d-8fb0dce2ce69",
+      "title": "Kokoro Himeru no Zen Himitsu",
+      "url": "https://mangadex.org/title/c5f5734a-3ec6-4f0b-933d-8fb0dce2ce69"
+    },
+    {
+      "source": "mangadex",
+      "key": "ff1a8ab9-1f3e-4377-9f2d-c870f3500c95",
+      "title": "The Lady and Her Demon Butler",
+      "url": "https://mangadex.org/title/ff1a8ab9-1f3e-4377-9f2d-c870f3500c95"
+    },
+    {
+      "source": "mangadex",
+      "key": "ff4e24b0-0d4e-4a9d-8744-8d61cff0f265",
+      "title": "Immortal Detective, Reidou Momiji",
+      "url": "https://mangadex.org/title/ff4e24b0-0d4e-4a9d-8744-8d61cff0f265"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "0184fc7c-4571-408c-9554-c88e6af32313",
+      "title": "The Boy I Confessed to Likes Small Things",
+      "url": "https://mangadex.org/title/0184fc7c-4571-408c-9554-c88e6af32313",
+      "removed_at": "2026-11-14T19:20:02Z"
+    }
+  ]
+}

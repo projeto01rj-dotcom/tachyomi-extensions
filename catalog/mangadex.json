@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-11-14T14:22:43Z",
+  "updated_at": "2026-11-14T19:20:02Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -14581,9 +14581,10 @@
       "title": "The Boy I Confessed to Likes Small Things",
       "url": "https://mangadex.org/title/0184fc7c-4571-408c-9554-c88e6af32313",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-07T18:24:59Z",
-      "removed_at": null
+      "removed_at": "2026-11-14T19:20:02Z",
+      "removed_by_source": true
     },
     "540f5728-6521-4a93-8eb1-059c1a6585e1": {
       "title": "Shikisaki Shimai wa Abakaretai",
@@ -15197,6 +15198,62 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-11-14T14:22:43Z",
+      "removed_at": null
+    },
+    "5be07de3-e637-45e7-ac62-862fce4041ea": {
+      "title": "OneeLoli and Shaved Ice",
+      "url": "https://mangadex.org/title/5be07de3-e637-45e7-ac62-862fce4041ea",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-14T19:20:02Z",
+      "removed_at": null
+    },
+    "5efc2417-d036-48e6-b86d-e4299a077093": {
+      "title": "A Boyish Girlfriend in High Humidity",
+      "url": "https://mangadex.org/title/5efc2417-d036-48e6-b86d-e4299a077093",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-14T19:20:02Z",
+      "removed_at": null
+    },
+    "7bd37661-c0b1-4166-87c1-7e633adb55ac": {
+      "title": "One Piece - Vivi no Bouken",
+      "url": "https://mangadex.org/title/7bd37661-c0b1-4166-87c1-7e633adb55ac",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-14T19:20:02Z",
+      "removed_at": null
+    },
+    "8c91b7b6-0874-41f4-8e25-e04e637e536b": {
+      "title": "Ima Kako",
+      "url": "https://mangadex.org/title/8c91b7b6-0874-41f4-8e25-e04e637e536b",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-14T19:20:02Z",
+      "removed_at": null
+    },
+    "c5f5734a-3ec6-4f0b-933d-8fb0dce2ce69": {
+      "title": "Kokoro Himeru no Zen Himitsu",
+      "url": "https://mangadex.org/title/c5f5734a-3ec6-4f0b-933d-8fb0dce2ce69",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-14T19:20:02Z",
+      "removed_at": null
+    },
+    "ff1a8ab9-1f3e-4377-9f2d-c870f3500c95": {
+      "title": "The Lady and Her Demon Butler",
+      "url": "https://mangadex.org/title/ff1a8ab9-1f3e-4377-9f2d-c870f3500c95",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-14T19:20:02Z",
+      "removed_at": null
+    },
+    "ff4e24b0-0d4e-4a9d-8744-8d61cff0f265": {
+      "title": "Immortal Detective, Reidou Momiji",
+      "url": "https://mangadex.org/title/ff4e24b0-0d4e-4a9d-8744-8d61cff0f265",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-14T19:20:02Z",
       "removed_at": null
     }
   }
