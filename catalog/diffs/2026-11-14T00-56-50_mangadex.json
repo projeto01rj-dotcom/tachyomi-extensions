@@ -1,0 +1,33 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-11-14T00:56:50Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "a10d989e-81bf-448b-ac44-5685a4a85651",
+      "title": "Kurenai-san Won't Give Me the Night",
+      "url": "https://mangadex.org/title/a10d989e-81bf-448b-ac44-5685a4a85651"
+    },
+    {
+      "source": "mangadex",
+      "key": "d5058c5d-f5d3-488d-8cf1-2702b2b807d9",
+      "title": "Hidan no Aria - G no Ketsuzoku",
+      "url": "https://mangadex.org/title/d5058c5d-f5d3-488d-8cf1-2702b2b807d9"
+    },
+    {
+      "source": "mangadex",
+      "key": "debdff88-8291-45b6-ac46-4055924926cf",
+      "title": "Who Killed the Hero?",
+      "url": "https://mangadex.org/title/debdff88-8291-45b6-ac46-4055924926cf"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "7138083b-4fbf-4cc3-8695-ce175034e45a",
+      "title": "Snow & Ink",
+      "url": "https://mangadex.org/title/7138083b-4fbf-4cc3-8695-ce175034e45a",
+      "removed_at": "2026-11-14T00:56:50Z"
+    }
+  ]
+}
