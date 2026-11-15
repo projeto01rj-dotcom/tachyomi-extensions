@@ -1,0 +1,53 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-11-15T10:12:55Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "33fcf28c-9282-43ed-b01d-17113fbbb092",
+      "title": "Adam and Eve",
+      "url": "https://mangadex.org/title/33fcf28c-9282-43ed-b01d-17113fbbb092"
+    },
+    {
+      "source": "mangadex",
+      "key": "7777c3aa-fe0f-47d6-8672-6a1d60a1a9e8",
+      "title": "Blue Orchestra",
+      "url": "https://mangadex.org/title/7777c3aa-fe0f-47d6-8672-6a1d60a1a9e8"
+    },
+    {
+      "source": "mangadex",
+      "key": "93d4f5c2-253d-49ee-9a8c-8684163757b2",
+      "title": "Witch on the Holy Night",
+      "url": "https://mangadex.org/title/93d4f5c2-253d-49ee-9a8c-8684163757b2"
+    },
+    {
+      "source": "mangadex",
+      "key": "a96ff05a-55d8-4318-bf30-2e6af2af81b3",
+      "title": "Dame Ningen to Tsukiatte Kureteiru Kanojo to Date Chuu",
+      "url": "https://mangadex.org/title/a96ff05a-55d8-4318-bf30-2e6af2af81b3"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "f229a28c-32d8-433a-b122-f7e33b10c32c",
+      "title": "How I Became King by Eating Monsters",
+      "url": "https://mangadex.org/title/f229a28c-32d8-433a-b122-f7e33b10c32c",
+      "removed_at": "2026-11-15T10:12:55Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "0296dc0b-7635-4154-927a-33c2244c4503",
+      "title": "My Youth Romantic Comedy Is Wrong As I Expected. - Monologue",
+      "url": "https://mangadex.org/title/0296dc0b-7635-4154-927a-33c2244c4503",
+      "removed_at": "2026-11-15T10:12:55Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "5efc2417-d036-48e6-b86d-e4299a077093",
+      "title": "A Boyish Girlfriend in High Humidity",
+      "url": "https://mangadex.org/title/5efc2417-d036-48e6-b86d-e4299a077093",
+      "removed_at": "2026-11-15T10:12:55Z"
+    }
+  ]
+}

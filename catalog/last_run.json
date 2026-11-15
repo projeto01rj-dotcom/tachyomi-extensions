@@ -1,13 +1,13 @@
 {
-  "ran_at": "2026-11-15T02:54:31Z",
+  "ran_at": "2026-11-15T10:12:55Z",
   "changed": true,
   "sources": {
     "mangadex": {
       "ok": true,
       "present": 500,
-      "registered": 1710,
-      "added": 2,
-      "removed": 4
+      "registered": 1714,
+      "added": 4,
+      "removed": 3
     },
     "saikai": {
       "ok": false,
@@ -25,5 +25,5 @@
       "error": "HTTPError: 403 Client Error: Forbidden for url: https://noxmangas.org/releases?page=1"
     }
   },
-  "removed": 4
+  "removed": 3
 }
