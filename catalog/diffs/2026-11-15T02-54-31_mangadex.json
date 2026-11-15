@@ -1,0 +1,48 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-11-15T02:54:31Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "26e40241-4a4e-4d12-a04d-cb3f7f707100",
+      "title": "Otherside Picnic",
+      "url": "https://mangadex.org/title/26e40241-4a4e-4d12-a04d-cb3f7f707100"
+    },
+    {
+      "source": "mangadex",
+      "key": "5e4102bb-57ec-4a61-be89-e3ab564ef86a",
+      "title": "Boku no Kanojo ga Majime Sugiru Shojo Bitch na Ken",
+      "url": "https://mangadex.org/title/5e4102bb-57ec-4a61-be89-e3ab564ef86a"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "10227f74-9134-4262-b01d-8966bc149c4d",
+      "title": "She Professed Herself Pupil of the Wise Man",
+      "url": "https://mangadex.org/title/10227f74-9134-4262-b01d-8966bc149c4d",
+      "removed_at": "2026-11-15T02:54:31Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "2e2a0b88-32f9-4f59-a46c-f71066e4bcbd",
+      "title": "Spring Returns to Aoi's Room",
+      "url": "https://mangadex.org/title/2e2a0b88-32f9-4f59-a46c-f71066e4bcbd",
+      "removed_at": "2026-11-15T02:54:31Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "3bce4841-9f35-4a68-b10a-7403777cf0d9",
+      "title": "The Day of Salvation",
+      "url": "https://mangadex.org/title/3bce4841-9f35-4a68-b10a-7403777cf0d9",
+      "removed_at": "2026-11-15T02:54:31Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "eb0a8dbe-4c24-4b54-baf8-cd4d69470f40",
+      "title": "The Useless Brother is Now the Strongest: The Mighty Brave is Reincarnated and Nonchalantly Rules over the Academy",
+      "url": "https://mangadex.org/title/eb0a8dbe-4c24-4b54-baf8-cd4d69470f40",
+      "removed_at": "2026-11-15T02:54:31Z"
+    }
+  ]
+}
