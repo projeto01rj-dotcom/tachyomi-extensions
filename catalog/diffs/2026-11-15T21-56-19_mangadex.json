@@ -1,0 +1,75 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-11-15T21:56:19Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "4714ec35-68dd-499a-b489-d7703755476f",
+      "title": "Drop",
+      "url": "https://mangadex.org/title/4714ec35-68dd-499a-b489-d7703755476f"
+    },
+    {
+      "source": "mangadex",
+      "key": "9fef2de7-18a9-4d93-acd2-663230e2c71e",
+      "title": "The Wandering Earth",
+      "url": "https://mangadex.org/title/9fef2de7-18a9-4d93-acd2-663230e2c71e"
+    },
+    {
+      "source": "mangadex",
+      "key": "a6a9c19f-ccc5-44af-8bec-7da090220bd3",
+      "title": "Childhood Friend, Big Love",
+      "url": "https://mangadex.org/title/a6a9c19f-ccc5-44af-8bec-7da090220bd3"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "fe1c6cb0-bfc5-4809-b261-1238876d97b6",
+      "title": "Made in Abyss: Made from Fortunes",
+      "url": "https://mangadex.org/title/fe1c6cb0-bfc5-4809-b261-1238876d97b6",
+      "removed_at": "2026-11-15T21:56:19Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "cc049e8b-d766-4120-8a63-218f299686bb",
+      "title": "The Crushing Weight Of This Universe",
+      "url": "https://mangadex.org/title/cc049e8b-d766-4120-8a63-218f299686bb",
+      "removed_at": "2026-11-15T21:56:19Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "0c1d035d-17d0-4bc3-9b05-a1ce313bb53f",
+      "title": "Yomoyama Kobanashi",
+      "url": "https://mangadex.org/title/0c1d035d-17d0-4bc3-9b05-a1ce313bb53f",
+      "removed_at": "2026-11-15T21:56:19Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "240f036e-d6ba-46a9-b990-fd06c47319f6",
+      "title": "Degausser",
+      "url": "https://mangadex.org/title/240f036e-d6ba-46a9-b990-fd06c47319f6",
+      "removed_at": "2026-11-15T21:56:19Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "67e79cef-5367-4977-bbbe-e47925cbc855",
+      "title": "Femme fatale's Salvation",
+      "url": "https://mangadex.org/title/67e79cef-5367-4977-bbbe-e47925cbc855",
+      "removed_at": "2026-11-15T21:56:19Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "ac0e6974-8555-4637-93fe-bd3a78104923",
+      "title": "The World God Only Knows",
+      "url": "https://mangadex.org/title/ac0e6974-8555-4637-93fe-bd3a78104923",
+      "removed_at": "2026-11-15T21:56:19Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "0f25067e-a33e-4b25-a5d5-aff6e03b9e5c",
+      "title": "A High School Boy Reincarnates as the Villainess in an Otome Game.",
+      "url": "https://mangadex.org/title/0f25067e-a33e-4b25-a5d5-aff6e03b9e5c",
+      "removed_at": "2026-11-15T21:56:19Z"
+    }
+  ]
+}
