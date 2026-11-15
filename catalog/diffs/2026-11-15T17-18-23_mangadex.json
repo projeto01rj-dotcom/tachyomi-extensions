@@ -1,0 +1,35 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-11-15T17:18:23Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "c770f36a-ed1d-4221-aa9d-6244e890f7e1",
+      "title": "If She Hadn't Gone To Tracen Academy: Case Silence Suzuka",
+      "url": "https://mangadex.org/title/c770f36a-ed1d-4221-aa9d-6244e890f7e1"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "af6667a4-ae4c-4baa-9283-a01f56d7f489",
+      "title": "Since I'm Interested In Your Hair",
+      "url": "https://mangadex.org/title/af6667a4-ae4c-4baa-9283-a01f56d7f489",
+      "removed_at": "2026-11-15T17:18:23Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "65f3a784-0992-4651-8757-6e28c6a919f2",
+      "title": "The Embodiment of Sins",
+      "url": "https://mangadex.org/title/65f3a784-0992-4651-8757-6e28c6a919f2",
+      "removed_at": "2026-11-15T17:18:23Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "0a29b87c-f6eb-4e6d-98b4-3cd8adb3ab8f",
+      "title": "A Former Assassin Was Reborn as a Blue-Blooded Daughter",
+      "url": "https://mangadex.org/title/0a29b87c-f6eb-4e6d-98b4-3cd8adb3ab8f",
+      "removed_at": "2026-11-15T17:18:23Z"
+    }
+  ]
+}
