@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-11-16T01:31:40Z",
+  "updated_at": "2026-11-16T08:48:27Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -15403,6 +15403,38 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-11-16T01:31:40Z",
+      "removed_at": null
+    },
+    "6e769716-df1e-4d66-89cc-32f3b46e17dc": {
+      "title": "Damn Reincarnation",
+      "url": "https://mangadex.org/title/6e769716-df1e-4d66-89cc-32f3b46e17dc",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-16T08:48:27Z",
+      "removed_at": null
+    },
+    "74112e07-9efd-4d57-8f2b-3d4ed5abcd5a": {
+      "title": "What a Wonderful World!",
+      "url": "https://mangadex.org/title/74112e07-9efd-4d57-8f2b-3d4ed5abcd5a",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-16T08:48:27Z",
+      "removed_at": null
+    },
+    "d8817a99-a04a-4393-a50b-895184368128": {
+      "title": "All My Summons Have SSS-Rank Talents",
+      "url": "https://mangadex.org/title/d8817a99-a04a-4393-a50b-895184368128",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-16T08:48:27Z",
+      "removed_at": null
+    },
+    "ef3de87f-118e-4b9e-bcd3-14c670513970": {
+      "title": "Tokyo Red Hood",
+      "url": "https://mangadex.org/title/ef3de87f-118e-4b9e-bcd3-14c670513970",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-16T08:48:27Z",
       "removed_at": null
     }
   }

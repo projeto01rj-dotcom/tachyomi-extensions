@@ -1,0 +1,31 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-11-16T08:48:27Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "6e769716-df1e-4d66-89cc-32f3b46e17dc",
+      "title": "Damn Reincarnation",
+      "url": "https://mangadex.org/title/6e769716-df1e-4d66-89cc-32f3b46e17dc"
+    },
+    {
+      "source": "mangadex",
+      "key": "74112e07-9efd-4d57-8f2b-3d4ed5abcd5a",
+      "title": "What a Wonderful World!",
+      "url": "https://mangadex.org/title/74112e07-9efd-4d57-8f2b-3d4ed5abcd5a"
+    },
+    {
+      "source": "mangadex",
+      "key": "d8817a99-a04a-4393-a50b-895184368128",
+      "title": "All My Summons Have SSS-Rank Talents",
+      "url": "https://mangadex.org/title/d8817a99-a04a-4393-a50b-895184368128"
+    },
+    {
+      "source": "mangadex",
+      "key": "ef3de87f-118e-4b9e-bcd3-14c670513970",
+      "title": "Tokyo Red Hood",
+      "url": "https://mangadex.org/title/ef3de87f-118e-4b9e-bcd3-14c670513970"
+    }
+  ],
+  "removed": []
+}
