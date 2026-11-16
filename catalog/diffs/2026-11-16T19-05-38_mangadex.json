@@ -1,0 +1,48 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-11-16T19:05:38Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "76ee7069-23b4-493c-bc44-34ccbf3051a8",
+      "title": "Tomo-chan wa Onna no ko!",
+      "url": "https://mangadex.org/title/76ee7069-23b4-493c-bc44-34ccbf3051a8"
+    },
+    {
+      "source": "mangadex",
+      "key": "9906dfa8-52c9-40ac-8eef-1099a85c8611",
+      "title": "Funeral Frieren Anthology: The Magic of Enjoying a Divergent Journey",
+      "url": "https://mangadex.org/title/9906dfa8-52c9-40ac-8eef-1099a85c8611"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "b23c9bb1-870e-483d-a496-0c55021c1bed",
+      "title": "Flag Capture in the First Move",
+      "url": "https://mangadex.org/title/b23c9bb1-870e-483d-a496-0c55021c1bed",
+      "removed_at": "2026-11-16T19:05:38Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "5ab3c84f-f1c7-43f6-927d-595bd43895e5",
+      "title": "Bride of the Barrier Master",
+      "url": "https://mangadex.org/title/5ab3c84f-f1c7-43f6-927d-595bd43895e5",
+      "removed_at": "2026-11-16T19:05:38Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "f7f430ab-2c24-49d3-b698-c9ff4787805b",
+      "title": "Sem título",
+      "url": "https://mangadex.org/title/f7f430ab-2c24-49d3-b698-c9ff4787805b",
+      "removed_at": "2026-11-16T19:05:38Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "fbb92940-e363-4dbb-8bad-0220a5a7512d",
+      "title": "Amon Saga: Prince of the Moon",
+      "url": "https://mangadex.org/title/fbb92940-e363-4dbb-8bad-0220a5a7512d",
+      "removed_at": "2026-11-16T19:05:38Z"
+    }
+  ]
+}
