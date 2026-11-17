@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-11-16T19:05:38Z",
+  "updated_at": "2026-11-17T02:32:14Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -690,9 +690,10 @@
       "title": "One-Punch Man (Fan Colored)",
       "url": "https://mangadex.org/title/29c42e49-d6f5-4084-9cec-771f5660c90f",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-09-18T11:47:59Z",
-      "removed_at": null
+      "removed_at": "2026-11-17T02:32:14Z",
+      "removed_by_source": true
     },
     "2a6d6ea2-18a5-4a31-9777-f4bb5bd32726": {
       "title": "Little Mushroom",
@@ -12809,9 +12810,10 @@
       "title": "Honmono no Kanojo ni Shitakunaru Made, Watashi de Tameshite Ii yo.",
       "url": "https://mangadex.org/title/bc7d2f16-f89f-480b-8be5-c24b34798b6a",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-23T19:23:26Z",
-      "removed_at": null
+      "removed_at": "2026-11-17T02:32:14Z",
+      "removed_by_source": true
     },
     "f40fdea0-e792-434c-875b-97a3aff9482f": {
       "title": "Knights of the 107th Demon Beast Front ~Futoshi Odyssey~",
@@ -14831,9 +14833,10 @@
       "title": "I Wanted to Confess to the Receptionist, but When I Went to the Guild, I Became a Hero",
       "url": "https://mangadex.org/title/136dd3fe-3e21-4fc9-b737-5bf382b9682a",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-09T21:13:13Z",
-      "removed_at": null
+      "removed_at": "2026-11-17T02:32:14Z",
+      "removed_by_source": true
     },
     "65f3a784-0992-4651-8757-6e28c6a919f2": {
       "title": "The Embodiment of Sins",
@@ -14935,9 +14938,10 @@
       "title": "Mahoutsukai no Yoru",
       "url": "https://mangadex.org/title/39299774-f33e-47c0-89d5-9fc12621e893",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-11T00:08:30Z",
-      "removed_at": null
+      "removed_at": "2026-11-17T02:32:14Z",
+      "removed_by_source": true
     },
     "5ab3c84f-f1c7-43f6-927d-595bd43895e5": {
       "title": "Bride of the Barrier Master",
@@ -14988,25 +14992,28 @@
       "title": "Sem título",
       "url": "https://mangadex.org/title/30d61f7f-b018-45df-a2fb-570089084214",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-11T14:50:20Z",
-      "removed_at": null
+      "removed_at": "2026-11-17T02:32:14Z",
+      "removed_by_source": true
     },
     "34d1f553-fc45-417e-b314-28134942a539": {
       "title": "Falling for Her Secret Side",
       "url": "https://mangadex.org/title/34d1f553-fc45-417e-b314-28134942a539",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-11T14:50:20Z",
-      "removed_at": null
+      "removed_at": "2026-11-17T02:32:14Z",
+      "removed_by_source": true
     },
     "73965527-b393-4f65-9bc3-2439ec44935a": {
       "title": "That Time I Was Blackmailed By the Class's Green Tea Bitch",
       "url": "https://mangadex.org/title/73965527-b393-4f65-9bc3-2439ec44935a",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-11T14:50:20Z",
-      "removed_at": null
+      "removed_at": "2026-11-17T02:32:14Z",
+      "removed_by_source": true
     },
     "9a901eb2-94f6-4761-97fe-de211050b344": {
       "title": "Red River",
@@ -15028,9 +15035,10 @@
       "title": "Dr. Slump - Mr. Cell",
       "url": "https://mangadex.org/title/7099ade3-fa6e-4258-874b-2e40f34b952c",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-11T21:40:12Z",
-      "removed_at": null
+      "removed_at": "2026-11-17T02:32:14Z",
+      "removed_by_source": true
     },
     "8a290bf2-bba9-4bb2-ac34-f241d3e20f80": {
       "title": "“He's Just An Ordinary Person”",
@@ -15455,6 +15463,14 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-11-16T19:05:38Z",
+      "removed_at": null
+    },
+    "cdae359d-5fa9-4d4e-b11a-69dd32b09742": {
+      "title": "Apotheosis: Ascension to Godhood",
+      "url": "https://mangadex.org/title/cdae359d-5fa9-4d4e-b11a-69dd32b09742",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-17T02:32:14Z",
       "removed_at": null
     }
   }

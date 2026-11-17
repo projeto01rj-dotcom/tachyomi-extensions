@@ -1,0 +1,70 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-11-17T02:32:14Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "cdae359d-5fa9-4d4e-b11a-69dd32b09742",
+      "title": "Apotheosis: Ascension to Godhood",
+      "url": "https://mangadex.org/title/cdae359d-5fa9-4d4e-b11a-69dd32b09742"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "29c42e49-d6f5-4084-9cec-771f5660c90f",
+      "title": "One-Punch Man (Fan Colored)",
+      "url": "https://mangadex.org/title/29c42e49-d6f5-4084-9cec-771f5660c90f",
+      "removed_at": "2026-11-17T02:32:14Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "bc7d2f16-f89f-480b-8be5-c24b34798b6a",
+      "title": "Honmono no Kanojo ni Shitakunaru Made, Watashi de Tameshite Ii yo.",
+      "url": "https://mangadex.org/title/bc7d2f16-f89f-480b-8be5-c24b34798b6a",
+      "removed_at": "2026-11-17T02:32:14Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "136dd3fe-3e21-4fc9-b737-5bf382b9682a",
+      "title": "I Wanted to Confess to the Receptionist, but When I Went to the Guild, I Became a Hero",
+      "url": "https://mangadex.org/title/136dd3fe-3e21-4fc9-b737-5bf382b9682a",
+      "removed_at": "2026-11-17T02:32:14Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "39299774-f33e-47c0-89d5-9fc12621e893",
+      "title": "Mahoutsukai no Yoru",
+      "url": "https://mangadex.org/title/39299774-f33e-47c0-89d5-9fc12621e893",
+      "removed_at": "2026-11-17T02:32:14Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "30d61f7f-b018-45df-a2fb-570089084214",
+      "title": "Sem título",
+      "url": "https://mangadex.org/title/30d61f7f-b018-45df-a2fb-570089084214",
+      "removed_at": "2026-11-17T02:32:14Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "34d1f553-fc45-417e-b314-28134942a539",
+      "title": "Falling for Her Secret Side",
+      "url": "https://mangadex.org/title/34d1f553-fc45-417e-b314-28134942a539",
+      "removed_at": "2026-11-17T02:32:14Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "73965527-b393-4f65-9bc3-2439ec44935a",
+      "title": "That Time I Was Blackmailed By the Class's Green Tea Bitch",
+      "url": "https://mangadex.org/title/73965527-b393-4f65-9bc3-2439ec44935a",
+      "removed_at": "2026-11-17T02:32:14Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "7099ade3-fa6e-4258-874b-2e40f34b952c",
+      "title": "Dr. Slump - Mr. Cell",
+      "url": "https://mangadex.org/title/7099ade3-fa6e-4258-874b-2e40f34b952c",
+      "removed_at": "2026-11-17T02:32:14Z"
+    }
+  ]
+}
