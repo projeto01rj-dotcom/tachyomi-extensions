@@ -1,0 +1,21 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-11-17T11:22:38Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "9478665e-412b-4e08-9844-5c07a732a71b",
+      "title": "The Hero and the Sage, Reincarnated and Engaged",
+      "url": "https://mangadex.org/title/9478665e-412b-4e08-9844-5c07a732a71b"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "f27a2cf2-ca32-4628-bf2a-8d5f4332aea5",
+      "title": "Slap Shot Girls",
+      "url": "https://mangadex.org/title/f27a2cf2-ca32-4628-bf2a-8d5f4332aea5",
+      "removed_at": "2026-11-17T11:22:38Z"
+    }
+  ]
+}

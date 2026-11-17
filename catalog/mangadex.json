@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-11-17T02:32:14Z",
+  "updated_at": "2026-11-17T11:22:38Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -14720,9 +14720,10 @@
       "title": "Slap Shot Girls",
       "url": "https://mangadex.org/title/f27a2cf2-ca32-4628-bf2a-8d5f4332aea5",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-08T15:27:16Z",
-      "removed_at": null
+      "removed_at": "2026-11-17T11:22:38Z",
+      "removed_by_source": true
     },
     "10b3cc1d-59a6-4f9e-a742-2a3c4d729c4e": {
       "title": "My childhood friend I reunited with has turned into the academy's prince",
@@ -15471,6 +15472,14 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-11-17T02:32:14Z",
+      "removed_at": null
+    },
+    "9478665e-412b-4e08-9844-5c07a732a71b": {
+      "title": "The Hero and the Sage, Reincarnated and Engaged",
+      "url": "https://mangadex.org/title/9478665e-412b-4e08-9844-5c07a732a71b",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-17T11:22:38Z",
       "removed_at": null
     }
   }
