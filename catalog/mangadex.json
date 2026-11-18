@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-11-17T19:57:14Z",
+  "updated_at": "2026-11-18T02:05:52Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -14437,9 +14437,10 @@
       "title": "Solo Leveling: Ragnarok",
       "url": "https://mangadex.org/title/ade0306c-f4b6-4890-9edb-1ddf04df2039",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-05T20:24:50Z",
-      "removed_at": null
+      "removed_at": "2026-11-18T02:05:52Z",
+      "removed_by_source": true
     },
     "4fd144b8-fc47-4cf4-afc7-9191d88dcc4a": {
       "title": "I, a Tired Office Worker, Start Living Together with a Beautiful Highschool Girl whom I Met Again After 7 Years",
@@ -14933,9 +14934,10 @@
       "title": "Charisma - Charisma na Karera wa Charisma House de Karizumai-chuu",
       "url": "https://mangadex.org/title/382871e2-8b72-4381-8a92-52d1dd53f231",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-11T00:08:30Z",
-      "removed_at": null
+      "removed_at": "2026-11-18T02:05:52Z",
+      "removed_by_source": true
     },
     "39299774-f33e-47c0-89d5-9fc12621e893": {
       "title": "Mahoutsukai no Yoru",
@@ -15125,25 +15127,28 @@
       "title": "Neo Devilman",
       "url": "https://mangadex.org/title/315c8f3c-2541-43f1-89a6-fb94b38710c4",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-12T23:56:09Z",
-      "removed_at": null
+      "removed_at": "2026-11-18T02:05:52Z",
+      "removed_by_source": true
     },
     "73839d4c-51ab-4da1-ae88-ec9f80032af5": {
       "title": "Rules for Peddling in Another World",
       "url": "https://mangadex.org/title/73839d4c-51ab-4da1-ae88-ec9f80032af5",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-12T23:56:09Z",
-      "removed_at": null
+      "removed_at": "2026-11-18T02:05:52Z",
+      "removed_by_source": true
     },
     "93b23c65-d183-45cf-a250-2b9e84d01770": {
       "title": "Goth Loli-chan to Mondaiji-kun",
       "url": "https://mangadex.org/title/93b23c65-d183-45cf-a250-2b9e84d01770",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-12T23:56:09Z",
-      "removed_at": null
+      "removed_at": "2026-11-18T02:05:52Z",
+      "removed_by_source": true
     },
     "e81ba13c-acf6-4739-8157-8b5e491daeeb": {
       "title": "Fall in Love with Me, Not Your Oshi, Oshino-Kun!",
@@ -15165,9 +15170,10 @@
       "title": "Toxy Noxy Foresty Forest",
       "url": "https://mangadex.org/title/38ce723f-6069-4fd7-89c8-b3c6242d96b8",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-13T04:40:18Z",
-      "removed_at": null
+      "removed_at": "2026-11-18T02:05:52Z",
+      "removed_by_source": true
     },
     "cfcc577d-14a3-4332-beaa-346068d2afbd": {
       "title": "Tamon's B-Side",
@@ -15552,6 +15558,38 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-11-17T19:57:14Z",
+      "removed_at": null
+    },
+    "4009123a-8fde-4a89-b118-21eb8650f6f7": {
+      "title": "Giant Robo",
+      "url": "https://mangadex.org/title/4009123a-8fde-4a89-b118-21eb8650f6f7",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-18T02:05:52Z",
+      "removed_at": null
+    },
+    "58b2e2ca-a1f1-479e-a371-f51e40914f7f": {
+      "title": "Yojouhan no Ibara Hime",
+      "url": "https://mangadex.org/title/58b2e2ca-a1f1-479e-a371-f51e40914f7f",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-18T02:05:52Z",
+      "removed_at": null
+    },
+    "a19cd602-1222-4210-afd8-af95312e175c": {
+      "title": "A Kouhai With A Really Nice Voice Decided To Pull A Prank On Me…",
+      "url": "https://mangadex.org/title/a19cd602-1222-4210-afd8-af95312e175c",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-18T02:05:52Z",
+      "removed_at": null
+    },
+    "ff61b901-ebc4-4f21-b021-0b8c2af1cde9": {
+      "title": "What Color is it?",
+      "url": "https://mangadex.org/title/ff61b901-ebc4-4f21-b021-0b8c2af1cde9",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-18T02:05:52Z",
       "removed_at": null
     }
   }

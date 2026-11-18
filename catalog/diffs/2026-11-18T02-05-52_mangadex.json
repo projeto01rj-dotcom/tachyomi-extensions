@@ -1,0 +1,74 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-11-18T02:05:52Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "4009123a-8fde-4a89-b118-21eb8650f6f7",
+      "title": "Giant Robo",
+      "url": "https://mangadex.org/title/4009123a-8fde-4a89-b118-21eb8650f6f7"
+    },
+    {
+      "source": "mangadex",
+      "key": "58b2e2ca-a1f1-479e-a371-f51e40914f7f",
+      "title": "Yojouhan no Ibara Hime",
+      "url": "https://mangadex.org/title/58b2e2ca-a1f1-479e-a371-f51e40914f7f"
+    },
+    {
+      "source": "mangadex",
+      "key": "a19cd602-1222-4210-afd8-af95312e175c",
+      "title": "A Kouhai With A Really Nice Voice Decided To Pull A Prank On Me…",
+      "url": "https://mangadex.org/title/a19cd602-1222-4210-afd8-af95312e175c"
+    },
+    {
+      "source": "mangadex",
+      "key": "ff61b901-ebc4-4f21-b021-0b8c2af1cde9",
+      "title": "What Color is it?",
+      "url": "https://mangadex.org/title/ff61b901-ebc4-4f21-b021-0b8c2af1cde9"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "ade0306c-f4b6-4890-9edb-1ddf04df2039",
+      "title": "Solo Leveling: Ragnarok",
+      "url": "https://mangadex.org/title/ade0306c-f4b6-4890-9edb-1ddf04df2039",
+      "removed_at": "2026-11-18T02:05:52Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "382871e2-8b72-4381-8a92-52d1dd53f231",
+      "title": "Charisma - Charisma na Karera wa Charisma House de Karizumai-chuu",
+      "url": "https://mangadex.org/title/382871e2-8b72-4381-8a92-52d1dd53f231",
+      "removed_at": "2026-11-18T02:05:52Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "315c8f3c-2541-43f1-89a6-fb94b38710c4",
+      "title": "Neo Devilman",
+      "url": "https://mangadex.org/title/315c8f3c-2541-43f1-89a6-fb94b38710c4",
+      "removed_at": "2026-11-18T02:05:52Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "73839d4c-51ab-4da1-ae88-ec9f80032af5",
+      "title": "Rules for Peddling in Another World",
+      "url": "https://mangadex.org/title/73839d4c-51ab-4da1-ae88-ec9f80032af5",
+      "removed_at": "2026-11-18T02:05:52Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "93b23c65-d183-45cf-a250-2b9e84d01770",
+      "title": "Goth Loli-chan to Mondaiji-kun",
+      "url": "https://mangadex.org/title/93b23c65-d183-45cf-a250-2b9e84d01770",
+      "removed_at": "2026-11-18T02:05:52Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "38ce723f-6069-4fd7-89c8-b3c6242d96b8",
+      "title": "Toxy Noxy Foresty Forest",
+      "url": "https://mangadex.org/title/38ce723f-6069-4fd7-89c8-b3c6242d96b8",
+      "removed_at": "2026-11-18T02:05:52Z"
+    }
+  ]
+}
