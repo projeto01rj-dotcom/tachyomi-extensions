@@ -1,0 +1,28 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-11-18T18:56:53Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "dd96061a-96ac-4549-8a3c-ed4221a51d46",
+      "title": "Asura’s Verdict",
+      "url": "https://mangadex.org/title/dd96061a-96ac-4549-8a3c-ed4221a51d46"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "4710b856-0585-40d2-a87e-099fc032511f",
+      "title": "Otherwordly Izakaya Nobu",
+      "url": "https://mangadex.org/title/4710b856-0585-40d2-a87e-099fc032511f",
+      "removed_at": "2026-11-18T18:56:53Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "251afc21-8932-464b-906f-eeb976a14e55",
+      "title": "Strange and Mysterious Daily Tales!",
+      "url": "https://mangadex.org/title/251afc21-8932-464b-906f-eeb976a14e55",
+      "removed_at": "2026-11-18T18:56:53Z"
+    }
+  ]
+}
