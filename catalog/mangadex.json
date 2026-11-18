@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-11-18T02:05:52Z",
+  "updated_at": "2026-11-18T10:26:27Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -15162,9 +15162,10 @@
       "title": "The Two Just Don't Fit Into the World",
       "url": "https://mangadex.org/title/0832d45e-847b-494c-a6ee-2523a5baec5d",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-13T04:40:18Z",
-      "removed_at": null
+      "removed_at": "2026-11-18T10:26:27Z",
+      "removed_by_source": true
     },
     "38ce723f-6069-4fd7-89c8-b3c6242d96b8": {
       "title": "Toxy Noxy Foresty Forest",
@@ -15195,9 +15196,10 @@
       "title": "Demi-Humans short stories!",
       "url": "https://mangadex.org/title/eb9b7beb-cc26-434d-9f5e-c007a60a9203",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-13T20:11:23Z",
-      "removed_at": null
+      "removed_at": "2026-11-18T10:26:27Z",
+      "removed_by_source": true
     },
     "f4e7f2b9-9baf-488c-a0f9-e0f4d44fb0b3": {
       "title": "An Alchemist Who Started Working as a Handyman at an Inn Ends Up Living with the Inn’s Lovely Girls",
@@ -15590,6 +15592,22 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-11-18T02:05:52Z",
+      "removed_at": null
+    },
+    "cc647d62-3a2c-474b-ac4e-844256ab185d": {
+      "title": "Phoenix",
+      "url": "https://mangadex.org/title/cc647d62-3a2c-474b-ac4e-844256ab185d",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-18T10:26:27Z",
+      "removed_at": null
+    },
+    "d5d7a98d-82b3-4561-bd67-45110f2d22cb": {
+      "title": "Exiled in a Class Trial for \"Poor Dexterity\": Because He Was Dexterous, He Lived on His Own. Because of His Dexterity, He Was Able to Use All the Skills and Magic of the Higher Ranks, Making Him Invincible. I Decided to Live on My Own, but the People Around Me Wouldn't Leave Me Alone",
+      "url": "https://mangadex.org/title/d5d7a98d-82b3-4561-bd67-45110f2d22cb",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-18T10:26:27Z",
       "removed_at": null
     }
   }
