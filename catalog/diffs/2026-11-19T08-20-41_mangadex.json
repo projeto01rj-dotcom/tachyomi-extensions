@@ -1,0 +1,35 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-11-19T08:20:41Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "c1e4343f-2ac5-4bde-a2ac-c454516d7e67",
+      "title": "My Friend Turned Into a Woman",
+      "url": "https://mangadex.org/title/c1e4343f-2ac5-4bde-a2ac-c454516d7e67"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "96bfa6c4-23c2-4a1f-afb2-e1a6b85da65b",
+      "title": "Go with the Clouds, North-by-Northwest",
+      "url": "https://mangadex.org/title/96bfa6c4-23c2-4a1f-afb2-e1a6b85da65b",
+      "removed_at": "2026-11-19T08:20:41Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "98f1e421-4dac-4c56-8392-84b5245c0540",
+      "title": "Crime Yuri Anthology",
+      "url": "https://mangadex.org/title/98f1e421-4dac-4c56-8392-84b5245c0540",
+      "removed_at": "2026-11-19T08:20:41Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "be29ba1f-d402-43fb-b7d6-50435619c2c8",
+      "title": "Even the Demon Teacher Has a Dream!",
+      "url": "https://mangadex.org/title/be29ba1f-d402-43fb-b7d6-50435619c2c8",
+      "removed_at": "2026-11-19T08:20:41Z"
+    }
+  ]
+}

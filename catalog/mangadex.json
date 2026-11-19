@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-11-19T00:56:40Z",
+  "updated_at": "2026-11-19T08:20:41Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -14741,9 +14741,10 @@
       "title": "Go with the Clouds, North-by-Northwest",
       "url": "https://mangadex.org/title/96bfa6c4-23c2-4a1f-afb2-e1a6b85da65b",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-08T19:51:46Z",
-      "removed_at": null
+      "removed_at": "2026-11-19T08:20:41Z",
+      "removed_by_source": true
     },
     "ac2c3cdb-6607-46ae-9705-b75a70351ae0": {
       "title": "Boys on the Run",
@@ -14856,9 +14857,10 @@
       "title": "Crime Yuri Anthology",
       "url": "https://mangadex.org/title/98f1e421-4dac-4c56-8392-84b5245c0540",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-09T21:13:13Z",
-      "removed_at": null
+      "removed_at": "2026-11-19T08:20:41Z",
+      "removed_by_source": true
     },
     "b23c9bb1-870e-483d-a496-0c55021c1bed": {
       "title": "Flag Capture in the First Move",
@@ -15243,9 +15245,10 @@
       "title": "Even the Demon Teacher Has a Dream!",
       "url": "https://mangadex.org/title/be29ba1f-d402-43fb-b7d6-50435619c2c8",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-14T07:19:09Z",
-      "removed_at": null
+      "removed_at": "2026-11-19T08:20:41Z",
+      "removed_by_source": true
     },
     "439a65e5-5eda-41ab-93aa-28893c52b192": {
       "title": "Bereave or Bereaved",
@@ -15622,6 +15625,14 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-11-18T18:56:53Z",
+      "removed_at": null
+    },
+    "c1e4343f-2ac5-4bde-a2ac-c454516d7e67": {
+      "title": "My Friend Turned Into a Woman",
+      "url": "https://mangadex.org/title/c1e4343f-2ac5-4bde-a2ac-c454516d7e67",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-19T08:20:41Z",
       "removed_at": null
     }
   }
