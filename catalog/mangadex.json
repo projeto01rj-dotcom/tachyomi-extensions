@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-11-18T18:56:53Z",
+  "updated_at": "2026-11-19T00:56:40Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -14767,9 +14767,10 @@
       "title": "Sem título",
       "url": "https://mangadex.org/title/9047286f-ea5b-475a-84cc-a2533983ffe9",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-08T23:19:26Z",
-      "removed_at": null
+      "removed_at": "2026-11-19T00:56:40Z",
+      "removed_by_source": true
     },
     "997a7215-b313-4d85-8a97-75a1ebccdaea": {
       "title": "5001 Yakuza Wars",
@@ -15215,25 +15216,28 @@
       "title": "Kurenai-san Won't Give Me the Night",
       "url": "https://mangadex.org/title/a10d989e-81bf-448b-ac44-5685a4a85651",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-14T00:56:50Z",
-      "removed_at": null
+      "removed_at": "2026-11-19T00:56:40Z",
+      "removed_by_source": true
     },
     "d5058c5d-f5d3-488d-8cf1-2702b2b807d9": {
       "title": "Hidan no Aria - G no Ketsuzoku",
       "url": "https://mangadex.org/title/d5058c5d-f5d3-488d-8cf1-2702b2b807d9",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-14T00:56:50Z",
-      "removed_at": null
+      "removed_at": "2026-11-19T00:56:40Z",
+      "removed_by_source": true
     },
     "debdff88-8291-45b6-ac46-4055924926cf": {
       "title": "Who Killed the Hero?",
       "url": "https://mangadex.org/title/debdff88-8291-45b6-ac46-4055924926cf",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-14T00:56:50Z",
-      "removed_at": null
+      "removed_at": "2026-11-19T00:56:40Z",
+      "removed_by_source": true
     },
     "be29ba1f-d402-43fb-b7d6-50435619c2c8": {
       "title": "Even the Demon Teacher Has a Dream!",
