@@ -1,0 +1,57 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-11-19T17:30:13Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "04ff2200-7e68-49fe-92e0-d353b3dff2d2",
+      "title": "The Revenge of My Youth: Re Life with an Angelic Girl",
+      "url": "https://mangadex.org/title/04ff2200-7e68-49fe-92e0-d353b3dff2d2"
+    },
+    {
+      "source": "mangadex",
+      "key": "28bf349e-41e5-4443-84f0-f0581752519b",
+      "title": "A Tale of Adventure About Pouring 25 Years of Life into a Useless Skill and Now It Being the Strongest",
+      "url": "https://mangadex.org/title/28bf349e-41e5-4443-84f0-f0581752519b"
+    },
+    {
+      "source": "mangadex",
+      "key": "323da437-2cdf-4a08-b91b-374c806f753c",
+      "title": "Sasori",
+      "url": "https://mangadex.org/title/323da437-2cdf-4a08-b91b-374c806f753c"
+    },
+    {
+      "source": "mangadex",
+      "key": "677fb60b-2deb-46db-9ece-704f6144faf0",
+      "title": "The Klutzy Class Monitor and the Girl with the Short Skirt",
+      "url": "https://mangadex.org/title/677fb60b-2deb-46db-9ece-704f6144faf0"
+    },
+    {
+      "source": "mangadex",
+      "key": "953782be-2888-4f4b-b4eb-055a902a3814",
+      "title": "The Bateren Tales",
+      "url": "https://mangadex.org/title/953782be-2888-4f4b-b4eb-055a902a3814"
+    },
+    {
+      "source": "mangadex",
+      "key": "cf95944d-4a54-4f39-94c9-8f2c746661b9",
+      "title": "Shiro Ari",
+      "url": "https://mangadex.org/title/cf95944d-4a54-4f39-94c9-8f2c746661b9"
+    },
+    {
+      "source": "mangadex",
+      "key": "e2a856b9-8ec2-4601-a735-28923cfde3e9",
+      "title": "Aldo's Reincarnation in Another World",
+      "url": "https://mangadex.org/title/e2a856b9-8ec2-4601-a735-28923cfde3e9"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "439a65e5-5eda-41ab-93aa-28893c52b192",
+      "title": "Bereave or Bereaved",
+      "url": "https://mangadex.org/title/439a65e5-5eda-41ab-93aa-28893c52b192",
+      "removed_at": "2026-11-19T17:30:13Z"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-11-19T08:20:41Z",
+  "updated_at": "2026-11-19T17:30:13Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -15254,9 +15254,10 @@
       "title": "Bereave or Bereaved",
       "url": "https://mangadex.org/title/439a65e5-5eda-41ab-93aa-28893c52b192",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-14T14:22:43Z",
-      "removed_at": null
+      "removed_at": "2026-11-19T17:30:13Z",
+      "removed_by_source": true
     },
     "5be07de3-e637-45e7-ac62-862fce4041ea": {
       "title": "OneeLoli and Shaved Ice",
@@ -15633,6 +15634,62 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-11-19T08:20:41Z",
+      "removed_at": null
+    },
+    "04ff2200-7e68-49fe-92e0-d353b3dff2d2": {
+      "title": "The Revenge of My Youth: Re Life with an Angelic Girl",
+      "url": "https://mangadex.org/title/04ff2200-7e68-49fe-92e0-d353b3dff2d2",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-19T17:30:13Z",
+      "removed_at": null
+    },
+    "28bf349e-41e5-4443-84f0-f0581752519b": {
+      "title": "A Tale of Adventure About Pouring 25 Years of Life into a Useless Skill and Now It Being the Strongest",
+      "url": "https://mangadex.org/title/28bf349e-41e5-4443-84f0-f0581752519b",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-19T17:30:13Z",
+      "removed_at": null
+    },
+    "323da437-2cdf-4a08-b91b-374c806f753c": {
+      "title": "Sasori",
+      "url": "https://mangadex.org/title/323da437-2cdf-4a08-b91b-374c806f753c",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-19T17:30:13Z",
+      "removed_at": null
+    },
+    "677fb60b-2deb-46db-9ece-704f6144faf0": {
+      "title": "The Klutzy Class Monitor and the Girl with the Short Skirt",
+      "url": "https://mangadex.org/title/677fb60b-2deb-46db-9ece-704f6144faf0",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-19T17:30:13Z",
+      "removed_at": null
+    },
+    "953782be-2888-4f4b-b4eb-055a902a3814": {
+      "title": "The Bateren Tales",
+      "url": "https://mangadex.org/title/953782be-2888-4f4b-b4eb-055a902a3814",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-19T17:30:13Z",
+      "removed_at": null
+    },
+    "cf95944d-4a54-4f39-94c9-8f2c746661b9": {
+      "title": "Shiro Ari",
+      "url": "https://mangadex.org/title/cf95944d-4a54-4f39-94c9-8f2c746661b9",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-19T17:30:13Z",
+      "removed_at": null
+    },
+    "e2a856b9-8ec2-4601-a735-28923cfde3e9": {
+      "title": "Aldo's Reincarnation in Another World",
+      "url": "https://mangadex.org/title/e2a856b9-8ec2-4601-a735-28923cfde3e9",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-19T17:30:13Z",
       "removed_at": null
     }
   }
