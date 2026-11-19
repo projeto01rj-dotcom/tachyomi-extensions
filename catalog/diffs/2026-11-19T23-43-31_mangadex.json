@@ -1,0 +1,21 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-11-19T23:43:31Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "a4e06240-e9d0-45eb-80f7-f42d5bd0f120",
+      "title": "That's What It's Like Being Fourteen",
+      "url": "https://mangadex.org/title/a4e06240-e9d0-45eb-80f7-f42d5bd0f120"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "5be07de3-e637-45e7-ac62-862fce4041ea",
+      "title": "OneeLoli and Shaved Ice",
+      "url": "https://mangadex.org/title/5be07de3-e637-45e7-ac62-862fce4041ea",
+      "removed_at": "2026-11-19T23:43:31Z"
+    }
+  ]
+}
