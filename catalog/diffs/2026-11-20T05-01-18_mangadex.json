@@ -1,0 +1,73 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-11-20T05:01:18Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "5b239a1a-4c5e-4bd9-8983-de277dad7b84",
+      "title": "A Kid Who Doesn't Talk but Whose Behavior Shows",
+      "url": "https://mangadex.org/title/5b239a1a-4c5e-4bd9-8983-de277dad7b84"
+    },
+    {
+      "source": "mangadex",
+      "key": "7878c129-a33d-4bf9-b5d2-ff98cbe85bd6",
+      "title": "Go! Go! Loser Ranger!",
+      "url": "https://mangadex.org/title/7878c129-a33d-4bf9-b5d2-ff98cbe85bd6"
+    },
+    {
+      "source": "mangadex",
+      "key": "b68e49c9-72eb-4550-a7d3-a4fcf9b16bf2",
+      "title": "Otokonoko no Tomodachi 100 Hito Tsukuru Hanashi",
+      "url": "https://mangadex.org/title/b68e49c9-72eb-4550-a7d3-a4fcf9b16bf2"
+    },
+    {
+      "source": "mangadex",
+      "key": "e34ba047-273c-4200-b685-a2fb923efd37",
+      "title": "Girls x Sexual Harassment Life",
+      "url": "https://mangadex.org/title/e34ba047-273c-4200-b685-a2fb923efd37"
+    },
+    {
+      "source": "mangadex",
+      "key": "f09f5515-dec7-434f-b38e-dc3bba107efb",
+      "title": "Nietzsche-sensei - Konbini ni, Satori Sedai no Shinjin ga Maiorita",
+      "url": "https://mangadex.org/title/f09f5515-dec7-434f-b38e-dc3bba107efb"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "7bd37661-c0b1-4166-87c1-7e633adb55ac",
+      "title": "One Piece - Vivi no Bouken",
+      "url": "https://mangadex.org/title/7bd37661-c0b1-4166-87c1-7e633adb55ac",
+      "removed_at": "2026-11-20T05:01:18Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "8c91b7b6-0874-41f4-8e25-e04e637e536b",
+      "title": "Ima Kako",
+      "url": "https://mangadex.org/title/8c91b7b6-0874-41f4-8e25-e04e637e536b",
+      "removed_at": "2026-11-20T05:01:18Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "c5f5734a-3ec6-4f0b-933d-8fb0dce2ce69",
+      "title": "Kokoro Himeru no Zen Himitsu",
+      "url": "https://mangadex.org/title/c5f5734a-3ec6-4f0b-933d-8fb0dce2ce69",
+      "removed_at": "2026-11-20T05:01:18Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "ff1a8ab9-1f3e-4377-9f2d-c870f3500c95",
+      "title": "The Lady and Her Demon Butler",
+      "url": "https://mangadex.org/title/ff1a8ab9-1f3e-4377-9f2d-c870f3500c95",
+      "removed_at": "2026-11-20T05:01:18Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "0a5d6028-6859-4cf3-b56c-14cc242bf9ba",
+      "title": "WYHA - where's your hell at",
+      "url": "https://mangadex.org/title/0a5d6028-6859-4cf3-b56c-14cc242bf9ba",
+      "removed_at": "2026-11-20T05:01:18Z"
+    }
+  ]
+}
