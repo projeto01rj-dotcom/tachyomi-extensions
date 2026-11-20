@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-11-20T14:13:18Z",
+  "updated_at": "2026-11-20T21:53:42Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -15072,9 +15072,10 @@
       "title": "Zatch Bell! 2",
       "url": "https://mangadex.org/title/c5bd7460-644e-40c6-aa66-40d1efaddb58",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-12T02:37:36Z",
-      "removed_at": null
+      "removed_at": "2026-11-20T21:53:42Z",
+      "removed_by_source": true
     },
     "20331b71-1d3f-4aed-b990-e54298424488": {
       "title": "Magic Knight Rayearth",
@@ -15372,9 +15373,10 @@
       "title": "Adam and Eve",
       "url": "https://mangadex.org/title/33fcf28c-9282-43ed-b01d-17113fbbb092",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-15T10:12:55Z",
-      "removed_at": null
+      "removed_at": "2026-11-20T21:53:42Z",
+      "removed_by_source": true
     },
     "7777c3aa-fe0f-47d6-8672-6a1d60a1a9e8": {
       "title": "Blue Orchestra",
@@ -15396,9 +15398,10 @@
       "title": "Dame Ningen to Tsukiatte Kureteiru Kanojo to Date Chuu",
       "url": "https://mangadex.org/title/a96ff05a-55d8-4318-bf30-2e6af2af81b3",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-15T10:12:55Z",
-      "removed_at": null
+      "removed_at": "2026-11-20T21:53:42Z",
+      "removed_by_source": true
     },
     "c770f36a-ed1d-4221-aa9d-6244e890f7e1": {
       "title": "If She Hadn't Gone To Tracen Academy: Case Silence Suzuka",
@@ -15783,6 +15786,46 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-11-20T14:13:18Z",
+      "removed_at": null
+    },
+    "72b28da7-eb5d-4dee-a5ca-2f18197deb02": {
+      "title": "My Older Sister is a Sword Saint and My Younger Sister is a Sage",
+      "url": "https://mangadex.org/title/72b28da7-eb5d-4dee-a5ca-2f18197deb02",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-20T21:53:42Z",
+      "removed_at": null
+    },
+    "a4a44881-8ae3-460c-be02-9d51201d7605": {
+      "title": "Jyanome-san Wants to Smile!",
+      "url": "https://mangadex.org/title/a4a44881-8ae3-460c-be02-9d51201d7605",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-20T21:53:42Z",
+      "removed_at": null
+    },
+    "f677ba49-3348-4922-a772-f402a8aa0fb7": {
+      "title": "Girls' Frontline",
+      "url": "https://mangadex.org/title/f677ba49-3348-4922-a772-f402a8aa0fb7",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-20T21:53:42Z",
+      "removed_at": null
+    },
+    "f81026af-1b41-465c-932b-291ce4760c00": {
+      "title": "My Isekai Life: I Gained a Second Character Class and Became the Strongest Sage in the World!",
+      "url": "https://mangadex.org/title/f81026af-1b41-465c-932b-291ce4760c00",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-20T21:53:42Z",
+      "removed_at": null
+    },
+    "fe840e8f-1267-4611-869b-9ab290dc205b": {
+      "title": "The Legendary Weapon Became My Bride When I Overwhelmed the Production Job",
+      "url": "https://mangadex.org/title/fe840e8f-1267-4611-869b-9ab290dc205b",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-20T21:53:42Z",
       "removed_at": null
     }
   }
