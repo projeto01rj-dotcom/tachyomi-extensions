@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-11-20T05:01:18Z",
+  "updated_at": "2026-11-20T14:13:18Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -14473,9 +14473,10 @@
       "title": "Rendezvous in the Netherworld",
       "url": "https://mangadex.org/title/ca84bb81-8a23-4b49-8aff-b2ab6761d0cd",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-06T15:29:48Z",
-      "removed_at": null
+      "removed_at": "2026-11-20T14:13:18Z",
+      "removed_by_source": true
     },
     "e4631dc7-87b9-4d6a-8b3b-5594664ecc27": {
       "title": "Fate/kaleid liner PRISMA☆ILLYA 3rei!!",
@@ -14813,9 +14814,10 @@
       "title": "Song of the Long March",
       "url": "https://mangadex.org/title/9510e82e-cfbe-4dda-823e-e3576420c732",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-09T10:41:28Z",
-      "removed_at": null
+      "removed_at": "2026-11-20T14:13:18Z",
+      "removed_by_source": true
     },
     "d7f927c8-c1f5-474e-bb3d-57da04be7662": {
       "title": "The Red Ranger Becomes an Adventurer in Another World",
@@ -15210,9 +15212,10 @@
       "title": "An Alchemist Who Started Working as a Handyman at an Inn Ends Up Living with the Inn’s Lovely Girls",
       "url": "https://mangadex.org/title/f4e7f2b9-9baf-488c-a0f9-e0f4d44fb0b3",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-13T20:11:23Z",
-      "removed_at": null
+      "removed_at": "2026-11-20T14:13:18Z",
+      "removed_by_source": true
     },
     "a10d989e-81bf-448b-ac44-5685a4a85651": {
       "title": "Kurenai-san Won't Give Me the Night",
@@ -15325,9 +15328,10 @@
       "title": "Umineko WHEN THEY CRY Episode 1: Legend of the Golden Witch",
       "url": "https://mangadex.org/title/0681799b-907b-458e-86ad-3140fa4bd069",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-14T23:12:34Z",
-      "removed_at": null
+      "removed_at": "2026-11-20T14:13:18Z",
+      "removed_by_source": true
     },
     "0a5d6028-6859-4cf3-b56c-14cc242bf9ba": {
       "title": "WYHA - where's your hell at",
@@ -15350,17 +15354,19 @@
       "title": "Otherside Picnic",
       "url": "https://mangadex.org/title/26e40241-4a4e-4d12-a04d-cb3f7f707100",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-15T02:54:31Z",
-      "removed_at": null
+      "removed_at": "2026-11-20T14:13:18Z",
+      "removed_by_source": true
     },
     "5e4102bb-57ec-4a61-be89-e3ab564ef86a": {
       "title": "Boku no Kanojo ga Majime Sugiru Shojo Bitch na Ken",
       "url": "https://mangadex.org/title/5e4102bb-57ec-4a61-be89-e3ab564ef86a",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-15T02:54:31Z",
-      "removed_at": null
+      "removed_at": "2026-11-20T14:13:18Z",
+      "removed_by_source": true
     },
     "33fcf28c-9282-43ed-b01d-17113fbbb092": {
       "title": "Adam and Eve",
@@ -15446,9 +15452,10 @@
       "title": "Confession Series",
       "url": "https://mangadex.org/title/a48a20c5-35d3-4262-9d4d-51c8744ae1a3",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-16T01:31:40Z",
-      "removed_at": null
+      "removed_at": "2026-11-20T14:13:18Z",
+      "removed_by_source": true
     },
     "6e769716-df1e-4d66-89cc-32f3b46e17dc": {
       "title": "Damn Reincarnation",
@@ -15744,6 +15751,38 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-11-20T05:01:18Z",
+      "removed_at": null
+    },
+    "248525ed-ad1c-4ddc-a834-5d6ce66a3ad2": {
+      "title": "Arifureta: From Commonplace to World's Strongest",
+      "url": "https://mangadex.org/title/248525ed-ad1c-4ddc-a834-5d6ce66a3ad2",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-20T14:13:18Z",
+      "removed_at": null
+    },
+    "3af4cee6-911e-436f-bbba-550e2842e560": {
+      "title": "Mikoto and Rei",
+      "url": "https://mangadex.org/title/3af4cee6-911e-436f-bbba-550e2842e560",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-20T14:13:18Z",
+      "removed_at": null
+    },
+    "9d4de066-d4ef-46e6-82e4-0ed25143421a": {
+      "title": "The Suspects of Necromancy",
+      "url": "https://mangadex.org/title/9d4de066-d4ef-46e6-82e4-0ed25143421a",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-20T14:13:18Z",
+      "removed_at": null
+    },
+    "a8a0504a-6dd7-4346-88bf-7c2dc3fab0c3": {
+      "title": "Is a Mother in Her 30s Like Me Alright?",
+      "url": "https://mangadex.org/title/a8a0504a-6dd7-4346-88bf-7c2dc3fab0c3",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-20T14:13:18Z",
       "removed_at": null
     }
   }
