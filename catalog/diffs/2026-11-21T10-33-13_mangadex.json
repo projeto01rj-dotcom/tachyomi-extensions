@@ -1,0 +1,21 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-11-21T10:33:13Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "5f431fa4-ee68-47ac-8d04-3279a8f2b463",
+      "title": "Touhou Project Niji Sousaku Series: Shinigami wa Kyou mo Fune wo Kogu",
+      "url": "https://mangadex.org/title/5f431fa4-ee68-47ac-8d04-3279a8f2b463"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "c770f36a-ed1d-4221-aa9d-6244e890f7e1",
+      "title": "If She Hadn't Gone To Tracen Academy: Case Silence Suzuka",
+      "url": "https://mangadex.org/title/c770f36a-ed1d-4221-aa9d-6244e890f7e1",
+      "removed_at": "2026-11-21T10:33:13Z"
+    }
+  ]
+}

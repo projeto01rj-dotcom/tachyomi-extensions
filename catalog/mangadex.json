@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-11-21T02:56:11Z",
+  "updated_at": "2026-11-21T10:33:13Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -15407,9 +15407,10 @@
       "title": "If She Hadn't Gone To Tracen Academy: Case Silence Suzuka",
       "url": "https://mangadex.org/title/c770f36a-ed1d-4221-aa9d-6244e890f7e1",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-15T17:18:23Z",
-      "removed_at": null
+      "removed_at": "2026-11-21T10:33:13Z",
+      "removed_by_source": true
     },
     "4714ec35-68dd-499a-b489-d7703755476f": {
       "title": "Drop",
@@ -15850,6 +15851,14 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-11-21T02:56:11Z",
+      "removed_at": null
+    },
+    "5f431fa4-ee68-47ac-8d04-3279a8f2b463": {
+      "title": "Touhou Project Niji Sousaku Series: Shinigami wa Kyou mo Fune wo Kogu",
+      "url": "https://mangadex.org/title/5f431fa4-ee68-47ac-8d04-3279a8f2b463",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-21T10:33:13Z",
       "removed_at": null
     }
   }
