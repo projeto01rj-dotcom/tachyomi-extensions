@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-11-20T21:53:42Z",
+  "updated_at": "2026-11-21T02:56:11Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -15826,6 +15826,30 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-11-20T21:53:42Z",
+      "removed_at": null
+    },
+    "6c353cbe-3515-4a99-a940-68a442f8bcc2": {
+      "title": "Being Aggressively Scouted by a Skilled Detective",
+      "url": "https://mangadex.org/title/6c353cbe-3515-4a99-a940-68a442f8bcc2",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-21T02:56:11Z",
+      "removed_at": null
+    },
+    "d789dc5a-f15d-440b-9e12-d8ead3ca1756": {
+      "title": "Late Night Red Flags",
+      "url": "https://mangadex.org/title/d789dc5a-f15d-440b-9e12-d8ead3ca1756",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-21T02:56:11Z",
+      "removed_at": null
+    },
+    "efe14e44-b634-4042-b562-edd066b81b34": {
+      "title": "Tokimeki Tonight",
+      "url": "https://mangadex.org/title/efe14e44-b634-4042-b562-edd066b81b34",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-21T02:56:11Z",
       "removed_at": null
     }
   }

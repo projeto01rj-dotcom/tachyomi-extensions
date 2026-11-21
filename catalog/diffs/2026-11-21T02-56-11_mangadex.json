@@ -1,0 +1,25 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-11-21T02:56:11Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "6c353cbe-3515-4a99-a940-68a442f8bcc2",
+      "title": "Being Aggressively Scouted by a Skilled Detective",
+      "url": "https://mangadex.org/title/6c353cbe-3515-4a99-a940-68a442f8bcc2"
+    },
+    {
+      "source": "mangadex",
+      "key": "d789dc5a-f15d-440b-9e12-d8ead3ca1756",
+      "title": "Late Night Red Flags",
+      "url": "https://mangadex.org/title/d789dc5a-f15d-440b-9e12-d8ead3ca1756"
+    },
+    {
+      "source": "mangadex",
+      "key": "efe14e44-b634-4042-b562-edd066b81b34",
+      "title": "Tokimeki Tonight",
+      "url": "https://mangadex.org/title/efe14e44-b634-4042-b562-edd066b81b34"
+    }
+  ],
+  "removed": []
+}
