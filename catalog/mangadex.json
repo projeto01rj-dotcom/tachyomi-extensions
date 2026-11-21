@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-11-21T10:33:13Z",
+  "updated_at": "2026-11-21T17:50:32Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -15029,9 +15029,10 @@
       "title": "Red River",
       "url": "https://mangadex.org/title/9a901eb2-94f6-4761-97fe-de211050b344",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-11T14:50:20Z",
-      "removed_at": null
+      "removed_at": "2026-11-21T17:50:32Z",
+      "removed_by_source": true
     },
     "4710b856-0585-40d2-a87e-099fc032511f": {
       "title": "Otherwordly Izakaya Nobu",
@@ -15416,9 +15417,10 @@
       "title": "Drop",
       "url": "https://mangadex.org/title/4714ec35-68dd-499a-b489-d7703755476f",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-15T21:56:19Z",
-      "removed_at": null
+      "removed_at": "2026-11-21T17:50:32Z",
+      "removed_by_source": true
     },
     "9fef2de7-18a9-4d93-acd2-663230e2c71e": {
       "title": "The Wandering Earth",
@@ -15859,6 +15861,14 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-11-21T10:33:13Z",
+      "removed_at": null
+    },
+    "e97d5eed-e3ef-427b-9d9a-aae4c28302c4": {
+      "title": "Bad Boy Who Lies In Love",
+      "url": "https://mangadex.org/title/e97d5eed-e3ef-427b-9d9a-aae4c28302c4",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-21T17:50:32Z",
       "removed_at": null
     }
   }

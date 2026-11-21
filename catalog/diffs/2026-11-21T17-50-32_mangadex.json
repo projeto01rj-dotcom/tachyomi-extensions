@@ -1,0 +1,28 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-11-21T17:50:32Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "e97d5eed-e3ef-427b-9d9a-aae4c28302c4",
+      "title": "Bad Boy Who Lies In Love",
+      "url": "https://mangadex.org/title/e97d5eed-e3ef-427b-9d9a-aae4c28302c4"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "9a901eb2-94f6-4761-97fe-de211050b344",
+      "title": "Red River",
+      "url": "https://mangadex.org/title/9a901eb2-94f6-4761-97fe-de211050b344",
+      "removed_at": "2026-11-21T17:50:32Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "4714ec35-68dd-499a-b489-d7703755476f",
+      "title": "Drop",
+      "url": "https://mangadex.org/title/4714ec35-68dd-499a-b489-d7703755476f",
+      "removed_at": "2026-11-21T17:50:32Z"
+    }
+  ]
+}
