@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-11-21T17:50:32Z",
+  "updated_at": "2026-11-21T22:38:09Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -15507,9 +15507,10 @@
       "title": "Funeral Frieren Anthology: The Magic of Enjoying a Divergent Journey",
       "url": "https://mangadex.org/title/9906dfa8-52c9-40ac-8eef-1099a85c8611",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-16T19:05:38Z",
-      "removed_at": null
+      "removed_at": "2026-11-21T22:38:09Z",
+      "removed_by_source": true
     },
     "cdae359d-5fa9-4d4e-b11a-69dd32b09742": {
       "title": "Apotheosis: Ascension to Godhood",
@@ -15869,6 +15870,14 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-11-21T17:50:32Z",
+      "removed_at": null
+    },
+    "b35d95cf-4fc7-4603-be0d-0f800691b411": {
+      "title": "The \"Perfect\" Student Council President Was Throwing Up in The Classroom",
+      "url": "https://mangadex.org/title/b35d95cf-4fc7-4603-be0d-0f800691b411",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-21T22:38:09Z",
       "removed_at": null
     }
   }

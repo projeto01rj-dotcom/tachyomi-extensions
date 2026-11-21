@@ -1,0 +1,21 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-11-21T22:38:09Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "b35d95cf-4fc7-4603-be0d-0f800691b411",
+      "title": "The \"Perfect\" Student Council President Was Throwing Up in The Classroom",
+      "url": "https://mangadex.org/title/b35d95cf-4fc7-4603-be0d-0f800691b411"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "9906dfa8-52c9-40ac-8eef-1099a85c8611",
+      "title": "Funeral Frieren Anthology: The Magic of Enjoying a Divergent Journey",
+      "url": "https://mangadex.org/title/9906dfa8-52c9-40ac-8eef-1099a85c8611",
+      "removed_at": "2026-11-21T22:38:09Z"
+    }
+  ]
+}
