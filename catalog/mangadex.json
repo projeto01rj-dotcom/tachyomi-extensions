@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-11-21T22:38:09Z",
+  "updated_at": "2026-11-22T02:45:33Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -15426,9 +15426,10 @@
       "title": "The Wandering Earth",
       "url": "https://mangadex.org/title/9fef2de7-18a9-4d93-acd2-663230e2c71e",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-15T21:56:19Z",
-      "removed_at": null
+      "removed_at": "2026-11-22T02:45:33Z",
+      "removed_by_source": true
     },
     "a6a9c19f-ccc5-44af-8bec-7da090220bd3": {
       "title": "Childhood Friend, Big Love",
@@ -15878,6 +15879,14 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-11-21T22:38:09Z",
+      "removed_at": null
+    },
+    "e248881f-2e82-4a49-9e88-f4643b0f4c53": {
+      "title": "Requiem of the Rose King: The Queen and the Rose Knight",
+      "url": "https://mangadex.org/title/e248881f-2e82-4a49-9e88-f4643b0f4c53",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-22T02:45:33Z",
       "removed_at": null
     }
   }

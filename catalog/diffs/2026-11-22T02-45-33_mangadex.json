@@ -1,0 +1,21 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-11-22T02:45:33Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "e248881f-2e82-4a49-9e88-f4643b0f4c53",
+      "title": "Requiem of the Rose King: The Queen and the Rose Knight",
+      "url": "https://mangadex.org/title/e248881f-2e82-4a49-9e88-f4643b0f4c53"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "9fef2de7-18a9-4d93-acd2-663230e2c71e",
+      "title": "The Wandering Earth",
+      "url": "https://mangadex.org/title/9fef2de7-18a9-4d93-acd2-663230e2c71e",
+      "removed_at": "2026-11-22T02:45:33Z"
+    }
+  ]
+}
