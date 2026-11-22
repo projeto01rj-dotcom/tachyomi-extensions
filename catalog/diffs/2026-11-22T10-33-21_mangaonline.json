@@ -1,0 +1,1624 @@
+{
+  "source": "mangaonline",
+  "fetched_at": "2026-11-22T10:33:21Z",
+  "added": [],
+  "removed": [
+    {
+      "source": "mangaonline",
+      "key": "a-amiga-da-minha-mae",
+      "title": "A Amiga da Minha Mãe",
+      "url": "https://mangaonline.tv/manga/a-amiga-da-minha-mae/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "a-lua-de-mel-a-30-metros-subterraneos",
+      "title": "A Lua de Mel a 30 Metros Subterrâneos…",
+      "url": "https://mangaonline.tv/manga/a-lua-de-mel-a-30-metros-subterraneos/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "a-regressors-tale-of-cultivation",
+      "title": "A Regressor’s Tale of Cultivation",
+      "url": "https://mangaonline.tv/manga/a-regressors-tale-of-cultivation/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "a-tactical-genius-on-the-field",
+      "title": "A Tactical Genius on the Field",
+      "url": "https://mangaonline.tv/manga/a-tactical-genius-on-the-field/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "abandonei-tudo-e-comecei-a-vender-coca-cola",
+      "title": "Abandonei Tudo e Comecei a Vender Coca-Cola",
+      "url": "https://mangaonline.tv/manga/abandonei-tudo-e-comecei-a-vender-coca-cola/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "absolute-regression",
+      "title": "Absolute Regression",
+      "url": "https://mangaonline.tv/manga/absolute-regression/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "akuyaku-reijou-no-oyome-sama",
+      "title": "Akuyaku Reijou no Oyome-sama",
+      "url": "https://mangaonline.tv/manga/akuyaku-reijou-no-oyome-sama/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "asuras-verdict",
+      "title": "Asura’s Verdict",
+      "url": "https://mangaonline.tv/manga/asuras-verdict/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "attack-on-titan",
+      "title": "Attack on Titan",
+      "url": "https://mangaonline.tv/manga/attack-on-titan/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "berserk",
+      "title": "Berserk",
+      "url": "https://mangaonline.tv/manga/berserk/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "black-clover",
+      "title": "Black Clover",
+      "url": "https://mangaonline.tv/manga/black-clover/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "bleach",
+      "title": "Bleach",
+      "url": "https://mangaonline.tv/manga/bleach/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "blue-ursus",
+      "title": "Blue Ursus",
+      "url": "https://mangaonline.tv/manga/blue-ursus/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "boku-no-hero-academia",
+      "title": "Boku no Hero Academia",
+      "url": "https://mangaonline.tv/manga/boku-no-hero-academia/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "boruto-two-blue-vortex",
+      "title": "Boruto: Two Blue Vortex",
+      "url": "https://mangaonline.tv/manga/boruto-two-blue-vortex/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-01",
+      "title": "Capitulo 01",
+      "url": "https://mangaonline.tv/manga/capitulo-01/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-02",
+      "title": "Capitulo 02",
+      "url": "https://mangaonline.tv/manga/capitulo-02/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-03",
+      "title": "Capitulo 03",
+      "url": "https://mangaonline.tv/manga/capitulo-03/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-03-2",
+      "title": "Capitulo 03.2",
+      "url": "https://mangaonline.tv/manga/capitulo-03-2/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-03-5",
+      "title": "Capitulo 03.5",
+      "url": "https://mangaonline.tv/manga/capitulo-03-5/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-03-6",
+      "title": "Capitulo 03.6",
+      "url": "https://mangaonline.tv/manga/capitulo-03-6/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-04",
+      "title": "Capitulo 04",
+      "url": "https://mangaonline.tv/manga/capitulo-04/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-04-fim",
+      "title": "Capitulo 04 - FIM",
+      "url": "https://mangaonline.tv/manga/capitulo-04-fim/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-05",
+      "title": "Capitulo 05",
+      "url": "https://mangaonline.tv/manga/capitulo-05/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-06",
+      "title": "Capitulo 06",
+      "url": "https://mangaonline.tv/manga/capitulo-06/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-06-1",
+      "title": "Capitulo 06.1",
+      "url": "https://mangaonline.tv/manga/capitulo-06-1/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-06-2",
+      "title": "Capitulo 06.2",
+      "url": "https://mangaonline.tv/manga/capitulo-06-2/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-07",
+      "title": "Capitulo 07",
+      "url": "https://mangaonline.tv/manga/capitulo-07/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-08",
+      "title": "Capitulo 08",
+      "url": "https://mangaonline.tv/manga/capitulo-08/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-09",
+      "title": "Capitulo 09",
+      "url": "https://mangaonline.tv/manga/capitulo-09/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-09-final",
+      "title": "Capitulo 09 - Final",
+      "url": "https://mangaonline.tv/manga/capitulo-09-final/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-1",
+      "title": "Capitulo 1",
+      "url": "https://mangaonline.tv/manga/capitulo-1/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-10",
+      "title": "Capitulo 10",
+      "url": "https://mangaonline.tv/manga/capitulo-10/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-10-3",
+      "title": "Capitulo 10.3",
+      "url": "https://mangaonline.tv/manga/capitulo-10-3/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-109",
+      "title": "Capitulo 109",
+      "url": "https://mangaonline.tv/manga/capitulo-109/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-11",
+      "title": "Capitulo 11",
+      "url": "https://mangaonline.tv/manga/capitulo-11/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-11-1",
+      "title": "Capitulo 11.1",
+      "url": "https://mangaonline.tv/manga/capitulo-11-1/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-110",
+      "title": "Capitulo 110",
+      "url": "https://mangaonline.tv/manga/capitulo-110/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-1187",
+      "title": "Capitulo 1187",
+      "url": "https://mangaonline.tv/manga/capitulo-1187/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-1188",
+      "title": "Capitulo 1188",
+      "url": "https://mangaonline.tv/manga/capitulo-1188/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-12",
+      "title": "Capitulo 12",
+      "url": "https://mangaonline.tv/manga/capitulo-12/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-12-5",
+      "title": "Capitulo 12.5",
+      "url": "https://mangaonline.tv/manga/capitulo-12-5/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-13",
+      "title": "Capitulo 13",
+      "url": "https://mangaonline.tv/manga/capitulo-13/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-138",
+      "title": "Capitulo 138",
+      "url": "https://mangaonline.tv/manga/capitulo-138/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-139-final",
+      "title": "Capitulo 139 Final",
+      "url": "https://mangaonline.tv/manga/capitulo-139-final/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-14",
+      "title": "Capitulo 14",
+      "url": "https://mangaonline.tv/manga/capitulo-14/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-14_1",
+      "title": "Capitulo 14",
+      "url": "https://mangaonline.tv/manga/capitulo-14_1/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-15",
+      "title": "Capitulo 15",
+      "url": "https://mangaonline.tv/manga/capitulo-15/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-159",
+      "title": "Capitulo 159.",
+      "url": "https://mangaonline.tv/manga/capitulo-159/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-16",
+      "title": "Capitulo 16.",
+      "url": "https://mangaonline.tv/manga/capitulo-16/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-160",
+      "title": "Capitulo 160",
+      "url": "https://mangaonline.tv/manga/capitulo-160/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-168",
+      "title": "Capitulo 168",
+      "url": "https://mangaonline.tv/manga/capitulo-168/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-169",
+      "title": "Capitulo 169",
+      "url": "https://mangaonline.tv/manga/capitulo-169/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-17",
+      "title": "Capitulo 17",
+      "url": "https://mangaonline.tv/manga/capitulo-17/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-170",
+      "title": "Capitulo 170",
+      "url": "https://mangaonline.tv/manga/capitulo-170/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-172",
+      "title": "Capitulo 172.",
+      "url": "https://mangaonline.tv/manga/capitulo-172/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-173",
+      "title": "Capitulo 173.",
+      "url": "https://mangaonline.tv/manga/capitulo-173/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-180",
+      "title": "Capitulo 180",
+      "url": "https://mangaonline.tv/manga/capitulo-180/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-181",
+      "title": "Capitulo 181",
+      "url": "https://mangaonline.tv/manga/capitulo-181/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-19",
+      "title": "Capitulo 19",
+      "url": "https://mangaonline.tv/manga/capitulo-19/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-199",
+      "title": "Capitulo 199",
+      "url": "https://mangaonline.tv/manga/capitulo-199/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-20",
+      "title": "Capitulo 20",
+      "url": "https://mangaonline.tv/manga/capitulo-20/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-200-final",
+      "title": "Capitulo 200 Final",
+      "url": "https://mangaonline.tv/manga/capitulo-200-final/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-204",
+      "title": "Capitulo 204",
+      "url": "https://mangaonline.tv/manga/capitulo-204/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-205-final",
+      "title": "Capitulo 205 Final",
+      "url": "https://mangaonline.tv/manga/capitulo-205-final/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-21",
+      "title": "Capitulo 21",
+      "url": "https://mangaonline.tv/manga/capitulo-21/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-217",
+      "title": "Capitulo 217",
+      "url": "https://mangaonline.tv/manga/capitulo-217/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-218",
+      "title": "Capitulo 218",
+      "url": "https://mangaonline.tv/manga/capitulo-218/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-218-extra",
+      "title": "Capítulo 218 - EXTRA",
+      "url": "https://mangaonline.tv/manga/capitulo-218-extra/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-22",
+      "title": "Capítulo 22",
+      "url": "https://mangaonline.tv/manga/capitulo-22/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-222",
+      "title": "Capitulo 222",
+      "url": "https://mangaonline.tv/manga/capitulo-222/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-23",
+      "title": "Capítulo 23",
+      "url": "https://mangaonline.tv/manga/capitulo-23/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-231",
+      "title": "Capitulo 231",
+      "url": "https://mangaonline.tv/manga/capitulo-231/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-232",
+      "title": "Capitulo 232",
+      "url": "https://mangaonline.tv/manga/capitulo-232/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-239-2",
+      "title": "Capitulo 239.2",
+      "url": "https://mangaonline.tv/manga/capitulo-239-2/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-24",
+      "title": "Capitulo 24",
+      "url": "https://mangaonline.tv/manga/capitulo-24/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-240",
+      "title": "Capitulo 240",
+      "url": "https://mangaonline.tv/manga/capitulo-240/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-242",
+      "title": "Capitulo 242",
+      "url": "https://mangaonline.tv/manga/capitulo-242/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-243",
+      "title": "Capitulo 243",
+      "url": "https://mangaonline.tv/manga/capitulo-243/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-25",
+      "title": "Capitulo 25",
+      "url": "https://mangaonline.tv/manga/capitulo-25/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-26",
+      "title": "Capitulo 26",
+      "url": "https://mangaonline.tv/manga/capitulo-26/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-26-5",
+      "title": "Capitulo 26.5",
+      "url": "https://mangaonline.tv/manga/capitulo-26-5/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-27",
+      "title": "Capitulo 27",
+      "url": "https://mangaonline.tv/manga/capitulo-27/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-271-5",
+      "title": "Capitulo 271.5",
+      "url": "https://mangaonline.tv/manga/capitulo-271-5/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-28",
+      "title": "Capitulo 28",
+      "url": "https://mangaonline.tv/manga/capitulo-28/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-30",
+      "title": "Capitulo 30",
+      "url": "https://mangaonline.tv/manga/capitulo-30/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-304",
+      "title": "Capitulo 304",
+      "url": "https://mangaonline.tv/manga/capitulo-304/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-305",
+      "title": "Capitulo 305",
+      "url": "https://mangaonline.tv/manga/capitulo-305/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-31",
+      "title": "Capitulo 31",
+      "url": "https://mangaonline.tv/manga/capitulo-31/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-320",
+      "title": "Capitulo 320",
+      "url": "https://mangaonline.tv/manga/capitulo-320/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-321",
+      "title": "Capitulo 321",
+      "url": "https://mangaonline.tv/manga/capitulo-321/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-330",
+      "title": "Capitulo 330",
+      "url": "https://mangaonline.tv/manga/capitulo-330/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-36",
+      "title": "Capitulo 36",
+      "url": "https://mangaonline.tv/manga/capitulo-36/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-37",
+      "title": "Capitulo 37",
+      "url": "https://mangaonline.tv/manga/capitulo-37/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-38",
+      "title": "Capitulo 38",
+      "url": "https://mangaonline.tv/manga/capitulo-38/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-382",
+      "title": "Capitulo 382.",
+      "url": "https://mangaonline.tv/manga/capitulo-382/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-383",
+      "title": "Capitulo 383.",
+      "url": "https://mangaonline.tv/manga/capitulo-383/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-385",
+      "title": "Capitulo 385",
+      "url": "https://mangaonline.tv/manga/capitulo-385/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-386",
+      "title": "Capitulo 386",
+      "url": "https://mangaonline.tv/manga/capitulo-386/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-39",
+      "title": "Capitulo 39",
+      "url": "https://mangaonline.tv/manga/capitulo-39/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-40",
+      "title": "Capitulo 40.",
+      "url": "https://mangaonline.tv/manga/capitulo-40/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-409",
+      "title": "Capitulo 409.",
+      "url": "https://mangaonline.tv/manga/capitulo-409/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-41",
+      "title": "Capitulo 41",
+      "url": "https://mangaonline.tv/manga/capitulo-41/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-410",
+      "title": "Capitulo 410.",
+      "url": "https://mangaonline.tv/manga/capitulo-410/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-430",
+      "title": "Capitulo 430",
+      "url": "https://mangaonline.tv/manga/capitulo-430/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-431",
+      "title": "Capitulo 431",
+      "url": "https://mangaonline.tv/manga/capitulo-431/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-46",
+      "title": "Capitulo 46",
+      "url": "https://mangaonline.tv/manga/capitulo-46/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-47",
+      "title": "Capitulo 47",
+      "url": "https://mangaonline.tv/manga/capitulo-47/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-5",
+      "title": "Capitulo 5",
+      "url": "https://mangaonline.tv/manga/capitulo-5/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-50",
+      "title": "Capitulo 50",
+      "url": "https://mangaonline.tv/manga/capitulo-50/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-51",
+      "title": "Capitulo 51",
+      "url": "https://mangaonline.tv/manga/capitulo-51/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-55",
+      "title": "Capitulo 55.",
+      "url": "https://mangaonline.tv/manga/capitulo-55/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-56",
+      "title": "Capitulo 56.",
+      "url": "https://mangaonline.tv/manga/capitulo-56/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-6",
+      "title": "Capitulo 6",
+      "url": "https://mangaonline.tv/manga/capitulo-6/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-61",
+      "title": "Capitulo 61",
+      "url": "https://mangaonline.tv/manga/capitulo-61/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-62",
+      "title": "Capitulo 62",
+      "url": "https://mangaonline.tv/manga/capitulo-62/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-63",
+      "title": "Capitulo 63",
+      "url": "https://mangaonline.tv/manga/capitulo-63/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-64",
+      "title": "Capitulo 64",
+      "url": "https://mangaonline.tv/manga/capitulo-64/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-67",
+      "title": "Capitulo 67",
+      "url": "https://mangaonline.tv/manga/capitulo-67/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-68",
+      "title": "Capitulo 68",
+      "url": "https://mangaonline.tv/manga/capitulo-68/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-685",
+      "title": "Capitulo 685",
+      "url": "https://mangaonline.tv/manga/capitulo-685/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-686",
+      "title": "Capitulo 686",
+      "url": "https://mangaonline.tv/manga/capitulo-686/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-69",
+      "title": "Capitulo 69",
+      "url": "https://mangaonline.tv/manga/capitulo-69/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-7",
+      "title": "Capitulo 7",
+      "url": "https://mangaonline.tv/manga/capitulo-7/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-70",
+      "title": "Capitulo 70",
+      "url": "https://mangaonline.tv/manga/capitulo-70/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-8",
+      "title": "Capitulo 8",
+      "url": "https://mangaonline.tv/manga/capitulo-8/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-816",
+      "title": "Capitulo 816",
+      "url": "https://mangaonline.tv/manga/capitulo-816/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-817",
+      "title": "Capitulo 817",
+      "url": "https://mangaonline.tv/manga/capitulo-817/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "capitulo-9",
+      "title": "Capitulo 9",
+      "url": "https://mangaonline.tv/manga/capitulo-9/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "captain-tsubasa-the-strongest-opponent-holland-youth",
+      "title": "Captain Tsubasa: The Strongest Opponent! Holland Youth",
+      "url": "https://mangaonline.tv/manga/captain-tsubasa-the-strongest-opponent-holland-youth/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "captain-tsubasa-world-youth-hen",
+      "title": "Captain Tsubasa: World Youth-hen",
+      "url": "https://mangaonline.tv/manga/captain-tsubasa-world-youth-hen/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "cat-maid-and-mistress",
+      "title": "Cat Maid and Mistress",
+      "url": "https://mangaonline.tv/manga/cat-maid-and-mistress/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "chainsaw-man",
+      "title": "Chainsaw Man",
+      "url": "https://mangaonline.tv/manga/chainsaw-man/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "chikyuu-no-ko",
+      "title": "Chikyuu no Ko",
+      "url": "https://mangaonline.tv/manga/chikyuu-no-ko/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "colorist",
+      "title": "Colorist",
+      "url": "https://mangaonline.tv/manga/colorist/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "completo",
+      "title": "Completo",
+      "url": "https://mangaonline.tv/manga/completo/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "dandadan",
+      "title": "Dandadan",
+      "url": "https://mangaonline.tv/manga/dandadan/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "deserted-place",
+      "title": "Deserted Place",
+      "url": "https://mangaonline.tv/manga/deserted-place/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "doku-doku-mori-mori",
+      "title": "Doku Doku Mori Mori",
+      "url": "https://mangaonline.tv/manga/doku-doku-mori-mori/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "eden-of-witches",
+      "title": "Eden of Witches",
+      "url": "https://mangaonline.tv/manga/eden-of-witches/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "essas-duas-gostosas-peitudas-sao-ingenuas",
+      "title": "Essas Duas Gostosas Peitudas São Ingênuas",
+      "url": "https://mangaonline.tv/manga/essas-duas-gostosas-peitudas-sao-ingenuas/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "fantasista",
+      "title": "Fantasista",
+      "url": "https://mangaonline.tv/manga/fantasista/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "gachiakuta",
+      "title": "Gachiakuta",
+      "url": "https://mangaonline.tv/manga/gachiakuta/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "gal-to-honya",
+      "title": "Gal to Honya",
+      "url": "https://mangaonline.tv/manga/gal-to-honya/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "genkaku-shoujo-ga-tsukimatou-hanashi",
+      "title": "Genkaku Shoujo ga Tsukimatou Hanashi",
+      "url": "https://mangaonline.tv/manga/genkaku-shoujo-ga-tsukimatou-hanashi/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "girls-x-vampire",
+      "title": "Girls × Vampire",
+      "url": "https://mangaonline.tv/manga/girls-x-vampire/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "goblin-slayer-day-in-the-life",
+      "title": "Goblin Slayer: Day in the Life",
+      "url": "https://mangaonline.tv/manga/goblin-slayer-day-in-the-life/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "gokusotsu-kraken",
+      "title": "Gokusotsu Kraken",
+      "url": "https://mangaonline.tv/manga/gokusotsu-kraken/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "happy-massacre-ending",
+      "title": "Happy Massacre Ending",
+      "url": "https://mangaonline.tv/manga/happy-massacre-ending/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "hazure-skill-soine-ga-kakuseishi-boku-ga-saikyou-harem-wo-kizuku-made-micchaku-soine-de-ganbou-kaihou-yuuwaku-saremakutte-komattemasu",
+      "title": "Hazure Skill “Soine” ga Kakuseishi, Boku ga Saikyou Harem wo Kizuku made: Micchaku Soine de Ganbou Kaihou!? Yuuwaku saremakutte Komattemasu!!",
+      "url": "https://mangaonline.tv/manga/hazure-skill-soine-ga-kakuseishi-boku-ga-saikyou-harem-wo-kizuku-made-micchaku-soine-de-ganbou-kaihou-yuuwaku-saremakutte-komattemasu/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "heavenly-swords-grand-saga",
+      "title": "Heavenly Sword’s Grand Saga",
+      "url": "https://mangaonline.tv/manga/heavenly-swords-grand-saga/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "hen-koi",
+      "title": "Hen Koi!",
+      "url": "https://mangaonline.tv/manga/hen-koi/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "henkyou-mob-kizoku-no-uchi-ni-totsuidekita-akuyaku-reijou-ga-mechakucha-dekiru-yoi-yome-nanda-ga",
+      "title": "Henkyou Mob Kizoku no Uchi ni Totsuidekita Akuyaku Reijou ga, Mechakucha Dekiru Yoi Yome Nanda ga?",
+      "url": "https://mangaonline.tv/manga/henkyou-mob-kizoku-no-uchi-ni-totsuidekita-akuyaku-reijou-ga-mechakucha-dekiru-yoi-yome-nanda-ga/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "hima-ten",
+      "title": "Hima-Ten!",
+      "url": "https://mangaonline.tv/manga/hima-ten/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "hunter-x-hunter",
+      "title": "HUNTER x HUNTER",
+      "url": "https://mangaonline.tv/manga/hunter-x-hunter/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "im-a-super-rich-man-so-its-reasonable-for-me-to-be-a-scumbag",
+      "title": "I’m A Super Rich Man, So It’s Reasonable For Me To Be A Scumbag",
+      "url": "https://mangaonline.tv/manga/im-a-super-rich-man-so-its-reasonable-for-me-to-be-a-scumbag/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "inside-the-tentacle-cave",
+      "title": "Inside the Tentacle Cave",
+      "url": "https://mangaonline.tv/manga/inside-the-tentacle-cave/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "isekai-de-kojiin-wo-hiraita-kedo-naze-ka-darehitori-sudatou-to-shinai-ken",
+      "title": "Isekai de Kojiin wo Hiraita kedo, Naze ka Darehitori Sudatou to Shinai Ken",
+      "url": "https://mangaonline.tv/manga/isekai-de-kojiin-wo-hiraita-kedo-naze-ka-darehitori-sudatou-to-shinai-ken/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "isshiki-san-wa-koi-o-shiritai",
+      "title": "Isshiki-san wa Koi o Shiritai.",
+      "url": "https://mangaonline.tv/manga/isshiki-san-wa-koi-o-shiritai/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "issho-ni-kurashite-ii-desu-ka",
+      "title": "Issho ni Kurashite Ii desu ka?",
+      "url": "https://mangaonline.tv/manga/issho-ni-kurashite-ii-desu-ka/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "itonami-itonamezu",
+      "title": "Itonami Itonamezu",
+      "url": "https://mangaonline.tv/manga/itonami-itonamezu/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "ittsumo-shiotaiou-na-osananajimi-dakedo-ore-ni-kataomoi-shite-iru-no-ga-barebare-de-kawaii",
+      "title": "Ittsumo Shiotaiou na Osananajimi dakedo, Ore ni Kataomoi shite iru no ga Barebare de Kawaii",
+      "url": "https://mangaonline.tv/manga/ittsumo-shiotaiou-na-osananajimi-dakedo-ore-ni-kataomoi-shite-iru-no-ga-barebare-de-kawaii/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "jujutsu-kaisen",
+      "title": "Jujutsu Kaisen",
+      "url": "https://mangaonline.tv/manga/jujutsu-kaisen/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "jujutsu-kaisen-modulo",
+      "title": "Jujutsu Kaisen Modulo",
+      "url": "https://mangaonline.tv/manga/jujutsu-kaisen-modulo/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "kage-no-jitsuryokusha-ni-naritakute-master-of-garden-shichikage-retsuden",
+      "title": "Kage no Jitsuryokusha ni Naritakute! Master of Garden: Shichikage Retsuden",
+      "url": "https://mangaonline.tv/manga/kage-no-jitsuryokusha-ni-naritakute-master-of-garden-shichikage-retsuden/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "kenna-furry",
+      "title": "Kenna Furry",
+      "url": "https://mangaonline.tv/manga/kenna-furry/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "kimetsu-no-yaiba",
+      "title": "Kimetsu no Yaiba",
+      "url": "https://mangaonline.tv/manga/kimetsu-no-yaiba/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "kimi-ni-okuru-eien",
+      "title": "Kimi ni Okuru Eien",
+      "url": "https://mangaonline.tv/manga/kimi-ni-okuru-eien/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "kimikiss-various-heroines",
+      "title": "KimiKiss Various Heroines",
+      "url": "https://mangaonline.tv/manga/kimikiss-various-heroines/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "kurotsuki-no-yaergnacht",
+      "title": "Kurotsuki no Yaergnacht",
+      "url": "https://mangaonline.tv/manga/kurotsuki-no-yaergnacht/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "kusunoki-san-wa-koukou-debut-ni-shippai-shite-iru",
+      "title": "Kusunoki-san wa Koukou Debut ni Shippai Shite Iru",
+      "url": "https://mangaonline.tv/manga/kusunoki-san-wa-koukou-debut-ni-shippai-shite-iru/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "lets-make-a-harem-in-a-zombie-world",
+      "title": "Let’s Make a Harem in a Zombie World!",
+      "url": "https://mangaonline.tv/manga/lets-make-a-harem-in-a-zombie-world/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "love-icha-nindou",
+      "title": "Love Icha Nindou",
+      "url": "https://mangaonline.tv/manga/love-icha-nindou/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "madrasta-vadia",
+      "title": "Madrasta Vadia!!",
+      "url": "https://mangaonline.tv/manga/madrasta-vadia/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "magic-emperor",
+      "title": "Magic Emperor",
+      "url": "https://mangaonline.tv/manga/magic-emperor/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "manga",
+      "title": "Mangás",
+      "url": "https://mangaonline.tv/manga/manga/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "marika-chan-no-koukando-wa-bukkowarete-iru",
+      "title": "Marika-chan no Koukando wa Bukkowarete iru",
+      "url": "https://mangaonline.tv/manga/marika-chan-no-koukando-wa-bukkowarete-iru/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "martial-peak",
+      "title": "Martial Peak",
+      "url": "https://mangaonline.tv/manga/martial-peak/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "mato-seihei-no-slave",
+      "title": "Mato Seihei no Slave",
+      "url": "https://mangaonline.tv/manga/mato-seihei-no-slave/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "metaphor-refantazio",
+      "title": "Metaphor: ReFantazio",
+      "url": "https://mangaonline.tv/manga/metaphor-refantazio/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "mii-chan-wants-to-be-kept",
+      "title": "Mii-chan Wants to be Kept",
+      "url": "https://mangaonline.tv/manga/mii-chan-wants-to-be-kept/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "minha-vida-em-uma-pensao",
+      "title": "Minha Vida Em Uma Pensão",
+      "url": "https://mangaonline.tv/manga/minha-vida-em-uma-pensao/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "monster-no-niku-wo-kutte-itara-oui-no-tsuita-ken",
+      "title": "Monster no Niku wo Kutte Itara Oui no Tsuita Ken",
+      "url": "https://mangaonline.tv/manga/monster-no-niku-wo-kutte-itara-oui-no-tsuita-ken/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "mujikaku-na-osananajimi-to-kyoumi-honi-de-yatte-mitara",
+      "title": "Mujikaku na Osananajimi to Kyoumi Honi de Yatte Mitara",
+      "url": "https://mangaonline.tv/manga/mujikaku-na-osananajimi-to-kyoumi-honi-de-yatte-mitara/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "nakinagi",
+      "title": "NakiNagi",
+      "url": "https://mangaonline.tv/manga/nakinagi/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "nano-machine",
+      "title": "Nano Machine – Nanotecnologia Marcial",
+      "url": "https://mangaonline.tv/manga/nano-machine/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "naruto",
+      "title": "Naruto",
+      "url": "https://mangaonline.tv/manga/naruto/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "natsukashi-machi-no-rozione",
+      "title": "Natsukashi Machi no Rozione",
+      "url": "https://mangaonline.tv/manga/natsukashi-machi-no-rozione/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "okiraku-ryoushu-no-tanoshii-ryouchi-bouei-seisan-kei-majutsu-de-na-mo-na-kimura-wo-saikyou-no-jousai-toshi-ni",
+      "title": "Okiraku Ryoushu no Tanoshii Ryouchi Bouei ~Seisan-kei Majutsu de Na mo na Kimura wo Saikyou no Jousai Toshi ni~",
+      "url": "https://mangaonline.tv/manga/okiraku-ryoushu-no-tanoshii-ryouchi-bouei-seisan-kei-majutsu-de-na-mo-na-kimura-wo-saikyou-no-jousai-toshi-ni/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "omniscient-reader",
+      "title": "Omniscient Reader",
+      "url": "https://mangaonline.tv/manga/omniscient-reader/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "one-piece",
+      "title": "One Piece",
+      "url": "https://mangaonline.tv/manga/one-piece/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "one-punch-man",
+      "title": "One Punch Man",
+      "url": "https://mangaonline.tv/manga/one-punch-man/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "oneshot",
+      "title": "Oneshot",
+      "url": "https://mangaonline.tv/manga/oneshot/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "ore-no-yubisaki-de-nureru-sekai",
+      "title": "Ore no Yubisaki de Nureru Sekai",
+      "url": "https://mangaonline.tv/manga/ore-no-yubisaki-de-nureru-sekai/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "osananananajimi",
+      "title": "Osananananajimi",
+      "url": "https://mangaonline.tv/manga/osananananajimi/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "otagal-perdendo-a-virgindade-com-uma-gyaru-loira-e-outra-morena-que-sao-gentis-com-otakus",
+      "title": "Otagal ~Perdendo A Virgindade Com Uma Gyaru Loira e Outra Morena Que São Gentis Com Otakus~",
+      "url": "https://mangaonline.tv/manga/otagal-perdendo-a-virgindade-com-uma-gyaru-loira-e-outra-morena-que-sao-gentis-com-otakus/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "pensando-nos-desejos-sexuais-do-irmao-mais-novo-2",
+      "title": "Pensando nos Desejos Sexuais do Irmão Mais Novo 2",
+      "url": "https://mangaonline.tv/manga/pensando-nos-desejos-sexuais-do-irmao-mais-novo-2/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "petals-of-reincarnation",
+      "title": "Petals of Reincarnation",
+      "url": "https://mangaonline.tv/manga/petals-of-reincarnation/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "ping-pong-peril",
+      "title": "Ping-Pong Peril",
+      "url": "https://mangaonline.tv/manga/ping-pong-peril/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "r15-ja-dame-desuka",
+      "title": "R15+ Ja Dame Desuka",
+      "url": "https://mangaonline.tv/manga/r15-ja-dame-desuka/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "reincarnation-coliseum-the-weakest-skill-conquers-the-strongest-women-and-creates-a-harem",
+      "title": "Reincarnation Coliseum: The Weakest Skill Conquers the Strongest Women and Creates a Harem",
+      "url": "https://mangaonline.tv/manga/reincarnation-coliseum-the-weakest-skill-conquers-the-strongest-women-and-creates-a-harem/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "reincarnation-of-the-fist-king",
+      "title": "Reincarnation of the Fist King",
+      "url": "https://mangaonline.tv/manga/reincarnation-of-the-fist-king/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "revenge-of-the-baskerville-bloodhound",
+      "title": "Revenge of the Baskerville Bloodhound",
+      "url": "https://mangaonline.tv/manga/revenge-of-the-baskerville-bloodhound/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "rock-wa-lady-no-tashinami-deshite",
+      "title": "Rock wa Lady no Tashinami deshite",
+      "url": "https://mangaonline.tv/manga/rock-wa-lady-no-tashinami-deshite/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "ruridragon",
+      "title": "RuriDragon",
+      "url": "https://mangaonline.tv/manga/ruridragon/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "saint-seiya%ea%9e%89-shura-vs-tenma-vs-shoko-shugeki-battle-royale-hen",
+      "title": "Saint Seiya꞉ Shura vs Tenma vs Shoko!! Shugeki Battle Royale Hen",
+      "url": "https://mangaonline.tv/manga/saint-seiya%ea%9e%89-shura-vs-tenma-vs-shoko-shugeki-battle-royale-hen/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "saint-seiya-saintia-sho-memories",
+      "title": "Saint Seiya: Saintia Sho Memories",
+      "url": "https://mangaonline.tv/manga/saint-seiya-saintia-sho-memories/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "sakamoto-days",
+      "title": "Sakamoto Days",
+      "url": "https://mangaonline.tv/manga/sakamoto-days/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "samsara-law",
+      "title": "Samsara Law",
+      "url": "https://mangaonline.tv/manga/samsara-law/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "sanda",
+      "title": "Sanda",
+      "url": "https://mangaonline.tv/manga/sanda/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "sexo-para-esquecer-o-ex",
+      "title": "Sexo Para Esquecer o Ex",
+      "url": "https://mangaonline.tv/manga/sexo-para-esquecer-o-ex/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "solo-leveling",
+      "title": "Solo Leveling",
+      "url": "https://mangaonline.tv/manga/solo-leveling/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "solo-leveling-ragnarok",
+      "title": "Solo Leveling: Ragnarok",
+      "url": "https://mangaonline.tv/manga/solo-leveling-ragnarok/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "suufungo-no-mirai-ga-wakaru-you-ni-natta-kedo-onnagokoro-wa-wakaranai",
+      "title": "Suufungo no Mirai ga Wakaru You ni Natta kedo, Onnagokoro wa Wakaranai.",
+      "url": "https://mangaonline.tv/manga/suufungo-no-mirai-ga-wakaru-you-ni-natta-kedo-onnagokoro-wa-wakaranai/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "tensei-shitara-ken-deshita-another-wish",
+      "title": "Tensei shitara Ken deshita: Another Wish",
+      "url": "https://mangaonline.tv/manga/tensei-shitara-ken-deshita-another-wish/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "the-beginning-after-the-end",
+      "title": "The Beginning After The End",
+      "url": "https://mangaonline.tv/manga/the-beginning-after-the-end/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "the-conqueror-from-a-dying-kingdom",
+      "title": "The Conqueror From a Dying Kingdom",
+      "url": "https://mangaonline.tv/manga/the-conqueror-from-a-dying-kingdom/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "the-greatest-estate-developer",
+      "title": "The Greatest Estate Developer – O Melhor Engenheiro do Mundo",
+      "url": "https://mangaonline.tv/manga/the-greatest-estate-developer/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "the-strongest-crystal-beast-master",
+      "title": "The Strongest Crystal Beast Master",
+      "url": "https://mangaonline.tv/manga/the-strongest-crystal-beast-master/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "the-summer-you-were-there",
+      "title": "The Summer You Were There",
+      "url": "https://mangaonline.tv/manga/the-summer-you-were-there/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "the-tale-of-the-skeleton-messenger",
+      "title": "The Tale of the Skeleton Messenger",
+      "url": "https://mangaonline.tv/manga/the-tale-of-the-skeleton-messenger/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "tokyo-fears-rhapsody",
+      "title": "Tokyo Fears Rhapsody",
+      "url": "https://mangaonline.tv/manga/tokyo-fears-rhapsody/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "tonari-no-neko-to-koi-shirazu",
+      "title": "Tonari no Neko to Koi Shirazu",
+      "url": "https://mangaonline.tv/manga/tonari-no-neko-to-koi-shirazu/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "trinity-seven",
+      "title": "Trinity Seven",
+      "url": "https://mangaonline.tv/manga/trinity-seven/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "veil",
+      "title": "Veil",
+      "url": "https://mangaonline.tv/manga/veil/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "volume-2",
+      "title": "Volume 2",
+      "url": "https://mangaonline.tv/manga/volume-2/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "volume-3",
+      "title": "Volume 3",
+      "url": "https://mangaonline.tv/manga/volume-3/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "wind-breaker",
+      "title": "Wind Breaker",
+      "url": "https://mangaonline.tv/manga/wind-breaker/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "witches-and-cigarettes",
+      "title": "Witches and Cigarettes",
+      "url": "https://mangaonline.tv/manga/witches-and-cigarettes/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "xxxholic-rei",
+      "title": "xxxHOLiC: Rei",
+      "url": "https://mangaonline.tv/manga/xxxholic-rei/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    },
+    {
+      "source": "mangaonline",
+      "key": "yuru-camp",
+      "title": "Yuru Camp△",
+      "url": "https://mangaonline.tv/manga/yuru-camp/",
+      "removed_at": "2026-11-22T10:33:21Z"
+    }
+  ]
+}

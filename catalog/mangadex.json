@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-11-22T02:45:33Z",
+  "updated_at": "2026-11-22T10:33:21Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -15443,9 +15443,10 @@
       "title": "Koi Yori Aoku (Oneshot)",
       "url": "https://mangadex.org/title/06667f19-5a9e-48b4-a1cd-4de12ab699ae",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-16T01:31:40Z",
-      "removed_at": null
+      "removed_at": "2026-11-22T10:33:21Z",
+      "removed_by_source": true
     },
     "757ffc27-5baf-40c3-9bad-3a1859837936": {
       "title": "Scissor Seven: Black and White Twin Dragons",
@@ -15887,6 +15888,22 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-11-22T02:45:33Z",
+      "removed_at": null
+    },
+    "810e3307-e495-49c2-96da-037a0aade634": {
+      "title": "The Demon King Who Flirted With the Female Heroes as a Joke Was Kidnapped and Forced Into a Newlywed Life",
+      "url": "https://mangadex.org/title/810e3307-e495-49c2-96da-037a0aade634",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-22T10:33:21Z",
+      "removed_at": null
+    },
+    "c6c428b5-b8e4-42f6-8777-8f548f45e79d": {
+      "title": "Dungeon Dive: Aim for the Deepest Level",
+      "url": "https://mangadex.org/title/c6c428b5-b8e4-42f6-8777-8f548f45e79d",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-22T10:33:21Z",
       "removed_at": null
     }
   }

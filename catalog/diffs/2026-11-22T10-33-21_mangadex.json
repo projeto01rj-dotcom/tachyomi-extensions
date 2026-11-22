@@ -1,0 +1,27 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-11-22T10:33:21Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "810e3307-e495-49c2-96da-037a0aade634",
+      "title": "The Demon King Who Flirted With the Female Heroes as a Joke Was Kidnapped and Forced Into a Newlywed Life",
+      "url": "https://mangadex.org/title/810e3307-e495-49c2-96da-037a0aade634"
+    },
+    {
+      "source": "mangadex",
+      "key": "c6c428b5-b8e4-42f6-8777-8f548f45e79d",
+      "title": "Dungeon Dive: Aim for the Deepest Level",
+      "url": "https://mangadex.org/title/c6c428b5-b8e4-42f6-8777-8f548f45e79d"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "06667f19-5a9e-48b4-a1cd-4de12ab699ae",
+      "title": "Koi Yori Aoku (Oneshot)",
+      "url": "https://mangadex.org/title/06667f19-5a9e-48b4-a1cd-4de12ab699ae",
+      "removed_at": "2026-11-22T10:33:21Z"
+    }
+  ]
+}
