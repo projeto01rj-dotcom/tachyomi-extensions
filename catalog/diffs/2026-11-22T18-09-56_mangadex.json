@@ -1,0 +1,28 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-11-22T18:09:56Z",
+  "added": [],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "7991e715-40ae-4c3e-b0e0-aa8bee90ece7",
+      "title": "Me and the Prez, Drinking Under the Stars",
+      "url": "https://mangadex.org/title/7991e715-40ae-4c3e-b0e0-aa8bee90ece7",
+      "removed_at": "2026-11-22T18:09:56Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "ef3de87f-118e-4b9e-bcd3-14c670513970",
+      "title": "Tokyo Red Hood",
+      "url": "https://mangadex.org/title/ef3de87f-118e-4b9e-bcd3-14c670513970",
+      "removed_at": "2026-11-22T18:09:56Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "76ee7069-23b4-493c-bc44-34ccbf3051a8",
+      "title": "Tomo-chan wa Onna no ko!",
+      "url": "https://mangadex.org/title/76ee7069-23b4-493c-bc44-34ccbf3051a8",
+      "removed_at": "2026-11-22T18:09:56Z"
+    }
+  ]
+}
