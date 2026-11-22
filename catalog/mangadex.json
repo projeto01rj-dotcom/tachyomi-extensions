@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-11-22T18:09:56Z",
+  "updated_at": "2026-11-22T23:42:48Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -15521,9 +15521,10 @@
       "title": "Apotheosis: Ascension to Godhood",
       "url": "https://mangadex.org/title/cdae359d-5fa9-4d4e-b11a-69dd32b09742",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-17T02:32:14Z",
-      "removed_at": null
+      "removed_at": "2026-11-22T23:42:48Z",
+      "removed_by_source": true
     },
     "9478665e-412b-4e08-9844-5c07a732a71b": {
       "title": "The Hero and the Sage, Reincarnated and Engaged",
@@ -15907,6 +15908,30 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-11-22T10:33:21Z",
+      "removed_at": null
+    },
+    "848363a4-f350-4e21-866c-410b004c5044": {
+      "title": "Mist Story",
+      "url": "https://mangadex.org/title/848363a4-f350-4e21-866c-410b004c5044",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-22T23:42:48Z",
+      "removed_at": null
+    },
+    "bdbe3d25-6597-449b-b497-c2722305521e": {
+      "title": "Betiger",
+      "url": "https://mangadex.org/title/bdbe3d25-6597-449b-b497-c2722305521e",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-22T23:42:48Z",
+      "removed_at": null
+    },
+    "fd917921-5e97-479f-b22c-5d7f00e1c830": {
+      "title": "JoJo's Bizarre Adventure, Part 5: Golden Wind - Digital Colored Comics",
+      "url": "https://mangadex.org/title/fd917921-5e97-479f-b22c-5d7f00e1c830",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-22T23:42:48Z",
       "removed_at": null
     }
   }
