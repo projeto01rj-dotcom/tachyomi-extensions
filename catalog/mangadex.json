@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-11-22T23:42:48Z",
+  "updated_at": "2026-11-23T04:55:48Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -15530,17 +15530,19 @@
       "title": "The Hero and the Sage, Reincarnated and Engaged",
       "url": "https://mangadex.org/title/9478665e-412b-4e08-9844-5c07a732a71b",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-17T11:22:38Z",
-      "removed_at": null
+      "removed_at": "2026-11-23T04:55:48Z",
+      "removed_by_source": true
     },
     "0bd72573-7512-4a38-b9fe-ae00a4776fdd": {
       "title": "A Surplus Off-Worlder Lives His Life Freely: I'm No Hero So I'll Do It The Way I Want!",
       "url": "https://mangadex.org/title/0bd72573-7512-4a38-b9fe-ae00a4776fdd",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-17T19:57:14Z",
-      "removed_at": null
+      "removed_at": "2026-11-23T04:55:48Z",
+      "removed_by_source": true
     },
     "27c025f4-d9f7-4ff7-bb43-2c5cc816fbb1": {
       "title": "My Cool Wife Saa-chan",

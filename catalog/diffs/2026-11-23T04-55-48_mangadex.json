@@ -1,0 +1,21 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-11-23T04:55:48Z",
+  "added": [],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "9478665e-412b-4e08-9844-5c07a732a71b",
+      "title": "The Hero and the Sage, Reincarnated and Engaged",
+      "url": "https://mangadex.org/title/9478665e-412b-4e08-9844-5c07a732a71b",
+      "removed_at": "2026-11-23T04:55:48Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "0bd72573-7512-4a38-b9fe-ae00a4776fdd",
+      "title": "A Surplus Off-Worlder Lives His Life Freely: I'm No Hero So I'll Do It The Way I Want!",
+      "url": "https://mangadex.org/title/0bd72573-7512-4a38-b9fe-ae00a4776fdd",
+      "removed_at": "2026-11-23T04:55:48Z"
+    }
+  ]
+}
