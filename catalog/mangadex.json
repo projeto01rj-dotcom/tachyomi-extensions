@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-11-23T04:55:48Z",
+  "updated_at": "2026-11-23T15:35:59Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -15580,25 +15580,28 @@
       "title": "Even the Student Council Has Its Holes!",
       "url": "https://mangadex.org/title/822c9883-385c-4fd0-9523-16e7789cbeae",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-17T19:57:14Z",
-      "removed_at": null
+      "removed_at": "2026-11-23T15:35:59Z",
+      "removed_by_source": true
     },
     "afdfbef2-f0f7-4e14-b031-1e4ae8f8b61d": {
       "title": "Latin - Collected Short Stories of Enaga Takabatake",
       "url": "https://mangadex.org/title/afdfbef2-f0f7-4e14-b031-1e4ae8f8b61d",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-17T19:57:14Z",
-      "removed_at": null
+      "removed_at": "2026-11-23T15:35:59Z",
+      "removed_by_source": true
     },
     "c2309e42-71e9-4d36-ac21-9b33b0a34225": {
       "title": "The Self-Consoling Girl",
       "url": "https://mangadex.org/title/c2309e42-71e9-4d36-ac21-9b33b0a34225",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-17T19:57:14Z",
-      "removed_at": null
+      "removed_at": "2026-11-23T15:35:59Z",
+      "removed_by_source": true
     },
     "4009123a-8fde-4a89-b118-21eb8650f6f7": {
       "title": "Giant Robo",
