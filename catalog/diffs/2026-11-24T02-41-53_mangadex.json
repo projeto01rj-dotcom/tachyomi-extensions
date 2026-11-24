@@ -1,0 +1,55 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-11-24T02:41:53Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "a3d8d4b6-5365-4994-b0b2-e76ffaded8cf",
+      "title": "Hebizuka-san Wants to Eat Her Senpai",
+      "url": "https://mangadex.org/title/a3d8d4b6-5365-4994-b0b2-e76ffaded8cf"
+    },
+    {
+      "source": "mangadex",
+      "key": "ace1b3c4-41a7-44d2-a9ad-ae798932479e",
+      "title": "After Beating a Noob in an FPS, He Wanted to Fight Me in Real Life LOL",
+      "url": "https://mangadex.org/title/ace1b3c4-41a7-44d2-a9ad-ae798932479e"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "4009123a-8fde-4a89-b118-21eb8650f6f7",
+      "title": "Giant Robo",
+      "url": "https://mangadex.org/title/4009123a-8fde-4a89-b118-21eb8650f6f7",
+      "removed_at": "2026-11-24T02:41:53Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "58b2e2ca-a1f1-479e-a371-f51e40914f7f",
+      "title": "Yojouhan no Ibara Hime",
+      "url": "https://mangadex.org/title/58b2e2ca-a1f1-479e-a371-f51e40914f7f",
+      "removed_at": "2026-11-24T02:41:53Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "a19cd602-1222-4210-afd8-af95312e175c",
+      "title": "A Kouhai With A Really Nice Voice Decided To Pull A Prank On Me…",
+      "url": "https://mangadex.org/title/a19cd602-1222-4210-afd8-af95312e175c",
+      "removed_at": "2026-11-24T02:41:53Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "ff61b901-ebc4-4f21-b021-0b8c2af1cde9",
+      "title": "What Color is it?",
+      "url": "https://mangadex.org/title/ff61b901-ebc4-4f21-b021-0b8c2af1cde9",
+      "removed_at": "2026-11-24T02:41:53Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "d5d7a98d-82b3-4561-bd67-45110f2d22cb",
+      "title": "Exiled in a Class Trial for \"Poor Dexterity\": Because He Was Dexterous, He Lived on His Own. Because of His Dexterity, He Was Able to Use All the Skills and Magic of the Higher Ranks, Making Him Invincible. I Decided to Live on My Own, but the People Around Me Wouldn't Leave Me Alone",
+      "url": "https://mangadex.org/title/d5d7a98d-82b3-4561-bd67-45110f2d22cb",
+      "removed_at": "2026-11-24T02:41:53Z"
+    }
+  ]
+}
