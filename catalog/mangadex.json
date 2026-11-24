@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-11-24T02:41:53Z",
+  "updated_at": "2026-11-24T13:07:36Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -15572,9 +15572,10 @@
       "title": "JoJo's Bizarre Adventure, Part 3: Stardust Crusaders - Digital Colored Comics",
       "url": "https://mangadex.org/title/51f7d9fc-256e-4160-add1-ab9652f32ae1",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-17T19:57:14Z",
-      "removed_at": null
+      "removed_at": "2026-11-24T13:07:36Z",
+      "removed_by_source": true
     },
     "822c9883-385c-4fd0-9523-16e7789cbeae": {
       "title": "Even the Student Council Has Its Holes!",
@@ -15958,6 +15959,30 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-11-24T02:41:53Z",
+      "removed_at": null
+    },
+    "01e360bc-22da-4e86-bbb7-3ae1091a223b": {
+      "title": "Albus Changes the World",
+      "url": "https://mangadex.org/title/01e360bc-22da-4e86-bbb7-3ae1091a223b",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-24T13:07:36Z",
+      "removed_at": null
+    },
+    "185b9534-dc03-4eff-b40b-66346541d005": {
+      "title": "Dantoudai ni Kieta Densetsu no Akujo, Nidome no Jinsei de wa Gariben Jimi Megane ni Natte Heion wo Nozomu",
+      "url": "https://mangadex.org/title/185b9534-dc03-4eff-b40b-66346541d005",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-24T13:07:36Z",
+      "removed_at": null
+    },
+    "aa961395-f49b-4dc5-819d-b231ef75dbfb": {
+      "title": "My Dead Boyfriend Came Back as a High School Girl",
+      "url": "https://mangadex.org/title/aa961395-f49b-4dc5-819d-b231ef75dbfb",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-24T13:07:36Z",
       "removed_at": null
     }
   }

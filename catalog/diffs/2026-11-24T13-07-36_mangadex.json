@@ -1,0 +1,33 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-11-24T13:07:36Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "01e360bc-22da-4e86-bbb7-3ae1091a223b",
+      "title": "Albus Changes the World",
+      "url": "https://mangadex.org/title/01e360bc-22da-4e86-bbb7-3ae1091a223b"
+    },
+    {
+      "source": "mangadex",
+      "key": "185b9534-dc03-4eff-b40b-66346541d005",
+      "title": "Dantoudai ni Kieta Densetsu no Akujo, Nidome no Jinsei de wa Gariben Jimi Megane ni Natte Heion wo Nozomu",
+      "url": "https://mangadex.org/title/185b9534-dc03-4eff-b40b-66346541d005"
+    },
+    {
+      "source": "mangadex",
+      "key": "aa961395-f49b-4dc5-819d-b231ef75dbfb",
+      "title": "My Dead Boyfriend Came Back as a High School Girl",
+      "url": "https://mangadex.org/title/aa961395-f49b-4dc5-819d-b231ef75dbfb"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "51f7d9fc-256e-4160-add1-ab9652f32ae1",
+      "title": "JoJo's Bizarre Adventure, Part 3: Stardust Crusaders - Digital Colored Comics",
+      "url": "https://mangadex.org/title/51f7d9fc-256e-4160-add1-ab9652f32ae1",
+      "removed_at": "2026-11-24T13:07:36Z"
+    }
+  ]
+}
