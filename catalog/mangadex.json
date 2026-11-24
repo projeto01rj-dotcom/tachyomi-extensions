@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-11-24T13:07:36Z",
+  "updated_at": "2026-11-24T23:09:48Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -14205,9 +14205,10 @@
       "title": "Lycoris Recoil",
       "url": "https://mangadex.org/title/9c21fbcd-e22e-4e6d-8258-7d580df9fc45",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-03T22:52:15Z",
-      "removed_at": null
+      "removed_at": "2026-11-24T23:09:48Z",
+      "removed_by_source": true
     },
     "b6080bba-2d95-4f4d-9f1b-5c8f671da6c4": {
       "title": "Usami-san wa Kamawaretai!",
@@ -14932,9 +14933,10 @@
       "title": "A Necromancer Betrayed by His Comrades and Executed Revives 10,000 Heroes Who Had Become Undead, Builds the Most Powerful Kingdom, and Begins His Quest for Revenge.: Heroic Spirits Gather at the Throne of Darkness",
       "url": "https://mangadex.org/title/8b429d8e-0b9c-404c-b65b-82e4eab9321f",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-10T19:22:24Z",
-      "removed_at": null
+      "removed_at": "2026-11-24T23:09:48Z",
+      "removed_by_source": true
     },
     "382871e2-8b72-4381-8a92-52d1dd53f231": {
       "title": "Charisma - Charisma na Karera wa Charisma House de Karizumai-chuu",
@@ -15189,9 +15191,10 @@
       "title": "Tamon's B-Side",
       "url": "https://mangadex.org/title/cfcc577d-14a3-4332-beaa-346068d2afbd",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-13T04:40:18Z",
-      "removed_at": null
+      "removed_at": "2026-11-24T23:09:48Z",
+      "removed_by_source": true
     },
     "251afc21-8932-464b-906f-eeb976a14e55": {
       "title": "Strange and Mysterious Daily Tales!",
@@ -15661,17 +15664,19 @@
       "title": "Asura’s Verdict",
       "url": "https://mangadex.org/title/dd96061a-96ac-4549-8a3c-ed4221a51d46",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-18T18:56:53Z",
-      "removed_at": null
+      "removed_at": "2026-11-24T23:09:48Z",
+      "removed_by_source": true
     },
     "c1e4343f-2ac5-4bde-a2ac-c454516d7e67": {
       "title": "My Friend Turned Into a Woman",
       "url": "https://mangadex.org/title/c1e4343f-2ac5-4bde-a2ac-c454516d7e67",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-19T08:20:41Z",
-      "removed_at": null
+      "removed_at": "2026-11-24T23:09:48Z",
+      "removed_by_source": true
     },
     "04ff2200-7e68-49fe-92e0-d353b3dff2d2": {
       "title": "The Revenge of My Youth: Re Life with an Angelic Girl",
@@ -15983,6 +15988,30 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-11-24T13:07:36Z",
+      "removed_at": null
+    },
+    "23f2ab6b-0832-456b-9d87-35868ce34fc8": {
+      "title": "My Clueless First Friend",
+      "url": "https://mangadex.org/title/23f2ab6b-0832-456b-9d87-35868ce34fc8",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-24T23:09:48Z",
+      "removed_at": null
+    },
+    "48242f87-31ea-424e-aed2-83a164f37182": {
+      "title": "The Way It Was Before",
+      "url": "https://mangadex.org/title/48242f87-31ea-424e-aed2-83a164f37182",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-24T23:09:48Z",
+      "removed_at": null
+    },
+    "7e87b285-b6e3-4882-9c9e-22b4e8737a91": {
+      "title": "Shin Megami Tensei: Devil Summoner: Raidou Kuzunoha vs The Lone Marebito",
+      "url": "https://mangadex.org/title/7e87b285-b6e3-4882-9c9e-22b4e8737a91",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-24T23:09:48Z",
       "removed_at": null
     }
   }

@@ -1,0 +1,61 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-11-24T23:09:48Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "23f2ab6b-0832-456b-9d87-35868ce34fc8",
+      "title": "My Clueless First Friend",
+      "url": "https://mangadex.org/title/23f2ab6b-0832-456b-9d87-35868ce34fc8"
+    },
+    {
+      "source": "mangadex",
+      "key": "48242f87-31ea-424e-aed2-83a164f37182",
+      "title": "The Way It Was Before",
+      "url": "https://mangadex.org/title/48242f87-31ea-424e-aed2-83a164f37182"
+    },
+    {
+      "source": "mangadex",
+      "key": "7e87b285-b6e3-4882-9c9e-22b4e8737a91",
+      "title": "Shin Megami Tensei: Devil Summoner: Raidou Kuzunoha vs The Lone Marebito",
+      "url": "https://mangadex.org/title/7e87b285-b6e3-4882-9c9e-22b4e8737a91"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "9c21fbcd-e22e-4e6d-8258-7d580df9fc45",
+      "title": "Lycoris Recoil",
+      "url": "https://mangadex.org/title/9c21fbcd-e22e-4e6d-8258-7d580df9fc45",
+      "removed_at": "2026-11-24T23:09:48Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "8b429d8e-0b9c-404c-b65b-82e4eab9321f",
+      "title": "A Necromancer Betrayed by His Comrades and Executed Revives 10,000 Heroes Who Had Become Undead, Builds the Most Powerful Kingdom, and Begins His Quest for Revenge.: Heroic Spirits Gather at the Throne of Darkness",
+      "url": "https://mangadex.org/title/8b429d8e-0b9c-404c-b65b-82e4eab9321f",
+      "removed_at": "2026-11-24T23:09:48Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "cfcc577d-14a3-4332-beaa-346068d2afbd",
+      "title": "Tamon's B-Side",
+      "url": "https://mangadex.org/title/cfcc577d-14a3-4332-beaa-346068d2afbd",
+      "removed_at": "2026-11-24T23:09:48Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "dd96061a-96ac-4549-8a3c-ed4221a51d46",
+      "title": "Asura’s Verdict",
+      "url": "https://mangadex.org/title/dd96061a-96ac-4549-8a3c-ed4221a51d46",
+      "removed_at": "2026-11-24T23:09:48Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "c1e4343f-2ac5-4bde-a2ac-c454516d7e67",
+      "title": "My Friend Turned Into a Woman",
+      "url": "https://mangadex.org/title/c1e4343f-2ac5-4bde-a2ac-c454516d7e67",
+      "removed_at": "2026-11-24T23:09:48Z"
+    }
+  ]
+}
