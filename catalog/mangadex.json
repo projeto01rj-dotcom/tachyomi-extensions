@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-11-25T05:33:19Z",
+  "updated_at": "2026-11-25T16:32:22Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -15059,9 +15059,10 @@
       "title": "“He's Just An Ordinary Person”",
       "url": "https://mangadex.org/title/8a290bf2-bba9-4bb2-ac34-f241d3e20f80",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-12T02:37:36Z",
-      "removed_at": null
+      "removed_at": "2026-11-25T16:32:22Z",
+      "removed_by_source": true
     },
     "a6f03995-5724-4ba9-9b9b-9d239142760b": {
       "title": "Cheeky Devil Cop!",
@@ -15439,9 +15440,10 @@
       "title": "Childhood Friend, Big Love",
       "url": "https://mangadex.org/title/a6a9c19f-ccc5-44af-8bec-7da090220bd3",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-15T21:56:19Z",
-      "removed_at": null
+      "removed_at": "2026-11-25T16:32:22Z",
+      "removed_by_source": true
     },
     "06667f19-5a9e-48b4-a1cd-4de12ab699ae": {
       "title": "Koi Yori Aoku (Oneshot)",
@@ -15727,9 +15729,10 @@
       "title": "Shiro Ari",
       "url": "https://mangadex.org/title/cf95944d-4a54-4f39-94c9-8f2c746661b9",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-19T17:30:13Z",
-      "removed_at": null
+      "removed_at": "2026-11-25T16:32:22Z",
+      "removed_by_source": true
     },
     "e2a856b9-8ec2-4601-a735-28923cfde3e9": {
       "title": "Aldo's Reincarnation in Another World",
@@ -15744,9 +15747,10 @@
       "title": "That's What It's Like Being Fourteen",
       "url": "https://mangadex.org/title/a4e06240-e9d0-45eb-80f7-f42d5bd0f120",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-19T23:43:31Z",
-      "removed_at": null
+      "removed_at": "2026-11-25T16:32:22Z",
+      "removed_by_source": true
     },
     "5b239a1a-4c5e-4bd9-8983-de277dad7b84": {
       "title": "A Kid Who Doesn't Talk but Whose Behavior Shows",
@@ -16042,6 +16046,30 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-11-25T05:33:19Z",
+      "removed_at": null
+    },
+    "37e782df-93ec-4ab3-bc3a-2e067c06b7bb": {
+      "title": "Cultivator Against Hero Society",
+      "url": "https://mangadex.org/title/37e782df-93ec-4ab3-bc3a-2e067c06b7bb",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-25T16:32:22Z",
+      "removed_at": null
+    },
+    "7fe4b18c-7092-487a-b7bd-0a0089ce65d1": {
+      "title": "I Suggested to a Classmate Just Before Jumping off That We Should \"Do XXX\".",
+      "url": "https://mangadex.org/title/7fe4b18c-7092-487a-b7bd-0a0089ce65d1",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-25T16:32:22Z",
+      "removed_at": null
+    },
+    "c52b2ce3-7f95-469c-96b0-479524fb7a1a": {
+      "title": "Jujutsu Kaisen",
+      "url": "https://mangadex.org/title/c52b2ce3-7f95-469c-96b0-479524fb7a1a",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-25T16:32:22Z",
       "removed_at": null
     }
   }
