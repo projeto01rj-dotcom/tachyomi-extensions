@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-11-24T23:09:48Z",
+  "updated_at": "2026-11-25T05:33:19Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -15551,9 +15551,10 @@
       "title": "My Cool Wife Saa-chan",
       "url": "https://mangadex.org/title/27c025f4-d9f7-4ff7-bb43-2c5cc816fbb1",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-17T19:57:14Z",
-      "removed_at": null
+      "removed_at": "2026-11-25T05:33:19Z",
+      "removed_by_source": true
     },
     "2b5c2f34-6de4-4a81-8671-bca8c9409f79": {
       "title": "The Eternal Fool's Words of Wisdom: A Pawsitively Fantastic Adventure",
@@ -15567,9 +15568,10 @@
       "title": "Plus-Sized Elf",
       "url": "https://mangadex.org/title/514e7edc-4eda-4ce8-abc1-d5a343d70db9",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-17T19:57:14Z",
-      "removed_at": null
+      "removed_at": "2026-11-25T05:33:19Z",
+      "removed_by_source": true
     },
     "51f7d9fc-256e-4160-add1-ab9652f32ae1": {
       "title": "JoJo's Bizarre Adventure, Part 3: Stardust Crusaders - Digital Colored Comics",
@@ -15698,25 +15700,28 @@
       "title": "Sasori",
       "url": "https://mangadex.org/title/323da437-2cdf-4a08-b91b-374c806f753c",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-19T17:30:13Z",
-      "removed_at": null
+      "removed_at": "2026-11-25T05:33:19Z",
+      "removed_by_source": true
     },
     "677fb60b-2deb-46db-9ece-704f6144faf0": {
       "title": "The Klutzy Class Monitor and the Girl with the Short Skirt",
       "url": "https://mangadex.org/title/677fb60b-2deb-46db-9ece-704f6144faf0",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-19T17:30:13Z",
-      "removed_at": null
+      "removed_at": "2026-11-25T05:33:19Z",
+      "removed_by_source": true
     },
     "953782be-2888-4f4b-b4eb-055a902a3814": {
       "title": "The Bateren Tales",
       "url": "https://mangadex.org/title/953782be-2888-4f4b-b4eb-055a902a3814",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-19T17:30:13Z",
-      "removed_at": null
+      "removed_at": "2026-11-25T05:33:19Z",
+      "removed_by_source": true
     },
     "cf95944d-4a54-4f39-94c9-8f2c746661b9": {
       "title": "Shiro Ari",
@@ -15730,9 +15735,10 @@
       "title": "Aldo's Reincarnation in Another World",
       "url": "https://mangadex.org/title/e2a856b9-8ec2-4601-a735-28923cfde3e9",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-19T17:30:13Z",
-      "removed_at": null
+      "removed_at": "2026-11-25T05:33:19Z",
+      "removed_by_source": true
     },
     "a4e06240-e9d0-45eb-80f7-f42d5bd0f120": {
       "title": "That's What It's Like Being Fourteen",
@@ -16012,6 +16018,30 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-11-24T23:09:48Z",
+      "removed_at": null
+    },
+    "6fcfaa0e-6023-403e-97f9-5301dd3c258c": {
+      "title": "Hellsing",
+      "url": "https://mangadex.org/title/6fcfaa0e-6023-403e-97f9-5301dd3c258c",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-25T05:33:19Z",
+      "removed_at": null
+    },
+    "d5cdc845-fd5d-4497-a993-131d65e00e97": {
+      "title": "Flirting with the Villain's Dad",
+      "url": "https://mangadex.org/title/d5cdc845-fd5d-4497-a993-131d65e00e97",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-25T05:33:19Z",
+      "removed_at": null
+    },
+    "f0a87b7f-6ee1-4502-b3fd-18650e455737": {
+      "title": "Funouhan",
+      "url": "https://mangadex.org/title/f0a87b7f-6ee1-4502-b3fd-18650e455737",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-25T05:33:19Z",
       "removed_at": null
     }
   }

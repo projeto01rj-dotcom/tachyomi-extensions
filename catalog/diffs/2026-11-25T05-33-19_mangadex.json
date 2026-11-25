@@ -1,0 +1,68 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-11-25T05:33:19Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "6fcfaa0e-6023-403e-97f9-5301dd3c258c",
+      "title": "Hellsing",
+      "url": "https://mangadex.org/title/6fcfaa0e-6023-403e-97f9-5301dd3c258c"
+    },
+    {
+      "source": "mangadex",
+      "key": "d5cdc845-fd5d-4497-a993-131d65e00e97",
+      "title": "Flirting with the Villain's Dad",
+      "url": "https://mangadex.org/title/d5cdc845-fd5d-4497-a993-131d65e00e97"
+    },
+    {
+      "source": "mangadex",
+      "key": "f0a87b7f-6ee1-4502-b3fd-18650e455737",
+      "title": "Funouhan",
+      "url": "https://mangadex.org/title/f0a87b7f-6ee1-4502-b3fd-18650e455737"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "27c025f4-d9f7-4ff7-bb43-2c5cc816fbb1",
+      "title": "My Cool Wife Saa-chan",
+      "url": "https://mangadex.org/title/27c025f4-d9f7-4ff7-bb43-2c5cc816fbb1",
+      "removed_at": "2026-11-25T05:33:19Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "514e7edc-4eda-4ce8-abc1-d5a343d70db9",
+      "title": "Plus-Sized Elf",
+      "url": "https://mangadex.org/title/514e7edc-4eda-4ce8-abc1-d5a343d70db9",
+      "removed_at": "2026-11-25T05:33:19Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "323da437-2cdf-4a08-b91b-374c806f753c",
+      "title": "Sasori",
+      "url": "https://mangadex.org/title/323da437-2cdf-4a08-b91b-374c806f753c",
+      "removed_at": "2026-11-25T05:33:19Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "677fb60b-2deb-46db-9ece-704f6144faf0",
+      "title": "The Klutzy Class Monitor and the Girl with the Short Skirt",
+      "url": "https://mangadex.org/title/677fb60b-2deb-46db-9ece-704f6144faf0",
+      "removed_at": "2026-11-25T05:33:19Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "953782be-2888-4f4b-b4eb-055a902a3814",
+      "title": "The Bateren Tales",
+      "url": "https://mangadex.org/title/953782be-2888-4f4b-b4eb-055a902a3814",
+      "removed_at": "2026-11-25T05:33:19Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "e2a856b9-8ec2-4601-a735-28923cfde3e9",
+      "title": "Aldo's Reincarnation in Another World",
+      "url": "https://mangadex.org/title/e2a856b9-8ec2-4601-a735-28923cfde3e9",
+      "removed_at": "2026-11-25T05:33:19Z"
+    }
+  ]
+}
