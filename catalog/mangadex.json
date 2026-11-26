@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-11-25T16:32:22Z",
+  "updated_at": "2026-11-26T00:47:07Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -15651,9 +15651,10 @@
       "title": "Phoenix",
       "url": "https://mangadex.org/title/cc647d62-3a2c-474b-ac4e-844256ab185d",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-18T10:26:27Z",
-      "removed_at": null
+      "removed_at": "2026-11-26T00:47:07Z",
+      "removed_by_source": true
     },
     "d5d7a98d-82b3-4561-bd67-45110f2d22cb": {
       "title": "Exiled in a Class Trial for \"Poor Dexterity\": Because He Was Dexterous, He Lived on His Own. Because of His Dexterity, He Was Able to Use All the Skills and Magic of the Higher Ranks, Making Him Invincible. I Decided to Live on My Own, but the People Around Me Wouldn't Leave Me Alone",
@@ -15756,17 +15757,19 @@
       "title": "A Kid Who Doesn't Talk but Whose Behavior Shows",
       "url": "https://mangadex.org/title/5b239a1a-4c5e-4bd9-8983-de277dad7b84",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-20T05:01:18Z",
-      "removed_at": null
+      "removed_at": "2026-11-26T00:47:07Z",
+      "removed_by_source": true
     },
     "7878c129-a33d-4bf9-b5d2-ff98cbe85bd6": {
       "title": "Go! Go! Loser Ranger!",
       "url": "https://mangadex.org/title/7878c129-a33d-4bf9-b5d2-ff98cbe85bd6",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-20T05:01:18Z",
-      "removed_at": null
+      "removed_at": "2026-11-26T00:47:07Z",
+      "removed_by_source": true
     },
     "b68e49c9-72eb-4550-a7d3-a4fcf9b16bf2": {
       "title": "Otokonoko no Tomodachi 100 Hito Tsukuru Hanashi",
@@ -15780,17 +15783,19 @@
       "title": "Girls x Sexual Harassment Life",
       "url": "https://mangadex.org/title/e34ba047-273c-4200-b685-a2fb923efd37",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-20T05:01:18Z",
-      "removed_at": null
+      "removed_at": "2026-11-26T00:47:07Z",
+      "removed_by_source": true
     },
     "f09f5515-dec7-434f-b38e-dc3bba107efb": {
       "title": "Nietzsche-sensei - Konbini ni, Satori Sedai no Shinjin ga Maiorita",
       "url": "https://mangadex.org/title/f09f5515-dec7-434f-b38e-dc3bba107efb",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-20T05:01:18Z",
-      "removed_at": null
+      "removed_at": "2026-11-26T00:47:07Z",
+      "removed_by_source": true
     },
     "248525ed-ad1c-4ddc-a834-5d6ce66a3ad2": {
       "title": "Arifureta: From Commonplace to World's Strongest",

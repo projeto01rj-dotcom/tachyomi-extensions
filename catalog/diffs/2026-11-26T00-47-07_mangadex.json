@@ -1,0 +1,42 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-11-26T00:47:07Z",
+  "added": [],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "cc647d62-3a2c-474b-ac4e-844256ab185d",
+      "title": "Phoenix",
+      "url": "https://mangadex.org/title/cc647d62-3a2c-474b-ac4e-844256ab185d",
+      "removed_at": "2026-11-26T00:47:07Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "5b239a1a-4c5e-4bd9-8983-de277dad7b84",
+      "title": "A Kid Who Doesn't Talk but Whose Behavior Shows",
+      "url": "https://mangadex.org/title/5b239a1a-4c5e-4bd9-8983-de277dad7b84",
+      "removed_at": "2026-11-26T00:47:07Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "7878c129-a33d-4bf9-b5d2-ff98cbe85bd6",
+      "title": "Go! Go! Loser Ranger!",
+      "url": "https://mangadex.org/title/7878c129-a33d-4bf9-b5d2-ff98cbe85bd6",
+      "removed_at": "2026-11-26T00:47:07Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "e34ba047-273c-4200-b685-a2fb923efd37",
+      "title": "Girls x Sexual Harassment Life",
+      "url": "https://mangadex.org/title/e34ba047-273c-4200-b685-a2fb923efd37",
+      "removed_at": "2026-11-26T00:47:07Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "f09f5515-dec7-434f-b38e-dc3bba107efb",
+      "title": "Nietzsche-sensei - Konbini ni, Satori Sedai no Shinjin ga Maiorita",
+      "url": "https://mangadex.org/title/f09f5515-dec7-434f-b38e-dc3bba107efb",
+      "removed_at": "2026-11-26T00:47:07Z"
+    }
+  ]
+}
