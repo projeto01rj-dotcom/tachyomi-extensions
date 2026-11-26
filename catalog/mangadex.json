@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-11-26T00:47:07Z",
+  "updated_at": "2026-11-26T09:03:20Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -15458,9 +15458,10 @@
       "title": "Scissor Seven: Black and White Twin Dragons",
       "url": "https://mangadex.org/title/757ffc27-5baf-40c3-9bad-3a1859837936",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-16T01:31:40Z",
-      "removed_at": null
+      "removed_at": "2026-11-26T09:03:20Z",
+      "removed_by_source": true
     },
     "a48a20c5-35d3-4262-9d4d-51c8744ae1a3": {
       "title": "Confession Series",
@@ -15801,17 +15802,19 @@
       "title": "Arifureta: From Commonplace to World's Strongest",
       "url": "https://mangadex.org/title/248525ed-ad1c-4ddc-a834-5d6ce66a3ad2",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-20T14:13:18Z",
-      "removed_at": null
+      "removed_at": "2026-11-26T09:03:20Z",
+      "removed_by_source": true
     },
     "3af4cee6-911e-436f-bbba-550e2842e560": {
       "title": "Mikoto and Rei",
       "url": "https://mangadex.org/title/3af4cee6-911e-436f-bbba-550e2842e560",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-20T14:13:18Z",
-      "removed_at": null
+      "removed_at": "2026-11-26T09:03:20Z",
+      "removed_by_source": true
     },
     "9d4de066-d4ef-46e6-82e4-0ed25143421a": {
       "title": "The Suspects of Necromancy",
@@ -15833,9 +15836,10 @@
       "title": "My Older Sister is a Sword Saint and My Younger Sister is a Sage",
       "url": "https://mangadex.org/title/72b28da7-eb5d-4dee-a5ca-2f18197deb02",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-20T21:53:42Z",
-      "removed_at": null
+      "removed_at": "2026-11-26T09:03:20Z",
+      "removed_by_source": true
     },
     "a4a44881-8ae3-460c-be02-9d51201d7605": {
       "title": "Jyanome-san Wants to Smile!",
@@ -16075,6 +16079,30 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-11-25T16:32:22Z",
+      "removed_at": null
+    },
+    "4933c657-3abc-4ffa-9496-189d5b388de1": {
+      "title": "From the Strongest Dark Knight ♂, Changed Job into Combat Maid ♀",
+      "url": "https://mangadex.org/title/4933c657-3abc-4ffa-9496-189d5b388de1",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-26T09:03:20Z",
+      "removed_at": null
+    },
+    "8325137c-32bf-464c-b716-b4c9b17c0002": {
+      "title": "Natsume Arata's Marriage",
+      "url": "https://mangadex.org/title/8325137c-32bf-464c-b716-b4c9b17c0002",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-26T09:03:20Z",
+      "removed_at": null
+    },
+    "c65876d5-be87-435b-bbd8-0a5168d71824": {
+      "title": "A Huge Gal and a Tiny Gal Are Hanging Out at My New Place After My Heartbreak",
+      "url": "https://mangadex.org/title/c65876d5-be87-435b-bbd8-0a5168d71824",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-26T09:03:20Z",
       "removed_at": null
     }
   }
