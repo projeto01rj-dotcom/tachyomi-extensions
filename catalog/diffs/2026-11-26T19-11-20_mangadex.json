@@ -1,0 +1,55 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-11-26T19:11:20Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "3fc50a58-ad0a-4b41-b0b8-f9ac973632bb",
+      "title": "The Banished Lifestyle Mage Who Aims to Be the Strongest Support ~Damage Dealer? No, I'm the Support!~",
+      "url": "https://mangadex.org/title/3fc50a58-ad0a-4b41-b0b8-f9ac973632bb"
+    },
+    {
+      "source": "mangadex",
+      "key": "9f2571b9-f1ba-42fd-82d2-6d371e79ae62",
+      "title": "Soara and the House of Monsters",
+      "url": "https://mangadex.org/title/9f2571b9-f1ba-42fd-82d2-6d371e79ae62"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "ff4e24b0-0d4e-4a9d-8744-8d61cff0f265",
+      "title": "Immortal Detective, Reidou Momiji",
+      "url": "https://mangadex.org/title/ff4e24b0-0d4e-4a9d-8744-8d61cff0f265",
+      "removed_at": "2026-11-26T19:11:20Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "d8817a99-a04a-4393-a50b-895184368128",
+      "title": "All My Summons Have SSS-Rank Talents",
+      "url": "https://mangadex.org/title/d8817a99-a04a-4393-a50b-895184368128",
+      "removed_at": "2026-11-26T19:11:20Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "b68e49c9-72eb-4550-a7d3-a4fcf9b16bf2",
+      "title": "Otokonoko no Tomodachi 100 Hito Tsukuru Hanashi",
+      "url": "https://mangadex.org/title/b68e49c9-72eb-4550-a7d3-a4fcf9b16bf2",
+      "removed_at": "2026-11-26T19:11:20Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "f677ba49-3348-4922-a772-f402a8aa0fb7",
+      "title": "Girls' Frontline",
+      "url": "https://mangadex.org/title/f677ba49-3348-4922-a772-f402a8aa0fb7",
+      "removed_at": "2026-11-26T19:11:20Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "fe840e8f-1267-4611-869b-9ab290dc205b",
+      "title": "The Legendary Weapon Became My Bride When I Overwhelmed the Production Job",
+      "url": "https://mangadex.org/title/fe840e8f-1267-4611-869b-9ab290dc205b",
+      "removed_at": "2026-11-26T19:11:20Z"
+    }
+  ]
+}
