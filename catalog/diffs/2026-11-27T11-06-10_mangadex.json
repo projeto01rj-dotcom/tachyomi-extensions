@@ -1,0 +1,39 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-11-27T11:06:10Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "1429f443-4995-4acc-9597-96a167c27a22",
+      "title": "Too Many Heroes for the Demon Lord",
+      "url": "https://mangadex.org/title/1429f443-4995-4acc-9597-96a167c27a22"
+    },
+    {
+      "source": "mangadex",
+      "key": "2549f1a4-6b07-4eae-9f76-50fd1bd605d8",
+      "title": "Saykondoin: Especial de natal",
+      "url": "https://mangadex.org/title/2549f1a4-6b07-4eae-9f76-50fd1bd605d8"
+    },
+    {
+      "source": "mangadex",
+      "key": "4859863a-4986-4d05-838b-870fe24098fa",
+      "title": "I'm curious about Kurumi-san!",
+      "url": "https://mangadex.org/title/4859863a-4986-4d05-838b-870fe24098fa"
+    },
+    {
+      "source": "mangadex",
+      "key": "ff8fd46c-92db-439f-9d6f-bd62c9fa080d",
+      "title": "Closed Fourth Floor",
+      "url": "https://mangadex.org/title/ff8fd46c-92db-439f-9d6f-bd62c9fa080d"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "5f431fa4-ee68-47ac-8d04-3279a8f2b463",
+      "title": "Touhou Project Niji Sousaku Series: Shinigami wa Kyou mo Fune wo Kogu",
+      "url": "https://mangadex.org/title/5f431fa4-ee68-47ac-8d04-3279a8f2b463",
+      "removed_at": "2026-11-27T11:06:10Z"
+    }
+  ]
+}

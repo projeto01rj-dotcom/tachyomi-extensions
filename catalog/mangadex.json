@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-11-27T02:19:33Z",
+  "updated_at": "2026-11-27T11:06:10Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -15910,9 +15910,10 @@
       "title": "Touhou Project Niji Sousaku Series: Shinigami wa Kyou mo Fune wo Kogu",
       "url": "https://mangadex.org/title/5f431fa4-ee68-47ac-8d04-3279a8f2b463",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-21T10:33:13Z",
-      "removed_at": null
+      "removed_at": "2026-11-27T11:06:10Z",
+      "removed_by_source": true
     },
     "e97d5eed-e3ef-427b-9d9a-aae4c28302c4": {
       "title": "Bad Boy Who Lies In Love",
@@ -16152,6 +16153,38 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-11-27T02:19:33Z",
+      "removed_at": null
+    },
+    "1429f443-4995-4acc-9597-96a167c27a22": {
+      "title": "Too Many Heroes for the Demon Lord",
+      "url": "https://mangadex.org/title/1429f443-4995-4acc-9597-96a167c27a22",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-27T11:06:10Z",
+      "removed_at": null
+    },
+    "2549f1a4-6b07-4eae-9f76-50fd1bd605d8": {
+      "title": "Saykondoin: Especial de natal",
+      "url": "https://mangadex.org/title/2549f1a4-6b07-4eae-9f76-50fd1bd605d8",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-27T11:06:10Z",
+      "removed_at": null
+    },
+    "4859863a-4986-4d05-838b-870fe24098fa": {
+      "title": "I'm curious about Kurumi-san!",
+      "url": "https://mangadex.org/title/4859863a-4986-4d05-838b-870fe24098fa",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-27T11:06:10Z",
+      "removed_at": null
+    },
+    "ff8fd46c-92db-439f-9d6f-bd62c9fa080d": {
+      "title": "Closed Fourth Floor",
+      "url": "https://mangadex.org/title/ff8fd46c-92db-439f-9d6f-bd62c9fa080d",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-27T11:06:10Z",
       "removed_at": null
     }
   }
