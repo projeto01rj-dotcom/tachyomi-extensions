@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-11-27T11:06:10Z",
+  "updated_at": "2026-11-27T20:07:05Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -15919,17 +15919,19 @@
       "title": "Bad Boy Who Lies In Love",
       "url": "https://mangadex.org/title/e97d5eed-e3ef-427b-9d9a-aae4c28302c4",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-21T17:50:32Z",
-      "removed_at": null
+      "removed_at": "2026-11-27T20:07:05Z",
+      "removed_by_source": true
     },
     "b35d95cf-4fc7-4603-be0d-0f800691b411": {
       "title": "The \"Perfect\" Student Council President Was Throwing Up in The Classroom",
       "url": "https://mangadex.org/title/b35d95cf-4fc7-4603-be0d-0f800691b411",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-21T22:38:09Z",
-      "removed_at": null
+      "removed_at": "2026-11-27T20:07:05Z",
+      "removed_by_source": true
     },
     "e248881f-2e82-4a49-9e88-f4643b0f4c53": {
       "title": "Requiem of the Rose King: The Queen and the Rose Knight",
@@ -16185,6 +16187,38 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-11-27T11:06:10Z",
+      "removed_at": null
+    },
+    "34bb9d07-d5ee-40e5-9524-550230685ace": {
+      "title": "Goodbye Dragon Life, Hello Human Life",
+      "url": "https://mangadex.org/title/34bb9d07-d5ee-40e5-9524-550230685ace",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-27T20:07:05Z",
+      "removed_at": null
+    },
+    "613fe46d-a195-4c9a-9418-760558fe65e2": {
+      "title": "Time Healer Ceres",
+      "url": "https://mangadex.org/title/613fe46d-a195-4c9a-9418-760558fe65e2",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-27T20:07:05Z",
+      "removed_at": null
+    },
+    "a611ee7c-0705-4160-949b-ceda61649aab": {
+      "title": "Shed That Skin, Ryugasaki-san!",
+      "url": "https://mangadex.org/title/a611ee7c-0705-4160-949b-ceda61649aab",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-27T20:07:05Z",
+      "removed_at": null
+    },
+    "d150141a-80b8-4cc1-8086-a2cf816075ec": {
+      "title": "A Kat's (GOD AWFUL!!!) Blessing",
+      "url": "https://mangadex.org/title/d150141a-80b8-4cc1-8086-a2cf816075ec",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-27T20:07:05Z",
       "removed_at": null
     }
   }
