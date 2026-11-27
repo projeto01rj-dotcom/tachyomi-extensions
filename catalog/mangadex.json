@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-11-26T19:11:20Z",
+  "updated_at": "2026-11-27T02:19:33Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -15166,9 +15166,10 @@
       "title": "Fall in Love with Me, Not Your Oshi, Oshino-Kun!",
       "url": "https://mangadex.org/title/e81ba13c-acf6-4739-8157-8b5e491daeeb",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-12T23:56:09Z",
-      "removed_at": null
+      "removed_at": "2026-11-27T02:19:33Z",
+      "removed_by_source": true
     },
     "0832d45e-847b-494c-a6ee-2523a5baec5d": {
       "title": "The Two Just Don't Fit Into the World",
@@ -15882,25 +15883,28 @@
       "title": "Being Aggressively Scouted by a Skilled Detective",
       "url": "https://mangadex.org/title/6c353cbe-3515-4a99-a940-68a442f8bcc2",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-21T02:56:11Z",
-      "removed_at": null
+      "removed_at": "2026-11-27T02:19:33Z",
+      "removed_by_source": true
     },
     "d789dc5a-f15d-440b-9e12-d8ead3ca1756": {
       "title": "Late Night Red Flags",
       "url": "https://mangadex.org/title/d789dc5a-f15d-440b-9e12-d8ead3ca1756",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-21T02:56:11Z",
-      "removed_at": null
+      "removed_at": "2026-11-27T02:19:33Z",
+      "removed_by_source": true
     },
     "efe14e44-b634-4042-b562-edd066b81b34": {
       "title": "Tokimeki Tonight",
       "url": "https://mangadex.org/title/efe14e44-b634-4042-b562-edd066b81b34",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-21T02:56:11Z",
-      "removed_at": null
+      "removed_at": "2026-11-27T02:19:33Z",
+      "removed_by_source": true
     },
     "5f431fa4-ee68-47ac-8d04-3279a8f2b463": {
       "title": "Touhou Project Niji Sousaku Series: Shinigami wa Kyou mo Fune wo Kogu",
@@ -16124,6 +16128,30 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-11-26T19:11:20Z",
+      "removed_at": null
+    },
+    "233f8e31-ef4f-48d8-8fa5-7338ea96ae86": {
+      "title": "A-DO",
+      "url": "https://mangadex.org/title/233f8e31-ef4f-48d8-8fa5-7338ea96ae86",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-27T02:19:33Z",
+      "removed_at": null
+    },
+    "57dbd8a6-86c3-40af-bb28-9bfb931e7d0a": {
+      "title": "Different World Adventures of a Lone Japan Ground Self Defense Force Ensign",
+      "url": "https://mangadex.org/title/57dbd8a6-86c3-40af-bb28-9bfb931e7d0a",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-27T02:19:33Z",
+      "removed_at": null
+    },
+    "f3f97b34-4726-468d-ad75-d4de1ea60358": {
+      "title": "Hakanage-san Wants to Be Carnivorous",
+      "url": "https://mangadex.org/title/f3f97b34-4726-468d-ad75-d4de1ea60358",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-27T02:19:33Z",
       "removed_at": null
     }
   }
