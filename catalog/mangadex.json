@@ -1,7 +1,7 @@
 {
   "source": "mangadex",
   "base_url": "https://mangadex.org",
-  "updated_at": "2026-11-28T02:51:29Z",
+  "updated_at": "2026-11-28T11:11:30Z",
   "mangas": {
     "003e7fbf-f047-4783-a7df-1533a2a653d4": {
       "title": "Yowamushi Pedal",
@@ -15691,9 +15691,10 @@
       "title": "The Revenge of My Youth: Re Life with an Angelic Girl",
       "url": "https://mangadex.org/title/04ff2200-7e68-49fe-92e0-d353b3dff2d2",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-19T17:30:13Z",
-      "removed_at": null
+      "removed_at": "2026-11-28T11:11:30Z",
+      "removed_by_source": true
     },
     "28bf349e-41e5-4443-84f0-f0581752519b": {
       "title": "A Tale of Adventure About Pouring 25 Years of Life into a Useless Skill and Now It Being the Strongest",
@@ -15946,17 +15947,19 @@
       "title": "The Demon King Who Flirted With the Female Heroes as a Joke Was Kidnapped and Forced Into a Newlywed Life",
       "url": "https://mangadex.org/title/810e3307-e495-49c2-96da-037a0aade634",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-22T10:33:21Z",
-      "removed_at": null
+      "removed_at": "2026-11-28T11:11:30Z",
+      "removed_by_source": true
     },
     "c6c428b5-b8e4-42f6-8777-8f548f45e79d": {
       "title": "Dungeon Dive: Aim for the Deepest Level",
       "url": "https://mangadex.org/title/c6c428b5-b8e4-42f6-8777-8f548f45e79d",
       "thumb": null,
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-11-22T10:33:21Z",
-      "removed_at": null
+      "removed_at": "2026-11-28T11:11:30Z",
+      "removed_by_source": true
     },
     "848363a4-f350-4e21-866c-410b004c5044": {
       "title": "Mist Story",
@@ -16237,6 +16240,38 @@
       "thumb": null,
       "status": "active",
       "first_seen": "2026-11-28T02:51:29Z",
+      "removed_at": null
+    },
+    "2e6e3afc-5811-47c3-99f8-27cd3b26c301": {
+      "title": "Sem título",
+      "url": "https://mangadex.org/title/2e6e3afc-5811-47c3-99f8-27cd3b26c301",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-28T11:11:30Z",
+      "removed_at": null
+    },
+    "484ce390-f74b-46d1-9840-3b285d2b372e": {
+      "title": "Asteroid in Love",
+      "url": "https://mangadex.org/title/484ce390-f74b-46d1-9840-3b285d2b372e",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-28T11:11:30Z",
+      "removed_at": null
+    },
+    "abc2f9a6-b78a-4041-9fbc-7f2218bc734d": {
+      "title": "Fujiko's Bizarre Worldly Wisdom -Whitesnake's Miscalculation-",
+      "url": "https://mangadex.org/title/abc2f9a6-b78a-4041-9fbc-7f2218bc734d",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-28T11:11:30Z",
+      "removed_at": null
+    },
+    "d5227574-ed83-47fe-89c1-43444c2f6e75": {
+      "title": "Due to Their Appreciation and Expectations, I can't Exploit My Slaves",
+      "url": "https://mangadex.org/title/d5227574-ed83-47fe-89c1-43444c2f6e75",
+      "thumb": null,
+      "status": "active",
+      "first_seen": "2026-11-28T11:11:30Z",
       "removed_at": null
     }
   }

@@ -1,0 +1,53 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-11-28T11:11:30Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "2e6e3afc-5811-47c3-99f8-27cd3b26c301",
+      "title": "Sem título",
+      "url": "https://mangadex.org/title/2e6e3afc-5811-47c3-99f8-27cd3b26c301"
+    },
+    {
+      "source": "mangadex",
+      "key": "484ce390-f74b-46d1-9840-3b285d2b372e",
+      "title": "Asteroid in Love",
+      "url": "https://mangadex.org/title/484ce390-f74b-46d1-9840-3b285d2b372e"
+    },
+    {
+      "source": "mangadex",
+      "key": "abc2f9a6-b78a-4041-9fbc-7f2218bc734d",
+      "title": "Fujiko's Bizarre Worldly Wisdom -Whitesnake's Miscalculation-",
+      "url": "https://mangadex.org/title/abc2f9a6-b78a-4041-9fbc-7f2218bc734d"
+    },
+    {
+      "source": "mangadex",
+      "key": "d5227574-ed83-47fe-89c1-43444c2f6e75",
+      "title": "Due to Their Appreciation and Expectations, I can't Exploit My Slaves",
+      "url": "https://mangadex.org/title/d5227574-ed83-47fe-89c1-43444c2f6e75"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "04ff2200-7e68-49fe-92e0-d353b3dff2d2",
+      "title": "The Revenge of My Youth: Re Life with an Angelic Girl",
+      "url": "https://mangadex.org/title/04ff2200-7e68-49fe-92e0-d353b3dff2d2",
+      "removed_at": "2026-11-28T11:11:30Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "810e3307-e495-49c2-96da-037a0aade634",
+      "title": "The Demon King Who Flirted With the Female Heroes as a Joke Was Kidnapped and Forced Into a Newlywed Life",
+      "url": "https://mangadex.org/title/810e3307-e495-49c2-96da-037a0aade634",
+      "removed_at": "2026-11-28T11:11:30Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "c6c428b5-b8e4-42f6-8777-8f548f45e79d",
+      "title": "Dungeon Dive: Aim for the Deepest Level",
+      "url": "https://mangadex.org/title/c6c428b5-b8e4-42f6-8777-8f548f45e79d",
+      "removed_at": "2026-11-28T11:11:30Z"
+    }
+  ]
+}
