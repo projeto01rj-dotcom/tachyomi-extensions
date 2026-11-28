@@ -1,12 +1,12 @@
 {
-  "ran_at": "2026-11-27T20:07:05Z",
+  "ran_at": "2026-11-28T02:51:29Z",
   "changed": true,
   "sources": {
     "mangadex": {
       "ok": true,
       "present": 500,
-      "registered": 1809,
-      "added": 4,
+      "registered": 1811,
+      "added": 2,
       "removed": 2
     },
     "saikai": {

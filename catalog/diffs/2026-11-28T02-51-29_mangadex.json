@@ -1,0 +1,34 @@
+{
+  "source": "mangadex",
+  "fetched_at": "2026-11-28T02:51:29Z",
+  "added": [
+    {
+      "source": "mangadex",
+      "key": "3dcbc46f-809a-4f52-aee1-1019941bd264",
+      "title": "Satsuki Koto's Ordeal",
+      "url": "https://mangadex.org/title/3dcbc46f-809a-4f52-aee1-1019941bd264"
+    },
+    {
+      "source": "mangadex",
+      "key": "afc0d4fe-13a4-4afd-9a72-b490d2855287",
+      "title": "Babel 2",
+      "url": "https://mangadex.org/title/afc0d4fe-13a4-4afd-9a72-b490d2855287"
+    }
+  ],
+  "removed": [
+    {
+      "source": "mangadex",
+      "key": "e248881f-2e82-4a49-9e88-f4643b0f4c53",
+      "title": "Requiem of the Rose King: The Queen and the Rose Knight",
+      "url": "https://mangadex.org/title/e248881f-2e82-4a49-9e88-f4643b0f4c53",
+      "removed_at": "2026-11-28T02:51:29Z"
+    },
+    {
+      "source": "mangadex",
+      "key": "d150141a-80b8-4cc1-8086-a2cf816075ec",
+      "title": "A Kat's (GOD AWFUL!!!) Blessing",
+      "url": "https://mangadex.org/title/d150141a-80b8-4cc1-8086-a2cf816075ec",
+      "removed_at": "2026-11-28T02:51:29Z"
+    }
+  ]
+}
